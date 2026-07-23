@@ -1,0 +1,386 @@
+{
+  "id": "1",
+  "name": "Merry Christmas",
+  "status": "launching",
+  "scheduledAt": "2099-01-01T00:00:00.000Z",
+  "launchedAt": "2099-01-01T00:00:00.000Z",
+  "closedAt": "2099-01-02T00:00:00.000Z",
+  "site": {
+    "id": "032d4f90-b33f-4921-b7a8-36e451e110fb",
+    "name": "SpinX Dev",
+    "domain": "spinx-dev.myshopify.com",
+    "config": {
+      "url": "https://spinx-dev.myshopify.com",
+      "logo": {
+        "url": "/assets/images/logo/spinx-wheel-logo.png"
+      },
+      "customDomain": "spinx-dev.myshopify.com",
+      "ianaTimezone": "Asia/Ho_Chi_Minh",
+      "currency": {
+        "code": "USD",
+        "currencies": [
+          "AED",
+          "AUD",
+          "CAD",
+          "CHF",
+          "CZK",
+          "DKK",
+          "EUR",
+          "GBP",
+          "HKD",
+          "ILS",
+          "JPY",
+          "KRW",
+          "MYR",
+          "NZD",
+          "PLN",
+          "SEK",
+          "SGD",
+          "USD",
+          "VND"
+        ],
+        "moneyFormat": "${{amount}} USD"
+      },
+      "localization": {
+        "locales": [
+          "vi",
+          "fr"
+        ],
+        "countryCode": null,
+        "defaultLocale": "en"
+      }
+    }
+  },
+  "settings": {
+    "theme": {
+      "id": "CLS_01",
+      "rewardTypes": {},
+      "wheel": {},
+      "opener": {},
+      "popups": {},
+      "announcement": {}
+    },
+    "triggers": {
+      "openerPopup": {
+        "enabled": true
+      },
+      "spinPopup": {
+        "welcome": {
+          "enabled": true,
+          "delaySeconds": 4,
+          "displayType": "compact"
+        },
+        "exitIntent": {
+          "enabled": true,
+          "desktop": true,
+          "mobile": true,
+          "displayType": "compact"
+        }
+      }
+    },
+    "engagements": {
+      "emailReminder": {
+        "enabled": true,
+        "delayHours": 24
+      },
+      "extraSpinByOrdering": {
+        "enabled": true,
+        "orderAmountRestriction": {
+          "enabled": true,
+          "amount": 100
+        }
+      }
+    },
+    "announcements": {
+      "upcomingEvent": {
+        "enabled": true,
+        "displayHours": 72
+      },
+      "readyToSpin": {
+        "enabled": true
+      },
+      "encourageUsePrize": {
+        "enabled": true
+      },
+      "countDownToLaunch": {
+        "enabled": true,
+        "displayHours": 24
+      },
+      "countDownToClose": {
+        "enabled": true,
+        "displayHours": 24
+      }
+    },
+    "excludeUrls": [],
+    "languages": {
+      "enabled": false,
+      "defaultLanguage": "en"
+    },
+    "translations": {},
+    "emailContent": {
+      "engagements": {
+        "emailReminder": {
+          "subject": "Don't forget your reward from {{siteName}}",
+          "heading": "Your reward is waiting",
+          "greeting": "Hi {{customerName}},",
+          "reminder": "You still have an amazing reward waiting for you at {{siteName}}.",
+          "expiry": "Don't let your {{rewardType}} reward expire unused.",
+          "rewardTitle": "{{rewardType}}",
+          "redeemInstruction": "This reward expires soon. Use it before it's too late.",
+          "ctaInstruction": "Click below to use your reward before it expires",
+          "cta": "Use My Reward Now"
+        },
+        "extraSpinByOrdering": {
+          "subject": "You've received an extra spin from {{siteName}}",
+          "heading": "Your extra spin is ready",
+          "greeting": "Hi {{customerName}},",
+          "intro": "Thanks for shopping with {{siteName}}.",
+          "notice": "We added an extra spin to your reward campaign entry.",
+          "highlight": "Your next spin could unlock a special offer, bonus gift, or surprise from {{siteName}}.",
+          "secondaryHighlight": "Spin again now and see what you win.",
+          "ctaInstruction": "Click the button below to use your extra spin",
+          "cta": "Use My Extra Spin",
+          "outro": "Good luck!",
+          "support": "Questions? Contact us at {{supportEmail}}.",
+          "signature": "Best regards"
+        }
+      },
+      "spinResult": {
+        "base": {
+          "reward": "Reward",
+          "code": "Code",
+          "product": "Product",
+          "minOrder": "Minimum order",
+          "maxAmount": "Max shipping cost covered",
+          "validFrom": "Valid from",
+          "expires": "Expires",
+          "support": "If you have any questions, please contact us at {{supportEmail}}.",
+          "signature": "Best regards",
+          "rewardTypeLabels": {
+            "discount": "Discount",
+            "discountCode": "{{discountValue}} OFF",
+            "freeShipping": "Free Shipping",
+            "freeGift": "Free Gift",
+            "specialReward": "Special Reward"
+          }
+        },
+        "discountCode": {
+          "subject": "You've won a reward from {{siteName}}",
+          "heading": "You won {{rewardValue}}",
+          "greeting": "Hi {{customerName}},",
+          "intro": "Thanks for joining {{siteName}}!",
+          "win": "We're excited to let you know that you've won {{discountValue}} OFF.",
+          "rewardTitle": "{{discountValue}} OFF",
+          "redeemInstruction": "Use this code at checkout to enjoy the discount.",
+          "ctaInstruction": "Click the button below to use your reward",
+          "cta": "Use Reward Now"
+        },
+        "freeShipping": {
+          "subject": "You've won free shipping from {{siteName}}",
+          "heading": "You won free shipping",
+          "greeting": "Hi {{customerName}},",
+          "intro": "Thanks for joining {{siteName}}!",
+          "win": "We're excited to let you know that you've won free shipping.",
+          "rewardTitle": "Free Shipping",
+          "redeemInstruction": "Use this code at checkout to get free shipping on your order.",
+          "ctaInstruction": "Click the button below to use your reward",
+          "cta": "Use Reward Now"
+        },
+        "freeGift": {
+          "subject": "You've won a free gift from {{siteName}}",
+          "heading": "You won a free gift",
+          "greeting": "Hi {{customerName}},",
+          "intro": "Thanks for joining {{siteName}}!",
+          "win": "Use the gift code below to claim your reward.",
+          "rewardTitle": "Free Gift",
+          "redeemInstruction": "Use this code at checkout to receive your free gift.",
+          "ctaInstruction": "Click the button below to claim your gift",
+          "cta": "Claim My Gift"
+        }
+      }
+    }
+  },
+  "rewards": [
+    {
+      "id": "01",
+      "name": "$25 OFF (Min Order $150)",
+      "type": "discount_code",
+      "order": 1,
+      "settings": {
+        "theme": {},
+        "discountCode": {
+          "type": "fixed_amount",
+          "amount": 25,
+          "percentage": null,
+          "minOrderAmount": {
+            "enabled": true,
+            "amount": 150
+          },
+          "startTime": {
+            "isImmediate": true
+          },
+          "endTime": {
+            "expiryType": "specific_days",
+            "days": 1
+          }
+        }
+      }
+    },
+    {
+      "id": "02",
+      "name": "5% OFF",
+      "type": "discount_code",
+      "order": 2,
+      "settings": {
+        "theme": {},
+        "discountCode": {
+          "type": "percentage",
+          "amount": null,
+          "percentage": 5,
+          "minOrderAmount": {
+            "enabled": false,
+            "amount": 0
+          },
+          "startTime": {
+            "isImmediate": true
+          },
+          "endTime": {
+            "expiryType": "specific_days",
+            "days": 3
+          }
+        }
+      }
+    },
+    {
+      "id": "03",
+      "name": "Better Luck Next Time",
+      "type": "none",
+      "order": 3,
+      "settings": {
+        "theme": {}
+      }
+    },
+    {
+      "id": "04",
+      "name": "$5 OFF (Min Order $30)",
+      "type": "discount_code",
+      "order": 4,
+      "settings": {
+        "theme": {},
+        "discountCode": {
+          "type": "fixed_amount",
+          "amount": 5,
+          "percentage": null,
+          "minOrderAmount": {
+            "enabled": true,
+            "amount": 30
+          },
+          "startTime": {
+            "isImmediate": true
+          },
+          "endTime": {
+            "expiryType": "specific_days",
+            "days": 3
+          }
+        }
+      }
+    },
+    {
+      "id": "05",
+      "name": "15% OFF (Min Order $100)",
+      "type": "discount_code",
+      "order": 5,
+      "settings": {
+        "theme": {},
+        "discountCode": {
+          "type": "percentage",
+          "amount": null,
+          "percentage": 15,
+          "minOrderAmount": {
+            "enabled": true,
+            "amount": 100
+          },
+          "startTime": {
+            "isImmediate": true
+          },
+          "endTime": {
+            "expiryType": "specific_days",
+            "days": 1
+          }
+        }
+      }
+    },
+    {
+      "id": "06",
+      "name": "Free Shipping (shipping ≤ $10)",
+      "type": "free_shipping",
+      "order": 6,
+      "settings": {
+        "theme": {},
+        "freeShipping": {
+          "maxAmount": {
+            "enabled": true,
+            "amount": 10
+          },
+          "startTime": {
+            "isImmediate": true
+          },
+          "endTime": {
+            "expiryType": "specific_days",
+            "days": 3
+          }
+        }
+      }
+    },
+    {
+      "id": "07",
+      "name": "$10 OFF (Min Order $80)",
+      "type": "discount_code",
+      "order": 7,
+      "settings": {
+        "theme": {},
+        "discountCode": {
+          "type": "fixed_amount",
+          "amount": 10,
+          "percentage": null,
+          "minOrderAmount": {
+            "enabled": true,
+            "amount": 80
+          },
+          "startTime": {
+            "isImmediate": true
+          },
+          "endTime": {
+            "expiryType": "specific_days",
+            "days": 2
+          }
+        }
+      }
+    },
+    {
+      "id": "08",
+      "name": "10% OFF (Min Order $60)",
+      "type": "discount_code",
+      "order": 8,
+      "settings": {
+        "theme": {},
+        "discountCode": {
+          "type": "percentage",
+          "amount": null,
+          "percentage": 10,
+          "minOrderAmount": {
+            "enabled": true,
+            "amount": 60
+          },
+          "startTime": {
+            "isImmediate": true
+          },
+          "endTime": {
+            "expiryType": "specific_days",
+            "days": 2
+          }
+        }
+      }
+    }
+  ]
+}

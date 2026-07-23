@@ -1,0 +1,103 @@
+{
+  "id": "CLS_29",
+  "wheel": {
+    "border": {
+      "type": "auto_darken",
+      "color": ""
+    },
+    "center": {
+      "displayed": true,
+      "border": {
+        "displayed": false,
+        "color": ""
+      },
+      "color": "#000000"
+    },
+    "pointer": {
+      "color": "#FE3563",
+      "border": {
+        "displayed": false,
+        "color": ""
+      }
+    },
+    "slices": {
+      "border": {
+        "displayed": false,
+        "color": ""
+      },
+      "items": [
+        {
+          "color": "#2C2C2C",
+          "backgroundColor": "#39FF14"
+        },
+        {
+          "color": "#FFFFFF",
+          "backgroundColor": "#1B191A"
+        },
+        {
+          "color": "#2C2C2C",
+          "backgroundColor": "#00FFFF"
+        },
+        {
+          "color": "#FFFFFF",
+          "backgroundColor": "#9D00FF"
+        },
+        {
+          "color": "#2C2C2C",
+          "backgroundColor": "#FFFFFF"
+        },
+        {
+          "color": "#FFFFFF",
+          "backgroundColor": "#FF10F0"
+        }
+      ]
+    }
+  },
+  "opener": {
+    "icon": {
+      "value": "CLS_04"
+    },
+    "label": {
+      "color": "#39FF14"
+    },
+    "backgroundColor": "#2C2C2C"
+  },
+  "popups": {
+    "base": {
+      "backgroundColor": "#1B191A",
+      "title": {
+        "color": "#51F460"
+      },
+      "description": {
+        "color": "#FFFFFF"
+      },
+      "textInput": {
+        "color": "#FFFFFF",
+        "backgroundColor": "rgba(0, 0, 0, 0.5)"
+      },
+      "helper": {
+        "color": "#FFFFFF"
+      },
+      "footer": {
+        "color": "#FFFFFF"
+      },
+      "primaryButton": {
+        "color": "#FFFFFF",
+        "backgroundColor": "#FF10F0"
+      },
+      "secondaryButton": {
+        "color": "#FFFFFF"
+      },
+      "linkButton": {
+        "color": "#FFFFFF"
+      }
+    },
+    "spinPopup": {
+      "backgroundImage": {}
+    }
+  },
+  "announcement": {
+    "color": "#39FF14",
+    "backgroundColor": "#0A0A0A"
+  }
+}

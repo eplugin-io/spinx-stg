@@ -1,0 +1,86 @@
+{
+  "id": "CLS_08",
+  "wheel": {
+    "border": {
+      "type": "line",
+      "color": "#FFD700"
+    },
+    "center": {
+      "displayed": true,
+      "border": {
+        "displayed": true,
+        "color": "#FFD700"
+      },
+      "color": "#FFD700"
+    },
+    "pointer": {
+      "color": "#FFD700",
+      "border": {
+        "displayed": true,
+        "color": "#CCCCCC"
+      }
+    },
+    "slices": {
+      "border": {
+        "displayed": true,
+        "color": "#FFD700"
+      },
+      "items": [
+        {
+          "color": "#FFFFFF",
+          "backgroundColor": "#228B22"
+        },
+        {
+          "color": "#FFFFFF",
+          "backgroundColor": "#0B3D0B"
+        }
+      ]
+    }
+  },
+  "opener": {
+    "icon": {
+      "value": "CLS_04"
+    },
+    "label": {
+      "color": "#228B22"
+    },
+    "backgroundColor": "#1C1C1C"
+  },
+  "popups": {
+    "base": {
+      "backgroundColor": "#1C1C1C",
+      "title": {
+        "color": "#228B22"
+      },
+      "description": {
+        "color": "#FFFFFF"
+      },
+      "textInput": {
+        "color": "#FFFFFF"
+      },
+      "helper": {
+        "color": "#FFFFFF"
+      },
+      "footer": {
+        "color": "#FFFFFF"
+      },
+      "primaryButton": {
+        "color": "#FFFFFF",
+        "backgroundColor": "#228B22"
+      },
+      "secondaryButton": {
+        "color": "#FFFFFF"
+      },
+      "linkButton": {
+        "color": "#FFFFFF"
+      }
+    },
+    "spinPopup": {
+      "backgroundImage": {}
+    }
+  },
+  "announcement": {
+    "color": "#FFFFFF",
+    "backgroundColor": "#1C1C1C"
+  }
+}

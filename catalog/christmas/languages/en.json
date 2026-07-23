@@ -1,0 +1,141 @@
+{
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "❄️ No Luck This Time!",
+        "description": "Thanks for spinning! More Christmas magic may be waiting on your next try."
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "🎁 Christmas Surprise! You Won {{REWARD}}!",
+        "description": "Use the code below at checkout to enjoy your festive reward."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "🎁 Christmas Surprise! You Won {{REWARD}}!",
+        "description": "Use the code below at checkout to enjoy free holiday shipping."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "🎁 Christmas Surprise! You Won {{REWARD}}!",
+        "description": "Use the code below at checkout to claim your festive gift."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "SPIN NOW 🎄"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "🎄 Unwrap Your Christmas Surprise!",
+          "description": "Enter your details and spin the wheel to unwrap your festive Christmas reward.",
+          "descriptionForExistingAccount": "{{NAME}}, it’s time for a Christmas surprise — spin to reveal your festive reward!",
+          "agreement": "I agree to receive holiday offers and updates.",
+          "spinButton": "Reveal My Gift",
+          "dismissButton": "Continue shopping",
+          "footerText": "The holiday magic begins with a spin ✨"
+        },
+        "redemptionForm": {
+          "title": "Holiday Cheer Unlocked!"
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "🎅 Christmas magic is coming... The wheel unlocks at {{TIME}}!",
+      "readyToSpin": "🎁 Your festive surprise awaits! Tap {{OPENER}} to spin the Christmas wheel!",
+      "countDownToLaunch": "⏳ Almost time! The Christmas wheel unlocks in {{TIME}} — get ready!",
+      "countDownToClose": "🎄 Last chance! Only {{TIME}} left to spin and claim your holiday reward!"
+    }
+  },
+  "email": {
+    "engagements": {
+      "emailReminder": {
+        "subject": "Don't forget your reward from {{siteName}}",
+        "heading": "Your reward is waiting",
+        "greeting": "Hi {{customerName}},",
+        "reminder": "You still have an amazing reward waiting for you at {{siteName}}.",
+        "expiry": "Don't let your {{rewardType}} reward expire unused.",
+        "rewardTitle": "{{rewardType}}",
+        "redeemInstruction": "This reward expires soon. Use it before it's too late.",
+        "ctaInstruction": "Click below to use your reward before it expires",
+        "cta": "Use My Reward Now"
+      },
+      "extraSpinByOrdering": {
+        "subject": "You've received an extra spin from {{siteName}}",
+        "heading": "Your extra spin is ready",
+        "greeting": "Hi {{customerName}},",
+        "intro": "Thanks for shopping with {{siteName}}.",
+        "notice": "We added an extra spin to your reward campaign entry.",
+        "highlight": "Your next spin could unlock a special offer, bonus gift, or surprise from {{siteName}}.",
+        "secondaryHighlight": "Spin again now and see what you win.",
+        "ctaInstruction": "Click the button below to use your extra spin",
+        "cta": "Use My Extra Spin",
+        "outro": "Good luck!",
+        "support": "Questions? Contact us at {{supportEmail}}.",
+        "signature": "Best regards"
+      }
+    },
+    "spinResult": {
+      "base": {
+        "reward": "Reward",
+        "code": "Code",
+        "product": "Product",
+        "minOrder": "Minimum order",
+        "maxAmount": "Max shipping cost covered",
+        "validFrom": "Valid from",
+        "expires": "Expires",
+        "support": "If you have any questions, please contact us at {{supportEmail}}.",
+        "signature": "Best regards",
+        "rewardTypeLabels": {
+          "discount": "Discount",
+          "discountCode": "{{discountValue}} OFF",
+          "freeShipping": "Free Shipping",
+          "freeGift": "Free Gift",
+          "specialReward": "Special Reward"
+        }
+      },
+      "discountCode": {
+        "subject": "You've won a reward from {{siteName}}",
+        "heading": "You won {{rewardValue}}",
+        "greeting": "Hi {{customerName}},",
+        "intro": "Thanks for joining {{siteName}}!",
+        "win": "We're excited to let you know that you've won {{discountValue}} OFF.",
+        "rewardTitle": "{{discountValue}} OFF",
+        "redeemInstruction": "Use this code at checkout to enjoy the discount.",
+        "ctaInstruction": "Click the button below to use your reward",
+        "cta": "Use Reward Now"
+      },
+      "freeShipping": {
+        "subject": "You've won free shipping from {{siteName}}",
+        "heading": "You won free shipping",
+        "greeting": "Hi {{customerName}},",
+        "intro": "Thanks for joining {{siteName}}!",
+        "win": "We're excited to let you know that you've won free shipping.",
+        "rewardTitle": "Free Shipping",
+        "redeemInstruction": "Use this code at checkout to get free shipping on your order.",
+        "ctaInstruction": "Click the button below to use your reward",
+        "cta": "Use Reward Now"
+      },
+      "freeGift": {
+        "subject": "You've won a free gift from {{siteName}}",
+        "heading": "You won a free gift",
+        "greeting": "Hi {{customerName}},",
+        "intro": "Thanks for joining {{siteName}}!",
+        "win": "Use the gift code below to claim your reward.",
+        "rewardTitle": "Free Gift",
+        "redeemInstruction": "Use this code at checkout to receive your free gift.",
+        "ctaInstruction": "Click the button below to claim your gift",
+        "cta": "Claim My Gift"
+      }
+    }
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "id": "christmas",
+  "name": "Christmas",
+  "themes": [
+    {
+      "id": "CHR_01",
+      "thumbnail": {
+        "main": "/catalog/christmas/themes/CHR_01/thumbnail/main.webp",
+        "hover": "/catalog/christmas/themes/CHR_01/thumbnail/hover.webp"
+      },
+      "demo": "/?theme=CHR_01",
+      "tags": ["christmas", "joyful", "warm", "red", "green"]
+    },
+    {
+      "id": "CHR_02",
+      "thumbnail": {
+        "main": "/catalog/christmas/themes/CHR_02/thumbnail/main.webp",
+        "hover": "/catalog/christmas/themes/CHR_02/thumbnail/hover.webp"
+      },
+      "demo": "/?theme=CHR_02",
+      "tags": ["christmas", "luxury", "cold", "red", "green"]
+    }
+  ],
+  "openers": [
+    {
+      "id": "CLS_01",
+      "colorPresets": [{
+        "content": "#FFD700",
+        "background": "#FF6600"
+      }]
+    },
+    {
+      "id": "CLS_02",
+      "colorPresets": [{
+        "content": "#FFD700",
+        "background": "#FF6600"
+      }]
+    },
+    {
+      "id": "CLS_03",
+      "colorPresets": [{
+        "content": "#FFD700",
+        "background": "#000000"
+      }]
+    },
+    {
+      "id": "CLS_04",
+      "colorPresets": [{
+        "content": "#FFD700",
+        "background": "#2C003E"
+      }]
+    },
+    {
+      "id": "CLS_05",
+      "colorPresets": [{
+        "content": "#39FF14",
+        "background": "#4B0082"
+      }]
+    },
+    {
+      "id": "CLS_06",
+      "colorPresets": [{
+        "content": "#FFD700",
+        "background": "#2C003E"
+      }]
+    },
+    {
+      "id": "CLS_07",
+      "colorPresets": [{
+        "content": "#FFD700",
+        "background": "#2C003E"
+      }]
+    },
+    {
+      "id": "CLS_08",
+      "colorPresets": [{
+        "content": "#FF7518",
+        "background": "#000000"
+      }]
+    },
+    {
+      "id": "CLS_09",
+      "colorPresets": [{
+        "content": "#FFD700",
+        "background": "#000000"
+      }]
+    },
+    {
+      "id": "CLS_10",
+      "colorPresets": [{
+        "content": "#FFD700",
+        "background": "#000000"
+      }]
+    },
+    {
+      "id": "CLS_11",
+      "colorPresets": [{
+        "content": "#FFD700",
+        "background": "#000000"
+      }]
+    },
+    {
+      "id": "CLS_12",
+      "colorPresets": [{
+        "content": "#FFD700",
+        "background": "#000000"
+      }]
+    }
+  ],
+  "sounds": [
+    {
+      "id": "CHR_BG_01",
+      "name": "CHR_BG_01"
+    },
+    {
+      "id": "CHR_BG_02",
+      "name": "CHR_BG_02"
+    },
+    {
+      "id": "CHR_BG_03",
+      "name": "CHR_BG_03"
+    },
+    {
+      "id": "CHR_BG_04",
+      "name": "CHR_BG_04"
+    },
+    {
+      "id": "CHR_PY_01",
+      "name": "CHR_PY_01"
+    },
+    {
+      "id": "CHR_PY_02",
+      "name": "CHR_PY_02"
+    },
+    {
+      "id": "CHR_WN_01",
+      "name": "CHR_WN_01"
+    },
+    {
+      "id": "CHR_WN_02",
+      "name": "CHR_WN_02"
+    },
+    {
+      "id": "CHR_WN_03",
+      "name": "CHR_WN_03"
+    },
+    {
+      "id": "CHR_WN_04",
+      "name": "CHR_WN_04"
+    },
+    {
+      "id": "CHR_LS_01",
+      "name": "CHR_LS_01"
+    },
+    {
+      "id": "CHR_LS_02",
+      "name": "CHR_LS_02"
+    },
+    {
+      "id": "CLS_BG_01",
+      "name": "CLS_BG_01"
+    },
+    {
+      "id": "CLS_BG_02",
+      "name": "CLS_BG_02"
+    },
+    {
+      "id": "CLS_PY_01",
+      "name": "CLS_PY_01"
+    },
+    {
+      "id": "CLS_PY_02",
+      "name": "CLS_PY_02"
+    },
+    {
+      "id": "CLS_PY_03",
+      "name": "CLS_PY_03"
+    },
+    {
+      "id": "CLS_WN_01",
+      "name": "CLS_WN_01"
+    },
+    {
+      "id": "CLS_WN_02",
+      "name": "CLS_WN_02"
+    },
+    {
+      "id": "CLS_WN_03",
+      "name": "CLS_WN_03"
+    },
+    {
+      "id": "CLS_WN_04",
+      "name": "CLS_WN_04"
+    },
+    {
+      "id": "CLS_WN_05",
+      "name": "CLS_WN_05"
+    },
+    {
+      "id": "CLS_LS_01",
+      "name": "CLS_LS_01"
+    },
+    {
+      "id": "CLS_LS_02",
+      "name": "CLS_LS_02"
+    },
+    {
+      "id": "CLS_LS_03",
+      "name": "CLS_LS_03"
+    },
+    {
+      "id": "CLS_LS_04",
+      "name": "CLS_LS_04"
+    }
+  ]
+}

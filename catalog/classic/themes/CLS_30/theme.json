@@ -1,0 +1,111 @@
+{
+  "id": "CLS_30",
+  "wheel": {
+    "border": {
+      "type": "line",
+      "color": "#FFEA79"
+    },
+    "center": {
+      "displayed": true,
+      "border": {
+        "displayed": true,
+        "color": "#FDE768"
+      },
+      "color": "#CF3522"
+    },
+    "pointer": {
+      "color": "#bc5413",
+      "border": {
+        "displayed": false,
+        "color": ""
+      }
+    },
+    "slices": {
+      "border": {
+        "displayed": false,
+        "color": ""
+      },
+      "items": [
+        {
+          "color": "#FFFFFF",
+          "backgroundColor": "#1565BC"
+        },
+        {
+          "color": "#2C2C2C",
+          "backgroundColor": "#FECA00"
+        },
+        {
+          "color": "#FFFFFF",
+          "backgroundColor": "#189AC9"
+        },
+        {
+          "color": "#2C2C2C",
+          "backgroundColor": "#FAF7E8"
+        },
+        {
+          "color": "#FFFFFF",
+          "backgroundColor": "#EF3422"
+        },
+        {
+          "color": "#2C2C2C",
+          "backgroundColor": "#FCCA30"
+        },
+        {
+          "color": "#FFFFFF",
+          "backgroundColor": "#2498E6"
+        },
+        {
+          "color": "#2C2C2C",
+          "backgroundColor": "#F86B16"
+        }
+      ]
+    }
+  },
+  "opener": {
+    "icon": {
+      "value": "CLS_09"
+    },
+    "label": {
+      "color": "#FFFFFF"
+    },
+    "backgroundColor": "#FF4500"
+  },
+  "popups": {
+    "base": {
+      "backgroundColor": "#ffc449",
+      "title": {
+        "color": "#6D1A0E"
+      },
+      "description": {
+        "color": "#000000"
+      },
+      "textInput": {
+        "color": "#000000",
+        "backgroundColor": "rgba(255, 255, 255, 0.3)"
+      },
+      "helper": {
+        "color": "#000000"
+      },
+      "footer": {
+        "color": "#000000"
+      },
+      "primaryButton": {
+        "color": "#FFFFFF",
+        "backgroundColor": "#C5291E"
+      },
+      "secondaryButton": {
+        "color": "#000000"
+      },
+      "linkButton": {
+        "color": "#000000"
+      }
+    },
+    "spinPopup": {
+      "backgroundImage": {}
+    }
+  },
+  "announcement": {
+    "color": "#8B0000",
+    "backgroundColor": "#FFD700"
+  }
+}

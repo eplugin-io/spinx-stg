@@ -1,0 +1,133 @@
+{
+  "wheel": {
+    "border": {
+      "type": "line",
+      "color": "#FFF7E1"
+    },
+    "center": {
+      "displayed": true,
+      "border": {
+        "displayed": true,
+        "color": "#FFF7E1"
+      },
+      "color": "#F6C667"
+    },
+    "pointer": {
+      "color": "#1E1A14",
+      "border": {
+        "displayed": true,
+        "color": "#FFF7E1"
+      }
+    },
+    "slices": {
+      "border": {
+        "displayed": true,
+        "color": "#FFFFFF"
+      },
+      "items": [
+        {
+          "color": "#1E1A14",
+          "backgroundColor": "#FFD36A"
+        },
+        {
+          "color": "#FFFFFF",
+          "backgroundColor": "#1E1A14"
+        }
+      ]
+    }
+  },
+  "opener": {
+    "fontFamily": "Playfair Display",
+    "icon": {
+      "value": "CLS_09"
+    },
+    "label": {
+      "color": "#FFD36A"
+    },
+    "backgroundColor": "#1E1A14"
+  },
+  "popups": {
+    "base": {
+      "fontFamily": {
+        "heading": "Playfair Display"
+      },
+      "backgroundColor": "#1E1A14",
+      "title": {
+        "color": "#FFD36A"
+      },
+      "description": {
+        "color": "#FFF7E1"
+      },
+      "textInput": {
+        "color": "#FFF7E1",
+        "backgroundColor": "rgba(0,0,0,0.45)",
+        "placeholderColor": "rgba(255,255,255,0.6)"
+      },
+      "helper": {
+        "color": "#FFF7E1"
+      },
+      "footer": {
+        "color": "#FFF7E1"
+      },
+      "primaryButton": {
+        "color": "#1E1A14",
+        "backgroundColor": "#FFD36A"
+      },
+      "secondaryButton": {
+        "color": "#FFF7E1"
+      },
+      "linkButton": {
+        "color": "#FFF7E1"
+      }
+    },
+    "spinPopup": {
+      "displayType": "full_screen",
+      "showLogo": false,
+      "backgroundMusic": {
+        "enabled": true,
+        "value": "NYR_BG_01"
+      },
+      "playingMusic": {
+        "enabled": true,
+        "value": "CLS_PY_01"
+      },
+      "forms": {
+        "base": {
+          "contentPanel": {
+            "displayed": true,
+            "backgroundColor": "rgba(20,15,10,0.7)",
+            "blur": 12
+          }
+        },
+        "resultForm": {}
+      },
+      "backgroundImage": {
+        "main": {
+          "key": "",
+          "url": "/catalog/new_year/themes/NYR_01/background/main.webp"
+        },
+        "mobile": {
+          "key": "",
+          "url": "/catalog/new_year/themes/NYR_01/background/main-mobile.webp"
+        }
+      }
+    }
+  },
+  "announcement": {
+    "fontFamily": "Playfair Display",
+    "weight": 700,
+    "color": "#FFD36A",
+    "backgroundColor": "#1E1A14"
+  },
+  "rewardSounds": {
+    "win": {
+      "enabled": true,
+      "value": "CLS_WN_01"
+    },
+    "lose": {
+      "enabled": true,
+      "value": "CLS_LS_01"
+    }
+  },
+  "id": "NYR_01"
+}

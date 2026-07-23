@@ -1,0 +1,180 @@
+{
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "Rất tiếc! Lần sau nhé",
+        "description": "Đừng bỏ cuộc - mỗi lượt quay đều có cơ hội trúng phần thưởng hấp dẫn!"
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "Chúc mừng! Bạn đã trúng {{REWARD}}!",
+        "description": "Sử dụng mã bên dưới khi thanh toán để nhận ưu đãi."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "Chúc mừng! Bạn đã trúng {{REWARD}}!",
+        "description": "Sử dụng mã bên dưới khi thanh toán để được miễn phí vận chuyển."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "Bất ngờ! Bạn đã trúng {{REWARD}}!",
+        "description": "Sử dụng mã bên dưới khi thanh toán để nhận quà tặng miễn phí."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "QUAY NGAY"
+    },
+    "readyLabel": {
+      "text": "PHẦN THƯỞNG SẴN SÀNG"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "Quay để trúng phần thưởng hấp dẫn!",
+          "description": "Điền thông tin để nhận cơ hội quay thưởng.",
+          "descriptionForExistingAccount": "Chào mừng, {{NAME}}! Hãy sẵn sàng quay vòng quay và mở khóa những phần thưởng hấp dẫn đang chờ bạn.",
+          "fields": {
+            "name": {
+              "placeholder": "Họ và tên"
+            },
+            "email": {
+              "placeholder": "Email"
+            }
+          },
+          "agreement": "Tôi đồng ý nhận email marketing và ưu đãi.",
+          "spinButton": "QUAY",
+          "dismissButton": "Tiếp tục mua sắm",
+          "footerText": "Niềm vui bắt đầu từ một lượt quay!",
+          "messages": {
+            "maxSpinReached": "Có vẻ như bạn đã sử dụng hết lượt quay!"
+          }
+        },
+        "resultForm": {
+          "redeemButton": "Áp dụng phần thưởng ngay",
+          "dismissButton": "Tiếp tục mua sắm",
+          "messages": {
+            "rewardExpiry": "Sử dụng phần thưởng trong vòng {{EXPIRE}}"
+          }
+        },
+        "redemptionForm": {
+          "title": "Phần thưởng của bạn đã được áp dụng!",
+          "description": "Phần thưởng đang có hiệu lực - bạn có thể thanh toán ngay hoặc tiếp tục mua sắm và sử dụng bất cứ lúc nào.",
+          "checkoutButton": "Thanh toán ngay",
+          "dismissButton": "Tiếp tục mua sắm",
+          "messages": {
+            "noCartItems": "Thêm sản phẩm vào giỏ hàng và áp dụng phần thưởng khi thanh toán."
+          }
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "Sẵn sàng chưa! Vòng quay may mắn sẽ khởi động lúc {{TIME}} với nhiều phần thưởng hấp dẫn!",
+      "readyToSpin": "Sẵn sàng quay chưa? Nhấn {{OPENER}} để trúng thưởng ngay!",
+      "countDownToLaunch": "Đếm ngược bắt đầu! Chỉ còn {{TIME}} nữa là khai mạc!",
+      "countDownToClose": "Nhanh tay! Chỉ còn {{TIME}} - nhấn {{OPENER}} để quay và nhận thưởng!"
+    },
+    "encourage": {
+      "messages": {
+        "discount": "Bạn đã mở khóa ưu đãi giảm {{VALUE}} - sử dụng ngay khi thanh toán!",
+        "discountWithMinOrder": "Giảm {{VALUE}} cho đơn hàng từ {{MIN_ORDER}}.",
+        "freeShip": "Đã mở khóa miễn phí vận chuyển - sử dụng ngay khi thanh toán!",
+        "freeShipWithMinOrder": "Miễn phí vận chuyển cho đơn hàng từ {{MIN_ORDER}}.",
+        "freeShipWithMaxAmount": "Miễn phí vận chuyển lên đến {{MAX_AMOUNT}}.",
+        "freeShipWithMaxAmountAndMinOrder": "Miễn phí vận chuyển lên đến {{MAX_AMOUNT}} cho đơn hàng từ {{MIN_ORDER}}.",
+        "freeGift": "Đã mở khóa quà tặng miễn phí - nhận ngay khi thanh toán!",
+        "redeemCode": "Sử dụng mã {{CODE}} khi thanh toán để nhận ưu đãi."
+      }
+    }
+  },
+  "email": {
+    "engagements": {
+      "emailReminder": {
+        "subject": "Đừng quên phần thưởng của bạn từ {{siteName}}",
+        "heading": "Phần thưởng của bạn đang chờ",
+        "greeting": "Xin chào {{customerName}},",
+        "reminder": "Bạn vẫn còn một phần thưởng tuyệt vời đang chờ tại {{siteName}}.",
+        "expiry": "Đừng để phần thưởng {{rewardType}} hết hạn mà chưa sử dụng.",
+        "rewardTitle": "{{rewardType}}",
+        "redeemInstruction": "Phần thưởng này sắp hết hạn. Hãy sử dụng trước khi quá muộn.",
+        "ctaInstruction": "Nhấn nút bên dưới để sử dụng phần thưởng trước khi hết hạn",
+        "cta": "Sử Dụng Phần Thưởng Ngay"
+      },
+      "extraSpinByOrdering": {
+        "subject": "Bạn vừa nhận thêm một lượt quay từ {{siteName}}",
+        "heading": "Lượt quay thêm của bạn đã sẵn sàng",
+        "greeting": "Xin chào {{customerName}},",
+        "intro": "Cảm ơn bạn đã mua sắm tại {{siteName}}.",
+        "notice": "Chúng tôi đã thêm một lượt quay vào phần tham gia chương trình của bạn.",
+        "highlight": "Lượt quay tiếp theo có thể mở ra ưu đãi đặc biệt, quà tặng thêm hoặc bất ngờ từ {{siteName}}.",
+        "secondaryHighlight": "Quay ngay để xem bạn trúng gì nhé.",
+        "ctaInstruction": "Nhấn nút bên dưới để sử dụng lượt quay thêm",
+        "cta": "Sử Dụng Lượt Quay Thêm",
+        "outro": "Chúc may mắn!",
+        "support": "Có câu hỏi? Liên hệ chúng tôi tại {{supportEmail}}.",
+        "signature": "Trân trọng"
+      }
+    },
+    "spinResult": {
+      "base": {
+        "reward": "Phần thưởng",
+        "code": "Mã",
+        "product": "Sản phẩm",
+        "minOrder": "Đơn hàng tối thiểu",
+        "maxAmount": "Phí vận chuyển tối đa được miễn",
+        "validFrom": "Có hiệu lực từ",
+        "expires": "Hết hạn",
+        "support": "Nếu có bất kỳ câu hỏi nào, vui lòng liên hệ chúng tôi tại {{supportEmail}}.",
+        "signature": "Trân trọng",
+        "rewardTypeLabels": {
+          "discount": "Giảm giá",
+          "discountCode": "Giảm {{discountValue}}",
+          "freeShipping": "Miễn Phí Vận Chuyển",
+          "freeGift": "Quà Tặng Miễn Phí",
+          "specialReward": "Phần Thưởng Đặc Biệt"
+        }
+      },
+      "discountCode": {
+        "subject": "Bạn đã trúng phần thưởng từ {{siteName}}",
+        "heading": "Bạn đã trúng {{rewardValue}}",
+        "greeting": "Xin chào {{customerName}},",
+        "intro": "Cảm ơn bạn đã tham gia cùng {{siteName}}!",
+        "win": "Chúng tôi rất vui thông báo bạn đã trúng giảm {{discountValue}}.",
+        "rewardTitle": "Giảm {{discountValue}}",
+        "redeemInstruction": "Sử dụng mã này khi thanh toán để nhận ưu đãi.",
+        "ctaInstruction": "Nhấn nút bên dưới để sử dụng phần thưởng",
+        "cta": "Sử Dụng Phần Thưởng Ngay"
+      },
+      "freeShipping": {
+        "subject": "Bạn đã trúng miễn phí vận chuyển từ {{siteName}}",
+        "heading": "Bạn đã trúng miễn phí vận chuyển",
+        "greeting": "Xin chào {{customerName}},",
+        "intro": "Cảm ơn bạn đã tham gia cùng {{siteName}}!",
+        "win": "Chúng tôi rất vui thông báo bạn đã trúng miễn phí vận chuyển.",
+        "rewardTitle": "Miễn Phí Vận Chuyển",
+        "redeemInstruction": "Sử dụng mã này khi thanh toán để được miễn phí vận chuyển cho đơn hàng.",
+        "ctaInstruction": "Nhấn nút bên dưới để sử dụng phần thưởng",
+        "cta": "Sử Dụng Phần Thưởng Ngay"
+      },
+      "freeGift": {
+        "subject": "Bạn đã trúng quà tặng miễn phí từ {{siteName}}",
+        "heading": "Bạn đã trúng quà tặng miễn phí",
+        "greeting": "Xin chào {{customerName}},",
+        "intro": "Cảm ơn bạn đã tham gia cùng {{siteName}}!",
+        "win": "Sử dụng mã quà tặng bên dưới để nhận phần thưởng.",
+        "rewardTitle": "Quà Tặng Miễn Phí",
+        "redeemInstruction": "Sử dụng mã này khi thanh toán để nhận quà tặng miễn phí.",
+        "ctaInstruction": "Nhấn nút bên dưới để nhận quà",
+        "cta": "Nhận Quà Ngay"
+      }
+    }
+  }
+}

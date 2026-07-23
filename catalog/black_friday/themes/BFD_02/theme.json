@@ -1,0 +1,108 @@
+{
+  "opener": {
+    "fontFamily": "Oswald",
+    "weight": 700,
+    "icon": {
+      "value": "CLS_09"
+    },
+    "label": {
+      "color": "#FFFFFF"
+    },
+    "backgroundColor": "#E35B41"
+  },
+  "popups": {
+    "base": {
+      "fontFamily": {
+        "heading": "Oswald"
+      },
+      "title": {
+        "size": 36,
+        "color": "#9C1D1D"
+      },
+      "backgroundColor": "#FFD0A2",
+      "description": {
+        "color": "#3C2E1A"
+      },
+      "textInput": {
+        "color": "#3A2E00",
+        "backgroundColor": "#FFF7D099",
+        "placeholderColor": "#AA8A00"
+      },
+      "helper": {
+        "color": "#3C2E1A"
+      },
+      "footer": {
+        "color": "#3C2E1A"
+      },
+      "primaryButton": {
+        "color": "#FFFFFF",
+        "backgroundColor": "#E35B41"
+      },
+      "secondaryButton": {
+        "color": "#3C2E1A"
+      },
+      "linkButton": {
+        "color": "#3C2E1A"
+      }
+    },
+    "spinPopup": {
+      "displayType": "full_screen",
+      "showLogo": false,
+      "forms": {
+        "resultForm": {}
+      },
+      "backgroundImage": {
+        "main": {
+          "key": "",
+          "url": "/catalog/black_friday/themes/BFD_02/background/main.webp"
+        },
+        "mobile": {
+          "key": "",
+          "url": "/catalog/black_friday/themes/BFD_02/background/main-mobile.webp"
+        }
+      }
+    }
+  },
+  "id": "BFD_02",
+  "wheel": {
+    "border": {
+      "type": "line",
+      "color": "#FFB862"
+    },
+    "center": {
+      "displayed": true,
+      "border": {
+        "displayed": true,
+        "color": "#FFDFA6"
+      },
+      "color": "#FFF4D4"
+    },
+    "pointer": {
+      "color": "#FFE9B5",
+      "border": {
+        "displayed": true,
+        "color": "#F3A84F"
+      }
+    },
+    "slices": {
+      "border": {
+        "displayed": true,
+        "color": "#E8893D"
+      },
+      "items": [
+        {
+          "color": "#3C2E1A",
+          "backgroundColor": "#FFF1C2"
+        },
+        {
+          "color": "#FFFFFF",
+          "backgroundColor": "#E35B41"
+        }
+      ]
+    }
+  },
+  "announcement": {
+    "color": "#FFF4D4",
+    "backgroundColor": "#E35B41"
+  }
+}

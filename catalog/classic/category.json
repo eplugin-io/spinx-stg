@@ -1,0 +1,429 @@
+{
+  "id": "classic",
+  "name": "Classic",
+  "themes": [
+    {
+      "id": "CLS_01",
+      "thumbnail": {
+        "main": "/catalog/classic/themes/CLS_01/thumbnail/main.webp",
+        "hover": "/catalog/classic/themes/CLS_01/thumbnail/hover.webp"
+      },
+      "demo": "/?theme=CLS_01",
+      "tags": ["classic", "fashion & apparel"]
+    },
+    {
+      "id": "CLS_02",
+      "thumbnail": {
+        "main": "/catalog/classic/themes/CLS_02/thumbnail/main.webp",
+        "hover": "/catalog/classic/themes/CLS_02/thumbnail/hover.webp"
+      },
+      "demo": "/?theme=CLS_02",
+      "tags": ["classic", "fashion & apparel"]
+    },
+    {
+      "id": "CLS_03",
+      "thumbnail": {
+        "main": "/catalog/classic/themes/CLS_03/thumbnail/main.webp",
+        "hover": "/catalog/classic/themes/CLS_03/thumbnail/hover.webp"
+      },
+      "demo": "/?theme=CLS_03",
+      "tags": ["classic", "fashion & apparel"]
+    },
+    {
+      "id": "CLS_04",
+      "thumbnail": {
+        "main": "/catalog/classic/themes/CLS_04/thumbnail/main.webp",
+        "hover": "/catalog/classic/themes/CLS_04/thumbnail/hover.webp"
+      },
+      "demo": "/?theme=CLS_04",
+      "tags": ["classic", "jewelry & accessories"]
+    },
+    {
+      "id": "CLS_05",
+      "thumbnail": {
+        "main": "/catalog/classic/themes/CLS_05/thumbnail/main.webp",
+        "hover": "/catalog/classic/themes/CLS_05/thumbnail/hover.webp"
+      },
+      "demo": "/?theme=CLS_05",
+      "tags": ["classic", "fashion & apparel"]
+    },
+    {
+      "id": "CLS_06",
+      "thumbnail": {
+        "main": "/catalog/classic/themes/CLS_06/thumbnail/main.webp",
+        "hover": "/catalog/classic/themes/CLS_06/thumbnail/hover.webp"
+      },
+      "demo": "/?theme=CLS_06",
+      "tags": ["classic", "fashion & apparel"]
+    },
+    {
+      "id": "CLS_07",
+      "thumbnail": {
+        "main": "/catalog/classic/themes/CLS_07/thumbnail/main.webp",
+        "hover": "/catalog/classic/themes/CLS_07/thumbnail/hover.webp"
+      },
+      "demo": "/?theme=CLS_07",
+      "tags": ["classic", "fashion & apparel"]
+    },
+    {
+      "id": "CLS_08",
+      "thumbnail": {
+        "main": "/catalog/classic/themes/CLS_08/thumbnail/main.webp",
+        "hover": "/catalog/classic/themes/CLS_08/thumbnail/hover.webp"
+      },
+      "demo": "/?theme=CLS_08",
+      "tags": ["classic", "fashion & apparel"]
+    },
+    {
+      "id": "CLS_09",
+      "thumbnail": {
+        "main": "/catalog/classic/themes/CLS_09/thumbnail/main.webp",
+        "hover": "/catalog/classic/themes/CLS_09/thumbnail/hover.webp"
+      },
+      "demo": "/?theme=CLS_09",
+      "tags": ["classic", "fashion & apparel"]
+    },
+    {
+      "id": "CLS_10",
+      "thumbnail": {
+        "main": "/catalog/classic/themes/CLS_10/thumbnail/main.webp",
+        "hover": "/catalog/classic/themes/CLS_10/thumbnail/hover.webp"
+      },
+      "demo": "/?theme=CLS_10",
+      "tags": ["classic", "fashion & apparel"]
+    },
+    {
+      "id": "CLS_11",
+      "thumbnail": {
+        "main": "/catalog/classic/themes/CLS_11/thumbnail/main.webp",
+        "hover": "/catalog/classic/themes/CLS_11/thumbnail/hover.webp"
+      },
+      "demo": "/?theme=CLS_11",
+      "tags": ["classic", "food & beverage"]
+    },
+    {
+      "id": "CLS_12",
+      "thumbnail": {
+        "main": "/catalog/classic/themes/CLS_12/thumbnail/main.webp",
+        "hover": "/catalog/classic/themes/CLS_12/thumbnail/hover.webp"
+      },
+      "demo": "/?theme=CLS_12",
+      "tags": ["classic", "food & beverage"]
+    },
+    {
+      "id": "CLS_13",
+      "thumbnail": {
+        "main": "/catalog/classic/themes/CLS_13/thumbnail/main.webp",
+        "hover": "/catalog/classic/themes/CLS_13/thumbnail/hover.webp"
+      },
+      "demo": "/?theme=CLS_13",
+      "tags": ["classic", "food & beverage"]
+    },
+    {
+      "id": "CLS_14",
+      "thumbnail": {
+        "main": "/catalog/classic/themes/CLS_14/thumbnail/main.webp",
+        "hover": "/catalog/classic/themes/CLS_14/thumbnail/hover.webp"
+      },
+      "demo": "/?theme=CLS_14",
+      "tags": ["classic", "food & beverage"]
+    },
+    {
+      "id": "CLS_15",
+      "thumbnail": {
+        "main": "/catalog/classic/themes/CLS_15/thumbnail/main.webp",
+        "hover": "/catalog/classic/themes/CLS_15/thumbnail/hover.webp"
+      },
+      "demo": "/?theme=CLS_15",
+      "tags": ["classic", "food & beverage"]
+    },
+    {
+      "id": "CLS_16",
+      "thumbnail": {
+        "main": "/catalog/classic/themes/CLS_16/thumbnail/main.webp",
+        "hover": "/catalog/classic/themes/CLS_16/thumbnail/hover.webp"
+      },
+      "demo": "/?theme=CLS_16",
+      "tags": ["classic", "food & beverage"]
+    },
+    {
+      "id": "CLS_17",
+      "thumbnail": {
+        "main": "/catalog/classic/themes/CLS_17/thumbnail/main.webp",
+        "hover": "/catalog/classic/themes/CLS_17/thumbnail/hover.webp"
+      },
+      "demo": "/?theme=CLS_17",
+      "tags": ["classic", "food & beverage"]
+    },
+    {
+      "id": "CLS_18",
+      "thumbnail": {
+        "main": "/catalog/classic/themes/CLS_18/thumbnail/main.webp",
+        "hover": "/catalog/classic/themes/CLS_18/thumbnail/hover.webp"
+      },
+      "demo": "/?theme=CLS_18",
+      "tags": ["classic", "food & beverage"]
+    },
+    {
+      "id": "CLS_19",
+      "thumbnail": {
+        "main": "/catalog/classic/themes/CLS_19/thumbnail/main.webp",
+        "hover": "/catalog/classic/themes/CLS_19/thumbnail/hover.webp"
+      },
+      "demo": "/?theme=CLS_19",
+      "tags": ["classic", "food & beverage"]
+    },
+    {
+      "id": "CLS_20",
+      "thumbnail": {
+        "main": "/catalog/classic/themes/CLS_20/thumbnail/main.webp",
+        "hover": "/catalog/classic/themes/CLS_20/thumbnail/hover.webp"
+      },
+      "demo": "/?theme=CLS_20",
+      "tags": ["classic", "fashion & apparel"]
+    },
+    {
+      "id": "CLS_21",
+      "thumbnail": {
+        "main": "/catalog/classic/themes/CLS_21/thumbnail/main.webp",
+        "hover": "/catalog/classic/themes/CLS_21/thumbnail/hover.webp"
+      },
+      "demo": "/?theme=CLS_21",
+      "tags": ["classic", "jewelry & accessories"]
+    },
+    {
+      "id": "CLS_22",
+      "thumbnail": {
+        "main": "/catalog/classic/themes/CLS_22/thumbnail/main.webp",
+        "hover": "/catalog/classic/themes/CLS_22/thumbnail/hover.webp"
+      },
+      "demo": "/?theme=CLS_22",
+      "tags": ["classic", "jewelry & accessories"]
+    },
+    {
+      "id": "CLS_23",
+      "thumbnail": {
+        "main": "/catalog/classic/themes/CLS_23/thumbnail/main.webp",
+        "hover": "/catalog/classic/themes/CLS_23/thumbnail/hover.webp"
+      },
+      "demo": "/?theme=CLS_23",
+      "tags": ["classic", "jewelry & accessories"]
+    },
+    {
+      "id": "CLS_24",
+      "thumbnail": {
+        "main": "/catalog/classic/themes/CLS_24/thumbnail/main.webp",
+        "hover": "/catalog/classic/themes/CLS_24/thumbnail/hover.webp"
+      },
+      "demo": "/?theme=CLS_24",
+      "tags": ["classic", "jewelry & accessories"]
+    },
+    {
+      "id": "CLS_25",
+      "thumbnail": {
+        "main": "/catalog/classic/themes/CLS_25/thumbnail/main.webp",
+        "hover": "/catalog/classic/themes/CLS_25/thumbnail/hover.webp"
+      },
+      "demo": "/?theme=CLS_25",
+      "tags": ["classic", "jewelry & accessories"]
+    },
+    {
+      "id": "CLS_26",
+      "thumbnail": {
+        "main": "/catalog/classic/themes/CLS_26/thumbnail/main.webp",
+        "hover": "/catalog/classic/themes/CLS_26/thumbnail/hover.webp"
+      },
+      "demo": "/?theme=CLS_26",
+      "tags": ["classic", "jewelry & accessories"]
+    },
+    {
+      "id": "CLS_27",
+      "thumbnail": {
+        "main": "/catalog/classic/themes/CLS_27/thumbnail/main.webp",
+        "hover": "/catalog/classic/themes/CLS_27/thumbnail/hover.webp"
+      },
+      "demo": "/?theme=CLS_27",
+      "tags": ["classic", "baby, kids & toys"]
+    },
+    {
+      "id": "CLS_28",
+      "thumbnail": {
+        "main": "/catalog/classic/themes/CLS_28/thumbnail/main.webp",
+        "hover": "/catalog/classic/themes/CLS_28/thumbnail/hover.webp"
+      },
+      "demo": "/?theme=CLS_28",
+      "tags": ["classic", "food & beverage"]
+    },
+    {
+      "id": "CLS_29",
+      "thumbnail": {
+        "main": "/catalog/classic/themes/CLS_29/thumbnail/main.webp",
+        "hover": "/catalog/classic/themes/CLS_29/thumbnail/hover.webp"
+      },
+      "demo": "/?theme=CLS_29",
+      "tags": ["classic", "food & beverage"]
+    },
+    {
+      "id": "CLS_30",
+      "thumbnail": {
+        "main": "/catalog/classic/themes/CLS_30/thumbnail/main.webp",
+        "hover": "/catalog/classic/themes/CLS_30/thumbnail/hover.webp"
+      },
+      "demo": "/?theme=CLS_30",
+      "tags": ["classic", "specialty / niche stores"]
+    },
+    {
+      "id": "CLS_31",
+      "thumbnail": {
+        "main": "/catalog/classic/themes/CLS_31/thumbnail/main.webp",
+        "hover": "/catalog/classic/themes/CLS_31/thumbnail/hover.webp"
+      },
+      "demo": "/?theme=CLS_31",
+      "tags": ["classic", "specialty / niche stores"]
+    }
+  ],
+  "openers": [
+    {
+      "id": "CLS_01",
+      "colorPresets": [{
+        "content": "#FFD700",
+        "background": "#FF6600"
+      }]
+    },
+    {
+      "id": "CLS_02",
+      "colorPresets": [{
+        "content": "#FFD700",
+        "background": "#FF6600"
+      }]
+    },
+    {
+      "id": "CLS_03",
+      "colorPresets": [{
+        "content": "#FFD700",
+        "background": "#000000"
+      }]
+    },
+    {
+      "id": "CLS_04",
+      "colorPresets": [{
+        "content": "#FFD700",
+        "background": "#2C003E"
+      }]
+    },
+    {
+      "id": "CLS_05",
+      "colorPresets": [{
+        "content": "#39FF14",
+        "background": "#4B0082"
+      }]
+    },
+    {
+      "id": "CLS_06",
+      "colorPresets": [{
+        "content": "#FFD700",
+        "background": "#2C003E"
+      }]
+    },
+    {
+      "id": "CLS_07",
+      "colorPresets": [{
+        "content": "#FFD700",
+        "background": "#2C003E"
+      }]
+    },
+    {
+      "id": "CLS_08",
+      "colorPresets": [{
+        "content": "#FF7518",
+        "background": "#000000"
+      }]
+    },
+    {
+      "id": "CLS_09",
+      "colorPresets": [{
+        "content": "#FFD700",
+        "background": "#000000"
+      }]
+    },
+    {
+      "id": "CLS_10",
+      "colorPresets": [{
+        "content": "#FFD700",
+        "background": "#000000"
+      }]
+    },
+    {
+      "id": "CLS_11",
+      "colorPresets": [{
+        "content": "#FFD700",
+        "background": "#000000"
+      }]
+    },
+    {
+      "id": "CLS_12",
+      "colorPresets": [{
+        "content": "#FFD700",
+        "background": "#000000"
+      }]
+    }
+  ],
+  "sounds": [
+    {
+      "id": "CLS_BG_01",
+      "name": "CLS_BG_01"
+    },
+    {
+      "id": "CLS_BG_02",
+      "name": "CLS_BG_02"
+    },
+    {
+      "id": "CLS_PY_01",
+      "name": "CLS_PY_01"
+    },
+    {
+      "id": "CLS_PY_02",
+      "name": "CLS_PY_02"
+    },
+    {
+      "id": "CLS_PY_03",
+      "name": "CLS_PY_03"
+    },
+    {
+      "id": "CLS_WN_01",
+      "name": "CLS_WN_01"
+    },
+    {
+      "id": "CLS_WN_02",
+      "name": "CLS_WN_02"
+    },
+    {
+      "id": "CLS_WN_03",
+      "name": "CLS_WN_03"
+    },
+    {
+      "id": "CLS_WN_04",
+      "name": "CLS_WN_04"
+    },
+    {
+      "id": "CLS_WN_05",
+      "name": "CLS_WN_05"
+    },
+    {
+      "id": "CLS_LS_01",
+      "name": "CLS_LS_01"
+    },
+    {
+      "id": "CLS_LS_02",
+      "name": "CLS_LS_02"
+    },
+    {
+      "id": "CLS_LS_03",
+      "name": "CLS_LS_03"
+    },
+    {
+      "id": "CLS_LS_04",
+      "name": "CLS_LS_04"
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "id": "new_year",
+  "name": "New Year",
+  "themes": [
+    {
+      "id": "NYR_01",
+      "thumbnail": {
+        "main": "/catalog/new_year/themes/NYR_01/thumbnail/main.webp",
+        "hover": "/catalog/new_year/themes/NYR_01/thumbnail/hover.webp"
+      },
+      "demo": "/?theme=NYR_01",
+      "tags": ["new year", "luxury", "black", "yellow"]
+    },
+    {
+      "id": "NYR_02",
+      "thumbnail": {
+        "main": "/catalog/new_year/themes/NYR_02/thumbnail/main.webp",
+        "hover": "/catalog/new_year/themes/NYR_02/thumbnail/hover.webp"
+      },
+      "demo": "/?theme=NYR_02",
+      "tags": ["new year", "joyful", "red", "yellow"]
+    }
+  ],
+  "openers": [
+    {
+      "id": "CLS_01",
+      "colorPresets": [{
+        "content": "#FFD700",
+        "background": "#FF6600"
+      }]
+    },
+    {
+      "id": "CLS_02",
+      "colorPresets": [{
+        "content": "#FFD700",
+        "background": "#FF6600"
+      }]
+    },
+    {
+      "id": "CLS_03",
+      "colorPresets": [{
+        "content": "#FFD700",
+        "background": "#000000"
+      }]
+    },
+    {
+      "id": "CLS_04",
+      "colorPresets": [{
+        "content": "#FFD700",
+        "background": "#2C003E"
+      }]
+    },
+    {
+      "id": "CLS_05",
+      "colorPresets": [{
+        "content": "#39FF14",
+        "background": "#4B0082"
+      }]
+    },
+    {
+      "id": "CLS_06",
+      "colorPresets": [{
+        "content": "#FFD700",
+        "background": "#2C003E"
+      }]
+    },
+    {
+      "id": "CLS_07",
+      "colorPresets": [{
+        "content": "#FFD700",
+        "background": "#2C003E"
+      }]
+    },
+    {
+      "id": "CLS_08",
+      "colorPresets": [{
+        "content": "#FF7518",
+        "background": "#000000"
+      }]
+    },
+    {
+      "id": "CLS_09",
+      "colorPresets": [{
+        "content": "#FFD700",
+        "background": "#000000"
+      }]
+    },
+    {
+      "id": "CLS_10",
+      "colorPresets": [{
+        "content": "#FFD700",
+        "background": "#000000"
+      }]
+    },
+    {
+      "id": "CLS_11",
+      "colorPresets": [{
+        "content": "#FFD700",
+        "background": "#000000"
+      }]
+    },
+    {
+      "id": "CLS_12",
+      "colorPresets": [{
+        "content": "#FFD700",
+        "background": "#000000"
+      }]
+    }
+  ],
+  "sounds": [
+    {
+      "id": "NYR_BG_01",
+      "name": "NYR_BG_01"
+    },
+    {
+      "id": "CLS_BG_01",
+      "name": "CLS_BG_01"
+    },
+    {
+      "id": "CLS_BG_02",
+      "name": "CLS_BG_02"
+    },
+    {
+      "id": "CLS_PY_01",
+      "name": "CLS_PY_01"
+    },
+    {
+      "id": "CLS_PY_02",
+      "name": "CLS_PY_02"
+    },
+    {
+      "id": "CLS_PY_03",
+      "name": "CLS_PY_03"
+    },
+    {
+      "id": "CLS_WN_01",
+      "name": "CLS_WN_01"
+    },
+    {
+      "id": "CLS_WN_02",
+      "name": "CLS_WN_02"
+    },
+    {
+      "id": "CLS_WN_03",
+      "name": "CLS_WN_03"
+    },
+    {
+      "id": "CLS_WN_04",
+      "name": "CLS_WN_04"
+    },
+    {
+      "id": "CLS_WN_05",
+      "name": "CLS_WN_05"
+    },
+    {
+      "id": "CLS_LS_01",
+      "name": "CLS_LS_01"
+    },
+    {
+      "id": "CLS_LS_02",
+      "name": "CLS_LS_02"
+    },
+    {
+      "id": "CLS_LS_03",
+      "name": "CLS_LS_03"
+    },
+    {
+      "id": "CLS_LS_04",
+      "name": "CLS_LS_04"
+    }
+  ]
+}

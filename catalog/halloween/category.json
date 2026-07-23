@@ -1,0 +1,223 @@
+{
+  "id": "halloween",
+  "name": "Halloween",
+  "themes": [
+    {
+      "id": "HLW_01",
+      "thumbnail": {
+        "main": "/catalog/halloween/themes/HLW_01/thumbnail/main.webp",
+        "hover": "/catalog/halloween/themes/HLW_01/thumbnail/hover.webp"
+      },
+      "demo": "/?theme=HLW_01",
+      "tags": ["halloween", "cartoon", "playful", "dark"]
+    },
+    {
+      "id": "HLW_02",
+      "thumbnail": {
+        "main": "/catalog/halloween/themes/HLW_02/thumbnail/main.webp",
+        "hover": "/catalog/halloween/themes/HLW_02/thumbnail/hover.webp"
+      },
+      "demo": "/?theme=HLW_02",
+      "tags": ["halloween", "cartoon", "playful", "dark"]
+    },
+    {
+      "id": "HLW_03",
+      "thumbnail": {
+        "main": "/catalog/halloween/themes/HLW_03/thumbnail/main.webp",
+        "hover": "/catalog/halloween/themes/HLW_03/thumbnail/hover.webp"
+      },
+      "demo": "/?theme=HLW_03",
+      "tags": ["halloween", "cartoon", "playful", "dark"]
+    }
+  ],
+  "openers": [
+    {
+      "id": "HLW_01",
+      "colorPresets": [{
+        "content": "#FFD700",
+        "background": "#FF6600"
+      }]
+    },
+    {
+      "id": "HLW_02",
+      "colorPresets": [{
+        "content": "#FFD700",
+        "background": "#FF6600"
+      }]
+    },
+    {
+      "id": "HLW_03",
+      "colorPresets": [{
+        "content": "#FFD700",
+        "background": "#000000"
+      }]
+    },
+    {
+      "id": "HLW_04",
+      "colorPresets": [{
+        "content": "#FFD700",
+        "background": "#2C003E"
+      }]
+    },
+    {
+      "id": "HLW_05",
+      "rid": "HLW_05R",
+      "transparentBackground": true,
+      "colorPresets": [{
+        "content": "#39FF14",
+        "background": "#4B0082"
+      }]
+    },
+    {
+      "id": "HLW_06",
+      "rid": "HLW_06R",
+      "transparentBackground": true,
+      "colorPresets": [{
+        "content": "#FFD700",
+        "background": "#2C003E"
+      }]
+    },
+    {
+      "id": "HLW_07",
+      "colorPresets": [{
+        "content": "#FFD700",
+        "background": "#2C003E"
+      }]
+    },
+    {
+      "id": "HLW_08",
+      "colorPresets": [{
+        "content": "#FF7518",
+        "background": "#000000"
+      }]
+    },
+    {
+      "id": "HLW_09",
+      "colorPresets": [{
+        "content": "#FFD700",
+        "background": "#000000"
+      }]
+    },
+    {
+      "id": "HLW_10",
+      "colorPresets": [{
+        "content": "#FFD700",
+        "background": "#000000"
+      }]
+    },
+    {
+      "id": "HLW_11",
+      "transparentBackground": true,
+      "colorPresets": [{
+        "content": "#FFD700",
+        "background": "#145A32"
+      }]
+    },
+    {
+      "id": "HLW_12",
+      "transparentBackground": true,
+      "colorPresets": [{
+        "content": "#FFD700",
+        "background": "#000000"
+      }]
+    },
+    {
+      "id": "HLW_13",
+      "deltaY": -3,
+      "transparentBackground": true,
+      "colorPresets": [{
+        "content": "#FFD700",
+        "background": "#000000"
+      }]
+    },
+    {
+      "id": "HLW_14",
+      "deltaY": -3,
+      "transparentBackground": true,
+      "colorPresets": [{
+        "content": "#FFD700",
+        "background": "#000000"
+      }]
+    },
+    {
+      "id": "HLW_15",
+      "deltaY": -3,
+      "transparentBackground": true,
+      "colorPresets": [{
+        "content": "#FFD700",
+        "background": "#2C003E"
+      }]
+    },
+    {
+      "id": "HLW_16",
+      "deltaY": -3,
+      "transparentBackground": true,
+      "colorPresets": [{
+        "content": "#FF0000",
+        "background": "#000000"
+      }]
+    }
+  ],
+  "sounds": [
+    {
+      "id": "HLW_BG_01",
+      "name": "HLW_BG_01"
+    },
+    {
+      "id": "HLW_BG_02",
+      "name": "HLW_BG_02"
+    },
+    {
+      "id": "HLW_BG_03",
+      "name": "HLW_BG_03"
+    },
+    {
+      "id": "HLW_BG_04",
+      "name": "HLW_BG_04"
+    },
+    {
+      "id": "HLW_BG_05",
+      "name": "HLW_BG_05"
+    },
+    {
+      "id": "HLW_BG_06",
+      "name": "HLW_BG_06"
+    },
+    {
+      "id": "HLW_BG_07",
+      "name": "HLW_BG_07"
+    },
+    {
+      "id": "HLW_BG_08",
+      "name": "HLW_BG_08"
+    },
+    {
+      "id": "HLW_BG_09",
+      "name": "HLW_BG_09"
+    },
+    {
+      "id": "HLW_PY_01",
+      "name": "HLW_PY_01"
+    },
+    {
+      "id": "HLW_PY_02",
+      "name": "HLW_PY_02"
+    },
+    {
+      "id": "HLW_WN_01",
+      "name": "HLW_WN_01"
+    },
+    {
+      "id": "HLW_WN_02",
+      "name": "HLW_WN_02"
+    },
+    {
+      "id": "HLW_LS_01",
+      "name": "HLW_LS_01"
+    },
+    {
+      "id": "HLW_LS_02",
+      "name": "HLW_LS_02"
+    }
+  ]
+}

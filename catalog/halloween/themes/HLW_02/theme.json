@@ -1,0 +1,136 @@
+{
+  "wheel": {
+    "fontFamily": "Poppins",
+    "border": {
+      "type": "line",
+      "color": "#FF9933"
+    },
+    "center": {
+      "displayed": true,
+      "border": {
+        "displayed": true,
+        "color": "#FF9933"
+      },
+      "color": "#FF7518"
+    },
+    "pointer": {
+      "color": "#FF7518",
+      "border": {
+        "displayed": true,
+        "color": "#FF9933"
+      }
+    },
+    "slices": {
+      "border": {
+        "displayed": true,
+        "color": "#FF9933"
+      },
+      "items": [
+        {
+          "color": "#DDDDDD",
+          "backgroundColor": "#E67E22"
+        },
+        {
+          "color": "#DDDDDD",
+          "backgroundColor": "#170B20"
+        }
+      ]
+    }
+  },
+  "opener": {
+    "fontFamily": "Oswald",
+    "icon": {
+      "value": "HLW_15",
+      "deltaY": -3,
+      "transparentBackground": true
+    },
+    "label": {
+      "color": "#FFB84D"
+    },
+    "backgroundColor": "#0e0314"
+  },
+  "popups": {
+    "base": {
+      "fontFamily": {
+        "heading": "Creepster",
+        "body": "Poppins",
+        "label": "Poppins"
+      },
+      "weight": {
+        "heading": 400
+      },
+      "title": {
+        "size": 40,
+        "color": "#FFB84D"
+      },
+      "backgroundColor": "#ffffff",
+      "description": {
+        "color": "#E0E0E0"
+      },
+      "textInput": {
+        "color": "#FFFFFF",
+        "backgroundColor": "rgb(72 45 76 / 62%)",
+        "placeholderColor": "#AAAAAA"
+      },
+      "helper": {
+        "color": "#E0E0E0"
+      },
+      "footer": {
+        "color": "#E0E0E0"
+      },
+      "primaryButton": {
+        "color": "#FFFFFF",
+        "backgroundColor": "#da600e"
+      },
+      "secondaryButton": {
+        "color": "#DDDDDD",
+        "backgroundColor": "rgba(255,255,255,0.10)"
+      },
+      "linkButton": {
+        "color": "#E0E0E0"
+      }
+    },
+    "spinPopup": {
+      "displayType": "full_screen",
+      "showLogo": false,
+      "forms": {
+        "resultForm": {}
+      },
+      "backgroundImage": {
+        "main": {
+          "key": "",
+          "url": "/catalog/halloween/themes/HLW_02/background/main.webp"
+        },
+        "mobile": {
+          "key": "",
+          "url": "/catalog/halloween/themes/HLW_02/background/main-mobile.webp"
+        }
+      },
+      "backgroundMusic": {
+        "enabled": true,
+        "value": "HLW_BG_03"
+      },
+      "playingMusic": {
+        "enabled": true,
+        "value": "HLW_PY_02"
+      }
+    }
+  },
+  "announcement": {
+    "fontFamily": "Nosifer",
+    "weight": 400,
+    "color": "#FFB84D",
+    "backgroundColor": "#20072d"
+  },
+  "rewardSounds": {
+    "win": {
+      "enabled": true,
+      "value": "HLW_WN_01"
+    },
+    "lose": {
+      "enabled": true,
+      "value": "HLW_LS_01"
+    }
+  },
+  "id": "HLW_02"
+}

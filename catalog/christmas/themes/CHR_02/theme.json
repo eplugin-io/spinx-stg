@@ -1,0 +1,132 @@
+{
+  "opener": {
+    "fontFamily": "Alegreya",
+    "icon": {
+      "value": "CLS_09"
+    },
+    "label": {
+      "text": "SPIN NOW 🎅",
+      "color": "#FFD75A"
+    },
+    "backgroundColor": "rgba(15,30,45,0.9)"
+  },
+  "popups": {
+    "base": {
+      "backgroundColor": "#000000",
+      "title": {
+        "color": "#FFD75A"
+      },
+      "description": {
+        "color": "#ffffff"
+      },
+      "textInput": {
+        "color": "#FFF9E8",
+        "backgroundColor": "rgba(0,0,0,0.35)",
+        "placeholderColor": "rgba(255,255,255,0.75)"
+      },
+      "helper": {
+        "color": "#ffffff"
+      },
+      "footer": {
+        "color": "#ffffff"
+      },
+      "primaryButton": {
+        "color": "#FFFFFF",
+        "backgroundColor": "#D64545"
+      },
+      "secondaryButton": {
+        "color": "#ffffff",
+        "backgroundColor": "rgba(0,0,0,0.4)"
+      },
+      "linkButton": {
+        "color": "#ffffff"
+      }
+    },
+    "spinPopup": {
+      "displayType": "full_screen",
+      "showLogo": false,
+      "backgroundMusic": {
+        "enabled": true,
+        "value": "CHR_BG_01"
+      },
+      "playingMusic": {
+        "enabled": true,
+        "value": "CHR_PY_01"
+      },
+      "forms": {
+        "base": {
+          "contentPanel": {
+            "displayed": true,
+            "backgroundColor": "rgba(255,255,255,0.12)",
+            "blur": 12
+          }
+        },
+        "resultForm": {}
+      },
+      "backgroundImage": {
+        "main": {
+          "key": "",
+          "url": "/catalog/christmas/themes/CHR_02/background/main.webp"
+        },
+        "mobile": {
+          "key": "",
+          "url": "/catalog/christmas/themes/CHR_02/background/main-mobile.webp"
+        }
+      }
+    }
+  },
+  "announcement": {
+    "fontFamily": "Playfair Display",
+    "weight": 700,
+    "color": "#FFD75A",
+    "backgroundColor": "linear-gradient(90deg, rgba(22,40,65,1), rgba(30,55,85,1))"
+  },
+  "rewardSounds": {
+    "win": {
+      "enabled": true,
+      "value": "CHR_WN_01"
+    },
+    "lose": {
+      "enabled": true,
+      "value": "CHR_LS_01"
+    }
+  },
+  "id": "CHR_02",
+  "wheel": {
+    "border": {
+      "type": "line",
+      "color": "rgba(255,255,255,0.6)"
+    },
+    "center": {
+      "displayed": true,
+      "border": {
+        "displayed": true,
+        "color": "#B8953D"
+      },
+      "color": "#F6C667"
+    },
+    "pointer": {
+      "color": "#F6C667",
+      "border": {
+        "displayed": true,
+        "color": "#B8953D"
+      }
+    },
+    "slices": {
+      "border": {
+        "displayed": true,
+        "color": "#FFFFFF"
+      },
+      "items": [
+        {
+          "color": "#FFFFFF",
+          "backgroundColor": "#E53935"
+        },
+        {
+          "color": "#FFFFFF",
+          "backgroundColor": "#0F6C4F"
+        }
+      ]
+    }
+  }
+}

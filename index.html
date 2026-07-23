@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>SpinX Wheel – Gamified Popups to Boost Sales & Engagement</title>
+  <link rel="canonical" href="https://demo.spinx-wheel.app/">
+  <link rel="icon" href="/favicon.ico" type="image/x-icon" sizes="32x32">
+
+  <!-- Meta Keys -->
+  <meta name="generator" content="SpinX Wheel Gamified Sales & Engagement Engine">
+  <meta name="application" content="Gamified Popup & Conversion Tool">
+  <meta name="description" content="Try SpinX Wheel: gamified popups with ready‑made seasonal themes to capture leads and boost conversions in minutes.">
+  <meta name="reference" content="https://spinx-wheel.eplugin.io">
+  <meta name="category" content="e-commerce-engagement">
+  <meta name="industry" content="E-commerce Marketing & Sales Software">
+  <meta name="niche" content="Gamification Tools for Online Stores">
+  <meta property="og:title" content="SpinX Wheel – Gamified Popups to Boost Sales & Engagement">
+  <meta property="og:description" content="Launch seasonal campaigns fast, capture leads, and lift conversions with SpinX’s spin‑to‑win widgets.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://spinx-wheel.eplugin.io">
+  <meta property="og:site_name" content="SpinX Wheel">
+  <meta property="og:locale" content="en_US">
+  <meta property="og:image" content="https://cdn.jsdelivr.net/gh/eplugin-io/spinx-stg@2.0.1-dev.16/assets/images/logo/spinx-wheel-logo-full.png">
+  <meta property="og:image:alt" content="SpinX Wheel">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="SpinX Wheel – Gamified Popups to Boost Sales & Engagement">
+  <meta name="twitter:description" content="Launch seasonal campaigns fast, capture leads, and lift conversions with SpinX’s spin‑to‑win widgets.">
+  <meta name="twitter:image" content="https://cdn.jsdelivr.net/gh/eplugin-io/spinx-stg@2.0.1-dev.16/assets/images/logo/spinx-wheel-logo-full.png">
+
+  <!-- Structured Data -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "SpinX Wheel",
+    "operatingSystem": "Web",
+    "applicationCategory": "SalesApplication",
+    "description": "SpinX Wheel helps Shopify merchants capture leads and drive conversions through fun, customizable spin-the-wheel popups. Ready-to-use seasonal themes, email delivery, countdowns, and advanced campaign scheduling – all in one app.",
+    "brand": {
+      "@type": "Brand",
+      "name": "SpinX Wheel",
+      "url": "https://spinx-wheel.eplugin.io",
+      "sameAs": [
+        "https://www.linkedin.com/company/eplugin.io"
+      ]
+    },
+    "provider": {
+      "@type": "Organization",
+      "name": "ePlugin",
+      "url": "https://eplugin.io",
+      "sameAs": [
+        "https://www.linkedin.com/company/eplugin.io"
+      ]
+    },
+    "offers": {
+      "@type": "Offer",
+      "url": "https://apps.shopify.com/spinx",
+      "description": "SpinX Wheel Gamified Sales & Engagement Tool available on Shopify App Store"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.9",
+      "reviewCount": "120"
+    }
+  }
+  </script>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href='https://fonts.googleapis.com/css?family=Nunito' rel='stylesheet'>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/eplugin-io/spinx-stg@2.0.1-dev.16/assets/styles/main.css">
+  <script type="module" src="https://cdn.jsdelivr.net/gh/eplugin-io/spinx-stg@2.0.1-dev.16/spinx.min.js"></script>
+  <script type="module" src="https://cdn.jsdelivr.net/gh/eplugin-io/spinx-stg@2.0.1-dev.16/InitDemoData.js"></script>
+  <script type="module">
+    // Keep the storage key literal in sync with EDITOR_SESSION_STORAGE_KEY in src/editor.ts and
+    // spinx-config.liquid — an in-progress editor session (persisted so navigating away doesn't
+    // lose it) must still load the editor bundle even once the URL param itself is gone.
+    // sessionStorage is shared with same-origin iframes in the same tab, so the storage fallback
+    // must only apply to the top-level window — otherwise the editor's own preview iframe (which
+    // deliberately strips spinx_editor from its URL) would also see the stored session and
+    // bootstrap a second editor instance inside itself, which spawns a preview iframe of its own,
+    // and so on indefinitely.
+    function hasStoredSpinxEditorSession() {
+      if (window.self !== window.top) {
+        return false;
+      }
+      try {
+        var stored = JSON.parse(sessionStorage.getItem('spinx:editor:session') || 'null');
+        return !!stored && stored.spinx_editor === '1';
+      } catch (e) {
+        return false;
+      }
+    }
+    if (new URLSearchParams(window.location.search).get('spinx_editor') === '1' || hasStoredSpinxEditorSession()) {
+      import('https://cdn.jsdelivr.net/gh/eplugin-io/spinx-stg@2.0.1-dev.16/spinx.editor.min.js');
+    }
+
+    // Editor live-preview target (the plain iframe embedded inside the theme editor, distinct from
+    // the full editor UI above) — swaps the public marketing hero for a neutral storefront-style
+    // backdrop instead, so a merchant customizing their own campaign isn't previewing it on top of
+    // SpinX's own sales copy. Real product data can be filled into PREVIEW_PRODUCTS below; until
+    // then it renders a few skeleton cards so the grid still reads as "a page", not an empty gap.
+    var PREVIEW_PRODUCTS = [
+      // { name: 'Product name', price: '$29.00', image: 'https://cdn.jsdelivr.net/gh/eplugin-io/spinx-stg@2.0.1-dev.16/assets/images/preview/product-1.jpg' },
+    ];
+
+    function renderPreviewProducts() {
+      var grid = document.getElementById('spinx-preview-products');
+      if (!grid) {
+        return;
+      }
+      var items = PREVIEW_PRODUCTS.length ? PREVIEW_PRODUCTS : new Array(4).fill(null);
+      grid.innerHTML = items
+        .map(function (product) {
+          if (product) {
+            return (
+              '<div class="preview-product-card">' +
+              '<div class="preview-product-image" style="background-image:url(' + product.image + ')"></div>' +
+              '<div class="preview-product-name">' + product.name + '</div>' +
+              '<div class="preview-product-price">' + product.price + '</div>' +
+              '</div>'
+            );
+          }
+          return (
+            '<div class="preview-product-card">' +
+            '<div class="preview-product-image placeholder"></div>' +
+            '<div class="preview-product-name placeholder"></div>' +
+            '<div class="preview-product-price placeholder"></div>' +
+            '</div>'
+          );
+        })
+        .join('');
+    }
+
+    if (new URLSearchParams(window.location.search).get('spinx_editor_preview') === '1') {
+      // .demo-container sets its own `display: flex` in CSS, which beats the `hidden` attribute's
+      // UA-stylesheet `display: none` — set the inline style directly so it always wins.
+      var demoContainer = document.querySelector('.demo-container');
+      if (demoContainer) {
+        demoContainer.style.display = 'none';
+      }
+      var previewPage = document.getElementById('spinx-preview-page');
+      if (previewPage) {
+        previewPage.removeAttribute('hidden');
+        renderPreviewProducts();
+      }
+    }
+  </script>
+</head>
+<body class="demo-page live-demo">
+  <div class="demo-container">
+    <p><img class="demo-logo" src="https://cdn.jsdelivr.net/gh/eplugin-io/spinx-stg@2.0.1-dev.16/assets/images/logo/spinx-wheel-logo-full.png" alt="SpinX Wheel"></p>
+    <p class="demo-title">Spin to capture leads and boost conversions</p>
+    <p class="demo-subtitle">Drive higher conversions with seasonal event themes all year — launch campaigns fast and keep customers engaged.</p>
+    <div class="demo-actions">
+      <a class="demo-button primary" href="#try" onclick="(function() { window.SpinX?.components?.spinPopup?.open?.() })(); return false;">Try the demo</a>
+      <a class="demo-button ghost" href="https://apps.shopify.com/spinx" target="_blank" rel="noopener">Get the app</a>
+    </div>
+    <div class="demo-steps" id="try">
+      <div class="demo-step">1. Enter your details</div>
+      <div class="demo-step">2. Spin the wheel</div>
+      <div class="demo-step">3. Get an instant reward</div>
+    </div>
+    <p></p>
+  </div>
+
+  <div class="preview-page" id="spinx-preview-page" hidden>
+    <header class="preview-header">
+      <img class="preview-header-logo" src="https://cdn.jsdelivr.net/gh/eplugin-io/spinx-stg@2.0.1-dev.16/assets/images/logo/spinx-wheel-logo-full-horizontal.png" alt="SpinX Wheel">
+      <nav class="preview-header-nav">
+        <a href="https://apps.shopify.com/spinx" target="_blank" rel="noopener">Get the app</a>
+      </nav>
+    </header>
+    <section class="preview-hero">
+      <h1>Spin to capture leads and boost conversions</h1>
+      <p>Drive higher conversions with seasonal event themes all year — launch campaigns fast and keep customers engaged.</p>
+    </section>
+    <section class="preview-products" id="spinx-preview-products" aria-label="Featured products"></section>
+  </div>
+</body>
+</html>

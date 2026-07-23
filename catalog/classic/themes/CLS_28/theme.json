@@ -1,0 +1,111 @@
+{
+  "id": "CLS_28",
+  "wheel": {
+    "border": {
+      "type": "line",
+      "color": "#F3D63A"
+    },
+    "center": {
+      "displayed": true,
+      "border": {
+        "displayed": false,
+        "color": ""
+      },
+      "color": "#F6D441"
+    },
+    "pointer": {
+      "color": "#169B32",
+      "border": {
+        "displayed": false,
+        "color": ""
+      }
+    },
+    "slices": {
+      "border": {
+        "displayed": false,
+        "color": ""
+      },
+      "items": [
+        {
+          "color": "#2C2C2C",
+          "backgroundColor": "#FEB736"
+        },
+        {
+          "color": "#2C2C2C",
+          "backgroundColor": "#FA595B"
+        },
+        {
+          "color": "#2C2C2C",
+          "backgroundColor": "#813F1C"
+        },
+        {
+          "color": "#2C2C2C",
+          "backgroundColor": "#4C6FFF"
+        },
+        {
+          "color": "#2C2C2C",
+          "backgroundColor": "#61AB31"
+        },
+        {
+          "color": "#2C2C2C",
+          "backgroundColor": "#02BA44"
+        },
+        {
+          "color": "#2C2C2C",
+          "backgroundColor": "#81C62D"
+        },
+        {
+          "color": "#2C2C2C",
+          "backgroundColor": "#9DD734"
+        }
+      ]
+    }
+  },
+  "opener": {
+    "icon": {
+      "value": "CLS_05"
+    },
+    "label": {
+      "color": "#006400"
+    },
+    "backgroundColor": "#A6F0C6"
+  },
+  "popups": {
+    "base": {
+      "backgroundColor": "#FFFFEC",
+      "title": {
+        "color": "#006400"
+      },
+      "description": {
+        "color": "#2C2C2C"
+      },
+      "textInput": {
+        "color": "#2C2C2C"
+      },
+      "helper": {
+        "color": "#2C2C2C"
+      },
+      "footer": {
+        "color": "#2C2C2C"
+      },
+      "primaryButton": {
+        "color": "#FFFFFF",
+        "backgroundColor": "#FF914D"
+      },
+      "secondaryButton": {
+        "color": "#2C2C2C",
+        "backgroundColor": "rgba(0,0,0,0.10)"
+      },
+      "linkButton": {
+        "color": "#2C2C2C"
+      }
+    },
+    "spinPopup": {
+      "backgroundImage": {}
+    }
+  },
+  "announcement": {
+    "color": "#006400",
+    "backgroundColor": "#E6F9E6"
+  }
+}
