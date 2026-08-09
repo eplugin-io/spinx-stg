@@ -1,0 +1,66 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} saat",
+    "expireDay": "{{TIME}} gün"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "🎃 Bu Sefer Şans Yok!",
+        "description": "Ruhlar bu sefer sessizdi - ama bir sonraki çevirişin ürkütücü bir sürpriz ortaya çıkarabilir."
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "🎃 Bu! {{REWARD}} Kazandın!",
+        "description": "Ürkütücü tasarrufunun kilidini açmak için ödeme sırasında aşağıdaki kodu gir."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "🎃 Bu! {{REWARD}} Kazandın!",
+        "description": "Öbür dünyadan gelen ücretsiz kargonun keyfini çıkarmak için ödeme sırasında aşağıdaki kodu gir."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "🎁 Ürkütücü Bir Sürpriz! {{REWARD}} Kazandın!",
+        "description": "Ürkütücü derecede güzel hediyeni almak için ödeme sırasında aşağıdaki kodu gir."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "ÖDÜLÜ ÇAĞIR"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "🎃 Hayaletli Çarkı Çevirmeye Cesaretin Var mı?",
+          "description": "Bilgilerini gir ve ürkütücü bir Halloween ödülünün kilidini açmak için çarkı çevir.",
+          "descriptionForExistingAccount": "{{NAME}}, ürkütücü Halloween ödülünün kilidini açmak için hemen çevir!",
+          "agreement": "Ürkütücü teklifler ve güncellemeler almayı kabul ediyorum.",
+          "spinButton": "CESARETIN VARSA ÇEVİR",
+          "dismissButton": "Alışverişe devam et",
+          "footerText": "Sadece cesur ruhlar en iyi sürprizlerin kilidini açar.",
+          "messages": {
+            "maxSpinReached": "Ruhlar şimdilik tüm çevirme hakkını kullandığını söylüyor."
+          }
+        },
+        "redemptionForm": {
+          "title": "Ürkütücü Ödülün Hazır!"
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "🎃 Ruhlar toplanıyor... çark {{TIME}} saatinde açılıyor!",
+      "readyToSpin": "👻 Şeker mi şaka mı? Halloween ödülün için çevirmek üzere {{OPENER}} butonuna tıkla!",
+      "countDownToLaunch": "⏳ Hayaletli çark {{TIME}} içinde açılıyor - hazır ol!",
+      "countDownToClose": "🎃 Son şans! Hayaletli çarkı çevirmek için sadece {{TIME}} kaldı!"
+    }
+  }
+}

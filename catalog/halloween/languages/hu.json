@@ -1,0 +1,66 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} óra",
+    "expireDay": "{{TIME}} nap"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "🎃 Most nem volt szerencséd!",
+        "description": "A szellemek most csendben maradtak - de a következő pörgetésed hátborzongató meglepetést tartogathat."
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "🎃 Bú! Nyertél {{REWARD}}!",
+        "description": "Használd az alábbi kódot a fizetésnél, hogy feloldd hátborzongató kedvezményedet."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "🎃 Bú! Nyertél {{REWARD}}!",
+        "description": "Használd az alábbi kódot a fizetésnél, hogy élvezhesd a túlvilági ingyenes szállítást."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "🎁 Hátborzongató meglepetés! Nyertél {{REWARD}}!",
+        "description": "Használd az alábbi kódot a fizetésnél, hogy beváltsd kísértetiesen jó ajándékodat."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "IDÉZD MEG A JUTALMAT"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "🎃 Van bátorságod megpörgetni a kísértetkereket?",
+          "description": "Add meg adataidat, és pörgesd meg a kereket, hogy feloldj egy hátborzongató Halloween-jutalmat.",
+          "descriptionForExistingAccount": "{{NAME}}, pörgess most, hogy feloldd hátborzongató Halloween-jutalmadat!",
+          "agreement": "Hozzájárulok, hogy hátborzongató ajánlatokat és frissítéseket kapjak.",
+          "spinButton": "PÖRGESS, HA MERED",
+          "dismissButton": "Vásárlás folytatása",
+          "footerText": "Csak a bátor lelkek oldják fel a legjobb meglepetéseket.",
+          "messages": {
+            "maxSpinReached": "A szellemek szerint jelenleg elhasználtad az összes pörgetésedet."
+          }
+        },
+        "redemptionForm": {
+          "title": "Hátborzongató jutalmad készen áll!"
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "🎃 A szellemek gyülekeznek... a kerék {{TIME}}-kor nyílik!",
+      "readyToSpin": "👻 Csokit vagy csínyt? Kattints ide: {{OPENER}}, hogy megpörgesd Halloween-jutalmadért!",
+      "countDownToLaunch": "⏳ A kísértetkerék {{TIME}} múlva nyílik - készülj!",
+      "countDownToClose": "🎃 Utolsó esély! Már csak {{TIME}} van hátra a kísértetkerék megpörgetésére!"
+    }
+  }
+}

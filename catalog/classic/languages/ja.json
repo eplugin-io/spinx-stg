@@ -1,0 +1,102 @@
+{
+  "label": {
+    "expireTime": "{{TIME}}時間",
+    "expireDay": "{{TIME}}日"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "残念!また次の機会に",
+        "description": "諦めないで - どのスピンにも素敵な景品が当たるチャンスがあります!"
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "おめでとうございます!{{REWARD}}が当たりました!",
+        "description": "レジで下記のコードを使って割引をお楽しみください。"
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "おめでとうございます!{{REWARD}}が当たりました!",
+        "description": "レジで下記のコードを使って送料無料をお楽しみください。"
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "サプライズ!{{REWARD}}が当たりました!",
+        "description": "レジで下記のコードを使って無料プレゼントを受け取ってください。"
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "今すぐスピン"
+    },
+    "readyLabel": {
+      "text": "景品の準備完了"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "スピンして豪華な景品をゲット!",
+          "description": "情報を入力してスピンのチャンスを手に入れましょう。",
+          "descriptionForExistingAccount": "ようこそ、{{NAME}}さん!ホイールを回して、あなたを待っている素敵な景品を手に入れる準備をしましょう。",
+          "fields": {
+            "name": {
+              "placeholder": "お名前"
+            },
+            "email": {
+              "placeholder": "メールアドレス"
+            }
+          },
+          "agreement": "マーケティングメールとお得な情報の受信に同意します。",
+          "spinButton": "スピン",
+          "dismissButton": "買い物を続ける",
+          "footerText": "楽しさはスピンから始まります!",
+          "messages": {
+            "maxSpinReached": "スピン回数の上限に達したようです!"
+          }
+        },
+        "resultForm": {
+          "redeemButton": "今すぐ景品を適用する",
+          "dismissButton": "買い物を続ける",
+          "messages": {
+            "rewardExpiry": "{{EXPIRE}}以内に景品をご利用ください"
+          }
+        },
+        "redemptionForm": {
+          "title": "景品が適用されました!",
+          "description": "景品は有効になっています - 今すぐ購入手続きをするか、買い物を続けていつでもご利用いただけます。",
+          "checkoutButton": "今すぐ購入手続きへ",
+          "dismissButton": "買い物を続ける",
+          "messages": {
+            "noCartItems": "カートに商品を追加して、購入手続きの際に景品をご利用ください。"
+          }
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "ご準備を!ラッキーホイールは{{TIME}}にスタートし、豪華な景品が満載です!",
+      "readyToSpin": "スピンの準備はできましたか?{{OPENER}}をクリックして今すぐ景品をゲット!",
+      "countDownToLaunch": "カウントダウン開始!スタートまであと{{TIME}}!",
+      "countDownToClose": "お急ぎください!残り{{TIME}} - {{OPENER}}をクリックしてスピンし、景品をゲットしましょう!"
+    },
+    "encourage": {
+      "messages": {
+        "discount": "{{VALUE}}オフの特典を獲得しました - 購入手続きで今すぐご利用ください!",
+        "discountWithMinOrder": "{{MIN_ORDER}}以上のご注文で{{VALUE}}オフ。",
+        "freeShip": "送料無料を獲得しました - 購入手続きで今すぐご利用ください!",
+        "freeShipWithMinOrder": "{{MIN_ORDER}}以上のご注文で送料無料。",
+        "freeShipWithMaxAmount": "最大{{MAX_AMOUNT}}まで送料無料をお楽しみください。",
+        "freeShipWithMaxAmountAndMinOrder": "{{MIN_ORDER}}以上のご注文で最大{{MAX_AMOUNT}}まで送料無料。",
+        "freeGift": "無料プレゼントを獲得しました - 購入手続きで今すぐ受け取りましょう!",
+        "redeemCode": "購入手続きで{{CODE}}コードを使って特典をお楽しみください。"
+      }
+    }
+  }
+}

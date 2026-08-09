@@ -1,0 +1,66 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} Stunden",
+    "expireDay": "{{TIME}} Tage"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "✨ Diesmal kein Glück!",
+        "description": "Das neue Jahr hält noch Überraschungen bereit — versuch es bald noch einmal!"
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "✨ Neujahrsgewinn! Du hast {{REWARD}} erhalten!",
+        "description": "Verwende den Code unten an der Kasse, um deine Neujahrsbelohnung einzulösen."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "✨ Neujahrsgewinn! Du hast {{REWARD}} erhalten!",
+        "description": "Verwende den Code unten an der Kasse, um kostenlosen Versand für deine Bestellung zu genießen."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "🎁 Neujahrsüberraschung! Du hast {{REWARD}} erhalten!",
+        "description": "Verwende den Code unten an der Kasse, um dein Neujahrsgeschenk einzulösen."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "JETZT DREHEN 💥"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "✨ Begrüße das neue Jahr mit einer Überraschung!",
+          "description": "Gib deinen Namen und deine E-Mail-Adresse ein, um deine Neujahrsbelohnung freizuschalten.",
+          "descriptionForExistingAccount": "{{NAME}}, starte das neue Jahr mit einer Drehung und schalte deine besondere Belohnung frei.",
+          "agreement": "Ich stimme zu, Neujahrsangebote und Neuigkeiten zu erhalten.",
+          "spinButton": "Drehen & ins Jahr starten",
+          "dismissButton": "Weiter einkaufen",
+          "footerText": "Ein strahlendes Jahr beginnt mit einer Drehung ✨",
+          "messages": {
+            "maxSpinReached": "Sieht so aus, als hättest du alle deine Drehungen aufgebraucht!"
+          }
+        },
+        "redemptionForm": {
+          "title": "Deine Neujahrsbelohnung ist bereit!"
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "✨ Das Neujahrsrad öffnet sich um {{TIME}} — mach dich bereit zu drehen!",
+      "readyToSpin": "✨ Es ist so weit! Tippe auf {{OPENER}}, um ins neue Jahr zu drehen!",
+      "countDownToLaunch": "⏳ Der Countdown läuft — Neujahrsbelohnungen werden in {{TIME}} freigeschaltet!",
+      "countDownToClose": "✨ Letzte Momente! Nur noch {{TIME}}, um zu drehen und deine Neujahrsbelohnung zu sichern!"
+    }
+  }
+}

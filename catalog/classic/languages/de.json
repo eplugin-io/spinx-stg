@@ -1,0 +1,102 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} Stunden",
+    "expireDay": "{{TIME}} Tage"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "Schade! Vielleicht beim nächsten Mal",
+        "description": "Nicht aufgeben - jede Drehung kann eine tolle Belohnung enthüllen!"
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "Glückwunsch! Du hast {{REWARD}} gewonnen!",
+        "description": "Verwende den Code unten an der Kasse, um deinen Rabatt zu nutzen."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "Glückwunsch! Du hast {{REWARD}} gewonnen!",
+        "description": "Verwende den Code unten an der Kasse, um kostenlosen Versand zu erhalten."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "Überraschung! Du hast {{REWARD}} gewonnen!",
+        "description": "Verwende den Code unten an der Kasse, um dein Gratisgeschenk einzulösen."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "JETZT DREHEN"
+    },
+    "readyLabel": {
+      "text": "BELOHNUNG BEREIT"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "Dreh das Glücksrad und gewinne tolle Belohnungen!",
+          "description": "Gib deine Daten ein und erhalte deine Chance zu drehen.",
+          "descriptionForExistingAccount": "Willkommen, {{NAME}}! Mach dich bereit, das Rad zu drehen und tolle Belohnungen freizuschalten, die nur auf dich warten.",
+          "fields": {
+            "name": {
+              "placeholder": "Name"
+            },
+            "email": {
+              "placeholder": "E-Mail"
+            }
+          },
+          "agreement": "Ich stimme zu, Marketing-E-Mails und Angebote zu erhalten.",
+          "spinButton": "DREHEN",
+          "dismissButton": "Weiter einkaufen",
+          "footerText": "Der Spaß beginnt mit einer Drehung!",
+          "messages": {
+            "maxSpinReached": "Sieht so aus, als hättest du alle deine Drehungen aufgebraucht!"
+          }
+        },
+        "resultForm": {
+          "redeemButton": "Belohnung jetzt einlösen",
+          "dismissButton": "Weiter einkaufen",
+          "messages": {
+            "rewardExpiry": "Nutze deine Belohnung innerhalb von {{EXPIRE}}"
+          }
+        },
+        "redemptionForm": {
+          "title": "Deine Belohnung wurde eingelöst!",
+          "description": "Deine Belohnung ist aktiv - du kannst jetzt zur Kasse gehen oder weiter einkaufen und sie jederzeit nutzen.",
+          "checkoutButton": "Jetzt zur Kasse",
+          "dismissButton": "Weiter einkaufen",
+          "messages": {
+            "noCartItems": "Füge Artikel zu deinem Warenkorb hinzu und löse deine Belohnung an der Kasse ein."
+          }
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "Mach dich bereit! Das Glücksrad startet um {{TIME}} mit tollen Preisen!",
+      "readyToSpin": "Bereit zu drehen? Klicke auf {{OPENER}} und gewinne etwas Tolles!",
+      "countDownToLaunch": "Der Countdown läuft! Nur noch {{TIME}} bis zum Start!",
+      "countDownToClose": "Beeil dich! Nur noch {{TIME}} übrig - klicke auf {{OPENER}}, um zu drehen und deine Belohnung zu sichern!"
+    },
+    "encourage": {
+      "messages": {
+        "discount": "Du hast {{VALUE}} Rabatt freigeschaltet - nutze ihn an der Kasse!",
+        "discountWithMinOrder": "Erhalte {{VALUE}} Rabatt auf Bestellungen über {{MIN_ORDER}}.",
+        "freeShip": "Kostenloser Versand freigeschaltet - nutze ihn an der Kasse!",
+        "freeShipWithMinOrder": "Kostenloser Versand bei Bestellungen über {{MIN_ORDER}}.",
+        "freeShipWithMaxAmount": "Genieße kostenlosen Versand bis zu {{MAX_AMOUNT}}.",
+        "freeShipWithMaxAmountAndMinOrder": "Kostenloser Versand bis zu {{MAX_AMOUNT}} bei Bestellungen über {{MIN_ORDER}}.",
+        "freeGift": "Gratisgeschenk freigeschaltet - hol es dir an der Kasse!",
+        "redeemCode": "Verwende den Code {{CODE}} an der Kasse, um deine Belohnung zu nutzen."
+      }
+    }
+  }
+}

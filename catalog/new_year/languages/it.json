@@ -1,0 +1,66 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} ore",
+    "expireDay": "{{TIME}} giorni"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "✨ Niente fortuna questa volta!",
+        "description": "Il nuovo anno riserva ancora sorprese — riprova presto!"
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "✨ Vittoria di Capodanno! Hai ottenuto {{REWARD}}!",
+        "description": "Usa il codice qui sotto al checkout per riscattare il tuo premio di Capodanno."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "✨ Vittoria di Capodanno! Hai ottenuto {{REWARD}}!",
+        "description": "Usa il codice qui sotto al checkout per goderti la spedizione gratuita sul tuo ordine."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "🎁 Sorpresa di Capodanno! Hai ottenuto {{REWARD}}!",
+        "description": "Usa il codice qui sotto al checkout per riscattare il tuo regalo di Capodanno."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "GIRA ORA 💥"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "✨ Accogli il nuovo anno con una sorpresa!",
+          "description": "Inserisci il tuo nome e la tua email per sbloccare il tuo premio di Capodanno.",
+          "descriptionForExistingAccount": "{{NAME}}, inizia il nuovo anno con un giro e sblocca il tuo premio speciale.",
+          "agreement": "Accetto di ricevere offerte e aggiornamenti di Capodanno.",
+          "spinButton": "Gira e inizia l'anno",
+          "dismissButton": "Continua lo shopping",
+          "footerText": "Un anno brillante inizia con un giro ✨",
+          "messages": {
+            "maxSpinReached": "Sembra che tu abbia esaurito tutti i tuoi giri!"
+          }
+        },
+        "redemptionForm": {
+          "title": "Il tuo premio di Capodanno è pronto!"
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "✨ La ruota di Capodanno si sblocca alle {{TIME}} — preparati a girare!",
+      "readyToSpin": "✨ È il momento! Tocca {{OPENER}} per girare verso il nuovo anno!",
+      "countDownToLaunch": "⏳ Il conto alla rovescia è iniziato — i premi di Capodanno si sbloccano tra {{TIME}}!",
+      "countDownToClose": "✨ Ultimi istanti! Mancano solo {{TIME}} per girare e riscattare il tuo premio di Capodanno!"
+    }
+  }
+}

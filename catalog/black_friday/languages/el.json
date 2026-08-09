@@ -1,0 +1,66 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} ώρες",
+    "expireDay": "{{TIME}} ημέρες"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "Σχεδόν εκεί! Το δώρο σου για τη Black Friday σε περιμένει",
+        "description": "Μην τα παρατάς — η επόμενη περιστροφή σου μπορεί να ξεκλειδώσει ένα αποκλειστικό δώρο Black Friday!"
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "💥 Νίκη Black Friday! Κέρδισες {{REWARD}}!",
+        "description": "Χρησιμοποίησε τον παρακάτω κωδικό στο ταμείο για να διεκδικήσεις την έκπτωσή σου Black Friday."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "🚚 Νίκη Black Friday! Κέρδισες {{REWARD}}!",
+        "description": "Χρησιμοποίησε τον παρακάτω κωδικό στο ταμείο για δωρεάν αποστολή στην παραγγελία σου Black Friday."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "🎁 Νίκη Black Friday! Κέρδισες {{REWARD}}!",
+        "description": "Χρησιμοποίησε τον παρακάτω κωδικό στο ταμείο για να διεκδικήσεις το δώρο σου Black Friday."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "ΠΕΡΙΣΤΡΕΨΕ ΓΙΑ ΠΡΟΣΦΟΡΕΣ"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "Οι προσφορές Black Friday σε περιμένουν!",
+          "description": "Εισήγαγε τα στοιχεία σου και περίστρεψε τον τροχό για να ξεκλειδώσεις ένα αποκλειστικό δώρο Black Friday.",
+          "descriptionForExistingAccount": "{{NAME}}, η Black Friday ήρθε — περίστρεψε τώρα για να αποκαλύψεις το δώρο σου.",
+          "agreement": "Συμφωνώ να λαμβάνω προσφορές και ενημερώσεις για τη Black Friday.",
+          "spinButton": "ΞΕΚΛΕΙΔΩΣΕ ΠΡΟΣΦΟΡΕΣ",
+          "dismissButton": "Συνέχεια αγορών",
+          "footerText": "Κάθε περιστροφή μπορεί να ξεκλειδώσει την επόμενη υπέροχη προσφορά σου.",
+          "messages": {
+            "maxSpinReached": "Έχεις ήδη χρησιμοποιήσει όλες τις περιστροφές σου για τη Black Friday!"
+          }
+        },
+        "redemptionForm": {
+          "title": "Το δώρο σου για τη Black Friday είναι έτοιμο!"
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "✨ Η Black Friday ξεκινά στις {{TIME}} — ετοιμάσου να περιστρέψεις για αποκλειστικά δώρα!",
+      "readyToSpin": "💥 Η Black Friday είναι εδώ — κάνε κλικ στο {{OPENER}} για να περιστρέψεις και να ξεκλειδώσεις το δώρο σου!",
+      "countDownToLaunch": "⏳ Ο τροχός ξεκλειδώνει σε {{TIME}} — μη χάσεις την ευκαιρία σου για τη Black Friday!",
+      "countDownToClose": "⚡ Βιάσου! Απομένουν μόνο {{TIME}} για να περιστρέψεις και να διεκδικήσεις το δώρο σου Black Friday!"
+    }
+  }
+}

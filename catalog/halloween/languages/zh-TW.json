@@ -1,0 +1,66 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} 小時",
+    "expireDay": "{{TIME}} 天"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "🎃 這次沒有中獎！",
+        "description": "幽靈們這次靜悄悄的——但下一轉或許會揭曉驚悚的驚喜。"
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "🎃 嚇！你抽中了 {{REWARD}}！",
+        "description": "結帳時輸入以下代碼，解鎖你的萬聖節優惠。"
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "🎃 嚇！你抽中了 {{REWARD}}！",
+        "description": "結帳時輸入以下代碼，享受來自異世界的免運優惠。"
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "🎁 驚悚驚喜！你抽中了 {{REWARD}}！",
+        "description": "結帳時輸入以下代碼，領取你的詭魅贈品。"
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "召喚獎勵"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "🎃 敢挑戰鬼魅輪盤嗎？",
+          "description": "填寫資料並轉動輪盤，解鎖詭譎萬聖節好禮。",
+          "descriptionForExistingAccount": "{{NAME}}，現在就轉動，解鎖你的萬聖節神秘好禮！",
+          "agreement": "我同意接收詭魅優惠與最新資訊。",
+          "spinButton": "有膽就轉",
+          "dismissButton": "繼續購物",
+          "footerText": "只有勇敢的靈魂才能解鎖最棒的驚喜。",
+          "messages": {
+            "maxSpinReached": "幽靈說你的轉動機會已經用完囉。"
+          }
+        },
+        "redemptionForm": {
+          "title": "你的詭魅獎勵已經就緒！"
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "🎃 幽靈正在聚集⋯輪盤將於 {{TIME}} 解鎖！",
+      "readyToSpin": "👻 不給糖就搗蛋？點擊 {{OPENER}} 轉動抽取萬聖節好禮！",
+      "countDownToLaunch": "⏳ 鬼魅輪盤將於 {{TIME}} 後解鎖——做好準備吧！",
+      "countDownToClose": "🎃 最後機會！只剩 {{TIME}} 可以轉動鬼魅輪盤！"
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} timer",
+    "expireDay": "{{TIME}} dage"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "Så tæt på! Din Black Friday-gevinst venter",
+        "description": "Giv ikke op — dit næste spin kan låse op for en eksklusiv Black Friday-gevinst!"
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "💥 Black Friday-gevinst! Du fik {{REWARD}}!",
+        "description": "Brug koden nedenfor ved kassen for at hente din Black Friday-rabat."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "🚚 Black Friday-gevinst! Du fik {{REWARD}}!",
+        "description": "Brug koden nedenfor ved kassen for at nyde gratis fragt på din Black Friday-ordre."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "🎁 Black Friday-gevinst! Du fik {{REWARD}}!",
+        "description": "Brug koden nedenfor ved kassen for at hente din Black Friday-gave."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "SPIN EFTER TILBUD"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "Black Friday-tilbud venter!",
+          "description": "Indtast dine oplysninger, og spin hjulet for at låse op for en eksklusiv Black Friday-gevinst.",
+          "descriptionForExistingAccount": "{{NAME}}, Black Friday er her — spin nu for at afsløre din gevinst.",
+          "agreement": "Jeg accepterer at modtage Black Friday-tilbud og opdateringer.",
+          "spinButton": "LÅS OP FOR TILBUD",
+          "dismissButton": "Fortsæt med at handle",
+          "footerText": "Hvert spin kan låse op for dit næste gode tilbud.",
+          "messages": {
+            "maxSpinReached": "Du har allerede brugt alle dine Black Friday-spin!"
+          }
+        },
+        "redemptionForm": {
+          "title": "Din Black Friday-gevinst er klar!"
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "✨ Black Friday starter kl. {{TIME}} — gør dig klar til at spinne efter eksklusive gevinster!",
+      "readyToSpin": "💥 Black Friday er i gang - klik på {{OPENER}} for at spinne og låse op for din gevinst!",
+      "countDownToLaunch": "⏳ Hjulet låser op om {{TIME}} — gå ikke glip af din Black Friday-chance!",
+      "countDownToClose": "⚡ Skynd dig! Kun {{TIME}} tilbage til at spinne og hente din Black Friday-gevinst!"
+    }
+  }
+}

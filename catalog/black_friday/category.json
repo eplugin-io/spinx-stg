@@ -5,37 +5,29 @@
     {
       "id": "BFD_01",
       "thumbnail": {
-        "main": "/catalog/black_friday/themes/BFD_01/thumbnail/main.webp",
-        "hover": "/catalog/black_friday/themes/BFD_01/thumbnail/hover.webp"
+        "main": "/catalog/black_friday/themes/BFD_01/thumbnail/main.webp"
       },
-      "demo": "/?theme=BFD_01",
       "tags": ["black friday", "luxury", "yellow", "red", "elegant"]
     },
     {
       "id": "BFD_02",
       "thumbnail": {
-        "main": "/catalog/black_friday/themes/BFD_02/thumbnail/main.webp",
-        "hover": "/catalog/black_friday/themes/BFD_02/thumbnail/hover.webp"
+        "main": "/catalog/black_friday/themes/BFD_02/thumbnail/main.webp"
       },
-      "demo": "/?theme=BFD_02",
       "tags": ["black friday", "luxury", "pink", "red", "playful", "modern"]
     },
     {
       "id": "BFD_03",
       "thumbnail": {
-        "main": "/catalog/black_friday/themes/BFD_03/thumbnail/main.webp",
-        "hover": "/catalog/black_friday/themes/BFD_03/thumbnail/hover.webp"
+        "main": "/catalog/black_friday/themes/BFD_03/thumbnail/main.webp"
       },
-      "demo": "/?theme=BFD_03",
       "tags": ["black friday", "luxury", "yellow", "red", "playfair", "elegant"]
     },
     {
       "id": "BFD_04",
       "thumbnail": {
-        "main": "/catalog/black_friday/themes/BFD_04/thumbnail/main.webp",
-        "hover": "/catalog/black_friday/themes/BFD_04/thumbnail/hover.webp"
+        "main": "/catalog/black_friday/themes/BFD_04/thumbnail/main.webp"
       },
-      "demo": "/?theme=BFD_04",
       "tags": ["black friday", "luxury", "yellow", "playfair", "elegant"]
     }
   ],

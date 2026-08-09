@@ -1,0 +1,66 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} ore",
+    "expireDay": "{{TIME}} zile"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "Aproape Acolo! Premiul Tău de Black Friday Te Așteaptă",
+        "description": "Nu renunța — următoarea rotire îți poate debloca un premiu exclusiv de Black Friday!"
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "💥 Victorie de Black Friday! Ai Primit {{REWARD}}!",
+        "description": "Folosește codul de mai jos la finalizarea comenzii pentru a-ți revendica reducerea de Black Friday."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "🚚 Victorie de Black Friday! Ai Primit {{REWARD}}!",
+        "description": "Folosește codul de mai jos la finalizarea comenzii pentru a beneficia de transport gratuit la comanda ta de Black Friday."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "🎁 Victorie de Black Friday! Ai Primit {{REWARD}}!",
+        "description": "Folosește codul de mai jos la finalizarea comenzii pentru a-ți revendica cadoul de Black Friday."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "ROTEȘTE PENTRU OFERTE"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "Ofertele de Black Friday Te Așteaptă!",
+          "description": "Introdu-ți datele și rotește roata pentru a debloca un premiu exclusiv de Black Friday.",
+          "descriptionForExistingAccount": "{{NAME}}, Black Friday a sosit — rotește acum pentru a-ți dezvălui premiul.",
+          "agreement": "Sunt de acord să primesc oferte și noutăți de Black Friday.",
+          "spinButton": "DEBLOCHEAZĂ OFERTELE",
+          "dismissButton": "Continuă cumpărăturile",
+          "footerText": "Fiecare rotire îți poate debloca următoarea ofertă grozavă.",
+          "messages": {
+            "maxSpinReached": "Ai folosit deja toate rotirile de Black Friday!"
+          }
+        },
+        "redemptionForm": {
+          "title": "Premiul Tău de Black Friday Este Gata!"
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "✨ Black Friday începe la {{TIME}} — pregătește-te să rotești pentru premii exclusive!",
+      "readyToSpin": "💥 Black Friday e live — apasă {{OPENER}} pentru a roti și a-ți debloca premiul!",
+      "countDownToLaunch": "⏳ Roata se deblochează în {{TIME}} — nu rata șansa ta de Black Friday!",
+      "countDownToClose": "⚡ Grăbește-te! Mai sunt doar {{TIME}} pentru a roti și a-ți revendica premiul de Black Friday!"
+    }
+  }
+}

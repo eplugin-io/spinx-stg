@@ -1,0 +1,66 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} sati",
+    "expireDay": "{{TIME}} dana"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "Skoro pa! Vaša Black Friday nagrada vas čeka",
+        "description": "Ne odustajte — vaše sljedeće okretanje moglo bi otključati ekskluzivnu Black Friday nagradu!"
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "💥 Black Friday pobjeda! Osvojili ste {{REWARD}}!",
+        "description": "Upotrijebite kod ispod prilikom plaćanja kako biste preuzeli svoj Black Friday popust."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "🚚 Black Friday pobjeda! Osvojili ste {{REWARD}}!",
+        "description": "Upotrijebite kod ispod prilikom plaćanja kako biste dobili besplatnu dostavu na svoju Black Friday narudžbu."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "🎁 Black Friday pobjeda! Osvojili ste {{REWARD}}!",
+        "description": "Upotrijebite kod ispod prilikom plaćanja kako biste preuzeli svoj Black Friday poklon."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "ZAVRTI ZA PONUDE"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "Black Friday ponude vas čekaju!",
+          "description": "Unesite svoje podatke i zavrtite kolo kako biste otključali ekskluzivnu Black Friday nagradu.",
+          "descriptionForExistingAccount": "{{NAME}}, Black Friday je stigao — zavrtite sada kako biste otkrili svoju nagradu.",
+          "agreement": "Slažem se s primanjem Black Friday ponuda i novosti.",
+          "spinButton": "OTKLJUČAJ PONUDE",
+          "dismissButton": "Nastavi kupnju",
+          "footerText": "Svako okretanje moglo bi otključati vašu sljedeću sjajnu ponudu.",
+          "messages": {
+            "maxSpinReached": "Već ste iskoristili sva svoja Black Friday okretanja!"
+          }
+        },
+        "redemptionForm": {
+          "title": "Vaša Black Friday nagrada je spremna!"
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "✨ Black Friday počinje u {{TIME}} — pripremite se za okretanje za ekskluzivne nagrade!",
+      "readyToSpin": "💥 Black Friday je uživo — kliknite {{OPENER}} za okretanje i otključavanje svoje nagrade!",
+      "countDownToLaunch": "⏳ Kolo se otključava za {{TIME}} — ne propustite svoju Black Friday priliku!",
+      "countDownToClose": "⚡ Požurite! Preostalo je samo {{TIME}} za okretanje i preuzimanje Black Friday nagrade!"
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} horas",
+    "expireDay": "{{TIME}} dias"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "🎃 Sem Sorte Desta Vez!",
+        "description": "Os espíritos estavam quietos desta vez — mas seu próximo giro pode revelar uma surpresa assustadora."
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "🎃 Buu! Você Ganhou {{REWARD}}!",
+        "description": "Use o código abaixo no checkout para desbloquear sua economia assustadora."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "🎃 Buu! Você Ganhou {{REWARD}}!",
+        "description": "Use o código abaixo no checkout para aproveitar o frete grátis do além."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "🎁 Uma Surpresa Assustadora! Você Ganhou {{REWARD}}!",
+        "description": "Use o código abaixo no checkout para resgatar seu brinde assombrosamente bom."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "INVOCAR RECOMPENSA"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "🎃 Ousa Girar a Roleta Assombrada?",
+          "description": "Informe seus dados e gire a roleta para desbloquear uma recompensa assustadora de Halloween.",
+          "descriptionForExistingAccount": "{{NAME}}, gire agora para desbloquear sua recompensa assustadora de Halloween!",
+          "agreement": "Concordo em receber ofertas e novidades assustadoras.",
+          "spinButton": "GIRE SE FOR CORAJOSO",
+          "dismissButton": "Continuar comprando",
+          "footerText": "Só as almas corajosas desbloqueiam as melhores surpresas.",
+          "messages": {
+            "maxSpinReached": "Os espíritos dizem que você já usou todos os seus giros por agora."
+          }
+        },
+        "redemptionForm": {
+          "title": "Sua Recompensa Assustadora Está Pronta!"
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "🎃 Os espíritos estão se reunindo... a roleta libera às {{TIME}}!",
+      "readyToSpin": "👻 Doces ou travessuras? Clique em {{OPENER}} para girar por sua recompensa de Halloween!",
+      "countDownToLaunch": "⏳ A roleta assombrada libera em {{TIME}} — prepare-se!",
+      "countDownToClose": "🎃 Última chance! Restam apenas {{TIME}} para girar a roleta assombrada!"
+    }
+  }
+}

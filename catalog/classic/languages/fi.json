@@ -1,0 +1,102 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} tuntia",
+    "expireDay": "{{TIME}} päivää"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "Hups! Ehkä ensi kerralla",
+        "description": "Älä luovuta - jokainen pyöräytys voi paljastaa jännittävän palkinnon!"
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "Onnittelut! Voitit {{REWARD}}!",
+        "description": "Käytä alla olevaa koodia kassalla nauttiaksesi alennuksestasi."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "Onnittelut! Voitit {{REWARD}}!",
+        "description": "Käytä alla olevaa koodia kassalla saadaksesi ilmaisen toimituksen."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "Yllätys! Voitit {{REWARD}}!",
+        "description": "Käytä alla olevaa koodia kassalla lunastaaksesi ilmaisen lahjasi."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "PYÖRÄYTÄ NYT"
+    },
+    "readyLabel": {
+      "text": "PALKINTO VALMIS"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "Pyöräytä ja voita jännittäviä palkintoja!",
+          "description": "Täytä tietosi ja saat mahdollisuuden pyöräyttää.",
+          "descriptionForExistingAccount": "Tervetuloa, {{NAME}}! Valmistaudu pyörittämään onnenpyörää ja avaamaan jännittäviä palkintoja, jotka odottavat juuri sinua.",
+          "fields": {
+            "name": {
+              "placeholder": "Nimi"
+            },
+            "email": {
+              "placeholder": "Sähköposti"
+            }
+          },
+          "agreement": "Suostun vastaanottamaan markkinointisähköposteja ja tarjouksia.",
+          "spinButton": "PYÖRÄYTÄ",
+          "dismissButton": "Jatka ostoksia",
+          "footerText": "Hauskanpito alkaa yhdellä pyöräytyksellä!",
+          "messages": {
+            "maxSpinReached": "Näyttää siltä, että olet käyttänyt kaikki pyöräytyksesi!"
+          }
+        },
+        "resultForm": {
+          "redeemButton": "Käytä palkinto nyt",
+          "dismissButton": "Jatka ostoksia",
+          "messages": {
+            "rewardExpiry": "Käytä palkintosi {{EXPIRE}} kuluessa"
+          }
+        },
+        "redemptionForm": {
+          "title": "Palkintosi on otettu käyttöön!",
+          "description": "Palkintosi on aktiivinen - voit siirtyä kassalle nyt tai jatkaa ostoksia ja käyttää sitä milloin tahansa.",
+          "checkoutButton": "Siirry kassalle",
+          "dismissButton": "Jatka ostoksia",
+          "messages": {
+            "noCartItems": "Lisää tuotteita ostoskoriisi ja lunasta palkintosi kassalla."
+          }
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "Valmistaudu! Palkintopyörä käynnistyy klo {{TIME}} jännittävin palkinnoin!",
+      "readyToSpin": "Valmiina pyörittämään? Klikkaa {{OPENER}} ja voita jotain hienoa!",
+      "countDownToLaunch": "Lähtölaskenta käynnissä! Enää {{TIME}} jäljellä käynnistykseen!",
+      "countDownToClose": "Kiirehdi! Enää {{TIME}} jäljellä - klikkaa {{OPENER}} pyöräyttääksesi ja lunastaaksesi palkintosi!"
+    },
+    "encourage": {
+      "messages": {
+        "discount": "Avasit {{VALUE}} alennuksen - käytä se kassalla!",
+        "discountWithMinOrder": "Saat {{VALUE}} alennuksen yli {{MIN_ORDER}} tilauksista.",
+        "freeShip": "Ilmainen toimitus avattu - käytä se kassalla!",
+        "freeShipWithMinOrder": "Ilmainen toimitus yli {{MIN_ORDER}} tilauksissa.",
+        "freeShipWithMaxAmount": "Nauti ilmaisesta toimituksesta aina {{MAX_AMOUNT}} asti.",
+        "freeShipWithMaxAmountAndMinOrder": "Ilmainen toimitus aina {{MAX_AMOUNT}} asti yli {{MIN_ORDER}} tilauksissa.",
+        "freeGift": "Ilmainen lahja avattu - nouda se kassalla!",
+        "redeemCode": "Käytä koodia {{CODE}} kassalla nauttiaksesi palkinnostasi."
+      }
+    }
+  }
+}

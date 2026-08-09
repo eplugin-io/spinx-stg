@@ -1,0 +1,102 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} heures",
+    "expireDay": "{{TIME}} jours"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "Dommage ! Ce sera pour la prochaine fois",
+        "description": "N'abandonnez pas - chaque tour peut révéler une récompense exceptionnelle !"
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "Félicitations ! Vous avez gagné {{REWARD}} !",
+        "description": "Utilisez le code ci-dessous lors du paiement pour profiter de votre réduction."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "Félicitations ! Vous avez gagné {{REWARD}} !",
+        "description": "Utilisez le code ci-dessous lors du paiement pour bénéficier de la livraison gratuite."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "Surprise ! Vous avez gagné {{REWARD}} !",
+        "description": "Utilisez le code ci-dessous lors du paiement pour réclamer votre cadeau gratuit."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "JOUER MAINTENANT"
+    },
+    "readyLabel": {
+      "text": "RÉCOMPENSE PRÊTE"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "Tournez la roue pour gagner des récompenses exceptionnelles !",
+          "description": "Renseignez vos coordonnées pour tenter votre chance.",
+          "descriptionForExistingAccount": "Bienvenue, {{NAME}} ! Préparez-vous à tourner la roue et à débloquer des récompenses exceptionnelles qui n'attendent que vous.",
+          "fields": {
+            "name": {
+              "placeholder": "Nom"
+            },
+            "email": {
+              "placeholder": "E-mail"
+            }
+          },
+          "agreement": "J'accepte de recevoir des e-mails marketing et des offres.",
+          "spinButton": "TOURNER",
+          "dismissButton": "Continuer mes achats",
+          "footerText": "Le plaisir commence par un tour de roue !",
+          "messages": {
+            "maxSpinReached": "On dirait que vous avez utilisé tous vos tours !"
+          }
+        },
+        "resultForm": {
+          "redeemButton": "Appliquer la récompense",
+          "dismissButton": "Continuer mes achats",
+          "messages": {
+            "rewardExpiry": "Utilisez votre récompense dans les {{EXPIRE}}"
+          }
+        },
+        "redemptionForm": {
+          "title": "Votre récompense a été appliquée !",
+          "description": "Votre récompense est active - vous pouvez commander maintenant ou continuer vos achats et l'utiliser à tout moment.",
+          "checkoutButton": "Commander maintenant",
+          "dismissButton": "Continuer mes achats",
+          "messages": {
+            "noCartItems": "Ajoutez des articles à votre panier et utilisez votre récompense lors du paiement."
+          }
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "Préparez-vous ! La roue des récompenses se lance à {{TIME}} avec des prix exceptionnels !",
+      "readyToSpin": "Prêt à jouer ? Cliquez sur {{OPENER}} et gagnez quelque chose d'exceptionnel !",
+      "countDownToLaunch": "Le compte à rebours est lancé ! Plus que {{TIME}} avant le lancement !",
+      "countDownToClose": "Dépêchez-vous ! Il ne reste que {{TIME}} - cliquez sur {{OPENER}} pour tourner la roue et réclamer votre récompense !"
+    },
+    "encourage": {
+      "messages": {
+        "discount": "Vous avez débloqué {{VALUE}} de réduction - utilisez-la lors du paiement !",
+        "discountWithMinOrder": "Obtenez {{VALUE}} de réduction sur les commandes de plus de {{MIN_ORDER}}.",
+        "freeShip": "Livraison gratuite débloquée - utilisez-la lors du paiement !",
+        "freeShipWithMinOrder": "Livraison gratuite sur les commandes de plus de {{MIN_ORDER}}.",
+        "freeShipWithMaxAmount": "Profitez de la livraison gratuite jusqu'à {{MAX_AMOUNT}}.",
+        "freeShipWithMaxAmountAndMinOrder": "Livraison gratuite jusqu'à {{MAX_AMOUNT}} sur les commandes de plus de {{MIN_ORDER}}.",
+        "freeGift": "Cadeau gratuit débloqué - récupérez-le lors du paiement !",
+        "redeemCode": "Utilisez le code {{CODE}} lors du paiement pour profiter de votre récompense."
+      }
+    }
+  }
+}

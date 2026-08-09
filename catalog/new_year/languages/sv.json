@@ -1,0 +1,66 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} timmar",
+    "expireDay": "{{TIME}} dagar"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "✨ Ingen tur den här gången!",
+        "description": "Det nya året har fortfarande överraskningar som väntar - försök snurra igen snart!"
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "✨ Nyårsvinst! Du fick {{REWARD}}!",
+        "description": "Använd koden nedan i kassan för att lösa in din nyårsbelöning."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "✨ Nyårsvinst! Du fick {{REWARD}}!",
+        "description": "Använd koden nedan i kassan för att njuta av fri frakt på din beställning."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "🎁 Nyårsöverraskning! Du fick {{REWARD}}!",
+        "description": "Använd koden nedan i kassan för att lösa in din nyårspresent."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "SNURRA NU 💥"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "✨ Välkomna det nya året med en överraskning!",
+          "description": "Ange ditt namn och e-post för att låsa upp din nyårsbelöning.",
+          "descriptionForExistingAccount": "{{NAME}}, starta det nya året med ett snurr och lås upp din speciella belöning.",
+          "agreement": "Jag samtycker till att ta emot nyårserbjudanden och uppdateringar.",
+          "spinButton": "Snurra & starta året",
+          "dismissButton": "Fortsätt handla",
+          "footerText": "Ett ljust år börjar med ett snurr ✨",
+          "messages": {
+            "maxSpinReached": "Det verkar som att du har använt alla dina snurr!"
+          }
+        },
+        "redemptionForm": {
+          "title": "Din nyårsbelöning är klar!"
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "✨ Nyårshjulet låses upp kl. {{TIME}} - gör dig redo att snurra!",
+      "readyToSpin": "✨ Dags nu! Tryck på {{OPENER}} för att snurra in det nya året!",
+      "countDownToLaunch": "⏳ Nedräkningen har börjat - nyårsbelöningar låses upp om {{TIME}}!",
+      "countDownToClose": "✨ Sista stund! Endast {{TIME}} kvar att snurra och hämta din nyårsbelöning!"
+    }
+  }
+}

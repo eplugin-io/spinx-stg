@@ -1,0 +1,66 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} timer",
+    "expireDay": "{{TIME}} dage"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "✨ Ingen held denne gang!",
+        "description": "Det nye år har stadig overraskelser i vente — prøv igen snart!"
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "✨ Nytårsgevinst! Du fik {{REWARD}}!",
+        "description": "Brug koden nedenfor ved kassen for at hente din nytårsgevinst."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "✨ Nytårsgevinst! Du fik {{REWARD}}!",
+        "description": "Brug koden nedenfor ved kassen for at nyde gratis fragt på din ordre."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "🎁 Nytårsoverraskelse! Du fik {{REWARD}}!",
+        "description": "Brug koden nedenfor ved kassen for at hente din nytårsgave."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "SPIN NU 💥"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "✨ Byd det nye år velkommen med en overraskelse!",
+          "description": "Indtast dit navn og din e-mail for at låse op for din nytårsgevinst.",
+          "descriptionForExistingAccount": "{{NAME}}, start det nye år med et spin, og lås op for din særlige gevinst.",
+          "agreement": "Jeg accepterer at modtage nytårstilbud og opdateringer.",
+          "spinButton": "Spin og start året",
+          "dismissButton": "Fortsæt med at handle",
+          "footerText": "Et lyst år begynder med ét spin ✨",
+          "messages": {
+            "maxSpinReached": "Det ser ud til, at du har brugt alle dine spin!"
+          }
+        },
+        "redemptionForm": {
+          "title": "Din nytårsgevinst er klar!"
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "✨ Nytårshjulet låser op kl. {{TIME}} — gør dig klar til at spinne!",
+      "readyToSpin": "✨ Nu er det tid! Tryk på {{OPENER}} for at spinne ind i det nye år!",
+      "countDownToLaunch": "⏳ Nedtællingen er i gang — nytårsgevinster låser op om {{TIME}}!",
+      "countDownToClose": "✨ Sidste øjeblikke! Kun {{TIME}} tilbage til at spinne og hente din nytårsgevinst!"
+    }
+  }
+}

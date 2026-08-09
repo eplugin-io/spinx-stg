@@ -1,0 +1,102 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} saat",
+    "expireDay": "{{TIME}} gün"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "Hay aksi! Bir dahaki sefere",
+        "description": "Pes etme - her çevirişte heyecan verici ödülünü kazanabilirsin!"
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "Tebrikler! {{REWARD}} Kazandın!",
+        "description": "İndirimini kullanmak için ödeme sırasında aşağıdaki kodu gir."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "Tebrikler! {{REWARD}} Kazandın!",
+        "description": "Ücretsiz kargo için ödeme sırasında aşağıdaki kodu gir."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "Sürpriz! {{REWARD}} Kazandın!",
+        "description": "Ücretsiz hediyeni almak için ödeme sırasında aşağıdaki kodu gir."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "HEMEN ÇEVİR"
+    },
+    "readyLabel": {
+      "text": "ÖDÜL HAZIR"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "Çevir ve heyecan verici ödüller kazan!",
+          "description": "Bilgilerini gir ve çevirme şansını yakala.",
+          "descriptionForExistingAccount": "Hoş geldin, {{NAME}}! Çarkı çevirmeye ve seni bekleyen heyecan verici ödülleri açmaya hazır ol.",
+          "fields": {
+            "name": {
+              "placeholder": "Ad"
+            },
+            "email": {
+              "placeholder": "E-posta"
+            }
+          },
+          "agreement": "Pazarlama e-postaları ve tekliflerini almayı kabul ediyorum.",
+          "spinButton": "ÇEVİR",
+          "dismissButton": "Alışverişe devam et",
+          "footerText": "Eğlence bir çevirişle başlar!",
+          "messages": {
+            "maxSpinReached": "Görünüşe göre tüm çevirme hakkını kullandın!"
+          }
+        },
+        "resultForm": {
+          "redeemButton": "Ödülü şimdi kullan",
+          "dismissButton": "Alışverişe devam et",
+          "messages": {
+            "rewardExpiry": "Ödülünü {{EXPIRE}} içinde kullan"
+          }
+        },
+        "redemptionForm": {
+          "title": "Ödülün uygulandı!",
+          "description": "Ödülün aktif - şimdi ödemeye geçebilir ya da alışverişe devam edip istediğin zaman kullanabilirsin.",
+          "checkoutButton": "Şimdi öde",
+          "dismissButton": "Alışverişe devam et",
+          "messages": {
+            "noCartItems": "Sepetine ürün ekle ve ödeme sırasında ödülünü kullan."
+          }
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "Hazır ol! Ödül çarkı {{TIME}} saatinde heyecan verici ödüllerle başlıyor!",
+      "readyToSpin": "Çevirmeye hazır mısın? {{OPENER}} butonuna tıkla ve heyecan verici bir şey kazan!",
+      "countDownToLaunch": "Geri sayım başladı! Başlangıca sadece {{TIME}} kaldı!",
+      "countDownToClose": "Acele et! Sadece {{TIME}} kaldı - çevirmek ve ödülünü almak için {{OPENER}} butonuna tıkla!"
+    },
+    "encourage": {
+      "messages": {
+        "discount": "{{VALUE}} indirim kazandın - ödeme sırasında kullan!",
+        "discountWithMinOrder": "{{MIN_ORDER}} üzeri siparişlerde {{VALUE}} indirim kazan.",
+        "freeShip": "Ücretsiz kargo açıldı - ödeme sırasında kullan!",
+        "freeShipWithMinOrder": "{{MIN_ORDER}} üzeri siparişlerde ücretsiz kargo.",
+        "freeShipWithMaxAmount": "{{MAX_AMOUNT}} tutarına kadar ücretsiz kargonun keyfini çıkar.",
+        "freeShipWithMaxAmountAndMinOrder": "{{MIN_ORDER}} üzeri siparişlerde {{MAX_AMOUNT}} tutarına kadar ücretsiz kargo.",
+        "freeGift": "Ücretsiz hediye açıldı - ödeme sırasında al!",
+        "redeemCode": "Ödülünün keyfini çıkarmak için ödeme sırasında {{CODE}} kodunu kullan."
+      }
+    }
+  }
+}

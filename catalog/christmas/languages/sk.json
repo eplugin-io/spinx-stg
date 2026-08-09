@@ -1,0 +1,63 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} hodín",
+    "expireDay": "{{TIME}} dní"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "❄️ Tentokrát bez šťastia!",
+        "description": "Ďakujeme za zatočenie! Viac vianočnej mágie na teba môže čakať pri ďalšom pokuse."
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "🎁 Vianočné prekvapenie! Vyhral si {{REWARD}}!",
+        "description": "Použi kód nižšie pri platbe a uži si svoju sviatočnú odmenu."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "🎁 Vianočné prekvapenie! Vyhral si {{REWARD}}!",
+        "description": "Použi kód nižšie pri platbe a uži si sviatočnú dopravu zadarmo."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "🎁 Vianočné prekvapenie! Vyhral si {{REWARD}}!",
+        "description": "Použi kód nižšie pri platbe a vyzdvihni si svoj sviatočný darček."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "ZATOČ TERAZ 🎄"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "🎄 Rozbaľ svoje vianočné prekvapenie!",
+          "description": "Zadaj svoje údaje a zatoč kolesom, aby si rozbalil svoju sviatočnú vianočnú odmenu.",
+          "descriptionForExistingAccount": "{{NAME}}, je čas na vianočné prekvapenie - zatoč a odhaľ svoju sviatočnú odmenu!",
+          "agreement": "Súhlasím s prijímaním sviatočných ponúk a noviniek.",
+          "spinButton": "Odhaliť môj darček",
+          "dismissButton": "Pokračovať v nákupe",
+          "footerText": "Sviatočná mágia sa začína jedným zatočením ✨"
+        },
+        "redemptionForm": {
+          "title": "Sviatočná radosť odomknutá!"
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "🎅 Prichádza vianočná mágia... Koleso sa otvorí o {{TIME}}!",
+      "readyToSpin": "🎁 Tvoje sviatočné prekvapenie čaká! Klepni na {{OPENER}} a zatoč vianočným kolesom!",
+      "countDownToLaunch": "⏳ Už takmer nastal čas! Vianočné koleso sa otvorí o {{TIME}} - priprav sa!",
+      "countDownToClose": "🎄 Posledná šanca! Zostáva len {{TIME}} na zatočenie a získanie sviatočnej odmeny!"
+    }
+  }
+}

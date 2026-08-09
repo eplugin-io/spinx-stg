@@ -1,0 +1,66 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} ore",
+    "expireDay": "{{TIME}} zile"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "🎃 Fără Noroc De Data Asta!",
+        "description": "Spiritele au fost liniștite de data asta — dar următoarea rotire îți poate aduce o surpriză înfiorătoare."
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "🎃 Buu! Ai Câștigat {{REWARD}}!",
+        "description": "Folosește codul de mai jos la finalizarea comenzii pentru a-ți debloca reducerea înfiorătoare."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "🎃 Buu! Ai Câștigat {{REWARD}}!",
+        "description": "Folosește codul de mai jos la finalizarea comenzii pentru a beneficia de transport gratuit din lumea de dincolo."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "🎁 O Surpriză Înfiorătoare! Ai Câștigat {{REWARD}}!",
+        "description": "Folosește codul de mai jos la finalizarea comenzii pentru a-ți revendica cadoul înspăimântător de bun."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "CHEAMĂ PREMIUL"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "🎃 Îndrăznești Să Rotești Roata Bântuită?",
+          "description": "Introdu-ți datele și rotește roata pentru a debloca un premiu înfiorător de Halloween.",
+          "descriptionForExistingAccount": "{{NAME}}, rotește acum pentru a-ți debloca premiul înfiorător de Halloween!",
+          "agreement": "Sunt de acord să primesc oferte și noutăți înfiorătoare.",
+          "spinButton": "ROTEȘTE DACĂ AI CURAJ",
+          "dismissButton": "Continuă cumpărăturile",
+          "footerText": "Doar sufletele curajoase deblochează cele mai bune surprize.",
+          "messages": {
+            "maxSpinReached": "Spiritele spun că ai folosit deja toate rotirile pentru moment."
+          }
+        },
+        "redemptionForm": {
+          "title": "Premiul Tău Înfiorător Este Gata!"
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "🎃 Spiritele se adună... roata se deblochează la {{TIME}}!",
+      "readyToSpin": "👻 Trick or treat? Apasă {{OPENER}} pentru a roti și a câștiga premiul tău de Halloween!",
+      "countDownToLaunch": "⏳ Roata bântuită se deblochează în {{TIME}} — pregătește-te!",
+      "countDownToClose": "🎃 Ultima șansă! Mai sunt doar {{TIME}} pentru a roti roata bântuită!"
+    }
+  }
+}

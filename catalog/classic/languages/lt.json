@@ -1,0 +1,102 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} val.",
+    "expireDay": "{{TIME}} d."
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "Oi! Gal kitą kartą",
+        "description": "Nepasiduok - kiekvienas sukimas gali atskleisti puikų prizą!"
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "Sveikiname! Laimėjai {{REWARD}}!",
+        "description": "Naudok žemiau esantį kodą atsiskaitydamas ir mėgaukis nuolaida."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "Sveikiname! Laimėjai {{REWARD}}!",
+        "description": "Naudok žemiau esantį kodą atsiskaitydamas, kad gautum nemokamą pristatymą."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "Staigmena! Laimėjai {{REWARD}}!",
+        "description": "Naudok žemiau esantį kodą atsiskaitydamas, kad atsiimtum nemokamą dovaną."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "SUKTI DABAR"
+    },
+    "readyLabel": {
+      "text": "PRIZAS PARUOŠTAS"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "Sukis ir laimėk puikius prizus!",
+          "description": "Įvesk savo duomenis ir gauk galimybę pasukti.",
+          "descriptionForExistingAccount": "Sveiki, {{NAME}}! Ruoškis sukti ratą ir atrakinti puikius prizus, laukiančius būtent tavęs.",
+          "fields": {
+            "name": {
+              "placeholder": "Vardas"
+            },
+            "email": {
+              "placeholder": "El. paštas"
+            }
+          },
+          "agreement": "Sutinku gauti rinkodaros el. laiškus ir pasiūlymus.",
+          "spinButton": "SUKTI",
+          "dismissButton": "Tęsti apsipirkimą",
+          "footerText": "Smagumas prasideda vienu sukimu!",
+          "messages": {
+            "maxSpinReached": "Panašu, kad jau išnaudojai visus savo sukimus!"
+          }
+        },
+        "resultForm": {
+          "redeemButton": "Pritaikyti prizą dabar",
+          "dismissButton": "Tęsti apsipirkimą",
+          "messages": {
+            "rewardExpiry": "Panaudok prizą per {{EXPIRE}}"
+          }
+        },
+        "redemptionForm": {
+          "title": "Tavo prizas pritaikytas!",
+          "description": "Tavo prizas aktyvus - gali atsiskaityti dabar arba tęsti apsipirkimą ir panaudoti jį bet kada.",
+          "checkoutButton": "Atsiskaityti dabar",
+          "dismissButton": "Tęsti apsipirkimą",
+          "messages": {
+            "noCartItems": "Įdėk prekių į krepšelį ir pritaikyk prizą atsiskaitydamas."
+          }
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "Ruoškis! Prizų ratas startuoja {{TIME}} su puikiais laimėjimais!",
+      "readyToSpin": "Pasiruošęs sukti? Spausk {{OPENER}} ir laimėk kažką nuostabaus!",
+      "countDownToLaunch": "Prasidėjo atgalinė laiko atskaita! Liko tik {{TIME}} iki starto!",
+      "countDownToClose": "Skubėk! Liko tik {{TIME}} - spausk {{OPENER}}, kad suktum ir atsiimtum prizą!"
+    },
+    "encourage": {
+      "messages": {
+        "discount": "Atrakinai {{VALUE}} nuolaidą - panaudok ją atsiskaitydamas!",
+        "discountWithMinOrder": "Gauk {{VALUE}} nuolaidą užsakymams virš {{MIN_ORDER}}.",
+        "freeShip": "Atrakintas nemokamas pristatymas - panaudok jį atsiskaitydamas!",
+        "freeShipWithMinOrder": "Nemokamas pristatymas užsakymams virš {{MIN_ORDER}}.",
+        "freeShipWithMaxAmount": "Mėgaukis nemokamu pristatymu iki {{MAX_AMOUNT}}.",
+        "freeShipWithMaxAmountAndMinOrder": "Nemokamas pristatymas iki {{MAX_AMOUNT}} užsakymams virš {{MIN_ORDER}}.",
+        "freeGift": "Atrakinta nemokama dovana - atsiimk ją atsiskaitydamas!",
+        "redeemCode": "Naudok kodą {{CODE}} atsiskaitydamas, kad pasimėgautum prizu."
+      }
+    }
+  }
+}

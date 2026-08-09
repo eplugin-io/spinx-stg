@@ -1,0 +1,66 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} heures",
+    "expireDay": "{{TIME}} jours"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "🎃 Pas de chance cette fois !",
+        "description": "Les esprits étaient silencieux cette fois-ci — mais votre prochain tour pourrait révéler une surprise effrayante."
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "🎃 Bouh ! Vous avez gagné {{REWARD}} !",
+        "description": "Utilisez le code ci-dessous lors du paiement pour débloquer vos économies effrayantes."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "🎃 Bouh ! Vous avez gagné {{REWARD}} !",
+        "description": "Utilisez le code ci-dessous lors du paiement pour profiter de la livraison gratuite venue de l'au-delà."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "🎁 Une surprise effrayante ! Vous avez gagné {{REWARD}} !",
+        "description": "Utilisez le code ci-dessous lors du paiement pour réclamer votre cadeau terriblement bon."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "INVOQUER LA RÉCOMPENSE"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "🎃 Osez-vous tourner la roue hantée ?",
+          "description": "Entrez vos coordonnées et tournez la roue pour débloquer une récompense d'Halloween effrayante.",
+          "descriptionForExistingAccount": "{{NAME}}, tournez la roue maintenant pour débloquer votre récompense d'Halloween effrayante !",
+          "agreement": "J'accepte de recevoir des offres et des actualités effrayantes.",
+          "spinButton": "TOURNEZ SI VOUS L'OSEZ",
+          "dismissButton": "Continuer mes achats",
+          "footerText": "Seules les âmes courageuses débloquent les meilleures surprises.",
+          "messages": {
+            "maxSpinReached": "Les esprits disent que vous avez utilisé tous vos tours pour l'instant."
+          }
+        },
+        "redemptionForm": {
+          "title": "Votre récompense effrayante est prête !"
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "🎃 Les esprits se rassemblent... la roue se débloque à {{TIME}} !",
+      "readyToSpin": "👻 Farce ou friandise ? Cliquez sur {{OPENER}} pour tourner et gagner votre récompense d'Halloween !",
+      "countDownToLaunch": "⏳ La roue hantée se débloque dans {{TIME}} — préparez-vous !",
+      "countDownToClose": "🎃 Dernière chance ! Plus que {{TIME}} pour tourner la roue hantée !"
+    }
+  }
+}

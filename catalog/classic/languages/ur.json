@@ -1,0 +1,102 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} گھنٹے",
+    "expireDay": "{{TIME}} دن"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "افسوس! پھر کبھی سہی",
+        "description": "ہمت نہ ہاریں - ہر اسپن میں ایک شاندار انعام چھپا ہو سکتا ہے!"
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "مبارک ہو! آپ نے {{REWARD}} جیت لیا!",
+        "description": "چیک آؤٹ پر رعایت حاصل کرنے کے لیے نیچے دیا گیا کوڈ استعمال کریں۔"
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "مبارک ہو! آپ نے {{REWARD}} جیت لیا!",
+        "description": "مفت ترسیل حاصل کرنے کے لیے چیک آؤٹ پر نیچے دیا گیا کوڈ استعمال کریں۔"
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "خوشخبری! آپ نے {{REWARD}} جیت لیا!",
+        "description": "اپنا مفت تحفہ حاصل کرنے کے لیے چیک آؤٹ پر نیچے دیا گیا کوڈ استعمال کریں۔"
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "ابھی اسپن کریں"
+    },
+    "readyLabel": {
+      "text": "انعام تیار ہے"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "شاندار انعامات جیتنے کے لیے اسپن کریں!",
+          "description": "اپنی تفصیلات درج کریں اور اسپن کرنے کا موقع پائیں۔",
+          "descriptionForExistingAccount": "خوش آمدید، {{NAME}}! پہیہ گھمانے اور اپنے منتظر شاندار انعامات کھولنے کے لیے تیار ہو جائیں۔",
+          "fields": {
+            "name": {
+              "placeholder": "نام"
+            },
+            "email": {
+              "placeholder": "ای میل"
+            }
+          },
+          "agreement": "میں مارکیٹنگ ای میلز اور آفرز وصول کرنے پر رضامند ہوں۔",
+          "spinButton": "اسپن کریں",
+          "dismissButton": "خریداری جاری رکھیں",
+          "footerText": "مزہ ایک اسپن سے شروع ہوتا ہے!",
+          "messages": {
+            "maxSpinReached": "لگتا ہے آپ اپنے تمام اسپن استعمال کر چکے ہیں!"
+          }
+        },
+        "resultForm": {
+          "redeemButton": "انعام ابھی استعمال کریں",
+          "dismissButton": "خریداری جاری رکھیں",
+          "messages": {
+            "rewardExpiry": "اپنا انعام {{EXPIRE}} کے اندر استعمال کریں"
+          }
+        },
+        "redemptionForm": {
+          "title": "آپ کا انعام لاگو کر دیا گیا ہے!",
+          "description": "آپ کا انعام فعال ہے - آپ ابھی چیک آؤٹ کر سکتے ہیں یا خریداری جاری رکھ کر اسے کسی بھی وقت استعمال کر سکتے ہیں۔",
+          "checkoutButton": "ابھی چیک آؤٹ کریں",
+          "dismissButton": "خریداری جاری رکھیں",
+          "messages": {
+            "noCartItems": "اپنی ٹوکری میں اشیاء شامل کریں اور چیک آؤٹ پر اپنا انعام حاصل کریں۔"
+          }
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "تیار ہو جائیں! انعامی پہیہ {{TIME}} پر شاندار انعامات کے ساتھ شروع ہو رہا ہے!",
+      "readyToSpin": "اسپن کرنے کے لیے تیار ہیں؟ {{OPENER}} پر کلک کریں اور کچھ شاندار جیتیں!",
+      "countDownToLaunch": "الٹی گنتی شروع! لانچ میں صرف {{TIME}} باقی ہیں!",
+      "countDownToClose": "جلدی کریں! صرف {{TIME}} باقی ہیں - اسپن کرنے اور اپنا انعام حاصل کرنے کے لیے {{OPENER}} پر کلک کریں!"
+    },
+    "encourage": {
+      "messages": {
+        "discount": "آپ نے {{VALUE}} کی رعایت حاصل کر لی ہے - چیک آؤٹ پر استعمال کریں!",
+        "discountWithMinOrder": "{{MIN_ORDER}} سے زیادہ کے آرڈرز پر {{VALUE}} کی رعایت حاصل کریں۔",
+        "freeShip": "مفت ترسیل حاصل ہو گئی ہے - چیک آؤٹ پر استعمال کریں!",
+        "freeShipWithMinOrder": "{{MIN_ORDER}} سے زیادہ کے آرڈرز پر مفت ترسیل۔",
+        "freeShipWithMaxAmount": "{{MAX_AMOUNT}} تک مفت ترسیل سے لطف اندوز ہوں۔",
+        "freeShipWithMaxAmountAndMinOrder": "{{MIN_ORDER}} سے زیادہ کے آرڈرز پر {{MAX_AMOUNT}} تک مفت ترسیل۔",
+        "freeGift": "مفت تحفہ حاصل ہو گیا ہے - چیک آؤٹ پر لیں!",
+        "redeemCode": "اپنا انعام حاصل کرنے کے لیے چیک آؤٹ پر کوڈ {{CODE}} استعمال کریں۔"
+      }
+    }
+  }
+}

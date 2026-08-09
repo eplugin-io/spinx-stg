@@ -1,0 +1,63 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} godz.",
+    "expireDay": "{{TIME}} dni"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "❄️ Tym razem brak szczęścia!",
+        "description": "Dziękujemy za zakręcenie! Więcej świątecznej magii może czekać przy następnej próbie."
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "🎁 Świąteczna niespodzianka! Wygrałeś {{REWARD}}!",
+        "description": "Użyj poniższego kodu przy kasie, aby cieszyć się świąteczną nagrodą."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "🎁 Świąteczna niespodzianka! Wygrałeś {{REWARD}}!",
+        "description": "Użyj poniższego kodu przy kasie, aby cieszyć się darmową świąteczną dostawą."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "🎁 Świąteczna niespodzianka! Wygrałeś {{REWARD}}!",
+        "description": "Użyj poniższego kodu przy kasie, aby odebrać swój świąteczny prezent."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "ZAKRĘĆ TERAZ 🎄"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "🎄 Odkryj swoją świąteczną niespodziankę!",
+          "description": "Podaj swoje dane i zakręć kołem, aby odkryć swoją świąteczną nagrodę.",
+          "descriptionForExistingAccount": "{{NAME}}, czas na świąteczną niespodziankę - zakręć, aby odkryć swoją świąteczną nagrodę!",
+          "agreement": "Wyrażam zgodę na otrzymywanie świątecznych ofert i aktualizacji.",
+          "spinButton": "Odkryj mój prezent",
+          "dismissButton": "Kontynuuj zakupy",
+          "footerText": "Świąteczna magia zaczyna się od jednego zakręcenia ✨"
+        },
+        "redemptionForm": {
+          "title": "Świąteczna radość odblokowana!"
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "🎅 Nadchodzi świąteczna magia... Koło otworzy się o {{TIME}}!",
+      "readyToSpin": "🎁 Twoja świąteczna niespodzianka czeka! Dotknij {{OPENER}}, aby zakręcić świątecznym kołem!",
+      "countDownToLaunch": "⏳ Już prawie czas! Świąteczne koło otworzy się za {{TIME}} - przygotuj się!",
+      "countDownToClose": "🎄 Ostatnia szansa! Zostało tylko {{TIME}} na zakręcenie i odebranie świątecznej nagrody!"
+    }
+  }
+}

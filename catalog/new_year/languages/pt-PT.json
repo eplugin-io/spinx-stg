@@ -1,0 +1,66 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} horas",
+    "expireDay": "{{TIME}} dias"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "✨ Sem sorte desta vez!",
+        "description": "O Ano Novo ainda tem surpresas à espera - tenta rodar novamente em breve!"
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "✨ Vitória de Ano Novo! Recebeste {{REWARD}}!",
+        "description": "Usa o código abaixo no checkout para reclamares o teu prémio de Ano Novo."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "✨ Vitória de Ano Novo! Recebeste {{REWARD}}!",
+        "description": "Usa o código abaixo no checkout para desfrutares de portes grátis na tua encomenda."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "🎁 Surpresa de Ano Novo! Recebeste {{REWARD}}!",
+        "description": "Usa o código abaixo no checkout para reclamares a tua prenda de Ano Novo."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "RODA JÁ 💥"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "✨ Dá as boas-vindas ao Ano Novo com uma surpresa!",
+          "description": "Indica o teu nome e e-mail para desbloqueares o teu prémio de Ano Novo.",
+          "descriptionForExistingAccount": "{{NAME}}, começa o Ano Novo com uma rodada e desbloqueia o teu prémio especial.",
+          "agreement": "Concordo em receber ofertas e novidades de Ano Novo.",
+          "spinButton": "Rodar & começar o ano",
+          "dismissButton": "Continuar a comprar",
+          "footerText": "Um ano brilhante começa com uma rodada ✨",
+          "messages": {
+            "maxSpinReached": "Parece que já usaste todas as tuas rodadas!"
+          }
+        },
+        "redemptionForm": {
+          "title": "O teu prémio de Ano Novo está pronto!"
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "✨ A roda de Ano Novo abre às {{TIME}} - prepara-te para rodar!",
+      "readyToSpin": "✨ Chegou a hora! Toca em {{OPENER}} para rodares para dentro do Ano Novo!",
+      "countDownToLaunch": "⏳ A contagem decrescente começou - os prémios de Ano Novo desbloqueiam-se em {{TIME}}!",
+      "countDownToClose": "✨ Últimos momentos! Faltam apenas {{TIME}} para rodares e reclamares o teu prémio de Ano Novo!"
+    }
+  }
+}

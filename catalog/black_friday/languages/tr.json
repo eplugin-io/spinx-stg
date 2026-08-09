@@ -1,0 +1,66 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} saat",
+    "expireDay": "{{TIME}} gün"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "Neredeyse Oldu! Black Friday Ödülün Seni Bekliyor",
+        "description": "Pes etme - bir sonraki çevirişin özel bir Black Friday ödülünün kilidini açabilir!"
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "💥 Black Friday Kazancı! {{REWARD}} Kazandın!",
+        "description": "Black Friday indirimini almak için ödeme sırasında aşağıdaki kodu gir."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "🚚 Black Friday Kazancı! {{REWARD}} Kazandın!",
+        "description": "Black Friday siparişinde ücretsiz kargonun keyfini çıkarmak için ödeme sırasında aşağıdaki kodu gir."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "🎁 Black Friday Kazancı! {{REWARD}} Kazandın!",
+        "description": "Black Friday hediyeni almak için ödeme sırasında aşağıdaki kodu gir."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "FIRSATLAR İÇİN ÇEVİR"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "Black Friday Fırsatları Seni Bekliyor!",
+          "description": "Bilgilerini gir ve özel bir Black Friday ödülünün kilidini açmak için çarkı çevir.",
+          "descriptionForExistingAccount": "{{NAME}}, Black Friday geldi - ödülünü ortaya çıkarmak için hemen çevir.",
+          "agreement": "Black Friday teklifleri ve güncellemeleri almayı kabul ediyorum.",
+          "spinButton": "FIRSATLARI AÇ",
+          "dismissButton": "Alışverişe devam et",
+          "footerText": "Her çeviriş bir sonraki harika fırsatının kilidini açabilir.",
+          "messages": {
+            "maxSpinReached": "Tüm Black Friday çevirme hakkını zaten kullandın!"
+          }
+        },
+        "redemptionForm": {
+          "title": "Black Friday Ödülün Hazır!"
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "✨ Black Friday {{TIME}} saatinde başlıyor - özel ödüller için çevirmeye hazır ol!",
+      "readyToSpin": "💥 Black Friday başladı - ödülünün kilidini açmak için {{OPENER}} butonuna tıkla!",
+      "countDownToLaunch": "⏳ Çark {{TIME}} içinde açılıyor - Black Friday şansını kaçırma!",
+      "countDownToClose": "⚡ Acele et! Çevirip Black Friday ödülünü almak için sadece {{TIME}} kaldı!"
+    }
+  }
+}

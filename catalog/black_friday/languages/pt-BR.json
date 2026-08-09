@@ -1,0 +1,66 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} horas",
+    "expireDay": "{{TIME}} dias"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "Quase Lá! Sua Recompensa da Black Friday Espera",
+        "description": "Não desista — seu próximo giro pode desbloquear uma recompensa exclusiva da Black Friday!"
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "💥 Vitória na Black Friday! Você Ganhou {{REWARD}}!",
+        "description": "Use o código abaixo no checkout para resgatar seu desconto da Black Friday."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "🚚 Vitória na Black Friday! Você Ganhou {{REWARD}}!",
+        "description": "Use o código abaixo no checkout para aproveitar frete grátis no seu pedido da Black Friday."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "🎁 Vitória na Black Friday! Você Ganhou {{REWARD}}!",
+        "description": "Use o código abaixo no checkout para resgatar seu presente da Black Friday."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "GIRE POR OFERTAS"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "As Ofertas da Black Friday Estão Esperando!",
+          "description": "Informe seus dados e gire a roleta para desbloquear uma recompensa exclusiva da Black Friday.",
+          "descriptionForExistingAccount": "{{NAME}}, a Black Friday chegou — gire agora para revelar sua recompensa.",
+          "agreement": "Concordo em receber ofertas e novidades da Black Friday.",
+          "spinButton": "DESBLOQUEAR OFERTAS",
+          "dismissButton": "Continuar comprando",
+          "footerText": "Cada giro pode desbloquear sua próxima grande oferta.",
+          "messages": {
+            "maxSpinReached": "Você já usou todos os seus giros da Black Friday!"
+          }
+        },
+        "redemptionForm": {
+          "title": "Sua Recompensa da Black Friday Está Pronta!"
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "✨ A Black Friday começa às {{TIME}} — prepare-se para girar por recompensas exclusivas!",
+      "readyToSpin": "💥 A Black Friday está no ar — clique em {{OPENER}} para girar e desbloquear sua recompensa!",
+      "countDownToLaunch": "⏳ A roleta libera em {{TIME}} — não perca sua chance na Black Friday!",
+      "countDownToClose": "⚡ Corra! Restam apenas {{TIME}} para girar e resgatar sua recompensa da Black Friday!"
+    }
+  }
+}

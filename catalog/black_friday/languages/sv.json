@@ -1,0 +1,66 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} timmar",
+    "expireDay": "{{TIME}} dagar"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "Nästan där! Din Black Friday-belöning väntar",
+        "description": "Ge inte upp - ditt nästa snurr kan låsa upp en exklusiv Black Friday-belöning!"
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "💥 Black Friday-vinst! Du fick {{REWARD}}!",
+        "description": "Använd koden nedan i kassan för att lösa in din Black Friday-rabatt."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "🚚 Black Friday-vinst! Du fick {{REWARD}}!",
+        "description": "Använd koden nedan i kassan för att njuta av fri frakt på din Black Friday-beställning."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "🎁 Black Friday-vinst! Du fick {{REWARD}}!",
+        "description": "Använd koden nedan i kassan för att lösa in din Black Friday-present."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "SNURRA FÖR ERBJUDANDEN"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "Black Friday-erbjudanden väntar!",
+          "description": "Ange dina uppgifter och snurra hjulet för att låsa upp en exklusiv Black Friday-belöning.",
+          "descriptionForExistingAccount": "{{NAME}}, Black Friday är här - snurra nu för att avslöja din belöning.",
+          "agreement": "Jag samtycker till att ta emot Black Friday-erbjudanden och uppdateringar.",
+          "spinButton": "LÅS UPP ERBJUDANDEN",
+          "dismissButton": "Fortsätt handla",
+          "footerText": "Varje snurr kan låsa upp ditt nästa fantastiska erbjudande.",
+          "messages": {
+            "maxSpinReached": "Du har redan använt alla dina Black Friday-snurr!"
+          }
+        },
+        "redemptionForm": {
+          "title": "Din Black Friday-belöning är klar!"
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "✨ Black Friday börjar kl. {{TIME}} - gör dig redo att snurra för exklusiva belöningar!",
+      "readyToSpin": "💥 Black Friday är här - klicka på {{OPENER}} för att snurra och låsa upp din belöning!",
+      "countDownToLaunch": "⏳ Hjulet låses upp om {{TIME}} - missa inte din Black Friday-chans!",
+      "countDownToClose": "⚡ Skynda dig! Endast {{TIME}} kvar att snurra och hämta din Black Friday-belöning!"
+    }
+  }
+}

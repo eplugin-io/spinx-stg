@@ -1,0 +1,66 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} heures",
+    "expireDay": "{{TIME}} jours"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "Presque là ! Votre récompense Black Friday vous attend",
+        "description": "N'abandonnez pas — votre prochain tour pourrait débloquer une récompense exclusive du Black Friday !"
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "💥 Victoire Black Friday ! Vous avez obtenu {{REWARD}} !",
+        "description": "Utilisez le code ci-dessous lors du paiement pour réclamer votre réduction Black Friday."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "🚚 Victoire Black Friday ! Vous avez obtenu {{REWARD}} !",
+        "description": "Utilisez le code ci-dessous lors du paiement pour profiter de la livraison gratuite sur votre commande Black Friday."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "🎁 Victoire Black Friday ! Vous avez obtenu {{REWARD}} !",
+        "description": "Utilisez le code ci-dessous lors du paiement pour réclamer votre cadeau Black Friday."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "JOUER POUR DES OFFRES"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "Les offres du Black Friday vous attendent !",
+          "description": "Entrez vos coordonnées et tournez la roue pour débloquer une récompense exclusive du Black Friday.",
+          "descriptionForExistingAccount": "{{NAME}}, le Black Friday est arrivé — tournez la roue maintenant pour révéler votre récompense.",
+          "agreement": "J'accepte de recevoir des offres et des actualités du Black Friday.",
+          "spinButton": "DÉBLOQUER LES OFFRES",
+          "dismissButton": "Continuer mes achats",
+          "footerText": "Chaque tour peut débloquer votre prochaine bonne affaire.",
+          "messages": {
+            "maxSpinReached": "Vous avez déjà utilisé tous vos tours du Black Friday !"
+          }
+        },
+        "redemptionForm": {
+          "title": "Votre récompense Black Friday est prête !"
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "✨ Le Black Friday commence à {{TIME}} — préparez-vous à jouer pour des récompenses exclusives !",
+      "readyToSpin": "💥 Le Black Friday est lancé — cliquez sur {{OPENER}} pour tourner et débloquer votre récompense !",
+      "countDownToLaunch": "⏳ La roue se débloque dans {{TIME}} — ne manquez pas votre chance Black Friday !",
+      "countDownToClose": "⚡ Dépêchez-vous ! Plus que {{TIME}} pour tourner la roue et réclamer votre récompense Black Friday !"
+    }
+  }
+}

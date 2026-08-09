@@ -1,0 +1,102 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} hodín",
+    "expireDay": "{{TIME}} dní"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "Ajaj! Možno nabudúce",
+        "description": "Nevzdávaj sa - každé zatočenie môže odhaliť skvelú odmenu!"
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "Gratulujeme! Vyhral si {{REWARD}}!",
+        "description": "Použi kód nižšie pri platbe a užívaj si svoju zľavu."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "Gratulujeme! Vyhral si {{REWARD}}!",
+        "description": "Použi kód nižšie pri platbe a získaj dopravu zadarmo."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "Prekvapenie! Vyhral si {{REWARD}}!",
+        "description": "Použi kód nižšie pri platbe a vyzdvihni si svoj darček zadarmo."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "ZATOČ TERAZ"
+    },
+    "readyLabel": {
+      "text": "ODMENA PRIPRAVENÁ"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "Zatoč a vyhraj skvelé odmeny!",
+          "description": "Vyplň svoje údaje a získaj šancu zatočiť.",
+          "descriptionForExistingAccount": "Vitaj, {{NAME}}! Priprav sa zatočiť kolesom a odomknúť skvelé odmeny, ktoré čakajú práve na teba.",
+          "fields": {
+            "name": {
+              "placeholder": "Meno"
+            },
+            "email": {
+              "placeholder": "E-mail"
+            }
+          },
+          "agreement": "Súhlasím s prijímaním marketingových e-mailov a ponúk.",
+          "spinButton": "ZATOČ",
+          "dismissButton": "Pokračovať v nákupe",
+          "footerText": "Zábava sa začína jedným zatočením!",
+          "messages": {
+            "maxSpinReached": "Zdá sa, že si už využil všetky svoje zatočenia!"
+          }
+        },
+        "resultForm": {
+          "redeemButton": "Uplatniť odmenu teraz",
+          "dismissButton": "Pokračovať v nákupe",
+          "messages": {
+            "rewardExpiry": "Využi svoju odmenu do {{EXPIRE}}"
+          }
+        },
+        "redemptionForm": {
+          "title": "Tvoja odmena bola uplatnená!",
+          "description": "Tvoja odmena je aktívna - môžeš teraz dokončiť nákup alebo pokračovať v nakupovaní a využiť ju kedykoľvek.",
+          "checkoutButton": "Dokončiť nákup",
+          "dismissButton": "Pokračovať v nákupe",
+          "messages": {
+            "noCartItems": "Pridaj produkty do košíka a uplatni si odmenu pri platbe."
+          }
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "Priprav sa! Koleso odmien štartuje o {{TIME}} so skvelými výhrami!",
+      "readyToSpin": "Pripravený zatočiť? Klikni na {{OPENER}} a vyhraj niečo skvelé!",
+      "countDownToLaunch": "Odpočítavanie beží! Zostáva len {{TIME}} do štartu!",
+      "countDownToClose": "Ponáhľaj sa! Zostáva len {{TIME}} - klikni na {{OPENER}} a zatoč, aby si získal svoju odmenu!"
+    },
+    "encourage": {
+      "messages": {
+        "discount": "Odomkol si zľavu {{VALUE}} - použi ju pri platbe!",
+        "discountWithMinOrder": "Získaj zľavu {{VALUE}} na objednávky nad {{MIN_ORDER}}.",
+        "freeShip": "Odomknutá doprava zadarmo - použi ju pri platbe!",
+        "freeShipWithMinOrder": "Doprava zadarmo pri objednávkach nad {{MIN_ORDER}}.",
+        "freeShipWithMaxAmount": "Uži si dopravu zadarmo až do {{MAX_AMOUNT}}.",
+        "freeShipWithMaxAmountAndMinOrder": "Doprava zadarmo až do {{MAX_AMOUNT}} pri objednávkach nad {{MIN_ORDER}}.",
+        "freeGift": "Odomknutý darček zadarmo - vyzdvihni si ho pri platbe!",
+        "redeemCode": "Použi kód {{CODE}} pri platbe a uži si svoju odmenu."
+      }
+    }
+  }
+}

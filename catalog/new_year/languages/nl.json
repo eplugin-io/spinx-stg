@@ -1,0 +1,66 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} uur",
+    "expireDay": "{{TIME}} dagen"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "✨ Geen geluk deze keer!",
+        "description": "Het nieuwe jaar heeft nog verrassingen in petto - probeer binnenkort nog eens te draaien!"
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "✨ Nieuwjaarswinst! Je hebt {{REWARD}} gekregen!",
+        "description": "Gebruik onderstaande code bij het afrekenen om je nieuwjaarsbeloning te claimen."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "✨ Nieuwjaarswinst! Je hebt {{REWARD}} gekregen!",
+        "description": "Gebruik onderstaande code bij het afrekenen voor gratis verzending op je bestelling."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "🎁 Nieuwjaarsverrassing! Je hebt {{REWARD}} gekregen!",
+        "description": "Gebruik onderstaande code bij het afrekenen om je nieuwjaarscadeau te claimen."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "DRAAI NU 💥"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "✨ Verwelkom het nieuwe jaar met een verrassing!",
+          "description": "Vul je naam en e-mail in om je nieuwjaarsbeloning te ontgrendelen.",
+          "descriptionForExistingAccount": "{{NAME}}, start het nieuwe jaar met een draai en ontgrendel je speciale beloning.",
+          "agreement": "Ik ga akkoord met het ontvangen van nieuwjaarsaanbiedingen en updates.",
+          "spinButton": "Draai & start het jaar",
+          "dismissButton": "Verder winkelen",
+          "footerText": "Een stralend jaar begint met één draai ✨",
+          "messages": {
+            "maxSpinReached": "Het lijkt erop dat je al je draaibeurten hebt gebruikt!"
+          }
+        },
+        "redemptionForm": {
+          "title": "Je nieuwjaarsbeloning is klaar!"
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "✨ Het nieuwjaarsrad opent om {{TIME}} - maak je klaar om te draaien!",
+      "readyToSpin": "✨ Het is zover! Tik op {{OPENER}} om het nieuwe jaar in te draaien!",
+      "countDownToLaunch": "⏳ Het aftellen is begonnen - nieuwjaarsbeloningen ontgrendelen over {{TIME}}!",
+      "countDownToClose": "✨ Laatste momenten! Nog maar {{TIME}} om te draaien en je nieuwjaarsbeloning te claimen!"
+    }
+  }
+}

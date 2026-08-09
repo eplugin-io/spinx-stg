@@ -1,0 +1,63 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} timmar",
+    "expireDay": "{{TIME}} dagar"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "❄️ Ingen tur den här gången!",
+        "description": "Tack för att du snurrade! Mer julmagi kan vänta på ditt nästa försök."
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "🎁 Julöverraskning! Du vann {{REWARD}}!",
+        "description": "Använd koden nedan i kassan för att njuta av din festliga belöning."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "🎁 Julöverraskning! Du vann {{REWARD}}!",
+        "description": "Använd koden nedan i kassan för att njuta av fri julfrakt."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "🎁 Julöverraskning! Du vann {{REWARD}}!",
+        "description": "Använd koden nedan i kassan för att lösa in din festliga present."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "SNURRA NU 🎄"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "🎄 Packa upp din julöverraskning!",
+          "description": "Ange dina uppgifter och snurra hjulet för att packa upp din festliga julbelöning.",
+          "descriptionForExistingAccount": "{{NAME}}, det är dags för en julöverraskning - snurra för att avslöja din festliga belöning!",
+          "agreement": "Jag samtycker till att ta emot helgerbjudanden och uppdateringar.",
+          "spinButton": "Avslöja min present",
+          "dismissButton": "Fortsätt handla",
+          "footerText": "Julmagin börjar med ett snurr ✨"
+        },
+        "redemptionForm": {
+          "title": "Julglädje upplåst!"
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "🎅 Julmagin är på väg... Hjulet låses upp kl. {{TIME}}!",
+      "readyToSpin": "🎁 Din festliga överraskning väntar! Tryck på {{OPENER}} för att snurra julhjulet!",
+      "countDownToLaunch": "⏳ Snart dags! Julhjulet låses upp om {{TIME}} - gör dig redo!",
+      "countDownToClose": "🎄 Sista chansen! Endast {{TIME}} kvar att snurra och hämta din julbelöning!"
+    }
+  }
+}

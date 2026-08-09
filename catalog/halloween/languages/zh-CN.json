@@ -1,0 +1,66 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} 小时",
+    "expireDay": "{{TIME}} 天"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "🎃 这次没有中奖！",
+        "description": "幽灵们这次保持了沉默——但下一次转动或许会带来诡异的惊喜。"
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "🎃 哇！您赢得了 {{REWARD}}！",
+        "description": "结账时使用下方优惠码，解锁您的万圣节专属优惠。"
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "🎃 哇！您赢得了 {{REWARD}}！",
+        "description": "结账时使用下方优惠码，享受来自异世界的免运费。"
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "🎁 诡秘惊喜！您赢得了 {{REWARD}}！",
+        "description": "结账时使用下方优惠码，领取您的诡异好礼。"
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "召唤奖励"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "🎃 敢来挑战幽灵转盘吗？",
+          "description": "填写您的信息，转动转盘解锁万圣节诡异好礼。",
+          "descriptionForExistingAccount": "{{NAME}}，快来转动转盘，解锁您的万圣节诡异好礼！",
+          "agreement": "我同意接收万圣节专属优惠和最新消息。",
+          "spinButton": "有胆就转",
+          "dismissButton": "继续购物",
+          "footerText": "唯有勇敢的灵魂才能解锁最棒的惊喜。",
+          "messages": {
+            "maxSpinReached": "幽灵们说，您的抽奖次数已经用完了。"
+          }
+        },
+        "redemptionForm": {
+          "title": "您的诡异好礼已就绪！"
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "🎃 幽灵正在集结……转盘将于 {{TIME}} 开启！",
+      "readyToSpin": "👻 不给糖就捣蛋？点击 {{OPENER}} 转动转盘，赢取万圣节好礼！",
+      "countDownToLaunch": "⏳ 幽灵转盘将在 {{TIME}} 后开启——做好准备！",
+      "countDownToClose": "🎃 最后机会！仅剩 {{TIME}} 可以转动幽灵转盘！"
+    }
+  }
+}

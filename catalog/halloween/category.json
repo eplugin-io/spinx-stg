@@ -5,28 +5,22 @@
     {
       "id": "HLW_01",
       "thumbnail": {
-        "main": "/catalog/halloween/themes/HLW_01/thumbnail/main.webp",
-        "hover": "/catalog/halloween/themes/HLW_01/thumbnail/hover.webp"
+        "main": "/catalog/halloween/themes/HLW_01/thumbnail/main.webp"
       },
-      "demo": "/?theme=HLW_01",
       "tags": ["halloween", "cartoon", "playful", "dark"]
     },
     {
       "id": "HLW_02",
       "thumbnail": {
-        "main": "/catalog/halloween/themes/HLW_02/thumbnail/main.webp",
-        "hover": "/catalog/halloween/themes/HLW_02/thumbnail/hover.webp"
+        "main": "/catalog/halloween/themes/HLW_02/thumbnail/main.webp"
       },
-      "demo": "/?theme=HLW_02",
       "tags": ["halloween", "cartoon", "playful", "dark"]
     },
     {
       "id": "HLW_03",
       "thumbnail": {
-        "main": "/catalog/halloween/themes/HLW_03/thumbnail/main.webp",
-        "hover": "/catalog/halloween/themes/HLW_03/thumbnail/hover.webp"
+        "main": "/catalog/halloween/themes/HLW_03/thumbnail/main.webp"
       },
-      "demo": "/?theme=HLW_03",
       "tags": ["halloween", "cartoon", "playful", "dark"]
     }
   ],

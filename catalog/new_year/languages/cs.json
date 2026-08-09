@@ -1,0 +1,66 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} hodin",
+    "expireDay": "{{TIME}} dní"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "✨ Tentokrát bez štěstí!",
+        "description": "Nový rok stále skrývá překvapení — zkuste to znovu brzy!"
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "✨ Novoroční výhra! Získali jste {{REWARD}}!",
+        "description": "Použijte kód níže při placení a vyzvedněte si svou novoroční odměnu."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "✨ Novoroční výhra! Získali jste {{REWARD}}!",
+        "description": "Použijte kód níže při placení a užijte si dopravu zdarma."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "🎁 Novoroční překvapení! Získali jste {{REWARD}}!",
+        "description": "Použijte kód níže při placení a vyzvedněte si svůj novoroční dárek."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "ROZTOČIT 💥"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "✨ Přivítejte Nový rok s překvapením!",
+          "description": "Zadejte své jméno a e-mail a odemkněte si svou novoroční odměnu.",
+          "descriptionForExistingAccount": "{{NAME}}, začněte Nový rok roztočením a odemkněte si svou speciální odměnu.",
+          "agreement": "Souhlasím se zasíláním novoročních nabídek a novinek.",
+          "spinButton": "Roztočit a začít rok",
+          "dismissButton": "Pokračovat v nákupu",
+          "footerText": "Skvělý rok začíná jedním roztočením ✨",
+          "messages": {
+            "maxSpinReached": "Vypadá to, že jste využili všechna svá roztočení!"
+          }
+        },
+        "redemptionForm": {
+          "title": "Vaše novoroční odměna je připravena!"
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "✨ Novoroční kolo se odemyká v {{TIME}} — připravte se na roztočení!",
+      "readyToSpin": "✨ Je to tady! Klepněte na {{OPENER}} a roztočte kolo do Nového roku!",
+      "countDownToLaunch": "⏳ Odpočet běží — novoroční odměny se odemykají za {{TIME}}!",
+      "countDownToClose": "✨ Poslední chvíle! Zbývá jen {{TIME}} na roztočení a získání novoroční odměny!"
+    }
+  }
+}

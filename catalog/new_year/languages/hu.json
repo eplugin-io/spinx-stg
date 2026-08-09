@@ -1,0 +1,66 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} óra",
+    "expireDay": "{{TIME}} nap"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "✨ Most nem volt szerencséd!",
+        "description": "Az új év még tartogat meglepetéseket - próbálkozz pörgetéssel hamarosan újra!"
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "✨ Újévi nyeremény! Kaptál {{REWARD}}!",
+        "description": "Használd az alábbi kódot a fizetésnél, hogy beváltsd újévi jutalmadat."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "✨ Újévi nyeremény! Kaptál {{REWARD}}!",
+        "description": "Használd az alábbi kódot a fizetésnél az ingyenes szállításért rendelésedhez."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "🎁 Újévi meglepetés! Kaptál {{REWARD}}!",
+        "description": "Használd az alábbi kódot a fizetésnél, hogy beváltsd újévi ajándékodat."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "PÖRGESS MOST 💥"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "✨ Köszöntsd az új évet egy meglepetéssel!",
+          "description": "Add meg neved és e-mail címed, hogy feloldd újévi jutalmadat.",
+          "descriptionForExistingAccount": "{{NAME}}, kezdd az új évet egy pörgetéssel, és oldd fel különleges jutalmadat.",
+          "agreement": "Hozzájárulok, hogy újévi ajánlatokat és frissítéseket kapjak.",
+          "spinButton": "Pörgess & indítsd az évet",
+          "dismissButton": "Vásárlás folytatása",
+          "footerText": "Egy fényes év egyetlen pörgetéssel kezdődik ✨",
+          "messages": {
+            "maxSpinReached": "Úgy tűnik, elhasználtad az összes pörgetésedet!"
+          }
+        },
+        "redemptionForm": {
+          "title": "Újévi jutalmad készen áll!"
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "✨ Az újévi kerék {{TIME}}-kor nyílik - készülj fel a pörgetésre!",
+      "readyToSpin": "✨ Itt az idő! Koppints ide: {{OPENER}}, hogy belepörögj az új évbe!",
+      "countDownToLaunch": "⏳ Elindult a visszaszámlálás - az újévi jutalmak {{TIME}} múlva nyílnak!",
+      "countDownToClose": "✨ Utolsó pillanatok! Már csak {{TIME}} van hátra, hogy pörgess és beváltsd újévi jutalmadat!"
+    }
+  }
+}

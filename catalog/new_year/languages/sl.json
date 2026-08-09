@@ -1,0 +1,66 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} ur",
+    "expireDay": "{{TIME}} dni"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "✨ Tokrat brez sreče!",
+        "description": "Novo leto ima še vedno presenečenja v pripravi - kmalu poskusi znova zavrteti!"
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "✨ Novoletna zmaga! Prejel si {{REWARD}}!",
+        "description": "Uporabi spodnjo kodo ob zaključku nakupa in unovči svojo novoletno nagrado."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "✨ Novoletna zmaga! Prejel si {{REWARD}}!",
+        "description": "Uporabi spodnjo kodo ob zaključku nakupa in izkoristi brezplačno dostavo za svoje naročilo."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "🎁 Novoletno presenečenje! Prejel si {{REWARD}}!",
+        "description": "Uporabi spodnjo kodo ob zaključku nakupa in unovči svoje novoletno darilo."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "ZAVRTI ZDAJ 💥"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "✨ Pozdravi novo leto s presenečenjem!",
+          "description": "Vnesi svoje ime in e-pošto, da odkleneš svojo novoletno nagrado.",
+          "descriptionForExistingAccount": "{{NAME}}, začni novo leto z vrtljajem in odkleni svojo posebno nagrado.",
+          "agreement": "Strinjam se s prejemanjem novoletnih ponudb in novosti.",
+          "spinButton": "Zavrti in začni leto",
+          "dismissButton": "Nadaljuj z nakupovanjem",
+          "footerText": "Svetlo leto se začne z enim vrtljajem ✨",
+          "messages": {
+            "maxSpinReached": "Videti je, da si porabil vse svoje vrtljaje!"
+          }
+        },
+        "redemptionForm": {
+          "title": "Tvoja novoletna nagrada je pripravljena!"
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "✨ Novoletno kolo se odpre ob {{TIME}} - pripravi se na vrtenje!",
+      "readyToSpin": "✨ Čas je! Dotakni se {{OPENER}} in zavrti se v novo leto!",
+      "countDownToLaunch": "⏳ Odštevanje se je začelo - novoletne nagrade se odklenejo čez {{TIME}}!",
+      "countDownToClose": "✨ Zadnji trenutki! Ostalo je le še {{TIME}} za vrtenje in prevzem novoletne nagrade!"
+    }
+  }
+}

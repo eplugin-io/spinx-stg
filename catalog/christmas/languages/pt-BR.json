@@ -1,0 +1,63 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} horas",
+    "expireDay": "{{TIME}} dias"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "❄️ Sem Sorte Desta Vez!",
+        "description": "Obrigado por girar! Mais magia natalina pode estar esperando na sua próxima tentativa."
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "🎁 Surpresa de Natal! Você Ganhou {{REWARD}}!",
+        "description": "Use o código abaixo no checkout para aproveitar sua recompensa festiva."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "🎁 Surpresa de Natal! Você Ganhou {{REWARD}}!",
+        "description": "Use o código abaixo no checkout para aproveitar frete grátis nas festas."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "🎁 Surpresa de Natal! Você Ganhou {{REWARD}}!",
+        "description": "Use o código abaixo no checkout para resgatar seu brinde festivo."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "GIRE AGORA 🎄"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "🎄 Desembrulhe Sua Surpresa de Natal!",
+          "description": "Informe seus dados e gire a roleta para desembrulhar sua recompensa festiva de Natal.",
+          "descriptionForExistingAccount": "{{NAME}}, é hora de uma surpresa de Natal — gire para revelar sua recompensa festiva!",
+          "agreement": "Concordo em receber ofertas e novidades de fim de ano.",
+          "spinButton": "Revelar Meu Presente",
+          "dismissButton": "Continuar comprando",
+          "footerText": "A magia das festas começa com um giro ✨"
+        },
+        "redemptionForm": {
+          "title": "Alegria Natalina Desbloqueada!"
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "🎅 A magia do Natal está chegando... A roleta libera às {{TIME}}!",
+      "readyToSpin": "🎁 Sua surpresa festiva espera por você! Toque em {{OPENER}} para girar a roleta de Natal!",
+      "countDownToLaunch": "⏳ Quase na hora! A roleta de Natal libera em {{TIME}} — prepare-se!",
+      "countDownToClose": "🎄 Última chance! Restam apenas {{TIME}} para girar e resgatar sua recompensa natalina!"
+    }
+  }
+}

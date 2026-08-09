@@ -1,0 +1,66 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} tuntia",
+    "expireDay": "{{TIME}} päivää"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "🎃 Ei tuuria tällä kertaa!",
+        "description": "Henget olivat hiljaa tällä kertaa - mutta seuraava pyöräytyksesi voi paljastaa kammottavan yllätyksen."
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "🎃 Buu! Voitit {{REWARD}}!",
+        "description": "Käytä alla olevaa koodia kassalla avataksesi kammottavat säästösi."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "🎃 Buu! Voitit {{REWARD}}!",
+        "description": "Käytä alla olevaa koodia kassalla nauttiaksesi ilmaisesta toimituksesta tuonpuoleisesta."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "🎁 Kammottava yllätys! Voitit {{REWARD}}!",
+        "description": "Käytä alla olevaa koodia kassalla lunastaaksesi kammottavan hyvän lahjasi."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "MANAA PALKINTO"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "🎃 Uskallatko pyöräyttää kummituspyörää?",
+          "description": "Anna tietosi ja pyöräytä pyörää avataksesi kammottavan Halloween-palkinnon.",
+          "descriptionForExistingAccount": "{{NAME}}, pyöräytä nyt avataksesi kammottavan Halloween-palkintosi!",
+          "agreement": "Suostun vastaanottamaan kammottavia tarjouksia ja päivityksiä.",
+          "spinButton": "PYÖRÄYTÄ, JOS USKALLAT",
+          "dismissButton": "Jatka ostoksia",
+          "footerText": "Vain rohkeat sielut avaavat parhaat yllätykset.",
+          "messages": {
+            "maxSpinReached": "Henget sanovat, että olet käyttänyt kaikki pyöräytyksesi toistaiseksi."
+          }
+        },
+        "redemptionForm": {
+          "title": "Kammottava palkintosi on valmis!"
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "🎃 Henget kokoontuvat... pyörä avautuu klo {{TIME}}!",
+      "readyToSpin": "👻 Kepponen vai karkki? Klikkaa {{OPENER}} pyöräyttääksesi Halloween-palkintosi!",
+      "countDownToLaunch": "⏳ Kummituspyörä avautuu {{TIME}} kuluttua - valmistaudu!",
+      "countDownToClose": "🎃 Viimeinen tilaisuus! Enää {{TIME}} jäljellä kummituspyörän pyöräyttämiseen!"
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} Stunden",
+    "expireDay": "{{TIME}} Tage"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "Fast geschafft! Deine Black-Friday-Belohnung wartet",
+        "description": "Nicht aufgeben — deine nächste Drehung könnte eine exklusive Black-Friday-Belohnung freischalten!"
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "💥 Black-Friday-Gewinn! Du hast {{REWARD}} erhalten!",
+        "description": "Verwende den Code unten an der Kasse, um deinen Black-Friday-Rabatt einzulösen."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "🚚 Black-Friday-Gewinn! Du hast {{REWARD}} erhalten!",
+        "description": "Verwende den Code unten an der Kasse, um kostenlosen Versand für deine Black-Friday-Bestellung zu genießen."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "🎁 Black-Friday-Gewinn! Du hast {{REWARD}} erhalten!",
+        "description": "Verwende den Code unten an der Kasse, um dein Black-Friday-Geschenk einzulösen."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "FÜR ANGEBOTE DREHEN"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "Black-Friday-Angebote warten auf dich!",
+          "description": "Gib deine Daten ein und dreh das Rad, um eine exklusive Black-Friday-Belohnung freizuschalten.",
+          "descriptionForExistingAccount": "{{NAME}}, der Black Friday ist da — dreh jetzt, um deine Belohnung zu enthüllen.",
+          "agreement": "Ich stimme zu, Black-Friday-Angebote und Neuigkeiten zu erhalten.",
+          "spinButton": "ANGEBOTE FREISCHALTEN",
+          "dismissButton": "Weiter einkaufen",
+          "footerText": "Jede Drehung kann dein nächstes tolles Angebot freischalten.",
+          "messages": {
+            "maxSpinReached": "Du hast bereits alle deine Black-Friday-Drehungen aufgebraucht!"
+          }
+        },
+        "redemptionForm": {
+          "title": "Deine Black-Friday-Belohnung ist bereit!"
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "✨ Black Friday startet um {{TIME}} — mach dich bereit, für exklusive Belohnungen zu drehen!",
+      "readyToSpin": "💥 Black Friday ist live — klicke auf {{OPENER}}, um zu drehen und deine Belohnung freizuschalten!",
+      "countDownToLaunch": "⏳ Das Rad öffnet sich in {{TIME}} — verpasse nicht deine Black-Friday-Chance!",
+      "countDownToClose": "⚡ Beeil dich! Nur noch {{TIME}}, um zu drehen und deine Black-Friday-Belohnung zu sichern!"
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} horas",
+    "expireDay": "{{TIME}} días"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "¡Casi lo tienes! Tu premio de Black Friday te espera",
+        "description": "No te rindas - ¡tu próximo giro puede desbloquear un premio exclusivo de Black Friday!"
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "💥 ¡Victoria de Black Friday! ¡Has conseguido {{REWARD}}!",
+        "description": "Usa el código de abajo al finalizar la compra para reclamar tu descuento de Black Friday."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "🚚 ¡Victoria de Black Friday! ¡Has conseguido {{REWARD}}!",
+        "description": "Usa el código de abajo al finalizar la compra para disfrutar de envío gratis en tu pedido de Black Friday."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "🎁 ¡Victoria de Black Friday! ¡Has conseguido {{REWARD}}!",
+        "description": "Usa el código de abajo al finalizar la compra para reclamar tu regalo de Black Friday."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "GIRA POR OFERTAS"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "¡Las ofertas de Black Friday te esperan!",
+          "description": "Indica tus datos y gira la ruleta para desbloquear un premio exclusivo de Black Friday.",
+          "descriptionForExistingAccount": "{{NAME}}, Black Friday ya está aquí - gira ahora para revelar tu premio.",
+          "agreement": "Acepto recibir ofertas y novedades de Black Friday.",
+          "spinButton": "DESBLOQUEAR OFERTAS",
+          "dismissButton": "Seguir comprando",
+          "footerText": "Cada giro puede desbloquear tu próxima gran oferta.",
+          "messages": {
+            "maxSpinReached": "¡Ya has usado todos tus giros de Black Friday!"
+          }
+        },
+        "redemptionForm": {
+          "title": "¡Tu premio de Black Friday está listo!"
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "✨ Black Friday comienza a las {{TIME}} - ¡prepárate para girar por premios exclusivos!",
+      "readyToSpin": "💥 ¡Black Friday ya está aquí - haz clic en {{OPENER}} para girar y desbloquear tu premio!",
+      "countDownToLaunch": "⏳ La ruleta se abre en {{TIME}} - ¡no te pierdas tu oportunidad de Black Friday!",
+      "countDownToClose": "⚡ ¡Date prisa! Solo quedan {{TIME}} para girar y reclamar tu premio de Black Friday!"
+    }
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} 小時",
+    "expireDay": "{{TIME}} 天"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "哎呀！下次再試試",
+        "description": "別放棄——每一次轉動都有機會抽中超值好禮！"
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "恭喜！你抽中了 {{REWARD}}！",
+        "description": "結帳時輸入以下代碼即可享有優惠。"
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "恭喜！你抽中了 {{REWARD}}！",
+        "description": "結帳時輸入以下代碼即可享免運費。"
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "驚喜！你抽中了 {{REWARD}}！",
+        "description": "結帳時輸入以下代碼即可領取贈品。"
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "立即轉動"
+    },
+    "readyLabel": {
+      "text": "獎勵已就緒"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "轉動幸運輪盤，贏取超值好禮！",
+          "description": "填寫資料，即可獲得轉動機會。",
+          "descriptionForExistingAccount": "歡迎回來，{{NAME}}！準備好轉動輪盤，解鎖專屬於你的精彩好禮吧。",
+          "fields": {
+            "name": {
+              "placeholder": "姓名"
+            },
+            "email": {
+              "placeholder": "電子郵件"
+            }
+          },
+          "agreement": "我同意接收行銷郵件與優惠資訊。",
+          "spinButton": "開始轉動",
+          "dismissButton": "繼續購物",
+          "footerText": "精彩就從這一轉開始！",
+          "messages": {
+            "maxSpinReached": "看起來你已經用完所有轉動機會囉！"
+          }
+        },
+        "resultForm": {
+          "redeemButton": "立即使用獎勵",
+          "dismissButton": "繼續購物",
+          "messages": {
+            "rewardExpiry": "請在 {{EXPIRE}} 內使用你的獎勵"
+          }
+        },
+        "redemptionForm": {
+          "title": "你的獎勵已套用成功！",
+          "description": "獎勵已生效——你可以立即結帳，或繼續購物，隨時使用。",
+          "checkoutButton": "立即結帳",
+          "dismissButton": "繼續購物",
+          "messages": {
+            "noCartItems": "將商品加入購物車，即可在結帳時使用獎勵。"
+          }
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "準備好了嗎！幸運輪盤將於 {{TIME}} 開跑，好禮多多！",
+      "readyToSpin": "準備好轉動了嗎？點擊 {{OPENER}} 立即抽獎！",
+      "countDownToLaunch": "倒數計時開始！距離開跑僅剩 {{TIME}}！",
+      "countDownToClose": "手刀行動！只剩 {{TIME}}——點擊 {{OPENER}} 立即轉動抽好禮！"
+    },
+    "encourage": {
+      "messages": {
+        "discount": "你已解鎖 {{VALUE}} 折扣優惠——結帳時立即使用！",
+        "discountWithMinOrder": "訂單滿 {{MIN_ORDER}} 即享 {{VALUE}} 折扣。",
+        "freeShip": "已解鎖免運優惠——結帳時立即使用！",
+        "freeShipWithMinOrder": "訂單滿 {{MIN_ORDER}} 即享免運。",
+        "freeShipWithMaxAmount": "享有最高 {{MAX_AMOUNT}} 的免運優惠。",
+        "freeShipWithMaxAmountAndMinOrder": "訂單滿 {{MIN_ORDER}}，享最高 {{MAX_AMOUNT}} 免運優惠。",
+        "freeGift": "已解鎖免費贈品——結帳時立即領取！",
+        "redeemCode": "結帳時輸入代碼 {{CODE}} 即可享有優惠。"
+      }
+    }
+  }
+}

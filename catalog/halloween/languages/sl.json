@@ -1,0 +1,66 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} ur",
+    "expireDay": "{{TIME}} dni"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "🎃 Tokrat brez sreče!",
+        "description": "Duhovi so bili tokrat tiho - a tvoj naslednji vrtljaj lahko razkrije grozljivo presenečenje."
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "🎃 Bu! Osvojil si {{REWARD}}!",
+        "description": "Uporabi spodnjo kodo ob zaključku nakupa in odkleni svoje grozljivo dobre prihranke."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "🎃 Bu! Osvojil si {{REWARD}}!",
+        "description": "Uporabi spodnjo kodo ob zaključku nakupa in izkoristi brezplačno dostavo z onega sveta."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "🎁 Grozljivo presenečenje! Osvojil si {{REWARD}}!",
+        "description": "Uporabi spodnjo kodo ob zaključku nakupa in unovči svoje grozljivo dobro darilo."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "PRIKLIČI NAGRADO"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "🎃 Si upaš zavrteti začarano kolo?",
+          "description": "Vnesi svoje podatke in zavrti kolo, da odkleneš grozljivo noč čarovnic nagrado.",
+          "descriptionForExistingAccount": "{{NAME}}, zavrti zdaj in odkleni svojo grozljivo nagrado za noč čarovnic!",
+          "agreement": "Strinjam se s prejemanjem grozljivih ponudb in novosti.",
+          "spinButton": "ZAVRTI, ČE SI UPAŠ",
+          "dismissButton": "Nadaljuj z nakupovanjem",
+          "footerText": "Le pogumne duše odklenejo najboljša presenečenja.",
+          "messages": {
+            "maxSpinReached": "Duhovi pravijo, da si za zdaj porabil vse svoje vrtljaje."
+          }
+        },
+        "redemptionForm": {
+          "title": "Tvoja grozljiva nagrada je pripravljena!"
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "🎃 Duhovi se zbirajo... kolo se odpre ob {{TIME}}!",
+      "readyToSpin": "👻 Bombonjero ali potegavščino? Klikni {{OPENER}} in zavrti za svojo nagrado za noč čarovnic!",
+      "countDownToLaunch": "⏳ Začarano kolo se odpre čez {{TIME}} - pripravi se!",
+      "countDownToClose": "🎃 Zadnja priložnost! Ostalo je le še {{TIME}} za vrtenje začaranega kolesa!"
+    }
+  }
+}

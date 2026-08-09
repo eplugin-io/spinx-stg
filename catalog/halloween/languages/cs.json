@@ -1,0 +1,66 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} hodin",
+    "expireDay": "{{TIME}} dní"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "🎃 Tentokrát bez štěstí!",
+        "description": "Duchové byli tentokrát tiší — ale vaše další roztočení může odhalit strašidelné překvapení."
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "🎃 Bú! Vyhráli jste {{REWARD}}!",
+        "description": "Použijte kód níže při placení a odemkněte si svou strašidelnou úsporu."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "🎃 Bú! Vyhráli jste {{REWARD}}!",
+        "description": "Použijte kód níže při placení a užijte si dopravu zdarma z onoho světa."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "🎁 Strašidelné překvapení! Vyhráli jste {{REWARD}}!",
+        "description": "Použijte kód níže při placení a vyzvedněte si svůj strašidelně dobrý dárek."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "PŘIVOLAT ODMĚNU"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "🎃 Odvážíte se roztočit strašidelné kolo?",
+          "description": "Zadejte své údaje a roztočte kolo, abyste odemkli strašidelnou halloweenskou odměnu.",
+          "descriptionForExistingAccount": "{{NAME}}, roztočte kolo nyní a odemkněte si svou strašidelnou halloweenskou odměnu!",
+          "agreement": "Souhlasím se zasíláním strašidelných nabídek a novinek.",
+          "spinButton": "ROZTOČIT, POKUD SE ODVÁŽÍTE",
+          "dismissButton": "Pokračovat v nákupu",
+          "footerText": "Jen odvážné duše odemknou ta nejlepší překvapení.",
+          "messages": {
+            "maxSpinReached": "Duchové říkají, že jste prozatím využili všechna svá roztočení."
+          }
+        },
+        "redemptionForm": {
+          "title": "Vaše strašidelná odměna je připravena!"
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "🎃 Duchové se shromažďují... kolo se odemyká v {{TIME}}!",
+      "readyToSpin": "👻 Trick or treat? Klikněte na {{OPENER}} a roztočte kolo pro svou halloweenskou odměnu!",
+      "countDownToLaunch": "⏳ Strašidelné kolo se odemyká za {{TIME}} — připravte se!",
+      "countDownToClose": "🎃 Poslední šance! Zbývá jen {{TIME}} na roztočení strašidelného kola!"
+    }
+  }
+}

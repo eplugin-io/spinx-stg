@@ -1,0 +1,66 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} uur",
+    "expireDay": "{{TIME}} dagen"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "🎃 Geen geluk deze keer!",
+        "description": "De geesten waren deze keer stil - maar je volgende draai kan een griezelige verrassing onthullen."
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "🎃 Boe! Je hebt {{REWARD}} gewonnen!",
+        "description": "Gebruik onderstaande code bij het afrekenen om je griezelige korting te ontgrendelen."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "🎃 Boe! Je hebt {{REWARD}} gewonnen!",
+        "description": "Gebruik onderstaande code bij het afrekenen om te genieten van gratis verzending van de andere kant."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "🎁 Een griezelige verrassing! Je hebt {{REWARD}} gewonnen!",
+        "description": "Gebruik onderstaande code bij het afrekenen om je angstaanjagend leuke cadeau te claimen."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "ROEP BELONING OP"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "🎃 Durf jij het spookrad te draaien?",
+          "description": "Vul je gegevens in en draai het rad om een griezelige Halloween-beloning te ontgrendelen.",
+          "descriptionForExistingAccount": "{{NAME}}, draai nu om je griezelige Halloween-beloning te ontgrendelen!",
+          "agreement": "Ik ga akkoord met het ontvangen van griezelige aanbiedingen en updates.",
+          "spinButton": "DRAAI ALS JE DURFT",
+          "dismissButton": "Verder winkelen",
+          "footerText": "Alleen dapperen ontgrendelen de beste verrassingen.",
+          "messages": {
+            "maxSpinReached": "De geesten zeggen dat je al je draaibeurten voor nu hebt gebruikt."
+          }
+        },
+        "redemptionForm": {
+          "title": "Je griezelige beloning is klaar!"
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "🎃 De geesten verzamelen zich... het rad opent om {{TIME}}!",
+      "readyToSpin": "👻 Trick or treat? Klik op {{OPENER}} om te draaien voor je Halloween-beloning!",
+      "countDownToLaunch": "⏳ Het spookrad opent over {{TIME}} - maak je klaar!",
+      "countDownToClose": "🎃 Laatste kans! Nog maar {{TIME}} om het spookrad te draaien!"
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} Stunden",
+    "expireDay": "{{TIME}} Tage"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "❄️ Diesmal kein Glück!",
+        "description": "Danke fürs Drehen! Beim nächsten Versuch wartet vielleicht noch mehr Weihnachtszauber auf dich."
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "🎁 Weihnachtsüberraschung! Du hast {{REWARD}} gewonnen!",
+        "description": "Verwende den Code unten an der Kasse, um deine festliche Belohnung zu genießen."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "🎁 Weihnachtsüberraschung! Du hast {{REWARD}} gewonnen!",
+        "description": "Verwende den Code unten an der Kasse, um kostenlosen Feiertagsversand zu genießen."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "🎁 Weihnachtsüberraschung! Du hast {{REWARD}} gewonnen!",
+        "description": "Verwende den Code unten an der Kasse, um dein festliches Geschenk einzulösen."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "JETZT DREHEN 🎄"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "🎄 Enthülle deine Weihnachtsüberraschung!",
+          "description": "Gib deine Daten ein und dreh das Rad, um deine festliche Weihnachtsbelohnung zu enthüllen.",
+          "descriptionForExistingAccount": "{{NAME}}, es ist Zeit für eine Weihnachtsüberraschung — dreh das Rad, um deine festliche Belohnung zu enthüllen!",
+          "agreement": "Ich stimme zu, festliche Angebote und Neuigkeiten zu erhalten.",
+          "spinButton": "Mein Geschenk enthüllen",
+          "dismissButton": "Weiter einkaufen",
+          "footerText": "Der Weihnachtszauber beginnt mit einer Drehung ✨"
+        },
+        "redemptionForm": {
+          "title": "Weihnachtsfreude freigeschaltet!"
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "🎅 Der Weihnachtszauber naht... Das Rad öffnet sich um {{TIME}}!",
+      "readyToSpin": "🎁 Deine festliche Überraschung wartet! Tippe auf {{OPENER}}, um das Weihnachtsrad zu drehen!",
+      "countDownToLaunch": "⏳ Es ist fast so weit! Das Weihnachtsrad öffnet sich in {{TIME}} — mach dich bereit!",
+      "countDownToClose": "🎄 Letzte Chance! Nur noch {{TIME}}, um zu drehen und deine Feiertagsbelohnung zu sichern!"
+    }
+  }
+}

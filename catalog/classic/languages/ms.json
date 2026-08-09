@@ -1,0 +1,102 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} jam",
+    "expireDay": "{{TIME}} hari"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "Alamak! Cuba Lagi Nanti",
+        "description": "Jangan give up - setiap pusingan ada peluang untuk menang hadiah menarik!"
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "Tahniah! Anda Menang {{REWARD}}!",
+        "description": "Gunakan kod di bawah semasa checkout untuk nikmati diskaun anda."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "Tahniah! Anda Menang {{REWARD}}!",
+        "description": "Gunakan kod di bawah semasa checkout untuk dapatkan penghantaran percuma."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "Kejutan! Anda Menang {{REWARD}}!",
+        "description": "Gunakan kod di bawah semasa checkout untuk dapatkan hadiah percuma anda."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "PUSING SEKARANG"
+    },
+    "readyLabel": {
+      "text": "HADIAH SEDIA"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "Pusing untuk menangi hadiah menarik!",
+          "description": "Isikan maklumat anda untuk dapatkan peluang memusing.",
+          "descriptionForExistingAccount": "Selamat kembali, {{NAME}}! Bersedia untuk memusing roda dan buka kunci hadiah menarik yang menanti anda.",
+          "fields": {
+            "name": {
+              "placeholder": "Nama"
+            },
+            "email": {
+              "placeholder": "Emel"
+            }
+          },
+          "agreement": "Saya bersetuju untuk menerima emel pemasaran dan tawaran.",
+          "spinButton": "PUSING",
+          "dismissButton": "Teruskan membeli-belah",
+          "footerText": "Keseronokan bermula dengan satu pusingan!",
+          "messages": {
+            "maxSpinReached": "Nampaknya anda sudah guna semua pusingan anda!"
+          }
+        },
+        "resultForm": {
+          "redeemButton": "Guna hadiah sekarang",
+          "dismissButton": "Teruskan membeli-belah",
+          "messages": {
+            "rewardExpiry": "Gunakan hadiah anda dalam masa {{EXPIRE}}"
+          }
+        },
+        "redemptionForm": {
+          "title": "Hadiah anda telah digunakan!",
+          "description": "Hadiah anda kini aktif - anda boleh checkout sekarang atau teruskan membeli-belah dan gunakannya bila-bila masa.",
+          "checkoutButton": "Checkout sekarang",
+          "dismissButton": "Teruskan membeli-belah",
+          "messages": {
+            "noCartItems": "Tambah produk ke troli anda dan guna hadiah anda semasa checkout."
+          }
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "Bersedia! Roda hadiah akan bermula pada {{TIME}} dengan pelbagai hadiah menarik!",
+      "readyToSpin": "Sedia untuk pusing? Klik {{OPENER}} dan menangi sesuatu yang menarik!",
+      "countDownToLaunch": "Detik akhir bermula! Hanya {{TIME}} lagi sebelum ia bermula!",
+      "countDownToClose": "Cepat! Hanya {{TIME}} lagi - klik {{OPENER}} untuk pusing dan dapatkan hadiah anda!"
+    },
+    "encourage": {
+      "messages": {
+        "discount": "Anda telah buka kunci diskaun {{VALUE}} - gunakan semasa checkout!",
+        "discountWithMinOrder": "Dapatkan diskaun {{VALUE}} untuk pesanan melebihi {{MIN_ORDER}}.",
+        "freeShip": "Penghantaran percuma telah dibuka kunci - gunakan semasa checkout!",
+        "freeShipWithMinOrder": "Penghantaran percuma untuk pesanan melebihi {{MIN_ORDER}}.",
+        "freeShipWithMaxAmount": "Nikmati penghantaran percuma sehingga {{MAX_AMOUNT}}.",
+        "freeShipWithMaxAmountAndMinOrder": "Penghantaran percuma sehingga {{MAX_AMOUNT}} untuk pesanan melebihi {{MIN_ORDER}}.",
+        "freeGift": "Hadiah percuma telah dibuka kunci - dapatkan semasa checkout!",
+        "redeemCode": "Gunakan kod {{CODE}} semasa checkout untuk nikmati hadiah anda."
+      }
+    }
+  }
+}

@@ -5,19 +5,15 @@
     {
       "id": "CHR_01",
       "thumbnail": {
-        "main": "/catalog/christmas/themes/CHR_01/thumbnail/main.webp",
-        "hover": "/catalog/christmas/themes/CHR_01/thumbnail/hover.webp"
+        "main": "/catalog/christmas/themes/CHR_01/thumbnail/main.webp"
       },
-      "demo": "/?theme=CHR_01",
       "tags": ["christmas", "joyful", "warm", "red", "green"]
     },
     {
       "id": "CHR_02",
       "thumbnail": {
-        "main": "/catalog/christmas/themes/CHR_02/thumbnail/main.webp",
-        "hover": "/catalog/christmas/themes/CHR_02/thumbnail/hover.webp"
+        "main": "/catalog/christmas/themes/CHR_02/thumbnail/main.webp"
       },
-      "demo": "/?theme=CHR_02",
       "tags": ["christmas", "luxury", "cold", "red", "green"]
     }
   ],

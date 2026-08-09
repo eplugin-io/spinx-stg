@@ -1,0 +1,102 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} ore",
+    "expireDay": "{{TIME}} zile"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "Ups! Poate Data Viitoare",
+        "description": "Nu renunța - fiecare rotire îți poate aduce un premiu palpitant!"
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "Felicitări! Ai Câștigat {{REWARD}}!",
+        "description": "Folosește codul de mai jos la finalizarea comenzii pentru a beneficia de reducerea ta."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "Felicitări! Ai Câștigat {{REWARD}}!",
+        "description": "Folosește codul de mai jos la finalizarea comenzii pentru a beneficia de transport gratuit."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "Surpriză! Ai Câștigat {{REWARD}}!",
+        "description": "Folosește codul de mai jos la finalizarea comenzii pentru a-ți revendica cadoul gratuit."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "ROTEȘTE ACUM"
+    },
+    "readyLabel": {
+      "text": "PREMIU PREGĂTIT"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "Rotește și câștigă premii palpitante!",
+          "description": "Completează-ți datele și obține șansa de a roti.",
+          "descriptionForExistingAccount": "Bun venit, {{NAME}}! Pregătește-te să rotești roata și să deblochezi premii palpitante ce te așteaptă.",
+          "fields": {
+            "name": {
+              "placeholder": "Nume"
+            },
+            "email": {
+              "placeholder": "E-mail"
+            }
+          },
+          "agreement": "Sunt de acord să primesc e-mailuri de marketing și oferte.",
+          "spinButton": "ROTEȘTE",
+          "dismissButton": "Continuă cumpărăturile",
+          "footerText": "Distracția începe cu o rotire!",
+          "messages": {
+            "maxSpinReached": "Se pare că ai folosit toate rotirile!"
+          }
+        },
+        "resultForm": {
+          "redeemButton": "Aplică premiul acum",
+          "dismissButton": "Continuă cumpărăturile",
+          "messages": {
+            "rewardExpiry": "Folosește-ți premiul în {{EXPIRE}}"
+          }
+        },
+        "redemptionForm": {
+          "title": "Premiul tău a fost aplicat!",
+          "description": "Premiul tău este activ - poți finaliza comanda acum sau poți continua cumpărăturile și îl poți folosi oricând.",
+          "checkoutButton": "Finalizează comanda acum",
+          "dismissButton": "Continuă cumpărăturile",
+          "messages": {
+            "noCartItems": "Adaugă produse în coș și revendică-ți premiul la finalizarea comenzii."
+          }
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "Pregătește-te! Roata premiilor se lansează la {{TIME}} cu premii palpitante!",
+      "readyToSpin": "Gata de rotit? Apasă {{OPENER}} și câștigă ceva palpitant!",
+      "countDownToLaunch": "Numărătoarea inversă a început! Mai sunt doar {{TIME}} până la lansare!",
+      "countDownToClose": "Grăbește-te! Mai sunt doar {{TIME}} - apasă {{OPENER}} pentru a roti și a-ți revendica premiul!"
+    },
+    "encourage": {
+      "messages": {
+        "discount": "Ai deblocat {{VALUE}} reducere - folosește-o la finalizarea comenzii!",
+        "discountWithMinOrder": "Primești {{VALUE}} reducere la comenzi peste {{MIN_ORDER}}.",
+        "freeShip": "Transport gratuit deblocat - folosește-l la finalizarea comenzii!",
+        "freeShipWithMinOrder": "Transport gratuit la comenzi peste {{MIN_ORDER}}.",
+        "freeShipWithMaxAmount": "Beneficiezi de transport gratuit până la {{MAX_AMOUNT}}.",
+        "freeShipWithMaxAmountAndMinOrder": "Transport gratuit până la {{MAX_AMOUNT}} la comenzi peste {{MIN_ORDER}}.",
+        "freeGift": "Cadou gratuit deblocat - revendică-l la finalizarea comenzii!",
+        "redeemCode": "Folosește codul {{CODE}} la finalizarea comenzii pentru a beneficia de premiul tău."
+      }
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} 小時",
+    "expireDay": "{{TIME}} 天"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "✨ 這次沒有中獎！",
+        "description": "新的一年還有更多驚喜等著你——快再試一次吧！"
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "✨ 新年好運！你抽中了 {{REWARD}}！",
+        "description": "結帳時輸入以下代碼，領取你的新年好禮。"
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "✨ 新年好運！你抽中了 {{REWARD}}！",
+        "description": "結帳時輸入以下代碼，享受訂單免運優惠。"
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "🎁 新年驚喜！你抽中了 {{REWARD}}！",
+        "description": "結帳時輸入以下代碼，領取你的新年贈禮。"
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "立即轉動 💥"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "✨ 用驚喜迎接新年！",
+          "description": "填寫姓名與電子郵件，解鎖你的新年好禮。",
+          "descriptionForExistingAccount": "{{NAME}}，用一次轉動開啟新年——解鎖你的專屬好禮吧。",
+          "agreement": "我同意接收新年優惠與最新資訊。",
+          "spinButton": "轉動迎新年",
+          "dismissButton": "繼續購物",
+          "footerText": "美好的一年，從一次轉動開始 ✨",
+          "messages": {
+            "maxSpinReached": "看起來你已經用完所有轉動機會囉！"
+          }
+        },
+        "redemptionForm": {
+          "title": "你的新年好禮已經就緒！"
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "✨ 新年輪盤將於 {{TIME}} 解鎖——準備好轉動吧！",
+      "readyToSpin": "✨ 時刻到了！點擊 {{OPENER}} 轉動迎接新年！",
+      "countDownToLaunch": "⏳ 倒數計時開始——新年好禮將於 {{TIME}} 後解鎖！",
+      "countDownToClose": "✨ 最後倒數！只剩 {{TIME}} 可以轉動並領取新年好禮！"
+    }
+  }
+}

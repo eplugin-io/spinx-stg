@@ -1,0 +1,66 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} ساعة",
+    "expireDay": "{{TIME}} أيام"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "✨ لا حظ هذه المرة!",
+        "description": "لا يزال العام الجديد يخبئ مفاجآت - جرّب لفة أخرى قريباً!"
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "✨ فوز العام الجديد! حصلت على {{REWARD}}!",
+        "description": "استخدم الرمز أدناه عند الدفع للحصول على مكافأة العام الجديد."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "✨ فوز العام الجديد! حصلت على {{REWARD}}!",
+        "description": "استخدم الرمز أدناه عند الدفع للاستمتاع بشحن مجاني لطلبك."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "🎁 مفاجأة العام الجديد! حصلت على {{REWARD}}!",
+        "description": "استخدم الرمز أدناه عند الدفع للحصول على هدية العام الجديد."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "لف الآن 💥"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "✨ استقبل العام الجديد بمفاجأة!",
+          "description": "أدخل اسمك وبريدك الإلكتروني لفتح مكافأة العام الجديد.",
+          "descriptionForExistingAccount": "{{NAME}}، ابدأ العام الجديد بلفة واحدة واحصل على مكافأتك الخاصة.",
+          "agreement": "أوافق على تلقي عروض وتحديثات العام الجديد.",
+          "spinButton": "لف وابدأ العام",
+          "dismissButton": "متابعة التسوق",
+          "footerText": "عام مشرق يبدأ بلفة واحدة ✨",
+          "messages": {
+            "maxSpinReached": "يبدو أنك استخدمت كل لفاتك!"
+          }
+        },
+        "redemptionForm": {
+          "title": "مكافأة العام الجديد جاهزة!"
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "✨ تُفتح عجلة العام الجديد في {{TIME}} - استعد للف!",
+      "readyToSpin": "✨ حان الوقت! اضغط {{OPENER}} للف نحو العام الجديد!",
+      "countDownToLaunch": "⏳ بدأ العد التنازلي - تُفتح مكافآت العام الجديد خلال {{TIME}}!",
+      "countDownToClose": "✨ اللحظات الأخيرة! بقي {{TIME}} فقط للف والحصول على مكافأة العام الجديد!"
+    }
+  }
+}

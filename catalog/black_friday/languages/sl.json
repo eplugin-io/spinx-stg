@@ -1,0 +1,66 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} ur",
+    "expireDay": "{{TIME}} dni"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "Skoraj tam! Tvoja nagrada za črni petek te čaka",
+        "description": "Ne obupaj - tvoj naslednji vrtljaj lahko odklene ekskluzivno nagrado za črni petek!"
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "💥 Zmaga na črni petek! Prejel si {{REWARD}}!",
+        "description": "Uporabi spodnjo kodo ob zaključku nakupa in unovči svoj popust za črni petek."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "🚚 Zmaga na črni petek! Prejel si {{REWARD}}!",
+        "description": "Uporabi spodnjo kodo ob zaključku nakupa in izkoristi brezplačno dostavo za svoje naročilo ob črnem petku."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "🎁 Zmaga na črni petek! Prejel si {{REWARD}}!",
+        "description": "Uporabi spodnjo kodo ob zaključku nakupa in unovči svoje darilo za črni petek."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "ZAVRTI ZA PONUDBE"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "Ponudbe za črni petek te čakajo!",
+          "description": "Vnesi svoje podatke in zavrti kolo, da odkleneš ekskluzivno nagrado za črni petek.",
+          "descriptionForExistingAccount": "{{NAME}}, črni petek je tu - zavrti zdaj in razkrij svojo nagrado.",
+          "agreement": "Strinjam se s prejemanjem ponudb in novosti za črni petek.",
+          "spinButton": "ODKLENI PONUDBE",
+          "dismissButton": "Nadaljuj z nakupovanjem",
+          "footerText": "Vsak vrtljaj lahko odklene tvojo naslednjo odlično ponudbo.",
+          "messages": {
+            "maxSpinReached": "Že si porabil vse svoje vrtljaje za črni petek!"
+          }
+        },
+        "redemptionForm": {
+          "title": "Tvoja nagrada za črni petek je pripravljena!"
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "✨ Črni petek se začne ob {{TIME}} - pripravi se na vrtenje za ekskluzivne nagrade!",
+      "readyToSpin": "💥 Črni petek je v teku - klikni {{OPENER}} in zavrti, da odkleneš svojo nagrado!",
+      "countDownToLaunch": "⏳ Kolo se odpre čez {{TIME}} - ne zamudi svoje priložnosti za črni petek!",
+      "countDownToClose": "⚡ Pohiti! Ostalo je le še {{TIME}} za vrtenje in prevzem nagrade za črni petek!"
+    }
+  }
+}

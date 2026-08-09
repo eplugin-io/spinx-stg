@@ -1,0 +1,66 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} sati",
+    "expireDay": "{{TIME}} dana"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "✨ Nema sreće ovaj put!",
+        "description": "Nova godina još uvijek krije iznenađenja — pokušajte ponovno uskoro!"
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "✨ Novogodišnja pobjeda! Osvojili ste {{REWARD}}!",
+        "description": "Upotrijebite kod ispod prilikom plaćanja kako biste preuzeli svoju novogodišnju nagradu."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "✨ Novogodišnja pobjeda! Osvojili ste {{REWARD}}!",
+        "description": "Upotrijebite kod ispod prilikom plaćanja kako biste dobili besplatnu dostavu narudžbe."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "🎁 Novogodišnje iznenađenje! Osvojili ste {{REWARD}}!",
+        "description": "Upotrijebite kod ispod prilikom plaćanja kako biste preuzeli svoj novogodišnji poklon."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "ZAVRTI SADA 💥"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "✨ Dočekajte Novu godinu uz iznenađenje!",
+          "description": "Unesite svoje ime i e-mail kako biste otključali svoju novogodišnju nagradu.",
+          "descriptionForExistingAccount": "{{NAME}}, započnite Novu godinu okretanjem i otključajte svoju posebnu nagradu.",
+          "agreement": "Slažem se s primanjem novogodišnjih ponuda i novosti.",
+          "spinButton": "Zavrti i započni godinu",
+          "dismissButton": "Nastavi kupnju",
+          "footerText": "Sjajna godina počinje jednim okretanjem ✨",
+          "messages": {
+            "maxSpinReached": "Izgleda da ste iskoristili sva svoja okretanja!"
+          }
+        },
+        "redemptionForm": {
+          "title": "Vaša novogodišnja nagrada je spremna!"
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "✨ Novogodišnje kolo otključava se u {{TIME}} — pripremite se za okretanje!",
+      "readyToSpin": "✨ Vrijeme je! Dodirnite {{OPENER}} za okretanje u Novu godinu!",
+      "countDownToLaunch": "⏳ Odbrojavanje je u tijeku — novogodišnje nagrade otključavaju se za {{TIME}}!",
+      "countDownToClose": "✨ Zadnji trenuci! Preostalo je samo {{TIME}} za okretanje i preuzimanje novogodišnje nagrade!"
+    }
+  }
+}

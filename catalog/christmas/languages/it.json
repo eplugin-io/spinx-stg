@@ -1,0 +1,63 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} ore",
+    "expireDay": "{{TIME}} giorni"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "❄️ Niente fortuna questa volta!",
+        "description": "Grazie per aver girato! Altra magia natalizia potrebbe attenderti al prossimo tentativo."
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "🎁 Sorpresa di Natale! Hai vinto {{REWARD}}!",
+        "description": "Usa il codice qui sotto al checkout per goderti il tuo premio festivo."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "🎁 Sorpresa di Natale! Hai vinto {{REWARD}}!",
+        "description": "Usa il codice qui sotto al checkout per goderti la spedizione gratuita delle festività."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "🎁 Sorpresa di Natale! Hai vinto {{REWARD}}!",
+        "description": "Usa il codice qui sotto al checkout per riscattare il tuo regalo festivo."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "GIRA ORA 🎄"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "🎄 Scarta la tua sorpresa di Natale!",
+          "description": "Inserisci i tuoi dati e gira la ruota per scartare il tuo premio festivo di Natale.",
+          "descriptionForExistingAccount": "{{NAME}}, è il momento di una sorpresa di Natale — gira per rivelare il tuo premio festivo!",
+          "agreement": "Accetto di ricevere offerte e aggiornamenti natalizi.",
+          "spinButton": "Scopri il mio regalo",
+          "dismissButton": "Continua lo shopping",
+          "footerText": "La magia delle feste inizia con un giro ✨"
+        },
+        "redemptionForm": {
+          "title": "Allegria natalizia sbloccata!"
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "🎅 Sta arrivando la magia del Natale... La ruota si sblocca alle {{TIME}}!",
+      "readyToSpin": "🎁 La tua sorpresa festiva ti aspetta! Tocca {{OPENER}} per girare la ruota di Natale!",
+      "countDownToLaunch": "⏳ Ci siamo quasi! La ruota di Natale si sblocca tra {{TIME}} — preparati!",
+      "countDownToClose": "🎄 Ultima occasione! Mancano solo {{TIME}} per girare e riscattare il tuo premio natalizio!"
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} tuntia",
+    "expireDay": "{{TIME}} päivää"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "✨ Ei tuuria tällä kertaa!",
+        "description": "Uudella vuodella on vielä yllätyksiä tarjolla - kokeile pyöräytystä pian uudelleen!"
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "✨ Uudenvuoden voitto! Sait {{REWARD}}!",
+        "description": "Käytä alla olevaa koodia kassalla lunastaaksesi uudenvuoden palkintosi."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "✨ Uudenvuoden voitto! Sait {{REWARD}}!",
+        "description": "Käytä alla olevaa koodia kassalla nauttiaksesi ilmaisesta toimituksesta tilauksellesi."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "🎁 Uudenvuoden yllätys! Sait {{REWARD}}!",
+        "description": "Käytä alla olevaa koodia kassalla lunastaaksesi uudenvuoden lahjasi."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "PYÖRÄYTÄ NYT 💥"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "✨ Toivota uusi vuosi tervetulleeksi yllätyksellä!",
+          "description": "Anna nimesi ja sähköpostisi avataksesi uudenvuoden palkintosi.",
+          "descriptionForExistingAccount": "{{NAME}}, aloita uusi vuosi pyöräytyksellä ja avaa erikoispalkintosi.",
+          "agreement": "Suostun vastaanottamaan uudenvuoden tarjouksia ja päivityksiä.",
+          "spinButton": "Pyöräytä ja aloita vuosi",
+          "dismissButton": "Jatka ostoksia",
+          "footerText": "Valoisa vuosi alkaa yhdellä pyöräytyksellä ✨",
+          "messages": {
+            "maxSpinReached": "Näyttää siltä, että olet käyttänyt kaikki pyöräytyksesi!"
+          }
+        },
+        "redemptionForm": {
+          "title": "Uudenvuoden palkintosi on valmis!"
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "✨ Uudenvuoden pyörä avautuu klo {{TIME}} - valmistaudu pyöräyttämään!",
+      "readyToSpin": "✨ Aika on koittanut! Napauta {{OPENER}} pyöräyttääksesi uuteen vuoteen!",
+      "countDownToLaunch": "⏳ Lähtölaskenta käynnissä - uudenvuoden palkinnot avautuvat {{TIME}} kuluttua!",
+      "countDownToClose": "✨ Viimeiset hetket! Enää {{TIME}} jäljellä pyöräyttää ja lunastaa uudenvuoden palkintosi!"
+    }
+  }
+}

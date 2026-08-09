@@ -1,0 +1,66 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} godz.",
+    "expireDay": "{{TIME}} dni"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "✨ Tym razem brak szczęścia!",
+        "description": "Nowy Rok wciąż ma dla Ciebie niespodzianki - spróbuj zakręcić ponownie wkrótce!"
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "✨ Noworoczna wygrana! Otrzymałeś {{REWARD}}!",
+        "description": "Użyj poniższego kodu przy kasie, aby odebrać swoją noworoczną nagrodę."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "✨ Noworoczna wygrana! Otrzymałeś {{REWARD}}!",
+        "description": "Użyj poniższego kodu przy kasie, aby cieszyć się darmową dostawą swojego zamówienia."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "🎁 Noworoczna niespodzianka! Otrzymałeś {{REWARD}}!",
+        "description": "Użyj poniższego kodu przy kasie, aby odebrać swój noworoczny prezent."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "ZAKRĘĆ TERAZ 💥"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "✨ Powitaj Nowy Rok niespodzianką!",
+          "description": "Podaj swoje imię i e-mail, aby odblokować swoją noworoczną nagrodę.",
+          "descriptionForExistingAccount": "{{NAME}}, rozpocznij Nowy Rok od zakręcenia i odblokuj swoją specjalną nagrodę.",
+          "agreement": "Wyrażam zgodę na otrzymywanie noworocznych ofert i aktualizacji.",
+          "spinButton": "Zakręć i rozpocznij rok",
+          "dismissButton": "Kontynuuj zakupy",
+          "footerText": "Jasny rok zaczyna się od jednego zakręcenia ✨",
+          "messages": {
+            "maxSpinReached": "Wygląda na to, że wykorzystałeś wszystkie swoje zakręcenia!"
+          }
+        },
+        "redemptionForm": {
+          "title": "Twoja noworoczna nagroda jest gotowa!"
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "✨ Noworoczne koło otworzy się o {{TIME}} - przygotuj się do zakręcenia!",
+      "readyToSpin": "✨ Czas nadszedł! Dotknij {{OPENER}}, aby zakręcić w Nowy Rok!",
+      "countDownToLaunch": "⏳ Odliczanie trwa - noworoczne nagrody odblokują się za {{TIME}}!",
+      "countDownToClose": "✨ Ostatnie chwile! Zostało tylko {{TIME}} na zakręcenie i odebranie noworocznej nagrody!"
+    }
+  }
+}

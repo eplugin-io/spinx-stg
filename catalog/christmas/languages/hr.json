@@ -1,0 +1,63 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} sati",
+    "expireDay": "{{TIME}} dana"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "❄️ Nema sreće ovaj put!",
+        "description": "Hvala na okretanju! Više božićne magije možda vas čeka pri sljedećem pokušaju."
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "🎁 Božićno iznenađenje! Osvojili ste {{REWARD}}!",
+        "description": "Upotrijebite kod ispod prilikom plaćanja kako biste iskoristili svoju blagdansku nagradu."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "🎁 Božićno iznenađenje! Osvojili ste {{REWARD}}!",
+        "description": "Upotrijebite kod ispod prilikom plaćanja kako biste dobili besplatnu blagdansku dostavu."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "🎁 Božićno iznenađenje! Osvojili ste {{REWARD}}!",
+        "description": "Upotrijebite kod ispod prilikom plaćanja kako biste preuzeli svoj blagdanski poklon."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "ZAVRTI SADA 🎄"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "🎄 Otkrijte svoje božićno iznenađenje!",
+          "description": "Unesite svoje podatke i zavrtite kolo kako biste otkrili svoju blagdansku božićnu nagradu.",
+          "descriptionForExistingAccount": "{{NAME}}, vrijeme je za božićno iznenađenje — zavrtite kako biste otkrili svoju blagdansku nagradu!",
+          "agreement": "Slažem se s primanjem blagdanskih ponuda i novosti.",
+          "spinButton": "Otkrij moj poklon",
+          "dismissButton": "Nastavi kupnju",
+          "footerText": "Blagdanska magija počinje jednim okretanjem ✨"
+        },
+        "redemptionForm": {
+          "title": "Blagdansko veselje otključano!"
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "🎅 Božićna magija stiže... Kolo se otključava u {{TIME}}!",
+      "readyToSpin": "🎁 Vaše blagdansko iznenađenje čeka! Dodirnite {{OPENER}} za okretanje božićnog kola!",
+      "countDownToLaunch": "⏳ Gotovo je vrijeme! Božićno kolo otključava se za {{TIME}} — pripremite se!",
+      "countDownToClose": "🎄 Zadnja prilika! Preostalo je samo {{TIME}} za okretanje i preuzimanje blagdanske nagrade!"
+    }
+  }
+}

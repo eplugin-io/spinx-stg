@@ -1,0 +1,66 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} timmar",
+    "expireDay": "{{TIME}} dagar"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "🎃 Ingen tur den här gången!",
+        "description": "Andarna var tysta den här gången - men ditt nästa snurr kan avslöja en läskig överraskning."
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "🎃 Bu! Du vann {{REWARD}}!",
+        "description": "Använd koden nedan i kassan för att låsa upp dina läskiga besparingar."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "🎃 Bu! Du vann {{REWARD}}!",
+        "description": "Använd koden nedan i kassan för att njuta av fri frakt från andra sidan."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "🎁 En läskig överraskning! Du vann {{REWARD}}!",
+        "description": "Använd koden nedan i kassan för att lösa in din hemsökt goda present."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "MANA FRAM BELÖNING"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "🎃 Vågar du snurra det hemsökta hjulet?",
+          "description": "Ange dina uppgifter och snurra hjulet för att låsa upp en läskig Halloween-belöning.",
+          "descriptionForExistingAccount": "{{NAME}}, snurra nu för att låsa upp din läskiga Halloween-belöning!",
+          "agreement": "Jag samtycker till att ta emot läskiga erbjudanden och uppdateringar.",
+          "spinButton": "SNURRA OM DU VÅGAR",
+          "dismissButton": "Fortsätt handla",
+          "footerText": "Bara modiga själar låser upp de bästa överraskningarna.",
+          "messages": {
+            "maxSpinReached": "Andarna säger att du har använt alla dina snurr för nu."
+          }
+        },
+        "redemptionForm": {
+          "title": "Din läskiga belöning är klar!"
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "🎃 Andarna samlas... hjulet låses upp kl. {{TIME}}!",
+      "readyToSpin": "👻 Bus eller godis? Klicka på {{OPENER}} för att snurra till din Halloween-belöning!",
+      "countDownToLaunch": "⏳ Det hemsökta hjulet låses upp om {{TIME}} - gör dig redo!",
+      "countDownToClose": "🎃 Sista chansen! Endast {{TIME}} kvar att snurra det hemsökta hjulet!"
+    }
+  }
+}

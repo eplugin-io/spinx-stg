@@ -1,0 +1,66 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} óra",
+    "expireDay": "{{TIME}} nap"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "Már majdnem! Black Friday jutalmad vár",
+        "description": "Ne add fel - a következő pörgetésed exkluzív Black Friday jutalmat oldhat fel!"
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "💥 Black Friday nyeremény! Kaptál {{REWARD}}!",
+        "description": "Használd az alábbi kódot a fizetésnél, hogy beváltsd Black Friday kedvezményedet."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "🚚 Black Friday nyeremény! Kaptál {{REWARD}}!",
+        "description": "Használd az alábbi kódot a fizetésnél, hogy élvezhesd az ingyenes szállítást Black Friday rendelésedhez."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "🎁 Black Friday nyeremény! Kaptál {{REWARD}}!",
+        "description": "Használd az alábbi kódot a fizetésnél, hogy beváltsd Black Friday ajándékodat."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "PÖRGESS AJÁNLATOKÉRT"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "Black Friday ajánlatok várnak!",
+          "description": "Add meg adataidat, és pörgesd meg a kereket, hogy feloldj egy exkluzív Black Friday jutalmat.",
+          "descriptionForExistingAccount": "{{NAME}}, itt a Black Friday - pörgess most, hogy felfedd jutalmadat.",
+          "agreement": "Hozzájárulok, hogy Black Friday ajánlatokat és frissítéseket kapjak.",
+          "spinButton": "AJÁNLATOK FELOLDÁSA",
+          "dismissButton": "Vásárlás folytatása",
+          "footerText": "Minden pörgetés feloldhatja a következő nagyszerű ajánlatodat.",
+          "messages": {
+            "maxSpinReached": "Már elhasználtad az összes Black Friday pörgetésedet!"
+          }
+        },
+        "redemptionForm": {
+          "title": "Black Friday jutalmad készen áll!"
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "✨ A Black Friday {{TIME}}-kor kezdődik - készülj fel exkluzív jutalmak pörgetésére!",
+      "readyToSpin": "💥 Elindult a Black Friday - kattints ide: {{OPENER}}, hogy pörgess és feloldd jutalmadat!",
+      "countDownToLaunch": "⏳ A kerék {{TIME}} múlva nyílik - ne hagyd ki Black Friday esélyedet!",
+      "countDownToClose": "⚡ Siess! Már csak {{TIME}} van hátra, hogy pörgess és beváltsd Black Friday jutalmadat!"
+    }
+  }
+}

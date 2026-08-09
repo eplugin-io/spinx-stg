@@ -1,0 +1,63 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} jam",
+    "expireDay": "{{TIME}} hari"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "❄️ Tiada Nasib Kali Ini!",
+        "description": "Terima kasih kerana memusing! Lebih banyak keajaiban Krismas mungkin menanti pada percubaan seterusnya."
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "🎁 Kejutan Krismas! Anda Menang {{REWARD}}!",
+        "description": "Gunakan kod di bawah semasa checkout untuk nikmati hadiah perayaan anda."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "🎁 Kejutan Krismas! Anda Menang {{REWARD}}!",
+        "description": "Gunakan kod di bawah semasa checkout untuk nikmati penghantaran percuma perayaan."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "🎁 Kejutan Krismas! Anda Menang {{REWARD}}!",
+        "description": "Gunakan kod di bawah semasa checkout untuk dapatkan hadiah perayaan anda."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "PUSING SEKARANG 🎄"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "🎄 Buka Kejutan Krismas Anda!",
+          "description": "Masukkan maklumat anda dan pusing roda untuk membuka hadiah Krismas perayaan anda.",
+          "descriptionForExistingAccount": "{{NAME}}, masanya untuk kejutan Krismas - pusing untuk dedahkan hadiah perayaan anda!",
+          "agreement": "Saya bersetuju untuk menerima tawaran dan kemas kini musim perayaan.",
+          "spinButton": "Buka Hadiah Saya",
+          "dismissButton": "Teruskan membeli-belah",
+          "footerText": "Keajaiban musim perayaan bermula dengan satu pusingan ✨"
+        },
+        "redemptionForm": {
+          "title": "Keceriaan Perayaan Telah Dibuka!"
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "🎅 Keajaiban Krismas semakin hampir... Roda akan dibuka pada {{TIME}}!",
+      "readyToSpin": "🎁 Kejutan perayaan anda menanti! Tekan {{OPENER}} untuk pusing roda Krismas!",
+      "countDownToLaunch": "⏳ Hampir tiba masanya! Roda Krismas akan dibuka dalam {{TIME}} lagi - bersedia!",
+      "countDownToClose": "🎄 Peluang terakhir! Hanya {{TIME}} lagi untuk pusing dan dapatkan hadiah perayaan anda!"
+    }
+  }
+}

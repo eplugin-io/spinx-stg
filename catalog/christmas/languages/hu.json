@@ -1,0 +1,63 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} óra",
+    "expireDay": "{{TIME}} nap"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "❄️ Most nem volt szerencséd!",
+        "description": "Köszönjük a pörgetést! Több karácsonyi varázslat várhat rád a következő próbálkozásnál."
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "🎁 Karácsonyi meglepetés! Nyertél {{REWARD}}!",
+        "description": "Használd az alábbi kódot a fizetésnél, hogy élvezhesd ünnepi jutalmadat."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "🎁 Karácsonyi meglepetés! Nyertél {{REWARD}}!",
+        "description": "Használd az alábbi kódot a fizetésnél, hogy élvezhesd az ingyenes ünnepi szállítást."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "🎁 Karácsonyi meglepetés! Nyertél {{REWARD}}!",
+        "description": "Használd az alábbi kódot a fizetésnél, hogy beváltsd ünnepi ajándékodat."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "PÖRGESS MOST 🎄"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "🎄 Bontsd ki karácsonyi meglepetésedet!",
+          "description": "Add meg adataidat, és pörgesd meg a kereket, hogy kibontsd ünnepi karácsonyi jutalmadat.",
+          "descriptionForExistingAccount": "{{NAME}}, itt az idő egy karácsonyi meglepetésre - pörgess, hogy felfedd ünnepi jutalmadat!",
+          "agreement": "Hozzájárulok, hogy ünnepi ajánlatokat és frissítéseket kapjak.",
+          "spinButton": "Mutasd az ajándékom",
+          "dismissButton": "Vásárlás folytatása",
+          "footerText": "Az ünnepi varázslat egy pörgetéssel kezdődik ✨"
+        },
+        "redemptionForm": {
+          "title": "Az ünnepi öröm feloldva!"
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "🎅 Közeleg a karácsonyi varázslat... A kerék {{TIME}}-kor nyílik!",
+      "readyToSpin": "🎁 Ünnepi meglepetésed vár! Koppints ide: {{OPENER}}, hogy megpörgesd a karácsonyi kereket!",
+      "countDownToLaunch": "⏳ Már majdnem itt az idő! A karácsonyi kerék {{TIME}} múlva nyílik - készülj!",
+      "countDownToClose": "🎄 Utolsó esély! Már csak {{TIME}} van hátra, hogy pörgess és beváltsd ünnepi jutalmadat!"
+    }
+  }
+}

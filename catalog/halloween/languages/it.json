@@ -1,0 +1,66 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} ore",
+    "expireDay": "{{TIME}} giorni"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "🎃 Niente fortuna questa volta!",
+        "description": "Gli spiriti erano silenziosi questa volta — ma il tuo prossimo giro potrebbe rivelare una sorpresa spaventosa."
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "🎃 Bu! Hai vinto {{REWARD}}!",
+        "description": "Usa il codice qui sotto al checkout per sbloccare i tuoi risparmi da brividi."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "🎃 Bu! Hai vinto {{REWARD}}!",
+        "description": "Usa il codice qui sotto al checkout per goderti la spedizione gratuita dall'aldilà."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "🎁 Una sorpresa spaventosa! Hai vinto {{REWARD}}!",
+        "description": "Usa il codice qui sotto al checkout per riscattare il tuo regalo terrificante."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "EVOCA IL PREMIO"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "🎃 Osi girare la ruota stregata?",
+          "description": "Inserisci i tuoi dati e gira la ruota per sbloccare un premio spaventoso di Halloween.",
+          "descriptionForExistingAccount": "{{NAME}}, gira ora per sbloccare il tuo premio spaventoso di Halloween!",
+          "agreement": "Accetto di ricevere offerte e aggiornamenti da brividi.",
+          "spinButton": "GIRA SE HAI CORAGGIO",
+          "dismissButton": "Continua lo shopping",
+          "footerText": "Solo le anime coraggiose sbloccano le sorprese migliori.",
+          "messages": {
+            "maxSpinReached": "Gli spiriti dicono che hai esaurito tutti i tuoi giri per ora."
+          }
+        },
+        "redemptionForm": {
+          "title": "Il tuo premio spaventoso è pronto!"
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "🎃 Gli spiriti si stanno radunando... la ruota si sblocca alle {{TIME}}!",
+      "readyToSpin": "👻 Dolcetto o scherzetto? Clicca su {{OPENER}} per girare e vincere il tuo premio di Halloween!",
+      "countDownToLaunch": "⏳ La ruota stregata si sblocca tra {{TIME}} — preparati!",
+      "countDownToClose": "🎃 Ultima occasione! Mancano solo {{TIME}} per girare la ruota stregata!"
+    }
+  }
+}

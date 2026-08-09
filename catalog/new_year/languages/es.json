@@ -1,0 +1,66 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} horas",
+    "expireDay": "{{TIME}} días"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "✨ ¡Sin suerte esta vez!",
+        "description": "El Año Nuevo todavía tiene sorpresas guardadas - ¡intenta girar de nuevo pronto!"
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "✨ ¡Victoria de Año Nuevo! ¡Has conseguido {{REWARD}}!",
+        "description": "Usa el código de abajo al finalizar la compra para reclamar tu premio de Año Nuevo."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "✨ ¡Victoria de Año Nuevo! ¡Has conseguido {{REWARD}}!",
+        "description": "Usa el código de abajo al finalizar la compra para disfrutar de envío gratis en tu pedido."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "🎁 ¡Sorpresa de Año Nuevo! ¡Has conseguido {{REWARD}}!",
+        "description": "Usa el código de abajo al finalizar la compra para reclamar tu regalo de Año Nuevo."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "GIRA AHORA 💥"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "✨ ¡Da la bienvenida al Año Nuevo con una sorpresa!",
+          "description": "Indica tu nombre y correo electrónico para desbloquear tu premio de Año Nuevo.",
+          "descriptionForExistingAccount": "{{NAME}}, empieza el Año Nuevo con un giro y desbloquea tu premio especial.",
+          "agreement": "Acepto recibir ofertas y novedades de Año Nuevo.",
+          "spinButton": "Gira y empieza el año",
+          "dismissButton": "Seguir comprando",
+          "footerText": "Un año brillante empieza con un giro ✨",
+          "messages": {
+            "maxSpinReached": "¡Parece que ya has usado todos tus giros!"
+          }
+        },
+        "redemptionForm": {
+          "title": "¡Tu premio de Año Nuevo está listo!"
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "✨ La ruleta de Año Nuevo se abre a las {{TIME}} - ¡prepárate para girar!",
+      "readyToSpin": "✨ ¡Ha llegado la hora! Toca {{OPENER}} para girar hacia el Año Nuevo!",
+      "countDownToLaunch": "⏳ La cuenta atrás ha comenzado - ¡los premios de Año Nuevo se desbloquean en {{TIME}}!",
+      "countDownToClose": "✨ ¡Últimos momentos! Solo quedan {{TIME}} para girar y reclamar tu premio de Año Nuevo!"
+    }
+  }
+}

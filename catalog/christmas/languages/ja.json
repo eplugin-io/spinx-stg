@@ -1,0 +1,63 @@
+{
+  "label": {
+    "expireTime": "{{TIME}}時間",
+    "expireDay": "{{TIME}}日"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "❄️ 今回はツキがありませんでした!",
+        "description": "スピンしていただきありがとうございます!次のチャンスにはもっとクリスマスの魔法が待っているかもしれません。"
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "🎁 クリスマスサプライズ!{{REWARD}}が当たりました!",
+        "description": "レジで下記のコードを使って、心温まる特典をお楽しみください。"
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "🎁 クリスマスサプライズ!{{REWARD}}が当たりました!",
+        "description": "レジで下記のコードを使って、ホリデー送料無料をお楽しみください。"
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "🎁 クリスマスサプライズ!{{REWARD}}が当たりました!",
+        "description": "レジで下記のコードを使って、心温まるプレゼントを受け取ってください。"
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "今すぐスピン 🎄"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "🎄 クリスマスサプライズを開封しよう!",
+          "description": "情報を入力してホイールを回し、心温まるクリスマスの景品を開封しましょう。",
+          "descriptionForExistingAccount": "{{NAME}}さん、クリスマスサプライズの時間です - スピンして素敵な景品を見つけましょう!",
+          "agreement": "ホリデー特典と最新情報の受信に同意します。",
+          "spinButton": "プレゼントを開ける",
+          "dismissButton": "買い物を続ける",
+          "footerText": "ホリデーマジックはスピンから始まります ✨"
+        },
+        "redemptionForm": {
+          "title": "ホリデーの喜びが解放されました!"
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "🎅 クリスマスの魔法がやってくる… ホイールは{{TIME}}に解放されます!",
+      "readyToSpin": "🎁 あなたの素敵なサプライズが待っています!{{OPENER}}をタップしてクリスマスホイールを回そう!",
+      "countDownToLaunch": "⏳ もうすぐです!クリスマスホイールはあと{{TIME}}で解放されます - 準備をしましょう!",
+      "countDownToClose": "🎄 ラストチャンス!残り{{TIME}}でホリデーの景品をゲットしましょう!"
+    }
+  }
+}

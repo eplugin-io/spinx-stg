@@ -1,0 +1,63 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} 小時",
+    "expireDay": "{{TIME}} 天"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "❄️ 這次沒有中獎！",
+        "description": "謝謝你的參與！下一次或許還有更多聖誕魔法在等著你。"
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "🎁 聖誕驚喜！你抽中了 {{REWARD}}！",
+        "description": "結帳時輸入以下代碼，享受你的節慶好禮。"
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "🎁 聖誕驚喜！你抽中了 {{REWARD}}！",
+        "description": "結帳時輸入以下代碼，享受節慶免運優惠。"
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "🎁 聖誕驚喜！你抽中了 {{REWARD}}！",
+        "description": "結帳時輸入以下代碼，領取你的節慶贈品。"
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "立即轉動 🎄"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "🎄 拆開你的聖誕驚喜！",
+          "description": "填寫資料並轉動輪盤，拆開你的聖誕節慶好禮。",
+          "descriptionForExistingAccount": "{{NAME}}，聖誕驚喜的時刻到了——轉動輪盤，揭曉你的節慶好禮！",
+          "agreement": "我同意接收節慶優惠與最新資訊。",
+          "spinButton": "拆開我的禮物",
+          "dismissButton": "繼續購物",
+          "footerText": "節慶魔法，就從這一轉開始 ✨"
+        },
+        "redemptionForm": {
+          "title": "節慶好禮已解鎖！"
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "🎅 聖誕魔法即將降臨⋯輪盤將於 {{TIME}} 解鎖！",
+      "readyToSpin": "🎁 你的節慶驚喜正在等待！點擊 {{OPENER}} 轉動聖誕輪盤！",
+      "countDownToLaunch": "⏳ 就快到了！聖誕輪盤將於 {{TIME}} 後解鎖——準備好吧！",
+      "countDownToClose": "🎄 最後機會！只剩 {{TIME}} 可以轉動並領取節慶好禮！"
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} horas",
+    "expireDay": "{{TIME}} días"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "🎃 ¡Sin suerte esta vez!",
+        "description": "Los espíritus guardaron silencio esta vez - pero tu próximo giro podría revelar una sorpresa escalofriante."
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "🎃 ¡Buu! ¡Has ganado {{REWARD}}!",
+        "description": "Usa el código de abajo al finalizar la compra para desbloquear tu ahorro escalofriante."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "🎃 ¡Buu! ¡Has ganado {{REWARD}}!",
+        "description": "Usa el código de abajo al finalizar la compra para disfrutar de envío gratis desde el más allá."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "🎁 ¡Una sorpresa escalofriante! ¡Has ganado {{REWARD}}!",
+        "description": "Usa el código de abajo al finalizar la compra para reclamar tu regalo terroríficamente bueno."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "INVOCA TU PREMIO"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "🎃 ¿Te atreves a girar la ruleta embrujada?",
+          "description": "Indica tus datos y gira la ruleta para desbloquear un premio escalofriante de Halloween.",
+          "descriptionForExistingAccount": "{{NAME}}, ¡gira ahora para desbloquear tu premio escalofriante de Halloween!",
+          "agreement": "Acepto recibir ofertas y novedades escalofriantes.",
+          "spinButton": "GIRA SI TE ATREVES",
+          "dismissButton": "Seguir comprando",
+          "footerText": "Solo las almas valientes desbloquean las mejores sorpresas.",
+          "messages": {
+            "maxSpinReached": "Los espíritus dicen que ya has usado todos tus giros por ahora."
+          }
+        },
+        "redemptionForm": {
+          "title": "¡Tu premio escalofriante está listo!"
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "🎃 Los espíritus se están reuniendo... ¡la ruleta se abre a las {{TIME}}!",
+      "readyToSpin": "👻 ¿Truco o trato? ¡Haz clic en {{OPENER}} para girar por tu premio de Halloween!",
+      "countDownToLaunch": "⏳ La ruleta embrujada se abre en {{TIME}} - ¡prepárate!",
+      "countDownToClose": "🎃 ¡Última oportunidad! Solo quedan {{TIME}} para girar la ruleta embrujada!"
+    }
+  }
+}

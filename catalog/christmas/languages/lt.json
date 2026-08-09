@@ -1,0 +1,63 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} val.",
+    "expireDay": "{{TIME}} d."
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "❄️ Šįkart nepasisekė!",
+        "description": "Ačiū, kad sukai! Daugiau Kalėdų magijos gali laukti kito bandymo metu."
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "🎁 Kalėdų staigmena! Laimėjai {{REWARD}}!",
+        "description": "Naudok žemiau esantį kodą atsiskaitydamas ir mėgaukis savo šventiniu prizu."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "🎁 Kalėdų staigmena! Laimėjai {{REWARD}}!",
+        "description": "Naudok žemiau esantį kodą atsiskaitydamas ir mėgaukis nemokamu švenčių pristatymu."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "🎁 Kalėdų staigmena! Laimėjai {{REWARD}}!",
+        "description": "Naudok žemiau esantį kodą atsiskaitydamas, kad atsiimtum savo šventinę dovaną."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "SUKTI DABAR 🎄"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "🎄 Atskleisk savo Kalėdų staigmeną!",
+          "description": "Įvesk savo duomenis ir pasuk ratą, kad atskleistum šventinį Kalėdų prizą.",
+          "descriptionForExistingAccount": "{{NAME}}, laikas Kalėdų staigmenai - suk ir atskleisk savo šventinį prizą!",
+          "agreement": "Sutinku gauti švenčių pasiūlymus ir naujienas.",
+          "spinButton": "Atskleisti mano dovaną",
+          "dismissButton": "Tęsti apsipirkimą",
+          "footerText": "Švenčių magija prasideda vienu sukimu ✨"
+        },
+        "redemptionForm": {
+          "title": "Švenčių džiaugsmas atrakintas!"
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "🎅 Artėja Kalėdų magija... Ratas atsivers {{TIME}}!",
+      "readyToSpin": "🎁 Tavo šventinė staigmena laukia! Palieski {{OPENER}} ir pasuk Kalėdų ratą!",
+      "countDownToLaunch": "⏳ Beveik laikas! Kalėdų ratas atsivers po {{TIME}} - ruoškis!",
+      "countDownToClose": "🎄 Paskutinė galimybė! Liko tik {{TIME}} pasukti ir atsiimti savo šventinį prizą!"
+    }
+  }
+}

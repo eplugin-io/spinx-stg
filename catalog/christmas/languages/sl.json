@@ -1,0 +1,63 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} ur",
+    "expireDay": "{{TIME}} dni"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "❄️ Tokrat brez sreče!",
+        "description": "Hvala za vrtenje! Več božične čarobnosti te morda čaka pri naslednjem poskusu."
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "🎁 Božično presenečenje! Osvojil si {{REWARD}}!",
+        "description": "Uporabi spodnjo kodo ob zaključku nakupa in izkoristi svojo praznično nagrado."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "🎁 Božično presenečenje! Osvojil si {{REWARD}}!",
+        "description": "Uporabi spodnjo kodo ob zaključku nakupa in izkoristi brezplačno praznično dostavo."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "🎁 Božično presenečenje! Osvojil si {{REWARD}}!",
+        "description": "Uporabi spodnjo kodo ob zaključku nakupa in unovči svoje praznično darilo."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "ZAVRTI ZDAJ 🎄"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "🎄 Odvij svoje božično presenečenje!",
+          "description": "Vnesi svoje podatke in zavrti kolo, da odviješ svojo praznično božično nagrado.",
+          "descriptionForExistingAccount": "{{NAME}}, čas je za božično presenečenje - zavrti in razkrij svojo praznično nagrado!",
+          "agreement": "Strinjam se s prejemanjem praznih ponudb in novosti.",
+          "spinButton": "Razkrij moje darilo",
+          "dismissButton": "Nadaljuj z nakupovanjem",
+          "footerText": "Praznična čarobnost se začne z enim vrtljajem ✨"
+        },
+        "redemptionForm": {
+          "title": "Praznično veselje odklenjeno!"
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "🎅 Prihaja božična čarobnost... Kolo se odpre ob {{TIME}}!",
+      "readyToSpin": "🎁 Tvoje praznično presenečenje čaka! Dotakni se {{OPENER}} in zavrti božično kolo!",
+      "countDownToLaunch": "⏳ Skoraj je čas! Božično kolo se odpre čez {{TIME}} - pripravi se!",
+      "countDownToClose": "🎄 Zadnja priložnost! Ostalo je le še {{TIME}} za vrtenje in prevzem praznične nagrade!"
+    }
+  }
+}

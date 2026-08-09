@@ -1,0 +1,63 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} saat",
+    "expireDay": "{{TIME}} gün"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "❄️ Bu Sefer Şans Yok!",
+        "description": "Çevirdiğin için teşekkürler! Bir sonraki denemende daha fazla Noel büyüsü seni bekliyor olabilir."
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "🎁 Noel Sürprizi! {{REWARD}} Kazandın!",
+        "description": "Şölen ödülünün keyfini çıkarmak için ödeme sırasında aşağıdaki kodu gir."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "🎁 Noel Sürprizi! {{REWARD}} Kazandın!",
+        "description": "Ücretsiz tatil kargosunun keyfini çıkarmak için ödeme sırasında aşağıdaki kodu gir."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "🎁 Noel Sürprizi! {{REWARD}} Kazandın!",
+        "description": "Şölen hediyeni almak için ödeme sırasında aşağıdaki kodu gir."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "HEMEN ÇEVİR 🎄"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "🎄 Noel Sürprizini Aç!",
+          "description": "Bilgilerini gir ve şölen Noel ödülünü açmak için çarkı çevir.",
+          "descriptionForExistingAccount": "{{NAME}}, Noel sürprizinin zamanı geldi - şölen ödülünü ortaya çıkarmak için çevir!",
+          "agreement": "Tatil teklifleri ve güncellemeleri almayı kabul ediyorum.",
+          "spinButton": "Hediyemi Ortaya Çıkar",
+          "dismissButton": "Alışverişe devam et",
+          "footerText": "Tatil büyüsü bir çevirişle başlar ✨"
+        },
+        "redemptionForm": {
+          "title": "Tatil Neşesinin Kilidi Açıldı!"
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "🎅 Noel büyüsü geliyor... Çark {{TIME}} saatinde açılıyor!",
+      "readyToSpin": "🎁 Şölen sürprizin seni bekliyor! Noel çarkını çevirmek için {{OPENER}} butonuna dokun!",
+      "countDownToLaunch": "⏳ Neredeyse zamanı geldi! Noel çarkı {{TIME}} içinde açılıyor - hazır ol!",
+      "countDownToClose": "🎄 Son şans! Çevirip tatil ödülünü almak için sadece {{TIME}} kaldı!"
+    }
+  }
+}

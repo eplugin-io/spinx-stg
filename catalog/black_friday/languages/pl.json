@@ -1,0 +1,66 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} godz.",
+    "expireDay": "{{TIME}} dni"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "Prawie na miejscu! Twoja nagroda Black Friday czeka",
+        "description": "Nie poddawaj się - kolejne zakręcenie może odblokować ekskluzywną nagrodę Black Friday!"
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "💥 Wygrana Black Friday! Otrzymałeś {{REWARD}}!",
+        "description": "Użyj poniższego kodu przy kasie, aby odebrać swoją zniżkę Black Friday."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "🚚 Wygrana Black Friday! Otrzymałeś {{REWARD}}!",
+        "description": "Użyj poniższego kodu przy kasie, aby cieszyć się darmową dostawą swojego zamówienia Black Friday."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "🎁 Wygrana Black Friday! Otrzymałeś {{REWARD}}!",
+        "description": "Użyj poniższego kodu przy kasie, aby odebrać swój prezent Black Friday."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "ZAKRĘĆ PO OKAZJE"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "Oferty Black Friday czekają!",
+          "description": "Podaj swoje dane i zakręć kołem, aby odblokować ekskluzywną nagrodę Black Friday.",
+          "descriptionForExistingAccount": "{{NAME}}, Black Friday już tu jest - zakręć teraz, aby odkryć swoją nagrodę.",
+          "agreement": "Wyrażam zgodę na otrzymywanie ofert i aktualizacji Black Friday.",
+          "spinButton": "ODBLOKUJ OFERTY",
+          "dismissButton": "Kontynuuj zakupy",
+          "footerText": "Każde zakręcenie może odblokować Twoją kolejną świetną okazję.",
+          "messages": {
+            "maxSpinReached": "Wykorzystałeś już wszystkie swoje zakręcenia Black Friday!"
+          }
+        },
+        "redemptionForm": {
+          "title": "Twoja nagroda Black Friday jest gotowa!"
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "✨ Black Friday zaczyna się o {{TIME}} - przygotuj się do zakręcenia po ekskluzywne nagrody!",
+      "readyToSpin": "💥 Black Friday trwa - kliknij {{OPENER}}, aby zakręcić i odblokować swoją nagrodę!",
+      "countDownToLaunch": "⏳ Koło otworzy się za {{TIME}} - nie przegap swojej szansy Black Friday!",
+      "countDownToClose": "⚡ Pospiesz się! Zostało tylko {{TIME}} na zakręcenie i odebranie nagrody Black Friday!"
+    }
+  }
+}

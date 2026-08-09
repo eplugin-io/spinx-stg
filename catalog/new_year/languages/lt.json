@@ -1,0 +1,66 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} val.",
+    "expireDay": "{{TIME}} d."
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "✨ Šįkart nepasisekė!",
+        "description": "Naujieji metai dar turi staigmenų - netrukus pabandyk sukti dar kartą!"
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "✨ Naujųjų metų laimėjimas! Gavai {{REWARD}}!",
+        "description": "Naudok žemiau esantį kodą atsiskaitydamas, kad atsiimtum savo Naujųjų metų prizą."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "✨ Naujųjų metų laimėjimas! Gavai {{REWARD}}!",
+        "description": "Naudok žemiau esantį kodą atsiskaitydamas ir mėgaukis nemokamu pristatymu savo užsakymui."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "🎁 Naujųjų metų staigmena! Gavai {{REWARD}}!",
+        "description": "Naudok žemiau esantį kodą atsiskaitydamas, kad atsiimtum savo Naujųjų metų dovaną."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "SUKTI DABAR 💥"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "✨ Pasitik Naujuosius metus su staigmena!",
+          "description": "Įvesk savo vardą ir el. paštą, kad atrakintum savo Naujųjų metų prizą.",
+          "descriptionForExistingAccount": "{{NAME}}, pradėk Naujuosius metus sukimu ir atrakink savo ypatingą prizą.",
+          "agreement": "Sutinku gauti Naujųjų metų pasiūlymus ir naujienas.",
+          "spinButton": "Sukti ir pradėti metus",
+          "dismissButton": "Tęsti apsipirkimą",
+          "footerText": "Šviesūs metai prasideda vienu sukimu ✨",
+          "messages": {
+            "maxSpinReached": "Panašu, kad jau išnaudojai visus savo sukimus!"
+          }
+        },
+        "redemptionForm": {
+          "title": "Tavo Naujųjų metų prizas paruoštas!"
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "✨ Naujųjų metų ratas atsivers {{TIME}} - ruoškis sukti!",
+      "readyToSpin": "✨ Laikas atėjo! Palieski {{OPENER}} ir įsuk save į Naujuosius metus!",
+      "countDownToLaunch": "⏳ Prasidėjo atgalinė laiko atskaita - Naujųjų metų prizai atsivers po {{TIME}}!",
+      "countDownToClose": "✨ Paskutinės akimirkos! Liko tik {{TIME}} pasukti ir atsiimti savo Naujųjų metų prizą!"
+    }
+  }
+}

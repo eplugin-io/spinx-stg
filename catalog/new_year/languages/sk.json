@@ -1,0 +1,66 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} hodín",
+    "expireDay": "{{TIME}} dní"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "✨ Tentokrát bez šťastia!",
+        "description": "Nový rok má stále pripravené prekvapenia - skús zatočiť znova čoskoro!"
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "✨ Novoročná výhra! Získal si {{REWARD}}!",
+        "description": "Použi kód nižšie pri platbe a vyzdvihni si svoju novoročnú odmenu."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "✨ Novoročná výhra! Získal si {{REWARD}}!",
+        "description": "Použi kód nižšie pri platbe a uži si dopravu zadarmo na svoju objednávku."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "🎁 Novoročné prekvapenie! Získal si {{REWARD}}!",
+        "description": "Použi kód nižšie pri platbe a vyzdvihni si svoj novoročný darček."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "ZATOČ TERAZ 💥"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "✨ Privítaj nový rok s prekvapením!",
+          "description": "Zadaj svoje meno a e-mail, aby si odomkol svoju novoročnú odmenu.",
+          "descriptionForExistingAccount": "{{NAME}}, začni nový rok zatočením a odomkni si svoju špeciálnu odmenu.",
+          "agreement": "Súhlasím s prijímaním novoročných ponúk a noviniek.",
+          "spinButton": "Zatoč a začni rok",
+          "dismissButton": "Pokračovať v nákupe",
+          "footerText": "Žiarivý rok sa začína jedným zatočením ✨",
+          "messages": {
+            "maxSpinReached": "Zdá sa, že si už využil všetky svoje zatočenia!"
+          }
+        },
+        "redemptionForm": {
+          "title": "Tvoja novoročná odmena je pripravená!"
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "✨ Novoročné koleso sa otvorí o {{TIME}} - priprav sa zatočiť!",
+      "readyToSpin": "✨ Nastal čas! Klepni na {{OPENER}} a zatoč sa do nového roka!",
+      "countDownToLaunch": "⏳ Odpočítavanie beží - novoročné odmeny sa odomknú o {{TIME}}!",
+      "countDownToClose": "✨ Posledné chvíle! Zostáva len {{TIME}} na zatočenie a získanie novoročnej odmeny!"
+    }
+  }
+}

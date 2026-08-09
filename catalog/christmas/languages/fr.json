@@ -1,0 +1,63 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} heures",
+    "expireDay": "{{TIME}} jours"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "❄️ Pas de chance cette fois !",
+        "description": "Merci d'avoir tourné la roue ! Plus de magie de Noël vous attend peut-être au prochain essai."
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "🎁 Surprise de Noël ! Vous avez gagné {{REWARD}} !",
+        "description": "Utilisez le code ci-dessous lors du paiement pour profiter de votre récompense festive."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "🎁 Surprise de Noël ! Vous avez gagné {{REWARD}} !",
+        "description": "Utilisez le code ci-dessous lors du paiement pour profiter de la livraison gratuite des fêtes."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "🎁 Surprise de Noël ! Vous avez gagné {{REWARD}} !",
+        "description": "Utilisez le code ci-dessous lors du paiement pour réclamer votre cadeau festif."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "JOUER MAINTENANT 🎄"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "🎄 Découvrez votre surprise de Noël !",
+          "description": "Entrez vos coordonnées et tournez la roue pour découvrir votre récompense festive de Noël.",
+          "descriptionForExistingAccount": "{{NAME}}, c'est l'heure d'une surprise de Noël — tournez la roue pour révéler votre récompense festive !",
+          "agreement": "J'accepte de recevoir des offres et des actualités de fêtes.",
+          "spinButton": "Découvrir mon cadeau",
+          "dismissButton": "Continuer mes achats",
+          "footerText": "La magie des fêtes commence par un tour de roue ✨"
+        },
+        "redemptionForm": {
+          "title": "Joie des fêtes débloquée !"
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "🎅 La magie de Noël arrive... La roue se débloque à {{TIME}} !",
+      "readyToSpin": "🎁 Votre surprise festive vous attend ! Appuyez sur {{OPENER}} pour tourner la roue de Noël !",
+      "countDownToLaunch": "⏳ Presque l'heure ! La roue de Noël se débloque dans {{TIME}} — préparez-vous !",
+      "countDownToClose": "🎄 Dernière chance ! Plus que {{TIME}} pour tourner la roue et réclamer votre récompense de fêtes !"
+    }
+  }
+}

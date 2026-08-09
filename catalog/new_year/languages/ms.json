@@ -1,0 +1,66 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} jam",
+    "expireDay": "{{TIME}} hari"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "✨ Tiada Nasib Kali Ini!",
+        "description": "Tahun Baharu masih ada kejutan menanti - cuba pusing lagi tidak lama lagi!"
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "✨ Kemenangan Tahun Baharu! Anda Dapat {{REWARD}}!",
+        "description": "Gunakan kod di bawah semasa checkout untuk dapatkan hadiah Tahun Baharu anda."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "✨ Kemenangan Tahun Baharu! Anda Dapat {{REWARD}}!",
+        "description": "Gunakan kod di bawah semasa checkout untuk nikmati penghantaran percuma untuk pesanan anda."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "🎁 Kejutan Tahun Baharu! Anda Dapat {{REWARD}}!",
+        "description": "Gunakan kod di bawah semasa checkout untuk dapatkan hadiah Tahun Baharu anda."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "PUSING SEKARANG 💥"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "✨ Sambut Tahun Baharu dengan Kejutan!",
+          "description": "Masukkan nama dan emel anda untuk membuka hadiah Tahun Baharu anda.",
+          "descriptionForExistingAccount": "{{NAME}}, mulakan Tahun Baharu dengan satu pusingan dan buka hadiah istimewa anda.",
+          "agreement": "Saya bersetuju untuk menerima tawaran dan kemas kini Tahun Baharu.",
+          "spinButton": "Pusing & Mulakan Tahun",
+          "dismissButton": "Teruskan membeli-belah",
+          "footerText": "Tahun yang cerah bermula dengan satu pusingan ✨",
+          "messages": {
+            "maxSpinReached": "Nampaknya anda sudah guna semua pusingan anda!"
+          }
+        },
+        "redemptionForm": {
+          "title": "Hadiah Tahun Baharu Anda Sudah Sedia!"
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "✨ Roda Tahun Baharu akan dibuka pada {{TIME}} - bersedia untuk memusing!",
+      "readyToSpin": "✨ Masanya sudah tiba! Tekan {{OPENER}} untuk pusing masuk ke Tahun Baharu!",
+      "countDownToLaunch": "⏳ Detik akhir bermula - hadiah Tahun Baharu akan dibuka dalam {{TIME}}!",
+      "countDownToClose": "✨ Saat-saat terakhir! Hanya {{TIME}} lagi untuk pusing dan dapatkan hadiah Tahun Baharu anda!"
+    }
+  }
+}

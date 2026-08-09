@@ -1,0 +1,66 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} hodín",
+    "expireDay": "{{TIME}} dní"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "🎃 Tentokrát bez šťastia!",
+        "description": "Duchovia boli tentokrát ticho - ale tvoje ďalšie zatočenie môže odhaliť strašidelné prekvapenie."
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "🎃 Bú! Vyhral si {{REWARD}}!",
+        "description": "Použi kód nižšie pri platbe a odomkni si svoju strašidelnú zľavu."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "🎃 Bú! Vyhral si {{REWARD}}!",
+        "description": "Použi kód nižšie pri platbe a uži si dopravu zadarmo z druhej strany."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "🎁 Strašidelné prekvapenie! Vyhral si {{REWARD}}!",
+        "description": "Použi kód nižšie pri platbe a vyzdvihni si svoj strašidelne dobrý darček."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "PRIVOLAJ ODMENU"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "🎃 Trúfaš si zatočiť strašidelným kolesom?",
+          "description": "Zadaj svoje údaje a zatoč kolesom, aby si odomkol strašidelnú halloweensku odmenu.",
+          "descriptionForExistingAccount": "{{NAME}}, zatoč teraz a odomkni si svoju strašidelnú halloweensku odmenu!",
+          "agreement": "Súhlasím s prijímaním strašidelných ponúk a noviniek.",
+          "spinButton": "ZATOČ, AK SA ODVÁŽIŠ",
+          "dismissButton": "Pokračovať v nákupe",
+          "footerText": "Len odvážne duše odomknú tie najlepšie prekvapenia.",
+          "messages": {
+            "maxSpinReached": "Duchovia hovoria, že si zatiaľ využil všetky svoje zatočenia."
+          }
+        },
+        "redemptionForm": {
+          "title": "Tvoja strašidelná odmena je pripravená!"
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "🎃 Duchovia sa zhromažďujú... koleso sa otvorí o {{TIME}}!",
+      "readyToSpin": "👻 Trik alebo maškrta? Klikni na {{OPENER}} a zatoč za svoju halloweensku odmenu!",
+      "countDownToLaunch": "⏳ Strašidelné koleso sa otvorí o {{TIME}} - priprav sa!",
+      "countDownToClose": "🎃 Posledná šanca! Zostáva len {{TIME}} na zatočenie strašidelným kolesom!"
+    }
+  }
+}

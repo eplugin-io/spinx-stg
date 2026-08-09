@@ -1,0 +1,63 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} horas",
+    "expireDay": "{{TIME}} dias"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "❄️ Sem sorte desta vez!",
+        "description": "Obrigado por rodares! Pode estar à tua espera mais magia de Natal na próxima tentativa."
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "🎁 Surpresa de Natal! Ganhaste {{REWARD}}!",
+        "description": "Usa o código abaixo no checkout para desfrutares do teu prémio festivo."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "🎁 Surpresa de Natal! Ganhaste {{REWARD}}!",
+        "description": "Usa o código abaixo no checkout para desfrutares de portes grátis festivos."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "🎁 Surpresa de Natal! Ganhaste {{REWARD}}!",
+        "description": "Usa o código abaixo no checkout para reclamares a tua prenda festiva."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "RODA JÁ 🎄"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "🎄 Desembrulha a tua surpresa de Natal!",
+          "description": "Indica os teus dados e roda a roda para desembrulhares o teu prémio festivo de Natal.",
+          "descriptionForExistingAccount": "{{NAME}}, é hora de uma surpresa de Natal - roda para revelares o teu prémio festivo!",
+          "agreement": "Concordo em receber ofertas e novidades de época festiva.",
+          "spinButton": "Revelar a minha prenda",
+          "dismissButton": "Continuar a comprar",
+          "footerText": "A magia de Natal começa com uma rodada ✨"
+        },
+        "redemptionForm": {
+          "title": "Alegria natalícia desbloqueada!"
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "🎅 A magia de Natal está a chegar... A roda abre às {{TIME}}!",
+      "readyToSpin": "🎁 A tua surpresa festiva espera por ti! Toca em {{OPENER}} para rodar a roda de Natal!",
+      "countDownToLaunch": "⏳ Está quase na hora! A roda de Natal abre em {{TIME}} - prepara-te!",
+      "countDownToClose": "🎄 Última oportunidade! Faltam apenas {{TIME}} para rodares e reclamares o teu prémio festivo!"
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} val.",
+    "expireDay": "{{TIME}} d."
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "Beveik ten! Tavo Juodojo penktadienio prizas laukia",
+        "description": "Nepasiduok - kitas sukimas gali atrakinti išskirtinį Juodojo penktadienio prizą!"
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "💥 Juodojo penktadienio laimėjimas! Gavai {{REWARD}}!",
+        "description": "Naudok žemiau esantį kodą atsiskaitydamas, kad atsiimtum savo Juodojo penktadienio nuolaidą."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "🚚 Juodojo penktadienio laimėjimas! Gavai {{REWARD}}!",
+        "description": "Naudok žemiau esantį kodą atsiskaitydamas ir mėgaukis nemokamu pristatymu savo Juodojo penktadienio užsakymui."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "🎁 Juodojo penktadienio laimėjimas! Gavai {{REWARD}}!",
+        "description": "Naudok žemiau esantį kodą atsiskaitydamas, kad atsiimtum savo Juodojo penktadienio dovaną."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "SUKTI DĖL PASIŪLYMŲ"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "Juodojo penktadienio pasiūlymai laukia!",
+          "description": "Įvesk savo duomenis ir pasuk ratą, kad atrakintum išskirtinį Juodojo penktadienio prizą.",
+          "descriptionForExistingAccount": "{{NAME}}, Juodasis penktadienis jau čia - suk dabar ir atskleisk savo prizą.",
+          "agreement": "Sutinku gauti Juodojo penktadienio pasiūlymus ir naujienas.",
+          "spinButton": "ATRAKINTI PASIŪLYMUS",
+          "dismissButton": "Tęsti apsipirkimą",
+          "footerText": "Kiekvienas sukimas gali atrakinti kitą puikų pasiūlymą.",
+          "messages": {
+            "maxSpinReached": "Jau išnaudojai visus savo Juodojo penktadienio sukimus!"
+          }
+        },
+        "redemptionForm": {
+          "title": "Tavo Juodojo penktadienio prizas paruoštas!"
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "✨ Juodasis penktadienis prasideda {{TIME}} - ruoškis sukti dėl išskirtinių prizų!",
+      "readyToSpin": "💥 Juodasis penktadienis jau vyksta - spausk {{OPENER}} ir suk, kad atrakintum savo prizą!",
+      "countDownToLaunch": "⏳ Ratas atsivers po {{TIME}} - nepraleisk savo Juodojo penktadienio progos!",
+      "countDownToClose": "⚡ Skubėk! Liko tik {{TIME}} pasukti ir atsiimti savo Juodojo penktadienio prizą!"
+    }
+  }
+}

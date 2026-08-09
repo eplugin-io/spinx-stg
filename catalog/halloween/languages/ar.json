@@ -1,0 +1,66 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} ساعة",
+    "expireDay": "{{TIME}} أيام"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "🎃 لا حظ هذه المرة!",
+        "description": "كانت الأرواح هادئة هذه المرة - لكن لفتك القادمة قد تكشف عن مفاجأة مخيفة."
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "🎃 بو! ربحت {{REWARD}}!",
+        "description": "استخدم الرمز أدناه عند الدفع لفتح توفيراتك المخيفة."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "🎃 بو! ربحت {{REWARD}}!",
+        "description": "استخدم الرمز أدناه عند الدفع للاستمتاع بشحن مجاني من العالم الآخر."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "🎁 مفاجأة مخيفة! ربحت {{REWARD}}!",
+        "description": "استخدم الرمز أدناه عند الدفع للحصول على هديتك المرعبة الرائعة."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "استحضر مكافأتك"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "🎃 هل تجرؤ على لف العجلة المسكونة؟",
+          "description": "أدخل بياناتك ولف العجلة لفتح مكافأة هالوين مخيفة.",
+          "descriptionForExistingAccount": "{{NAME}}، لف الآن لفتح مكافأة هالوين المخيفة الخاصة بك!",
+          "agreement": "أوافق على تلقي عروض وتحديثات مخيفة.",
+          "spinButton": "لف إن كنت تجرؤ",
+          "dismissButton": "متابعة التسوق",
+          "footerText": "الأرواح الشجاعة فقط تفتح أفضل المفاجآت.",
+          "messages": {
+            "maxSpinReached": "تقول الأرواح إنك استخدمت كل لفاتك الآن."
+          }
+        },
+        "redemptionForm": {
+          "title": "مكافأتك المخيفة جاهزة!"
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "🎃 الأرواح تتجمع... تُفتح العجلة في {{TIME}}!",
+      "readyToSpin": "👻 خدعة أم حلوى؟ اضغط {{OPENER}} للف والحصول على مكافأة الهالوين!",
+      "countDownToLaunch": "⏳ تُفتح العجلة المسكونة خلال {{TIME}} - استعد!",
+      "countDownToClose": "🎃 الفرصة الأخيرة! بقي {{TIME}} فقط للف العجلة المسكونة!"
+    }
+  }
+}

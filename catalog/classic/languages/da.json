@@ -1,0 +1,102 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} timer",
+    "expireDay": "{{TIME}} dage"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "Ups! Måske næste gang",
+        "description": "Giv ikke op - hvert spin kan afsløre din spændende gevinst!"
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "Tillykke! Du vandt {{REWARD}}!",
+        "description": "Brug koden nedenfor ved kassen for at nyde din rabat."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "Tillykke! Du vandt {{REWARD}}!",
+        "description": "Brug koden nedenfor ved kassen for at få gratis fragt."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "Overraskelse! Du vandt {{REWARD}}!",
+        "description": "Brug koden nedenfor ved kassen for at hente din gratis gave."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "SPIN NU"
+    },
+    "readyLabel": {
+      "text": "GEVINST KLAR"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "Spin hjulet og vind spændende gevinster!",
+          "description": "Udfyld dine oplysninger, og få chancen for at spinne.",
+          "descriptionForExistingAccount": "Velkommen, {{NAME}}! Gør dig klar til at spinne hjulet og låse op for spændende gevinster, der venter lige på dig.",
+          "fields": {
+            "name": {
+              "placeholder": "Navn"
+            },
+            "email": {
+              "placeholder": "E-mail"
+            }
+          },
+          "agreement": "Jeg accepterer at modtage markedsføringsmails og tilbud.",
+          "spinButton": "SPIN",
+          "dismissButton": "Fortsæt med at handle",
+          "footerText": "Sjovet starter med et spin!",
+          "messages": {
+            "maxSpinReached": "Det ser ud til, at du har brugt alle dine spin!"
+          }
+        },
+        "resultForm": {
+          "redeemButton": "Anvend gevinst nu",
+          "dismissButton": "Fortsæt med at handle",
+          "messages": {
+            "rewardExpiry": "Brug din gevinst inden for {{EXPIRE}}"
+          }
+        },
+        "redemptionForm": {
+          "title": "Din gevinst er blevet anvendt!",
+          "description": "Din gevinst er aktiv - du kan gå til kassen nu eller fortsætte med at handle og bruge den når som helst.",
+          "checkoutButton": "Gå til kassen",
+          "dismissButton": "Fortsæt med at handle",
+          "messages": {
+            "noCartItems": "Tilføj varer til din kurv, og indløs din gevinst ved kassen."
+          }
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "Gør dig klar! Gevinsthjulet starter kl. {{TIME}} med spændende præmier!",
+      "readyToSpin": "Klar til at spinne? Klik på {{OPENER}}, og vind noget spændende!",
+      "countDownToLaunch": "Nedtællingen er i gang! Kun {{TIME}} tilbage til start!",
+      "countDownToClose": "Skynd dig! Kun {{TIME}} tilbage - klik på {{OPENER}} for at spinne og hente din gevinst!"
+    },
+    "encourage": {
+      "messages": {
+        "discount": "Du har låst op for {{VALUE}} i rabat - brug den ved kassen!",
+        "discountWithMinOrder": "Få {{VALUE}} i rabat på ordrer over {{MIN_ORDER}}.",
+        "freeShip": "Gratis fragt låst op - brug den ved kassen!",
+        "freeShipWithMinOrder": "Gratis fragt på ordrer over {{MIN_ORDER}}.",
+        "freeShipWithMaxAmount": "Nyd gratis fragt op til {{MAX_AMOUNT}}.",
+        "freeShipWithMaxAmountAndMinOrder": "Gratis fragt op til {{MAX_AMOUNT}} på ordrer over {{MIN_ORDER}}.",
+        "freeGift": "Gratis gave låst op - hent den ved kassen!",
+        "redeemCode": "Brug koden {{CODE}} ved kassen for at nyde din gevinst."
+      }
+    }
+  }
+}

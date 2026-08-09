@@ -1,0 +1,66 @@
+{
+  "label": {
+    "expireTime": "{{TIME}}시간",
+    "expireDay": "{{TIME}}일"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "🎃 이번엔 운이 없었네요!",
+        "description": "이번엔 유령들이 조용했지만 - 다음 스핀에서는 으스스한 깜짝 선물이 기다리고 있을지도 몰라요."
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "🎃 부! {{REWARD}}에 당첨되셨어요!",
+        "description": "아래 코드를 결제 시 입력하고 오싹한 할인 혜택을 받아보세요."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "🎃 부! {{REWARD}}에 당첨되셨어요!",
+        "description": "아래 코드를 결제 시 입력하고 저 세상에서 온 무료 배송을 받아보세요."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "🎁 으스스한 깜짝 선물! {{REWARD}}에 당첨되셨어요!",
+        "description": "아래 코드를 결제 시 입력하고 소름 돋게 멋진 선물을 받아보세요."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "보상 소환하기"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "🎃 유령의 휠을 돌릴 용기가 있나요?",
+          "description": "정보를 입력하고 휠을 돌려 오싹한 할로윈 보상을 받아보세요.",
+          "descriptionForExistingAccount": "{{NAME}}님, 지금 돌려서 오싹한 할로윈 보상을 확인해보세요!",
+          "agreement": "오싹한 혜택 및 업데이트 수신에 동의합니다.",
+          "spinButton": "용기 있으면 돌리기",
+          "dismissButton": "쇼핑 계속하기",
+          "footerText": "용감한 영혼만이 최고의 깜짝 선물을 얻을 수 있어요.",
+          "messages": {
+            "maxSpinReached": "유령들이 말하길, 이미 모든 스핀 기회를 사용하셨대요."
+          }
+        },
+        "redemptionForm": {
+          "title": "으스스한 보상이 준비되었어요!"
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "🎃 유령들이 모여들고 있어요... 휠은 {{TIME}}에 열려요!",
+      "readyToSpin": "👻 트릭 오어 트릿? {{OPENER}}를 클릭해서 할로윈 보상을 위해 돌려보세요!",
+      "countDownToLaunch": "⏳ 유령의 휠이 {{TIME}} 후에 열려요 - 준비하세요!",
+      "countDownToClose": "🎃 마지막 기회예요! 유령의 휠을 돌릴 시간이 {{TIME}} 밖에 남지 않았어요!"
+    }
+  }
+}

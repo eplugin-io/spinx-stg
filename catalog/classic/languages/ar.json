@@ -1,0 +1,102 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} ساعة",
+    "expireDay": "{{TIME}} أيام"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "للأسف! ربما في المرة القادمة",
+        "description": "لا تستسلم - قد تكشف كل لفة عن مكافأة رائعة!"
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "تهانينا! ربحت {{REWARD}}!",
+        "description": "استخدم الرمز أدناه عند الدفع للاستمتاع بالخصم."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "تهانينا! ربحت {{REWARD}}!",
+        "description": "استخدم الرمز أدناه عند الدفع للحصول على شحن مجاني."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "مفاجأة! ربحت {{REWARD}}!",
+        "description": "استخدم الرمز أدناه عند الدفع للحصول على هديتك المجانية."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "لف الآن"
+    },
+    "readyLabel": {
+      "text": "مكافأتك جاهزة"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "لف العجلة واربح مكافآت رائعة!",
+          "description": "أدخل بياناتك لتحصل على فرصة اللف.",
+          "descriptionForExistingAccount": "مرحباً {{NAME}}! استعد للف العجلة وفتح مكافآت رائعة بانتظارك.",
+          "fields": {
+            "name": {
+              "placeholder": "الاسم"
+            },
+            "email": {
+              "placeholder": "البريد الإلكتروني"
+            }
+          },
+          "agreement": "أوافق على تلقي رسائل وعروض تسويقية عبر البريد الإلكتروني.",
+          "spinButton": "لف",
+          "dismissButton": "متابعة التسوق",
+          "footerText": "تبدأ المتعة بلفة واحدة!",
+          "messages": {
+            "maxSpinReached": "يبدو أنك استخدمت كل لفاتك!"
+          }
+        },
+        "resultForm": {
+          "redeemButton": "استخدم المكافأة الآن",
+          "dismissButton": "متابعة التسوق",
+          "messages": {
+            "rewardExpiry": "استخدم مكافأتك خلال {{EXPIRE}}"
+          }
+        },
+        "redemptionForm": {
+          "title": "تم تطبيق مكافأتك!",
+          "description": "مكافأتك مفعلة - يمكنك الدفع الآن أو متابعة التسوق واستخدامها لاحقاً.",
+          "checkoutButton": "الدفع الآن",
+          "dismissButton": "متابعة التسوق",
+          "messages": {
+            "noCartItems": "أضف منتجات إلى سلة التسوق لاستخدام مكافأتك عند الدفع."
+          }
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "استعد! تنطلق عجلة المكافآت في {{TIME}} مع جوائز رائعة!",
+      "readyToSpin": "جاهز للّف؟ اضغط {{OPENER}} واربح مكافأة رائعة!",
+      "countDownToLaunch": "بدأ العد التنازلي! بقي {{TIME}} فقط على الانطلاق!",
+      "countDownToClose": "أسرع! بقي {{TIME}} فقط - اضغط {{OPENER}} للف العجلة والحصول على مكافأتك!"
+    },
+    "encourage": {
+      "messages": {
+        "discount": "لقد حصلت على خصم {{VALUE}} - استخدمه عند الدفع!",
+        "discountWithMinOrder": "احصل على خصم {{VALUE}} للطلبات التي تزيد عن {{MIN_ORDER}}.",
+        "freeShip": "تم فتح الشحن المجاني - استخدمه عند الدفع!",
+        "freeShipWithMinOrder": "شحن مجاني للطلبات التي تزيد عن {{MIN_ORDER}}.",
+        "freeShipWithMaxAmount": "استمتع بشحن مجاني حتى {{MAX_AMOUNT}}.",
+        "freeShipWithMaxAmountAndMinOrder": "شحن مجاني حتى {{MAX_AMOUNT}} للطلبات التي تزيد عن {{MIN_ORDER}}.",
+        "freeGift": "تم فتح هدية مجانية - احصل عليها عند الدفع!",
+        "redeemCode": "استخدم الرمز {{CODE}} عند الدفع للاستمتاع بمكافأتك."
+      }
+    }
+  }
+}

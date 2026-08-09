@@ -1,0 +1,66 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} ore",
+    "expireDay": "{{TIME}} giorni"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "Ci sei quasi! Il tuo premio del Black Friday ti aspetta",
+        "description": "Non arrenderti — il tuo prossimo giro potrebbe sbloccare un premio esclusivo del Black Friday!"
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "💥 Vittoria del Black Friday! Hai ottenuto {{REWARD}}!",
+        "description": "Usa il codice qui sotto al checkout per riscattare il tuo sconto del Black Friday."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "🚚 Vittoria del Black Friday! Hai ottenuto {{REWARD}}!",
+        "description": "Usa il codice qui sotto al checkout per goderti la spedizione gratuita sul tuo ordine del Black Friday."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "🎁 Vittoria del Black Friday! Hai ottenuto {{REWARD}}!",
+        "description": "Usa il codice qui sotto al checkout per riscattare il tuo regalo del Black Friday."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "GIRA PER LE OFFERTE"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "Le offerte del Black Friday ti aspettano!",
+          "description": "Inserisci i tuoi dati e gira la ruota per sbloccare un premio esclusivo del Black Friday.",
+          "descriptionForExistingAccount": "{{NAME}}, il Black Friday è arrivato — gira ora per rivelare il tuo premio.",
+          "agreement": "Accetto di ricevere offerte e aggiornamenti del Black Friday.",
+          "spinButton": "SBLOCCA LE OFFERTE",
+          "dismissButton": "Continua lo shopping",
+          "footerText": "Ogni giro può sbloccare il tuo prossimo grande affare.",
+          "messages": {
+            "maxSpinReached": "Hai già esaurito tutti i tuoi giri del Black Friday!"
+          }
+        },
+        "redemptionForm": {
+          "title": "Il tuo premio del Black Friday è pronto!"
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "✨ Il Black Friday inizia alle {{TIME}} — preparati a girare per premi esclusivi!",
+      "readyToSpin": "💥 Il Black Friday è iniziato — clicca su {{OPENER}} per girare e sbloccare il tuo premio!",
+      "countDownToLaunch": "⏳ La ruota si sblocca tra {{TIME}} — non perdere la tua occasione del Black Friday!",
+      "countDownToClose": "⚡ Sbrigati! Mancano solo {{TIME}} per girare e riscattare il tuo premio del Black Friday!"
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} 小时",
+    "expireDay": "{{TIME}} 天"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "就差一步！您的黑五好礼即将揭晓",
+        "description": "别放弃——下一次转动或许就能解锁专属黑五好礼！"
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "💥 黑五好运！您获得了 {{REWARD}}！",
+        "description": "结账时使用下方优惠码，领取您的黑五折扣。"
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "🚚 黑五好运！您获得了 {{REWARD}}！",
+        "description": "结账时使用下方优惠码，享受黑五订单免运费。"
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "🎁 黑五好运！您获得了 {{REWARD}}！",
+        "description": "结账时使用下方优惠码，领取您的黑五礼品。"
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "转出优惠"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "黑五超值好礼等您来拿！",
+          "description": "填写您的信息，转动转盘解锁专属黑五好礼。",
+          "descriptionForExistingAccount": "{{NAME}}，黑五已经到来——立即转动转盘，揭晓您的好礼。",
+          "agreement": "我同意接收黑五专属优惠和最新消息。",
+          "spinButton": "解锁优惠",
+          "dismissButton": "继续购物",
+          "footerText": "每一次转动都可能解锁下一个超值优惠。",
+          "messages": {
+            "maxSpinReached": "您的黑五抽奖次数已经全部用完啦！"
+          }
+        },
+        "redemptionForm": {
+          "title": "您的黑五好礼已就绪！"
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "✨ 黑五将于 {{TIME}} 开启——做好准备，转动转盘赢取专属好礼！",
+      "readyToSpin": "💥 黑五狂欢开启——点击 {{OPENER}} 转动转盘，解锁您的好礼！",
+      "countDownToLaunch": "⏳ 转盘将在 {{TIME}} 后开启——别错过您的黑五机会！",
+      "countDownToClose": "⚡ 抓紧时间！仅剩 {{TIME}} 可以转动转盘，领取您的黑五好礼！"
+    }
+  }
+}

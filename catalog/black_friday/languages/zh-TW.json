@@ -1,0 +1,66 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} 小時",
+    "expireDay": "{{TIME}} 天"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "就差一點！你的黑色星期五好禮在等你",
+        "description": "別放棄——下一次轉動可能解鎖獨家黑色星期五優惠！"
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "💥 黑色星期五好運！你抽中了 {{REWARD}}！",
+        "description": "結帳時輸入以下代碼，領取你的黑色星期五折扣。"
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "🚚 黑色星期五好運！你抽中了 {{REWARD}}！",
+        "description": "結帳時輸入以下代碼，享受黑色星期五訂單免運優惠。"
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "🎁 黑色星期五好運！你抽中了 {{REWARD}}！",
+        "description": "結帳時輸入以下代碼，領取你的黑色星期五贈禮。"
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "轉動搶優惠"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "黑色星期五好禮等你來搶！",
+          "description": "填寫資料並轉動輪盤，解鎖獨家黑色星期五好禮。",
+          "descriptionForExistingAccount": "{{NAME}}，黑色星期五來了——立即轉動，揭曉你的好禮。",
+          "agreement": "我同意接收黑色星期五優惠與最新資訊。",
+          "spinButton": "解鎖優惠",
+          "dismissButton": "繼續購物",
+          "footerText": "每一次轉動都可能解鎖你的下一個超值優惠。",
+          "messages": {
+            "maxSpinReached": "你已經用完所有黑色星期五轉動機會囉！"
+          }
+        },
+        "redemptionForm": {
+          "title": "你的黑色星期五好禮已經就緒！"
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "✨ 黑色星期五將於 {{TIME}} 開跑——準備好轉動搶好禮吧！",
+      "readyToSpin": "💥 黑色星期五開跑囉——點擊 {{OPENER}} 轉動解鎖好禮！",
+      "countDownToLaunch": "⏳ 輪盤將於 {{TIME}} 後解鎖——別錯過你的黑色星期五機會！",
+      "countDownToClose": "⚡ 手刀行動！只剩 {{TIME}} 可以轉動並領取黑色星期五好禮！"
+    }
+  }
+}

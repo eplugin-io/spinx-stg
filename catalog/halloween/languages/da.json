@@ -1,0 +1,66 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} timer",
+    "expireDay": "{{TIME}} dage"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "🎃 Ingen held denne gang!",
+        "description": "Ånderne var tavse denne gang — men dit næste spin kan afsløre en uhyggelig overraskelse."
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "🎃 Bøh! Du vandt {{REWARD}}!",
+        "description": "Brug koden nedenfor ved kassen for at låse op for din uhyggelige besparelse."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "🎃 Bøh! Du vandt {{REWARD}}!",
+        "description": "Brug koden nedenfor ved kassen for at nyde gratis fragt fra den anden side."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "🎁 En uhyggelig overraskelse! Du vandt {{REWARD}}!",
+        "description": "Brug koden nedenfor ved kassen for at hente din uhyggeligt gode gave."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "TILKALD GEVINST"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "🎃 Tør du spinne det forhekset hjul?",
+          "description": "Indtast dine oplysninger, og spin hjulet for at låse op for en uhyggelig Halloween-gevinst.",
+          "descriptionForExistingAccount": "{{NAME}}, spin nu for at låse op for din uhyggelige Halloween-gevinst!",
+          "agreement": "Jeg accepterer at modtage uhyggelige tilbud og opdateringer.",
+          "spinButton": "SPIN, HVIS DU TØR",
+          "dismissButton": "Fortsæt med at handle",
+          "footerText": "Kun modige sjæle låser op for de bedste overraskelser.",
+          "messages": {
+            "maxSpinReached": "Ånderne siger, at du har brugt alle dine spin for nu."
+          }
+        },
+        "redemptionForm": {
+          "title": "Din uhyggelige gevinst er klar!"
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "🎃 Ånderne samler sig... hjulet låser op kl. {{TIME}}!",
+      "readyToSpin": "👻 Slikke eller sludre? Klik på {{OPENER}} for at spinne efter din Halloween-gevinst!",
+      "countDownToLaunch": "⏳ Det forhekset hjul låser op om {{TIME}} — gør dig klar!",
+      "countDownToClose": "🎃 Sidste chance! Kun {{TIME}} tilbage til at spinne det forhekset hjul!"
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} saat",
+    "expireDay": "{{TIME}} gün"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "✨ Bu Sefer Şans Yok!",
+        "description": "Yeni yılın hala seni bekleyen sürprizleri var - yakında tekrar çevirmeyi dene!"
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "✨ Yeni Yıl Kazancı! {{REWARD}} Kazandın!",
+        "description": "Yeni yıl ödülünü almak için ödeme sırasında aşağıdaki kodu gir."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "✨ Yeni Yıl Kazancı! {{REWARD}} Kazandın!",
+        "description": "Siparişinde ücretsiz kargonun keyfini çıkarmak için ödeme sırasında aşağıdaki kodu gir."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "🎁 Yeni Yıl Sürprizi! {{REWARD}} Kazandın!",
+        "description": "Yeni yıl hediyeni almak için ödeme sırasında aşağıdaki kodu gir."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "HEMEN ÇEVİR 💥"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "✨ Yeni Yılı Bir Sürprizle Karşıla!",
+          "description": "Yeni yıl ödülünün kilidini açmak için adını ve e-postanı gir.",
+          "descriptionForExistingAccount": "{{NAME}}, yeni yıla bir çevirişle başla ve özel ödülünün kilidini aç.",
+          "agreement": "Yeni yıl teklifleri ve güncellemeleri almayı kabul ediyorum.",
+          "spinButton": "Çevir & Yılı Başlat",
+          "dismissButton": "Alışverişe devam et",
+          "footerText": "Parlak bir yıl tek bir çevirişle başlar ✨",
+          "messages": {
+            "maxSpinReached": "Görünüşe göre tüm çevirme hakkını kullandın!"
+          }
+        },
+        "redemptionForm": {
+          "title": "Yeni Yıl Ödülün Hazır!"
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "✨ Yeni yıl çarkı {{TIME}} saatinde açılıyor - çevirmeye hazır ol!",
+      "readyToSpin": "✨ Zamanı geldi! Yeni yıla çevirerek girmek için {{OPENER}} butonuna dokun!",
+      "countDownToLaunch": "⏳ Geri sayım başladı - yeni yıl ödülleri {{TIME}} içinde açılıyor!",
+      "countDownToClose": "✨ Son anlar! Çevirip yeni yıl ödülünü almak için sadece {{TIME}} kaldı!"
+    }
+  }
+}

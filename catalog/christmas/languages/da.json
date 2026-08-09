@@ -1,0 +1,63 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} timer",
+    "expireDay": "{{TIME}} dage"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "❄️ Ingen held denne gang!",
+        "description": "Tak, fordi du spandt! Mere julemagi venter måske på dit næste forsøg."
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "🎁 Juleoverraskelse! Du vandt {{REWARD}}!",
+        "description": "Brug koden nedenfor ved kassen for at nyde din festlige gevinst."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "🎁 Juleoverraskelse! Du vandt {{REWARD}}!",
+        "description": "Brug koden nedenfor ved kassen for at nyde gratis julefragt."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "🎁 Juleoverraskelse! Du vandt {{REWARD}}!",
+        "description": "Brug koden nedenfor ved kassen for at hente din festlige gave."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "SPIN NU 🎄"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "🎄 Pak din juleoverraskelse ud!",
+          "description": "Indtast dine oplysninger, og spin hjulet for at pakke din festlige julegevinst ud.",
+          "descriptionForExistingAccount": "{{NAME}}, det er tid til en juleoverraskelse — spin for at afsløre din festlige gevinst!",
+          "agreement": "Jeg accepterer at modtage jule- og feriedagstilbud og opdateringer.",
+          "spinButton": "Afslør min gave",
+          "dismissButton": "Fortsæt med at handle",
+          "footerText": "Julemagien begynder med et spin ✨"
+        },
+        "redemptionForm": {
+          "title": "Julestemningen er låst op!"
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "🎅 Julemagien er på vej... Hjulet låser op kl. {{TIME}}!",
+      "readyToSpin": "🎁 Din festlige overraskelse venter! Tryk på {{OPENER}} for at spinne julehjulet!",
+      "countDownToLaunch": "⏳ Snart er det tid! Julehjulet låser op om {{TIME}} — gør dig klar!",
+      "countDownToClose": "🎄 Sidste chance! Kun {{TIME}} tilbage til at spinne og hente din julegevinst!"
+    }
+  }
+}

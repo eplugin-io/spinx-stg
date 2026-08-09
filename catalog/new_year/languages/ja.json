@@ -1,0 +1,66 @@
+{
+  "label": {
+    "expireTime": "{{TIME}}時間",
+    "expireDay": "{{TIME}}日"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "✨ 今回はツキがありませんでした!",
+        "description": "新年にはまだサプライズが待っています - またすぐにスピンしてみましょう!"
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "✨ 新年の当たり!{{REWARD}}をゲット!",
+        "description": "レジで下記のコードを使って新年の景品を受け取りましょう。"
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "✨ 新年の当たり!{{REWARD}}をゲット!",
+        "description": "レジで下記のコードを使ってご注文の送料無料をお楽しみください。"
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "🎁 新年のサプライズ!{{REWARD}}をゲット!",
+        "description": "レジで下記のコードを使って新年のプレゼントを受け取りましょう。"
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "今すぐスピン 💥"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "✨ サプライズで新年を迎えよう!",
+          "description": "お名前とメールアドレスを入力して新年の景品をゲットしましょう。",
+          "descriptionForExistingAccount": "{{NAME}}さん、スピンして新年をスタートし、特別な景品をゲットしましょう。",
+          "agreement": "新年の特典と最新情報の受信に同意します。",
+          "spinButton": "スピンして新年をスタート",
+          "dismissButton": "買い物を続ける",
+          "footerText": "輝かしい一年は一回のスピンから始まります ✨",
+          "messages": {
+            "maxSpinReached": "スピン回数の上限に達したようです!"
+          }
+        },
+        "redemptionForm": {
+          "title": "新年の景品の準備が整いました!"
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "✨ 新年のホイールは{{TIME}}に解放されます - スピンの準備をしましょう!",
+      "readyToSpin": "✨ その時が来ました!{{OPENER}}をタップして新年へスピンしよう!",
+      "countDownToLaunch": "⏳ カウントダウン開始 - 新年の景品はあと{{TIME}}で解放されます!",
+      "countDownToClose": "✨ 残りわずか!新年の景品をゲットできるのはあと{{TIME}}!"
+    }
+  }
+}

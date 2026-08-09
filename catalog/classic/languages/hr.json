@@ -1,0 +1,102 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} sati",
+    "expireDay": "{{TIME}} dana"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "Ups! Možda sljedeći put",
+        "description": "Ne odustajte - svako okretanje moglo bi otkriti vašu uzbudljivu nagradu!"
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "Čestitamo! Osvojili ste {{REWARD}}!",
+        "description": "Upotrijebite kod ispod prilikom plaćanja kako biste iskoristili svoj popust."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "Čestitamo! Osvojili ste {{REWARD}}!",
+        "description": "Upotrijebite kod ispod prilikom plaćanja kako biste dobili besplatnu dostavu."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "Iznenađenje! Osvojili ste {{REWARD}}!",
+        "description": "Upotrijebite kod ispod prilikom plaćanja kako biste preuzeli svoj besplatan poklon."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "ZAVRTI SADA"
+    },
+    "readyLabel": {
+      "text": "NAGRADA SPREMNA"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "Zavrtite kolo i osvojite uzbudljive nagrade!",
+          "description": "Unesite svoje podatke i dobijte priliku za okretanje kola.",
+          "descriptionForExistingAccount": "Dobrodošli, {{NAME}}! Pripremite se za okretanje kola i otključajte uzbudljive nagrade koje vas čekaju.",
+          "fields": {
+            "name": {
+              "placeholder": "Ime"
+            },
+            "email": {
+              "placeholder": "E-mail"
+            }
+          },
+          "agreement": "Slažem se s primanjem marketinških e-poruka i ponuda.",
+          "spinButton": "ZAVRTI",
+          "dismissButton": "Nastavi kupnju",
+          "footerText": "Zabava počinje jednim okretanjem!",
+          "messages": {
+            "maxSpinReached": "Izgleda da ste iskoristili sva svoja okretanja!"
+          }
+        },
+        "resultForm": {
+          "redeemButton": "Iskoristi nagradu sada",
+          "dismissButton": "Nastavi kupnju",
+          "messages": {
+            "rewardExpiry": "Iskoristite svoju nagradu unutar {{EXPIRE}}"
+          }
+        },
+        "redemptionForm": {
+          "title": "Vaša nagrada je iskorištena!",
+          "description": "Vaša nagrada je aktivna - možete platiti odmah ili nastaviti kupnju i iskoristiti je bilo kada.",
+          "checkoutButton": "Plati sada",
+          "dismissButton": "Nastavi kupnju",
+          "messages": {
+            "noCartItems": "Dodajte artikle u košaricu i iskoristite nagradu prilikom plaćanja."
+          }
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "Pripremite se! Kolo nagrada pokreće se u {{TIME}} s uzbudljivim nagradama!",
+      "readyToSpin": "Spremni za okretanje? Kliknite {{OPENER}} i osvojite nešto uzbudljivo!",
+      "countDownToLaunch": "Odbrojavanje je u tijeku! Preostalo je samo {{TIME}} do pokretanja!",
+      "countDownToClose": "Požurite! Preostalo je samo {{TIME}} - kliknite {{OPENER}} za okretanje i preuzimanje nagrade!"
+    },
+    "encourage": {
+      "messages": {
+        "discount": "Otključali ste popust od {{VALUE}} - iskoristite ga prilikom plaćanja!",
+        "discountWithMinOrder": "Ostvarite {{VALUE}} popusta na narudžbe iznad {{MIN_ORDER}}.",
+        "freeShip": "Besplatna dostava otključana - iskoristite je prilikom plaćanja!",
+        "freeShipWithMinOrder": "Besplatna dostava za narudžbe iznad {{MIN_ORDER}}.",
+        "freeShipWithMaxAmount": "Uživajte u besplatnoj dostavi do {{MAX_AMOUNT}}.",
+        "freeShipWithMaxAmountAndMinOrder": "Besplatna dostava do {{MAX_AMOUNT}} za narudžbe iznad {{MIN_ORDER}}.",
+        "freeGift": "Besplatan poklon otključan - preuzmite ga prilikom plaćanja!",
+        "redeemCode": "Upotrijebite kod {{CODE}} prilikom plaćanja kako biste iskoristili svoju nagradu."
+      }
+    }
+  }
+}

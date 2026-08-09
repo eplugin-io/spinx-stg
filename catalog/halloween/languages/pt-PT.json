@@ -1,0 +1,66 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} horas",
+    "expireDay": "{{TIME}} dias"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "🎃 Sem sorte desta vez!",
+        "description": "Os espíritos estiveram calados desta vez - mas a tua próxima rodada pode revelar uma surpresa assustadora."
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "🎃 Bu! Ganhaste {{REWARD}}!",
+        "description": "Usa o código abaixo no checkout para desbloqueares a tua poupança assustadora."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "🎃 Bu! Ganhaste {{REWARD}}!",
+        "description": "Usa o código abaixo no checkout para desfrutares de portes grátis do outro lado."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "🎁 Uma surpresa assustadora! Ganhaste {{REWARD}}!",
+        "description": "Usa o código abaixo no checkout para reclamares a tua prenda assustadoramente boa."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "INVOCA O PRÉMIO"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "🎃 Atreves-te a rodar a roda assombrada?",
+          "description": "Indica os teus dados e roda a roda para desbloqueares um prémio assustador de Halloween.",
+          "descriptionForExistingAccount": "{{NAME}}, roda agora para desbloqueares o teu prémio assustador de Halloween!",
+          "agreement": "Concordo em receber ofertas e novidades assustadoras.",
+          "spinButton": "RODA SE TE ATREVERES",
+          "dismissButton": "Continuar a comprar",
+          "footerText": "Só as almas corajosas desbloqueiam as melhores surpresas.",
+          "messages": {
+            "maxSpinReached": "Os espíritos dizem que já usaste todas as tuas rodadas por agora."
+          }
+        },
+        "redemptionForm": {
+          "title": "O teu prémio assustador está pronto!"
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "🎃 Os espíritos estão a reunir-se... a roda abre às {{TIME}}!",
+      "readyToSpin": "👻 Doçura ou travessura? Clica em {{OPENER}} para rodar pelo teu prémio de Halloween!",
+      "countDownToLaunch": "⏳ A roda assombrada abre em {{TIME}} - prepara-te!",
+      "countDownToClose": "🎃 Última oportunidade! Faltam apenas {{TIME}} para rodares a roda assombrada!"
+    }
+  }
+}

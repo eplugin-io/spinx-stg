@@ -1,0 +1,66 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} uur",
+    "expireDay": "{{TIME}} dagen"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "Bijna daar! Je Black Friday-beloning wacht",
+        "description": "Geef niet op - je volgende draai kan een exclusieve Black Friday-beloning ontgrendelen!"
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "💥 Black Friday-winst! Je hebt {{REWARD}} gekregen!",
+        "description": "Gebruik onderstaande code bij het afrekenen om je Black Friday-korting te claimen."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "🚚 Black Friday-winst! Je hebt {{REWARD}} gekregen!",
+        "description": "Gebruik onderstaande code bij het afrekenen voor gratis verzending op je Black Friday-bestelling."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "🎁 Black Friday-winst! Je hebt {{REWARD}} gekregen!",
+        "description": "Gebruik onderstaande code bij het afrekenen om je Black Friday-cadeau te claimen."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "DRAAI VOOR DEALS"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "Black Friday-deals wachten op je!",
+          "description": "Vul je gegevens in en draai het rad om een exclusieve Black Friday-beloning te ontgrendelen.",
+          "descriptionForExistingAccount": "{{NAME}}, Black Friday is begonnen - draai nu om je beloning te onthullen.",
+          "agreement": "Ik ga akkoord met het ontvangen van Black Friday-aanbiedingen en updates.",
+          "spinButton": "ONTGRENDEL DEALS",
+          "dismissButton": "Verder winkelen",
+          "footerText": "Elke draai kan je volgende topdeal ontgrendelen.",
+          "messages": {
+            "maxSpinReached": "Je hebt al je Black Friday-draaibeurten al gebruikt!"
+          }
+        },
+        "redemptionForm": {
+          "title": "Je Black Friday-beloning is klaar!"
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "✨ Black Friday start om {{TIME}} - maak je klaar om te draaien voor exclusieve beloningen!",
+      "readyToSpin": "💥 Black Friday is live - klik op {{OPENER}} om te draaien en je beloning te ontgrendelen!",
+      "countDownToLaunch": "⏳ Het rad opent over {{TIME}} - mis je Black Friday-kans niet!",
+      "countDownToClose": "⚡ Snel! Nog maar {{TIME}} om te draaien en je Black Friday-beloning te claimen!"
+    }
+  }
+}

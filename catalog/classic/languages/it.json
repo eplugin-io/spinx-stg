@@ -1,0 +1,102 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} ore",
+    "expireDay": "{{TIME}} giorni"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "Peccato! Sarà per la prossima volta",
+        "description": "Non arrenderti - ogni giro potrebbe rivelare un premio entusiasmante!"
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "Complimenti! Hai vinto {{REWARD}}!",
+        "description": "Usa il codice qui sotto al checkout per usufruire del tuo sconto."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "Complimenti! Hai vinto {{REWARD}}!",
+        "description": "Usa il codice qui sotto al checkout per ottenere la spedizione gratuita."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "Sorpresa! Hai vinto {{REWARD}}!",
+        "description": "Usa il codice qui sotto al checkout per riscattare il tuo regalo gratuito."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "GIRA ORA"
+    },
+    "readyLabel": {
+      "text": "PREMIO PRONTO"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "Gira la ruota e vinci premi entusiasmanti!",
+          "description": "Inserisci i tuoi dati e ottieni la tua possibilità di girare.",
+          "descriptionForExistingAccount": "Benvenuto/a, {{NAME}}! Preparati a girare la ruota e sbloccare premi entusiasmanti che ti aspettano.",
+          "fields": {
+            "name": {
+              "placeholder": "Nome"
+            },
+            "email": {
+              "placeholder": "Email"
+            }
+          },
+          "agreement": "Accetto di ricevere email di marketing e offerte.",
+          "spinButton": "GIRA",
+          "dismissButton": "Continua lo shopping",
+          "footerText": "Il divertimento inizia con un giro!",
+          "messages": {
+            "maxSpinReached": "Sembra che tu abbia esaurito tutti i tuoi giri!"
+          }
+        },
+        "resultForm": {
+          "redeemButton": "Applica il premio ora",
+          "dismissButton": "Continua lo shopping",
+          "messages": {
+            "rewardExpiry": "Usa il tuo premio entro {{EXPIRE}}"
+          }
+        },
+        "redemptionForm": {
+          "title": "Il tuo premio è stato applicato!",
+          "description": "Il tuo premio è attivo - puoi procedere al checkout ora oppure continuare lo shopping e usarlo quando vuoi.",
+          "checkoutButton": "Vai al checkout ora",
+          "dismissButton": "Continua lo shopping",
+          "messages": {
+            "noCartItems": "Aggiungi articoli al carrello e riscatta il tuo premio al checkout."
+          }
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "Preparati! La ruota dei premi si attiva alle {{TIME}} con premi entusiasmanti!",
+      "readyToSpin": "Pronto a girare? Clicca su {{OPENER}} e vinci qualcosa di entusiasmante!",
+      "countDownToLaunch": "Il conto alla rovescia è iniziato! Mancano solo {{TIME}} al lancio!",
+      "countDownToClose": "Sbrigati! Mancano solo {{TIME}} - clicca su {{OPENER}} per girare e riscattare il tuo premio!"
+    },
+    "encourage": {
+      "messages": {
+        "discount": "Hai sbloccato {{VALUE}} di sconto - usalo al checkout!",
+        "discountWithMinOrder": "Ottieni {{VALUE}} di sconto sugli ordini superiori a {{MIN_ORDER}}.",
+        "freeShip": "Spedizione gratuita sbloccata - usala al checkout!",
+        "freeShipWithMinOrder": "Spedizione gratuita sugli ordini superiori a {{MIN_ORDER}}.",
+        "freeShipWithMaxAmount": "Goditi la spedizione gratuita fino a {{MAX_AMOUNT}}.",
+        "freeShipWithMaxAmountAndMinOrder": "Spedizione gratuita fino a {{MAX_AMOUNT}} sugli ordini superiori a {{MIN_ORDER}}.",
+        "freeGift": "Regalo gratuito sbloccato - ritiralo al checkout!",
+        "redeemCode": "Usa il codice {{CODE}} al checkout per usufruire del tuo premio."
+      }
+    }
+  }
+}

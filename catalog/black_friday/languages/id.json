@@ -1,0 +1,66 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} jam",
+    "expireDay": "{{TIME}} hari"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "Hampir Berhasil! Hadiah Black Friday-mu Menanti",
+        "description": "Jangan menyerah - putaran berikutnya bisa membuka hadiah eksklusif Black Friday!"
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "💥 Menang Black Friday! Kamu Dapat {{REWARD}}!",
+        "description": "Gunakan kode di bawah ini saat checkout untuk mengklaim diskon Black Friday-mu."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "🚚 Menang Black Friday! Kamu Dapat {{REWARD}}!",
+        "description": "Gunakan kode di bawah ini saat checkout untuk menikmati gratis ongkir pesanan Black Friday-mu."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "🎁 Menang Black Friday! Kamu Dapat {{REWARD}}!",
+        "description": "Gunakan kode di bawah ini saat checkout untuk mengklaim hadiah Black Friday-mu."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "PUTAR UNTUK DISKON"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "Diskon Black Friday Sudah Menunggu!",
+          "description": "Masukkan datamu dan putar rodanya untuk membuka hadiah eksklusif Black Friday.",
+          "descriptionForExistingAccount": "{{NAME}}, Black Friday sudah tiba - putar sekarang untuk mengungkap hadiahmu.",
+          "agreement": "Saya setuju menerima penawaran dan info Black Friday.",
+          "spinButton": "BUKA DISKON",
+          "dismissButton": "Lanjutkan belanja",
+          "footerText": "Setiap putaran bisa membuka diskon terbaik berikutnya.",
+          "messages": {
+            "maxSpinReached": "Kamu sudah menggunakan semua putaran Black Friday-mu!"
+          }
+        },
+        "redemptionForm": {
+          "title": "Hadiah Black Friday-mu Sudah Siap!"
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "✨ Black Friday dimulai pukul {{TIME}} - bersiaplah memutar untuk hadiah eksklusif!",
+      "readyToSpin": "💥 Black Friday sudah dimulai - klik {{OPENER}} untuk memutar dan membuka hadiahmu!",
+      "countDownToLaunch": "⏳ Roda terbuka dalam {{TIME}} - jangan lewatkan kesempatan Black Friday-mu!",
+      "countDownToClose": "⚡ Buruan! Hanya tersisa {{TIME}} untuk memutar dan meraih hadiah Black Friday-mu!"
+    }
+  }
+}

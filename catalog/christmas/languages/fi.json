@@ -1,0 +1,63 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} tuntia",
+    "expireDay": "{{TIME}} päivää"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "❄️ Ei tuuria tällä kertaa!",
+        "description": "Kiitos pyöräytyksestä! Lisää joulun taikaa saattaa odottaa seuraavalla yrityksellä."
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "🎁 Joulun yllätys! Voitit {{REWARD}}!",
+        "description": "Käytä alla olevaa koodia kassalla nauttiaksesi juhlapalkinnostasi."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "🎁 Joulun yllätys! Voitit {{REWARD}}!",
+        "description": "Käytä alla olevaa koodia kassalla nauttiaksesi ilmaisesta joulutoimituksesta."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "🎁 Joulun yllätys! Voitit {{REWARD}}!",
+        "description": "Käytä alla olevaa koodia kassalla lunastaaksesi juhlalahjasi."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "PYÖRÄYTÄ NYT 🎄"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "🎄 Avaa joulun yllätyksesi!",
+          "description": "Anna tietosi ja pyöräytä pyörää avataksesi juhlavan joulupalkintosi.",
+          "descriptionForExistingAccount": "{{NAME}}, on aika joulun yllätykselle - pyöräytä paljastaaksesi juhlapalkintosi!",
+          "agreement": "Suostun vastaanottamaan joulun tarjouksia ja päivityksiä.",
+          "spinButton": "Paljasta lahjani",
+          "dismissButton": "Jatka ostoksia",
+          "footerText": "Joulun taika alkaa yhdellä pyöräytyksellä ✨"
+        },
+        "redemptionForm": {
+          "title": "Joulun ilo avattu!"
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "🎅 Joulun taika on tulossa... Pyörä avautuu klo {{TIME}}!",
+      "readyToSpin": "🎁 Juhlava yllätyksesi odottaa! Napauta {{OPENER}} pyöräyttääksesi joulupyörää!",
+      "countDownToLaunch": "⏳ Melkein aika! Joulupyörä avautuu {{TIME}} kuluttua - valmistaudu!",
+      "countDownToClose": "🎄 Viimeinen tilaisuus! Enää {{TIME}} jäljellä pyöräyttää ja lunastaa juhlapalkintosi!"
+    }
+  }
+}

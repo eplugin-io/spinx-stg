@@ -1,0 +1,66 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} horas",
+    "expireDay": "{{TIME}} dias"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "Quase lá! O teu prémio da Black Friday espera por ti",
+        "description": "Não desistas - a tua próxima rodada pode desbloquear um prémio exclusivo da Black Friday!"
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "💥 Vitória de Black Friday! Recebeste {{REWARD}}!",
+        "description": "Usa o código abaixo no checkout para reclamares o teu desconto de Black Friday."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "🚚 Vitória de Black Friday! Recebeste {{REWARD}}!",
+        "description": "Usa o código abaixo no checkout para desfrutares de portes grátis na tua encomenda de Black Friday."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "🎁 Vitória de Black Friday! Recebeste {{REWARD}}!",
+        "description": "Usa o código abaixo no checkout para reclamares a tua prenda de Black Friday."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "RODA POR OFERTAS"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "As ofertas da Black Friday esperam por ti!",
+          "description": "Indica os teus dados e roda a roda para desbloqueares um prémio exclusivo da Black Friday.",
+          "descriptionForExistingAccount": "{{NAME}}, a Black Friday chegou - roda agora para revelares o teu prémio.",
+          "agreement": "Concordo em receber ofertas e novidades da Black Friday.",
+          "spinButton": "DESBLOQUEAR OFERTAS",
+          "dismissButton": "Continuar a comprar",
+          "footerText": "Cada rodada pode desbloquear a tua próxima grande oferta.",
+          "messages": {
+            "maxSpinReached": "Já usaste todas as tuas rodadas da Black Friday!"
+          }
+        },
+        "redemptionForm": {
+          "title": "O teu prémio da Black Friday está pronto!"
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "✨ A Black Friday começa às {{TIME}} - prepara-te para rodar por prémios exclusivos!",
+      "readyToSpin": "💥 A Black Friday está ao vivo - clica em {{OPENER}} para rodar e desbloquear o teu prémio!",
+      "countDownToLaunch": "⏳ A roda abre em {{TIME}} - não percas a tua oportunidade de Black Friday!",
+      "countDownToClose": "⚡ Despacha-te! Faltam apenas {{TIME}} para rodares e reclamares o teu prémio de Black Friday!"
+    }
+  }
+}

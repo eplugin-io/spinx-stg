@@ -1,0 +1,102 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} timmar",
+    "expireDay": "{{TIME}} dagar"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "Oj! Kanske nästa gång",
+        "description": "Ge inte upp - varje snurr kan avslöja din spännande belöning!"
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "Grattis! Du vann {{REWARD}}!",
+        "description": "Använd koden nedan i kassan för att njuta av din rabatt."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "Grattis! Du vann {{REWARD}}!",
+        "description": "Använd koden nedan i kassan för att få fri frakt."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "Överraskning! Du vann {{REWARD}}!",
+        "description": "Använd koden nedan i kassan för att lösa in din gratispresent."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "SNURRA NU"
+    },
+    "readyLabel": {
+      "text": "BELÖNING KLAR"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "Snurra och vinn spännande belöningar!",
+          "description": "Fyll i dina uppgifter och få chansen att snurra.",
+          "descriptionForExistingAccount": "Välkommen, {{NAME}}! Gör dig redo att snurra hjulet och låsa upp spännande belöningar som väntar just dig.",
+          "fields": {
+            "name": {
+              "placeholder": "Namn"
+            },
+            "email": {
+              "placeholder": "E-post"
+            }
+          },
+          "agreement": "Jag samtycker till att ta emot marknadsföringsmejl och erbjudanden.",
+          "spinButton": "SNURRA",
+          "dismissButton": "Fortsätt handla",
+          "footerText": "Det roliga börjar med ett snurr!",
+          "messages": {
+            "maxSpinReached": "Det verkar som att du har använt alla dina snurr!"
+          }
+        },
+        "resultForm": {
+          "redeemButton": "Använd belöning nu",
+          "dismissButton": "Fortsätt handla",
+          "messages": {
+            "rewardExpiry": "Använd din belöning inom {{EXPIRE}}"
+          }
+        },
+        "redemptionForm": {
+          "title": "Din belöning har aktiverats!",
+          "description": "Din belöning är aktiv - du kan gå till kassan nu eller fortsätta handla och använda den när som helst.",
+          "checkoutButton": "Gå till kassan nu",
+          "dismissButton": "Fortsätt handla",
+          "messages": {
+            "noCartItems": "Lägg till varor i din kundvagn och lös in din belöning i kassan."
+          }
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "Gör dig redo! Belöningshjulet startar kl. {{TIME}} med spännande priser!",
+      "readyToSpin": "Redo att snurra? Klicka på {{OPENER}} och vinn något spännande!",
+      "countDownToLaunch": "Nedräkningen har börjat! Endast {{TIME}} kvar till start!",
+      "countDownToClose": "Skynda dig! Endast {{TIME}} kvar - klicka på {{OPENER}} för att snurra och hämta din belöning!"
+    },
+    "encourage": {
+      "messages": {
+        "discount": "Du har låst upp {{VALUE}} rabatt - använd den i kassan!",
+        "discountWithMinOrder": "Få {{VALUE}} rabatt på beställningar över {{MIN_ORDER}}.",
+        "freeShip": "Fri frakt upplåst - använd den i kassan!",
+        "freeShipWithMinOrder": "Fri frakt på beställningar över {{MIN_ORDER}}.",
+        "freeShipWithMaxAmount": "Njut av fri frakt upp till {{MAX_AMOUNT}}.",
+        "freeShipWithMaxAmountAndMinOrder": "Fri frakt upp till {{MAX_AMOUNT}} på beställningar över {{MIN_ORDER}}.",
+        "freeGift": "Gratispresent upplåst - hämta den i kassan!",
+        "redeemCode": "Använd koden {{CODE}} i kassan för att njuta av din belöning."
+      }
+    }
+  }
+}

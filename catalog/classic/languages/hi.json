@@ -1,0 +1,102 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} घंटे",
+    "expireDay": "{{TIME}} दिन"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "ओह! अगली बार जरूर",
+        "description": "हार मत मानिए - हर स्पिन में एक शानदार इनाम जीतने का मौका है!"
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "बधाई हो! आपने {{REWARD}} जीता!",
+        "description": "अपनी छूट पाने के लिए चेकआउट पर नीचे दिया कोड इस्तेमाल करें।"
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "बधाई हो! आपने {{REWARD}} जीता!",
+        "description": "मुफ्त शिपिंग पाने के लिए चेकआउट पर नीचे दिया कोड इस्तेमाल करें।"
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "सरप्राइज़! आपने {{REWARD}} जीता!",
+        "description": "अपना मुफ्त गिफ्ट पाने के लिए चेकआउट पर नीचे दिया कोड इस्तेमाल करें।"
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "अभी स्पिन करें"
+    },
+    "readyLabel": {
+      "text": "इनाम तैयार है"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "स्पिन करें और शानदार इनाम जीतें!",
+          "description": "अपनी जानकारी भरें और स्पिन करने का मौका पाएं।",
+          "descriptionForExistingAccount": "स्वागत है, {{NAME}}! व्हील स्पिन करने और आपके लिए तैयार शानदार इनाम पाने के लिए तैयार हो जाइए।",
+          "fields": {
+            "name": {
+              "placeholder": "नाम"
+            },
+            "email": {
+              "placeholder": "ईमेल"
+            }
+          },
+          "agreement": "मैं मार्केटिंग ईमेल और ऑफर पाने के लिए सहमत हूं।",
+          "spinButton": "स्पिन करें",
+          "dismissButton": "खरीदारी जारी रखें",
+          "footerText": "मज़ा शुरू होता है एक स्पिन से!",
+          "messages": {
+            "maxSpinReached": "लगता है आपके सभी स्पिन इस्तेमाल हो चुके हैं!"
+          }
+        },
+        "resultForm": {
+          "redeemButton": "अभी इनाम लागू करें",
+          "dismissButton": "खरीदारी जारी रखें",
+          "messages": {
+            "rewardExpiry": "अपना इनाम {{EXPIRE}} के भीतर इस्तेमाल करें"
+          }
+        },
+        "redemptionForm": {
+          "title": "आपका इनाम लागू कर दिया गया है!",
+          "description": "आपका इनाम सक्रिय है - आप अभी चेकआउट कर सकते हैं या खरीदारी जारी रखकर इसे कभी भी इस्तेमाल कर सकते हैं।",
+          "checkoutButton": "अभी चेकआउट करें",
+          "dismissButton": "खरीदारी जारी रखें",
+          "messages": {
+            "noCartItems": "अपने कार्ट में सामान जोड़ें और चेकआउट पर अपना इनाम रिडीम करें।"
+          }
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "तैयार हो जाइए! इनाम व्हील {{TIME}} बजे शानदार पुरस्कारों के साथ शुरू होगा!",
+      "readyToSpin": "स्पिन करने के लिए तैयार हैं? कुछ शानदार जीतने के लिए {{OPENER}} पर क्लिक करें!",
+      "countDownToLaunch": "उलटी गिनती शुरू! लॉन्च होने में सिर्फ {{TIME}} बाकी!",
+      "countDownToClose": "जल्दी कीजिए! सिर्फ {{TIME}} बचे हैं - स्पिन करने और इनाम पाने के लिए {{OPENER}} पर क्लिक करें!"
+    },
+    "encourage": {
+      "messages": {
+        "discount": "आपने {{VALUE}} की छूट अनलॉक कर ली है - इसे चेकआउट पर इस्तेमाल करें!",
+        "discountWithMinOrder": "{{MIN_ORDER}} से ज़्यादा के ऑर्डर पर {{VALUE}} की छूट पाएं।",
+        "freeShip": "मुफ्त शिपिंग अनलॉक हो गई है - इसे चेकआउट पर इस्तेमाल करें!",
+        "freeShipWithMinOrder": "{{MIN_ORDER}} से ज़्यादा के ऑर्डर पर मुफ्त शिपिंग।",
+        "freeShipWithMaxAmount": "{{MAX_AMOUNT}} तक की मुफ्त शिपिंग का आनंद लें।",
+        "freeShipWithMaxAmountAndMinOrder": "{{MIN_ORDER}} से ज़्यादा के ऑर्डर पर {{MAX_AMOUNT}} तक की मुफ्त शिपिंग।",
+        "freeGift": "मुफ्त गिफ्ट अनलॉक हो गया है - इसे चेकआउट पर पाएं!",
+        "redeemCode": "अपना इनाम पाने के लिए चेकआउट पर कोड {{CODE}} इस्तेमाल करें।"
+      }
+    }
+  }
+}

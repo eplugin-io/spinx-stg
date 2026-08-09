@@ -1,0 +1,66 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} tuntia",
+    "expireDay": "{{TIME}} päivää"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "Melkein siinä! Black Friday -palkintosi odottaa",
+        "description": "Älä luovuta - seuraava pyöräytyksesi voi avata eksklusiivisen Black Friday -palkinnon!"
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "💥 Black Friday -voitto! Sait {{REWARD}}!",
+        "description": "Käytä alla olevaa koodia kassalla lunastaaksesi Black Friday -alennuksesi."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "🚚 Black Friday -voitto! Sait {{REWARD}}!",
+        "description": "Käytä alla olevaa koodia kassalla nauttiaksesi ilmaisesta toimituksesta Black Friday -tilauksellesi."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "🎁 Black Friday -voitto! Sait {{REWARD}}!",
+        "description": "Käytä alla olevaa koodia kassalla lunastaaksesi Black Friday -lahjasi."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "PYÖRÄYTÄ TARJOUKSIA"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "Black Friday -tarjoukset odottavat!",
+          "description": "Anna tietosi ja pyöräytä pyörää avataksesi eksklusiivisen Black Friday -palkinnon.",
+          "descriptionForExistingAccount": "{{NAME}}, Black Friday on täällä - pyöräytä nyt paljastaaksesi palkintosi.",
+          "agreement": "Suostun vastaanottamaan Black Friday -tarjouksia ja päivityksiä.",
+          "spinButton": "AVAA TARJOUKSET",
+          "dismissButton": "Jatka ostoksia",
+          "footerText": "Jokainen pyöräytys voi avata seuraavan huipputarjouksesi.",
+          "messages": {
+            "maxSpinReached": "Olet jo käyttänyt kaikki Black Friday -pyöräytyksesi!"
+          }
+        },
+        "redemptionForm": {
+          "title": "Black Friday -palkintosi on valmis!"
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "✨ Black Friday alkaa klo {{TIME}} - valmistaudu pyöräyttämään eksklusiivisia palkintoja!",
+      "readyToSpin": "💥 Black Friday on käynnissä - klikkaa {{OPENER}} pyöräyttääksesi ja avataksesi palkintosi!",
+      "countDownToLaunch": "⏳ Pyörä avautuu {{TIME}} kuluttua - älä missaa Black Friday -mahdollisuuttasi!",
+      "countDownToClose": "⚡ Kiirehdi! Enää {{TIME}} jäljellä pyöräyttää ja lunastaa Black Friday -palkintosi!"
+    }
+  }
+}

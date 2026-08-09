@@ -1,0 +1,66 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} jam",
+    "expireDay": "{{TIME}} hari"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "✨ Belum Beruntung Kali Ini!",
+        "description": "Tahun Baru masih menyimpan banyak kejutan - coba putar lagi segera!"
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "✨ Menang Tahun Baru! Kamu Dapat {{REWARD}}!",
+        "description": "Gunakan kode di bawah ini saat checkout untuk mengklaim hadiah Tahun Barumu."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "✨ Menang Tahun Baru! Kamu Dapat {{REWARD}}!",
+        "description": "Gunakan kode di bawah ini saat checkout untuk menikmati gratis ongkir pesananmu."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "🎁 Kejutan Tahun Baru! Kamu Dapat {{REWARD}}!",
+        "description": "Gunakan kode di bawah ini saat checkout untuk mengklaim hadiah Tahun Barumu."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "PUTAR SEKARANG 💥"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "✨ Sambut Tahun Baru dengan Kejutan!",
+          "description": "Masukkan nama dan emailmu untuk membuka hadiah Tahun Barumu.",
+          "descriptionForExistingAccount": "{{NAME}}, mulai Tahun Baru dengan satu putaran dan buka hadiah spesialmu.",
+          "agreement": "Saya setuju menerima penawaran dan info Tahun Baru.",
+          "spinButton": "Putar & Mulai Tahun Ini",
+          "dismissButton": "Lanjutkan belanja",
+          "footerText": "Tahun yang cerah dimulai dengan satu putaran ✨",
+          "messages": {
+            "maxSpinReached": "Sepertinya kamu sudah menggunakan semua kesempatan putaranmu!"
+          }
+        },
+        "redemptionForm": {
+          "title": "Hadiah Tahun Barumu Sudah Siap!"
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "✨ Roda Tahun Baru terbuka pukul {{TIME}} - bersiaplah untuk memutar!",
+      "readyToSpin": "✨ Sudah waktunya! Ketuk {{OPENER}} untuk memutar menuju Tahun Baru!",
+      "countDownToLaunch": "⏳ Hitung mundur dimulai - hadiah Tahun Baru terbuka dalam {{TIME}}!",
+      "countDownToClose": "✨ Saat-saat terakhir! Hanya tersisa {{TIME}} untuk memutar dan meraih hadiah Tahun Barumu!"
+    }
+  }
+}

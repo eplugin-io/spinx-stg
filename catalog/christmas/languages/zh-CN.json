@@ -1,0 +1,63 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} 小时",
+    "expireDay": "{{TIME}} 天"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "❄️ 这次没有中奖！",
+        "description": "感谢您的参与！下一次抽奖或许会有更多圣诞惊喜等着您。"
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "🎁 圣诞惊喜！您赢得了 {{REWARD}}！",
+        "description": "结账时使用下方优惠码，享受您的节日专属优惠。"
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "🎁 圣诞惊喜！您赢得了 {{REWARD}}！",
+        "description": "结账时使用下方优惠码，享受节日免运费。"
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "🎁 圣诞惊喜！您赢得了 {{REWARD}}！",
+        "description": "结账时使用下方优惠码，领取您的节日好礼。"
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "立即抽奖 🎄"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "🎄 拆开您的圣诞惊喜！",
+          "description": "填写您的信息，转动转盘拆开您的节日好礼。",
+          "descriptionForExistingAccount": "{{NAME}}，圣诞惊喜的时刻到了——快来转动转盘，揭晓您的节日好礼！",
+          "agreement": "我同意接收节日专属优惠和最新消息。",
+          "spinButton": "揭晓我的礼物",
+          "dismissButton": "继续购物",
+          "footerText": "节日的魔力从一次转动开始 ✨"
+        },
+        "redemptionForm": {
+          "title": "节日惊喜已解锁！"
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "🎅 圣诞魔力即将降临……转盘将于 {{TIME}} 开启！",
+      "readyToSpin": "🎁 您的节日惊喜正在等待！点击 {{OPENER}} 转动圣诞转盘！",
+      "countDownToLaunch": "⏳ 就快到了！圣诞转盘将在 {{TIME}} 后开启——做好准备！",
+      "countDownToClose": "🎄 最后机会！仅剩 {{TIME}} 可以转动转盘，领取您的节日好礼！"
+    }
+  }
+}

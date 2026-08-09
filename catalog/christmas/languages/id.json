@@ -1,0 +1,63 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} jam",
+    "expireDay": "{{TIME}} hari"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "❄️ Belum Beruntung Kali Ini!",
+        "description": "Terima kasih sudah memutar! Keajaiban Natal lainnya mungkin menantimu di percobaan berikutnya."
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "🎁 Kejutan Natal! Kamu Menang {{REWARD}}!",
+        "description": "Gunakan kode di bawah ini saat checkout untuk menikmati hadiah meriahmu."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "🎁 Kejutan Natal! Kamu Menang {{REWARD}}!",
+        "description": "Gunakan kode di bawah ini saat checkout untuk menikmati gratis ongkir spesial liburan."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "🎁 Kejutan Natal! Kamu Menang {{REWARD}}!",
+        "description": "Gunakan kode di bawah ini saat checkout untuk mengklaim hadiah meriahmu."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "PUTAR SEKARANG 🎄"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "🎄 Buka Kejutan Natalmu!",
+          "description": "Masukkan datamu dan putar rodanya untuk membuka hadiah Natal yang meriah.",
+          "descriptionForExistingAccount": "{{NAME}}, saatnya kejutan Natal - putar untuk mengungkap hadiah meriahmu!",
+          "agreement": "Saya setuju menerima penawaran dan info liburan.",
+          "spinButton": "Buka Hadiahku",
+          "dismissButton": "Lanjutkan belanja",
+          "footerText": "Keajaiban liburan dimulai dengan satu putaran ✨"
+        },
+        "redemptionForm": {
+          "title": "Kemeriahan Liburan Telah Terbuka!"
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "🎅 Keajaiban Natal segera tiba... Roda akan terbuka pukul {{TIME}}!",
+      "readyToSpin": "🎁 Kejutan meriahmu sudah menunggu! Ketuk {{OPENER}} untuk memutar roda Natal!",
+      "countDownToLaunch": "⏳ Hampir waktunya! Roda Natal terbuka dalam {{TIME}} - bersiaplah!",
+      "countDownToClose": "🎄 Kesempatan terakhir! Hanya tersisa {{TIME}} untuk memutar dan meraih hadiah liburanmu!"
+    }
+  }
+}

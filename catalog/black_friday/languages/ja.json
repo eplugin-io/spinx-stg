@@ -1,0 +1,66 @@
+{
+  "label": {
+    "expireTime": "{{TIME}}時間",
+    "expireDay": "{{TIME}}日"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "もう少しです!ブラックフライデーの景品はもうすぐ",
+        "description": "諦めないで - 次のスピンでブラックフライデー限定の景品が当たるかもしれません!"
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "💥 ブラックフライデーの当たり!{{REWARD}}をゲット!",
+        "description": "レジで下記のコードを使ってブラックフライデー割引を受け取りましょう。"
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "🚚 ブラックフライデーの当たり!{{REWARD}}をゲット!",
+        "description": "レジで下記のコードを使ってブラックフライデーのご注文の送料無料をお楽しみください。"
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "🎁 ブラックフライデーの当たり!{{REWARD}}をゲット!",
+        "description": "レジで下記のコードを使ってブラックフライデーのプレゼントを受け取りましょう。"
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "お得情報をスピン"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "ブラックフライデーのお得情報が待っています!",
+          "description": "情報を入力してホイールを回し、ブラックフライデー限定の景品をゲットしましょう。",
+          "descriptionForExistingAccount": "{{NAME}}さん、ブラックフライデーが始まりました - 今すぐスピンして景品を見つけましょう。",
+          "agreement": "ブラックフライデーの特典と最新情報の受信に同意します。",
+          "spinButton": "お得情報を解放",
+          "dismissButton": "買い物を続ける",
+          "footerText": "スピンするたびに、次のお得な情報が見つかるかもしれません。",
+          "messages": {
+            "maxSpinReached": "ブラックフライデーのスピン回数はすでに使い切りました!"
+          }
+        },
+        "redemptionForm": {
+          "title": "ブラックフライデーの景品の準備が整いました!"
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "✨ ブラックフライデーは{{TIME}}に開始 - 限定景品のスピンに備えましょう!",
+      "readyToSpin": "💥 ブラックフライデー開催中 - {{OPENER}}をクリックしてスピンし、景品をゲットしよう!",
+      "countDownToLaunch": "⏳ ホイールはあと{{TIME}}で解放されます - ブラックフライデーのチャンスをお見逃しなく!",
+      "countDownToClose": "⚡ お急ぎください!ブラックフライデーの景品をゲットできるのはあと{{TIME}}!"
+    }
+  }
+}

@@ -112,9 +112,9 @@
       }
     },
     "excludeUrls": [],
-    "languages": {
-      "enabled": false,
-      "defaultLanguage": "en"
+    "localization": {
+      "language": "en",
+      "autoDetect": false
     },
     "translations": {},
     "emailContent": {
@@ -140,9 +140,7 @@
           "secondaryHighlight": "Spin again now and see what you win.",
           "ctaInstruction": "Click the button below to use your extra spin",
           "cta": "Use My Extra Spin",
-          "outro": "Good luck!",
-          "support": "Questions? Contact us at {{supportEmail}}.",
-          "signature": "Best regards"
+          "outro": "Good luck!"
         }
       },
       "spinResult": {

@@ -1,0 +1,102 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} horas",
+    "expireDay": "{{TIME}} dias"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "Ups! Talvez para a próxima",
+        "description": "Não desistas - cada rodada pode revelar um prémio fantástico!"
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "Parabéns! Ganhaste {{REWARD}}!",
+        "description": "Usa o código abaixo no checkout para desfrutares do teu desconto."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "Parabéns! Ganhaste {{REWARD}}!",
+        "description": "Usa o código abaixo no checkout para obteres portes grátis."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "Surpresa! Ganhaste {{REWARD}}!",
+        "description": "Usa o código abaixo no checkout para reclamares a tua prenda gratuita."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "RODA JÁ"
+    },
+    "readyLabel": {
+      "text": "PRÉMIO PRONTO"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "Roda e ganha prémios fantásticos!",
+          "description": "Preenche os teus dados e tens a hipótese de rodar.",
+          "descriptionForExistingAccount": "Bem-vindo(a), {{NAME}}! Prepara-te para rodar a roda e desbloquear prémios fantásticos à tua espera.",
+          "fields": {
+            "name": {
+              "placeholder": "Nome"
+            },
+            "email": {
+              "placeholder": "E-mail"
+            }
+          },
+          "agreement": "Concordo em receber e-mails de marketing e ofertas.",
+          "spinButton": "RODAR",
+          "dismissButton": "Continuar a comprar",
+          "footerText": "A diversão começa com uma rodada!",
+          "messages": {
+            "maxSpinReached": "Parece que já usaste todas as tuas rodadas!"
+          }
+        },
+        "resultForm": {
+          "redeemButton": "Aplicar prémio agora",
+          "dismissButton": "Continuar a comprar",
+          "messages": {
+            "rewardExpiry": "Usa o teu prémio dentro de {{EXPIRE}}"
+          }
+        },
+        "redemptionForm": {
+          "title": "O teu prémio foi aplicado!",
+          "description": "O teu prémio está ativo - podes finalizar a compra agora ou continuar a comprar e usá-lo quando quiseres.",
+          "checkoutButton": "Finalizar compra agora",
+          "dismissButton": "Continuar a comprar",
+          "messages": {
+            "noCartItems": "Adiciona artigos ao teu carrinho e usa o teu prémio no checkout."
+          }
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "Prepara-te! A roda de prémios arranca às {{TIME}} com prémios fantásticos!",
+      "readyToSpin": "Pronto(a) para rodar? Clica em {{OPENER}} e ganha algo fantástico!",
+      "countDownToLaunch": "A contagem decrescente começou! Faltam apenas {{TIME}} para o arranque!",
+      "countDownToClose": "Despacha-te! Faltam apenas {{TIME}} - clica em {{OPENER}} para rodar e reclamar o teu prémio!"
+    },
+    "encourage": {
+      "messages": {
+        "discount": "Desbloqueaste {{VALUE}} de desconto - usa-o no checkout!",
+        "discountWithMinOrder": "Obtém {{VALUE}} de desconto em encomendas acima de {{MIN_ORDER}}.",
+        "freeShip": "Portes grátis desbloqueados - usa-os no checkout!",
+        "freeShipWithMinOrder": "Portes grátis em encomendas acima de {{MIN_ORDER}}.",
+        "freeShipWithMaxAmount": "Desfruta de portes grátis até {{MAX_AMOUNT}}.",
+        "freeShipWithMaxAmountAndMinOrder": "Portes grátis até {{MAX_AMOUNT}} em encomendas acima de {{MIN_ORDER}}.",
+        "freeGift": "Prenda gratuita desbloqueada - recebe-a no checkout!",
+        "redeemCode": "Usa o código {{CODE}} no checkout para desfrutares do teu prémio."
+      }
+    }
+  }
+}

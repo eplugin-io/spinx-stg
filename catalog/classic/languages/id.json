@@ -1,0 +1,102 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} jam",
+    "expireDay": "{{TIME}} hari"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "Yah! Coba Lagi Lain Kali",
+        "description": "Jangan menyerah - setiap putaran bisa membawa hadiah menarik untukmu!"
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "Selamat! Kamu Menang {{REWARD}}!",
+        "description": "Gunakan kode di bawah ini saat checkout untuk menikmati diskonmu."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "Selamat! Kamu Menang {{REWARD}}!",
+        "description": "Gunakan kode di bawah ini saat checkout untuk mendapatkan gratis ongkir."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "Kejutan! Kamu Menang {{REWARD}}!",
+        "description": "Gunakan kode di bawah ini saat checkout untuk mengklaim hadiah gratismu."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "PUTAR SEKARANG"
+    },
+    "readyLabel": {
+      "text": "HADIAH SIAP DIAMBIL"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "Putar dan menangkan hadiah menarik!",
+          "description": "Isi datamu dan dapatkan kesempatan untuk memutar.",
+          "descriptionForExistingAccount": "Selamat datang, {{NAME}}! Bersiaplah memutar roda dan buka hadiah menarik yang menunggumu.",
+          "fields": {
+            "name": {
+              "placeholder": "Nama"
+            },
+            "email": {
+              "placeholder": "Email"
+            }
+          },
+          "agreement": "Saya setuju menerima email pemasaran dan penawaran.",
+          "spinButton": "PUTAR",
+          "dismissButton": "Lanjutkan belanja",
+          "footerText": "Keseruan dimulai dengan satu putaran!",
+          "messages": {
+            "maxSpinReached": "Sepertinya kamu sudah menggunakan semua kesempatan putaranmu!"
+          }
+        },
+        "resultForm": {
+          "redeemButton": "Gunakan hadiah sekarang",
+          "dismissButton": "Lanjutkan belanja",
+          "messages": {
+            "rewardExpiry": "Gunakan hadiahmu dalam waktu {{EXPIRE}}"
+          }
+        },
+        "redemptionForm": {
+          "title": "Hadiahmu telah diterapkan!",
+          "description": "Hadiahmu sudah aktif - kamu bisa checkout sekarang atau lanjut belanja dan menggunakannya kapan saja.",
+          "checkoutButton": "Checkout sekarang",
+          "dismissButton": "Lanjutkan belanja",
+          "messages": {
+            "noCartItems": "Tambahkan produk ke keranjangmu dan gunakan hadiahmu saat checkout."
+          }
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "Bersiaplah! Roda hadiah akan diluncurkan pukul {{TIME}} dengan hadiah-hadiah menarik!",
+      "readyToSpin": "Siap memutar? Klik {{OPENER}} dan menangkan sesuatu yang seru!",
+      "countDownToLaunch": "Hitung mundur dimulai! Hanya tersisa {{TIME}} lagi menuju peluncuran!",
+      "countDownToClose": "Buruan! Hanya tersisa {{TIME}} - klik {{OPENER}} untuk memutar dan mengambil hadiahmu!"
+    },
+    "encourage": {
+      "messages": {
+        "discount": "Kamu membuka diskon {{VALUE}} - gunakan saat checkout!",
+        "discountWithMinOrder": "Dapatkan diskon {{VALUE}} untuk pesanan di atas {{MIN_ORDER}}.",
+        "freeShip": "Gratis ongkir telah terbuka - gunakan saat checkout!",
+        "freeShipWithMinOrder": "Gratis ongkir untuk pesanan di atas {{MIN_ORDER}}.",
+        "freeShipWithMaxAmount": "Nikmati gratis ongkir hingga {{MAX_AMOUNT}}.",
+        "freeShipWithMaxAmountAndMinOrder": "Gratis ongkir hingga {{MAX_AMOUNT}} untuk pesanan di atas {{MIN_ORDER}}.",
+        "freeGift": "Hadiah gratis telah terbuka - ambil saat checkout!",
+        "redeemCode": "Gunakan kode {{CODE}} saat checkout untuk menikmati hadiahmu."
+      }
+    }
+  }
+}

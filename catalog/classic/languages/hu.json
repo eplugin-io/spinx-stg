@@ -1,0 +1,102 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} óra",
+    "expireDay": "{{TIME}} nap"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "Hoppá! Talán legközelebb",
+        "description": "Ne add fel - minden pörgetés izgalmas jutalmat rejthet!"
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "Gratulálunk! Nyertél {{REWARD}}!",
+        "description": "Használd az alábbi kódot a fizetésnél, hogy élvezhesd a kedvezményedet."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "Gratulálunk! Nyertél {{REWARD}}!",
+        "description": "Használd az alábbi kódot a fizetésnél az ingyenes szállításért."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "Meglepetés! Nyertél {{REWARD}}!",
+        "description": "Használd az alábbi kódot a fizetésnél, hogy beváltsd ajándékodat."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "PÖRGESS MOST"
+    },
+    "readyLabel": {
+      "text": "JUTALOM KÉSZ"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "Pörgess és nyerj izgalmas jutalmakat!",
+          "description": "Add meg adataidat, és esélyt kapsz a pörgetésre.",
+          "descriptionForExistingAccount": "Üdvözlünk, {{NAME}}! Készülj fel, hogy megpörgesd a kereket, és izgalmas jutalmakat szabadíts fel, amelyek rád várnak.",
+          "fields": {
+            "name": {
+              "placeholder": "Név"
+            },
+            "email": {
+              "placeholder": "E-mail"
+            }
+          },
+          "agreement": "Hozzájárulok, hogy marketing e-maileket és ajánlatokat kapjak.",
+          "spinButton": "PÖRGESS",
+          "dismissButton": "Vásárlás folytatása",
+          "footerText": "A móka egy pörgetéssel kezdődik!",
+          "messages": {
+            "maxSpinReached": "Úgy tűnik, elhasználtad az összes pörgetésedet!"
+          }
+        },
+        "resultForm": {
+          "redeemButton": "Jutalom beváltása most",
+          "dismissButton": "Vásárlás folytatása",
+          "messages": {
+            "rewardExpiry": "Használd fel jutalmadat {{EXPIRE}} időn belül"
+          }
+        },
+        "redemptionForm": {
+          "title": "Jutalmad aktiválva lett!",
+          "description": "Jutalmad aktív - fizethetsz most, vagy folytathatod a vásárlást, és bármikor felhasználhatod.",
+          "checkoutButton": "Fizetés most",
+          "dismissButton": "Vásárlás folytatása",
+          "messages": {
+            "noCartItems": "Adj termékeket a kosaradhoz, és a fizetésnél váltsd be jutalmadat."
+          }
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "Készülj! A jutalomkerék {{TIME}}-kor indul izgalmas nyereményekkel!",
+      "readyToSpin": "Készen állsz a pörgetésre? Kattints ide: {{OPENER}}, és nyerj valami izgalmasat!",
+      "countDownToLaunch": "Elindult a visszaszámlálás! Már csak {{TIME}} van hátra az indulásig!",
+      "countDownToClose": "Siess! Már csak {{TIME}} van hátra - kattints ide: {{OPENER}}, hogy pörgess és beválts jutalmadat!"
+    },
+    "encourage": {
+      "messages": {
+        "discount": "Feloldottál {{VALUE}} kedvezményt - használd fel a fizetésnél!",
+        "discountWithMinOrder": "Kapj {{VALUE}} kedvezményt {{MIN_ORDER}} feletti rendelésekre.",
+        "freeShip": "Ingyenes szállítás feloldva - használd fel a fizetésnél!",
+        "freeShipWithMinOrder": "Ingyenes szállítás {{MIN_ORDER}} feletti rendelésekre.",
+        "freeShipWithMaxAmount": "Élvezd az ingyenes szállítást {{MAX_AMOUNT}} értékig.",
+        "freeShipWithMaxAmountAndMinOrder": "Ingyenes szállítás {{MAX_AMOUNT}} értékig {{MIN_ORDER}} feletti rendelésekre.",
+        "freeGift": "Ingyenes ajándék feloldva - vedd át a fizetésnél!",
+        "redeemCode": "Használd a(z) {{CODE}} kódot a fizetésnél, hogy élvezhesd jutalmadat."
+      }
+    }
+  }
+}

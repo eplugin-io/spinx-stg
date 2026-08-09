@@ -1,0 +1,66 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} ore",
+    "expireDay": "{{TIME}} zile"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "✨ Fără Noroc De Data Asta!",
+        "description": "Anul Nou încă are surprize în așteptare — încearcă din nou în curând!"
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "✨ Victorie de Anul Nou! Ai Primit {{REWARD}}!",
+        "description": "Folosește codul de mai jos la finalizarea comenzii pentru a-ți revendica premiul de Anul Nou."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "✨ Victorie de Anul Nou! Ai Primit {{REWARD}}!",
+        "description": "Folosește codul de mai jos la finalizarea comenzii pentru a beneficia de transport gratuit la comanda ta."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "🎁 Surpriză de Anul Nou! Ai Primit {{REWARD}}!",
+        "description": "Folosește codul de mai jos la finalizarea comenzii pentru a-ți revendica cadoul de Anul Nou."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "ROTEȘTE ACUM 💥"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "✨ Întâmpină Anul Nou cu o Surpriză!",
+          "description": "Introdu-ți numele și e-mailul pentru a-ți debloca premiul de Anul Nou.",
+          "descriptionForExistingAccount": "{{NAME}}, începe Anul Nou cu o rotire și deblochează-ți premiul special.",
+          "agreement": "Sunt de acord să primesc oferte și noutăți de Anul Nou.",
+          "spinButton": "Rotește & Începe Anul",
+          "dismissButton": "Continuă cumpărăturile",
+          "footerText": "Un an luminos începe cu o rotire ✨",
+          "messages": {
+            "maxSpinReached": "Se pare că ai folosit toate rotirile!"
+          }
+        },
+        "redemptionForm": {
+          "title": "Premiul Tău de Anul Nou Este Gata!"
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "✨ Roata de Anul Nou se deblochează la {{TIME}} — pregătește-te să rotești!",
+      "readyToSpin": "✨ A venit timpul! Apasă {{OPENER}} pentru a roti spre Anul Nou!",
+      "countDownToLaunch": "⏳ Numărătoarea inversă a început — premiile de Anul Nou se deblochează în {{TIME}}!",
+      "countDownToClose": "✨ Ultimele momente! Mai sunt doar {{TIME}} pentru a roti și a-ți revendica premiul de Anul Nou!"
+    }
+  }
+}

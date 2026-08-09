@@ -1,0 +1,102 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} uur",
+    "expireDay": "{{TIME}} dagen"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "Oeps! Volgende keer beter",
+        "description": "Geef niet op - elke draai kan je een geweldige beloning opleveren!"
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "Gefeliciteerd! Je hebt {{REWARD}} gewonnen!",
+        "description": "Gebruik onderstaande code bij het afrekenen om van je korting te genieten."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "Gefeliciteerd! Je hebt {{REWARD}} gewonnen!",
+        "description": "Gebruik onderstaande code bij het afrekenen voor gratis verzending."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "Verrassing! Je hebt {{REWARD}} gewonnen!",
+        "description": "Gebruik onderstaande code bij het afrekenen om je gratis cadeau te claimen."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "DRAAI NU"
+    },
+    "readyLabel": {
+      "text": "BELONING KLAAR"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "Draai en win geweldige prijzen!",
+          "description": "Vul je gegevens in en maak kans om te draaien.",
+          "descriptionForExistingAccount": "Welkom, {{NAME}}! Maak je klaar om het rad te draaien en geweldige beloningen te ontgrendelen die speciaal op jou wachten.",
+          "fields": {
+            "name": {
+              "placeholder": "Naam"
+            },
+            "email": {
+              "placeholder": "E-mail"
+            }
+          },
+          "agreement": "Ik ga akkoord met het ontvangen van marketing-e-mails en aanbiedingen.",
+          "spinButton": "DRAAI",
+          "dismissButton": "Verder winkelen",
+          "footerText": "Het plezier begint met een draai!",
+          "messages": {
+            "maxSpinReached": "Het lijkt erop dat je al je draaibeurten hebt gebruikt!"
+          }
+        },
+        "resultForm": {
+          "redeemButton": "Beloning nu toepassen",
+          "dismissButton": "Verder winkelen",
+          "messages": {
+            "rewardExpiry": "Gebruik je beloning binnen {{EXPIRE}}"
+          }
+        },
+        "redemptionForm": {
+          "title": "Je beloning is toegepast!",
+          "description": "Je beloning is actief - je kunt nu afrekenen of verder winkelen en hem op elk moment gebruiken.",
+          "checkoutButton": "Nu afrekenen",
+          "dismissButton": "Verder winkelen",
+          "messages": {
+            "noCartItems": "Voeg artikelen toe aan je winkelwagen en verzilver je beloning bij het afrekenen."
+          }
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "Maak je klaar! Het beloningsrad start om {{TIME}} met geweldige prijzen!",
+      "readyToSpin": "Klaar om te draaien? Klik op {{OPENER}} en win iets geweldigs!",
+      "countDownToLaunch": "Het aftellen is begonnen! Nog maar {{TIME}} tot de start!",
+      "countDownToClose": "Snel! Nog maar {{TIME}} - klik op {{OPENER}} om te draaien en je beloning te claimen!"
+    },
+    "encourage": {
+      "messages": {
+        "discount": "Je hebt {{VALUE}} korting ontgrendeld - gebruik het bij het afrekenen!",
+        "discountWithMinOrder": "Krijg {{VALUE}} korting op bestellingen vanaf {{MIN_ORDER}}.",
+        "freeShip": "Gratis verzending ontgrendeld - gebruik het bij het afrekenen!",
+        "freeShipWithMinOrder": "Gratis verzending bij bestellingen vanaf {{MIN_ORDER}}.",
+        "freeShipWithMaxAmount": "Geniet van gratis verzending tot {{MAX_AMOUNT}}.",
+        "freeShipWithMaxAmountAndMinOrder": "Gratis verzending tot {{MAX_AMOUNT}} bij bestellingen vanaf {{MIN_ORDER}}.",
+        "freeGift": "Gratis cadeau ontgrendeld - haal het bij het afrekenen!",
+        "redeemCode": "Gebruik code {{CODE}} bij het afrekenen om van je beloning te genieten."
+      }
+    }
+  }
+}

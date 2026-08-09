@@ -5,19 +5,15 @@
     {
       "id": "NYR_01",
       "thumbnail": {
-        "main": "/catalog/new_year/themes/NYR_01/thumbnail/main.webp",
-        "hover": "/catalog/new_year/themes/NYR_01/thumbnail/hover.webp"
+        "main": "/catalog/new_year/themes/NYR_01/thumbnail/main.webp"
       },
-      "demo": "/?theme=NYR_01",
       "tags": ["new year", "luxury", "black", "yellow"]
     },
     {
       "id": "NYR_02",
       "thumbnail": {
-        "main": "/catalog/new_year/themes/NYR_02/thumbnail/main.webp",
-        "hover": "/catalog/new_year/themes/NYR_02/thumbnail/hover.webp"
+        "main": "/catalog/new_year/themes/NYR_02/thumbnail/main.webp"
       },
-      "demo": "/?theme=NYR_02",
       "tags": ["new year", "joyful", "red", "yellow"]
     }
   ],

@@ -1,0 +1,66 @@
+{
+  "label": {
+    "expireTime": "{{TIME}}시간",
+    "expireDay": "{{TIME}}일"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "거의 다 왔어요! 블랙프라이데이 보상이 기다려요",
+        "description": "포기하지 마세요 - 다음 스핀에서 특별한 블랙프라이데이 보상을 받을 수 있어요!"
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "💥 블랙프라이데이 당첨! {{REWARD}}를 받으셨어요!",
+        "description": "아래 코드를 결제 시 입력하고 블랙프라이데이 할인을 받아보세요."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "🚚 블랙프라이데이 당첨! {{REWARD}}를 받으셨어요!",
+        "description": "아래 코드를 결제 시 입력하고 블랙프라이데이 무료 배송을 받아보세요."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "🎁 블랙프라이데이 당첨! {{REWARD}}를 받으셨어요!",
+        "description": "아래 코드를 결제 시 입력하고 블랙프라이데이 선물을 받아보세요."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "혜택 돌리기"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "블랙프라이데이 특가가 기다리고 있어요!",
+          "description": "정보를 입력하고 휠을 돌려 특별한 블랙프라이데이 보상을 받아보세요.",
+          "descriptionForExistingAccount": "{{NAME}}님, 블랙프라이데이가 왔어요 - 지금 돌려서 보상을 확인해보세요.",
+          "agreement": "블랙프라이데이 혜택 및 업데이트 수신에 동의합니다.",
+          "spinButton": "혜택 열기",
+          "dismissButton": "쇼핑 계속하기",
+          "footerText": "매 스핀마다 다음 특가를 열 수 있어요.",
+          "messages": {
+            "maxSpinReached": "이미 모든 블랙프라이데이 스핀 기회를 사용하셨어요!"
+          }
+        },
+        "redemptionForm": {
+          "title": "블랙프라이데이 보상이 준비되었어요!"
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "✨ 블랙프라이데이가 {{TIME}}에 시작돼요 - 특별한 보상을 위해 돌릴 준비를 하세요!",
+      "readyToSpin": "💥 블랙프라이데이가 시작됐어요 - {{OPENER}}를 클릭해서 돌리고 보상을 받아가세요!",
+      "countDownToLaunch": "⏳ 휠이 {{TIME}} 후에 열려요 - 블랙프라이데이 기회를 놓치지 마세요!",
+      "countDownToClose": "⚡ 서두르세요! 돌리고 블랙프라이데이 보상을 받을 시간이 {{TIME}} 밖에 남지 않았어요!"
+    }
+  }
+}

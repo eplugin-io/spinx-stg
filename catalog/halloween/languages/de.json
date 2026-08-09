@@ -1,0 +1,66 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} Stunden",
+    "expireDay": "{{TIME}} Tage"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "🎃 Diesmal kein Glück!",
+        "description": "Die Geister waren diesmal ruhig — aber deine nächste Drehung könnte eine gruselige Überraschung enthüllen."
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "🎃 Buh! Du hast {{REWARD}} gewonnen!",
+        "description": "Verwende den Code unten an der Kasse, um deine gruseligen Ersparnisse freizuschalten."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "🎃 Buh! Du hast {{REWARD}} gewonnen!",
+        "description": "Verwende den Code unten an der Kasse, um kostenlosen Versand aus dem Jenseits zu genießen."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "🎁 Eine gruselige Überraschung! Du hast {{REWARD}} gewonnen!",
+        "description": "Verwende den Code unten an der Kasse, um dein schaurig gutes Geschenk einzulösen."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "BELOHNUNG BESCHWÖREN"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "🎃 Traust du dich, das verhexte Rad zu drehen?",
+          "description": "Gib deine Daten ein und dreh das Rad, um eine gruselige Halloween-Belohnung freizuschalten.",
+          "descriptionForExistingAccount": "{{NAME}}, dreh jetzt, um deine gruselige Halloween-Belohnung freizuschalten!",
+          "agreement": "Ich stimme zu, gruselige Angebote und Neuigkeiten zu erhalten.",
+          "spinButton": "DREH DICH, WENN DU DICH TRAUST",
+          "dismissButton": "Weiter einkaufen",
+          "footerText": "Nur mutige Seelen schalten die besten Überraschungen frei.",
+          "messages": {
+            "maxSpinReached": "Die Geister sagen, du hast im Moment alle deine Drehungen aufgebraucht."
+          }
+        },
+        "redemptionForm": {
+          "title": "Deine gruselige Belohnung ist bereit!"
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "🎃 Die Geister versammeln sich... das Rad öffnet sich um {{TIME}}!",
+      "readyToSpin": "👻 Süßes oder Saures? Klicke auf {{OPENER}}, um für deine Halloween-Belohnung zu drehen!",
+      "countDownToLaunch": "⏳ Das verhexte Rad öffnet sich in {{TIME}} — mach dich bereit!",
+      "countDownToClose": "🎃 Letzte Chance! Nur noch {{TIME}}, um das verhexte Rad zu drehen!"
+    }
+  }
+}

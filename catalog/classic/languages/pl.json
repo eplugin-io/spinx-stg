@@ -1,0 +1,102 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} godz.",
+    "expireDay": "{{TIME}} dni"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "Ups! Może następnym razem",
+        "description": "Nie poddawaj się - każde zakręcenie może przynieść ekscytującą nagrodę!"
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "Gratulacje! Wygrałeś {{REWARD}}!",
+        "description": "Użyj poniższego kodu przy kasie, aby skorzystać ze zniżki."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "Gratulacje! Wygrałeś {{REWARD}}!",
+        "description": "Użyj poniższego kodu przy kasie, aby otrzymać darmową dostawę."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "Niespodzianka! Wygrałeś {{REWARD}}!",
+        "description": "Użyj poniższego kodu przy kasie, aby odebrać swój darmowy prezent."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "ZAKRĘĆ TERAZ"
+    },
+    "readyLabel": {
+      "text": "NAGRODA GOTOWA"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "Zakręć i wygraj ekscytujące nagrody!",
+          "description": "Wypełnij swoje dane i zdobądź szansę na zakręcenie kołem.",
+          "descriptionForExistingAccount": "Witaj, {{NAME}}! Przygotuj się na zakręcenie kołem i odblokowanie ekscytujących nagród, które czekają właśnie na Ciebie.",
+          "fields": {
+            "name": {
+              "placeholder": "Imię"
+            },
+            "email": {
+              "placeholder": "E-mail"
+            }
+          },
+          "agreement": "Wyrażam zgodę na otrzymywanie e-maili marketingowych i ofert.",
+          "spinButton": "ZAKRĘĆ",
+          "dismissButton": "Kontynuuj zakupy",
+          "footerText": "Zabawa zaczyna się od jednego zakręcenia!",
+          "messages": {
+            "maxSpinReached": "Wygląda na to, że wykorzystałeś wszystkie swoje zakręcenia!"
+          }
+        },
+        "resultForm": {
+          "redeemButton": "Zastosuj nagrodę teraz",
+          "dismissButton": "Kontynuuj zakupy",
+          "messages": {
+            "rewardExpiry": "Wykorzystaj swoją nagrodę w ciągu {{EXPIRE}}"
+          }
+        },
+        "redemptionForm": {
+          "title": "Twoja nagroda została zastosowana!",
+          "description": "Twoja nagroda jest aktywna - możesz przejść do kasy teraz lub kontynuować zakupy i wykorzystać ją w dowolnym momencie.",
+          "checkoutButton": "Przejdź do kasy",
+          "dismissButton": "Kontynuuj zakupy",
+          "messages": {
+            "noCartItems": "Dodaj produkty do koszyka i odbierz swoją nagrodę przy kasie."
+          }
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "Przygotuj się! Koło nagród startuje o {{TIME}} z ekscytującymi nagrodami!",
+      "readyToSpin": "Gotowy na zakręcenie? Kliknij {{OPENER}} i wygraj coś wspaniałego!",
+      "countDownToLaunch": "Odliczanie trwa! Zostało tylko {{TIME}} do startu!",
+      "countDownToClose": "Pospiesz się! Zostało tylko {{TIME}} - kliknij {{OPENER}}, aby zakręcić i odebrać nagrodę!"
+    },
+    "encourage": {
+      "messages": {
+        "discount": "Odblokowałeś zniżkę {{VALUE}} - wykorzystaj ją przy kasie!",
+        "discountWithMinOrder": "Zyskaj {{VALUE}} zniżki na zamówienia powyżej {{MIN_ORDER}}.",
+        "freeShip": "Darmowa dostawa odblokowana - wykorzystaj ją przy kasie!",
+        "freeShipWithMinOrder": "Darmowa dostawa przy zamówieniach powyżej {{MIN_ORDER}}.",
+        "freeShipWithMaxAmount": "Ciesz się darmową dostawą do {{MAX_AMOUNT}}.",
+        "freeShipWithMaxAmountAndMinOrder": "Darmowa dostawa do {{MAX_AMOUNT}} przy zamówieniach powyżej {{MIN_ORDER}}.",
+        "freeGift": "Darmowy prezent odblokowany - odbierz go przy kasie!",
+        "redeemCode": "Użyj kodu {{CODE}} przy kasie, aby skorzystać ze swojej nagrody."
+      }
+    }
+  }
+}

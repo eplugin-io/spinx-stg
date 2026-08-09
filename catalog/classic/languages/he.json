@@ -1,0 +1,102 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} שעות",
+    "expireDay": "{{TIME}} ימים"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "אופס! אולי בפעם הבאה",
+        "description": "אל תוותרו - כל סיבוב עשוי לחשוף פרס מרגש!"
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "מזל טוב! זכיתם ב-{{REWARD}}!",
+        "description": "השתמשו בקוד שלמטה בקופה כדי ליהנות מההנחה שלכם."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "מזל טוב! זכיתם ב-{{REWARD}}!",
+        "description": "השתמשו בקוד שלמטה בקופה כדי לקבל משלוח חינם."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "הפתעה! זכיתם ב-{{REWARD}}!",
+        "description": "השתמשו בקוד שלמטה בקופה כדי לקבל את המתנה החינם שלכם."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "סובבו עכשיו"
+    },
+    "readyLabel": {
+      "text": "הפרס מוכן"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "סובבו וזכו בפרסים מרגשים!",
+          "description": "מלאו את הפרטים שלכם וקבלו הזדמנות לסובב.",
+          "descriptionForExistingAccount": "ברוכים הבאים, {{NAME}}! התכוננו לסובב את הגלגל ולפתוח פרסים מרגשים שמחכים בדיוק לכם.",
+          "fields": {
+            "name": {
+              "placeholder": "שם"
+            },
+            "email": {
+              "placeholder": "אימייל"
+            }
+          },
+          "agreement": "אני מסכים/ה לקבל הודעות דוא\"ל שיווקיות והצעות.",
+          "spinButton": "סובבו",
+          "dismissButton": "המשיכו בקנייה",
+          "footerText": "הכיף מתחיל בסיבוב אחד!",
+          "messages": {
+            "maxSpinReached": "נראה שניצלתם את כל הסיבובים שלכם!"
+          }
+        },
+        "resultForm": {
+          "redeemButton": "הפעילו את הפרס עכשיו",
+          "dismissButton": "המשיכו בקנייה",
+          "messages": {
+            "rewardExpiry": "השתמשו בפרס שלכם תוך {{EXPIRE}}"
+          }
+        },
+        "redemptionForm": {
+          "title": "הפרס שלכם הופעל!",
+          "description": "הפרס שלכם פעיל - תוכלו לבצע תשלום עכשיו או להמשיך בקנייה ולהשתמש בו בכל עת.",
+          "checkoutButton": "לתשלום עכשיו",
+          "dismissButton": "המשיכו בקנייה",
+          "messages": {
+            "noCartItems": "הוסיפו פריטים לעגלה שלכם ומימשו את הפרס בקופה."
+          }
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "התכוננו! גלגל הפרסים יוצא לדרך ב-{{TIME}} עם פרסים מרגשים!",
+      "readyToSpin": "מוכנים לסובב? לחצו על {{OPENER}} וזכו במשהו מרגש!",
+      "countDownToLaunch": "הספירה לאחור החלה! נותרו רק {{TIME}} עד ההשקה!",
+      "countDownToClose": "מהרו! נותרו רק {{TIME}} - לחצו על {{OPENER}} כדי לסובב ולקבל את הפרס שלכם!"
+    },
+    "encourage": {
+      "messages": {
+        "discount": "פתחתם הנחה של {{VALUE}} - נצלו אותה בקופה!",
+        "discountWithMinOrder": "קבלו {{VALUE}} הנחה על הזמנות מעל {{MIN_ORDER}}.",
+        "freeShip": "משלוח חינם נפתח - נצלו אותו בקופה!",
+        "freeShipWithMinOrder": "משלוח חינם בהזמנות מעל {{MIN_ORDER}}.",
+        "freeShipWithMaxAmount": "תיהנו ממשלוח חינם עד {{MAX_AMOUNT}}.",
+        "freeShipWithMaxAmountAndMinOrder": "משלוח חינם עד {{MAX_AMOUNT}} בהזמנות מעל {{MIN_ORDER}}.",
+        "freeGift": "מתנה חינם נפתחה - קבלו אותה בקופה!",
+        "redeemCode": "השתמשו בקוד {{CODE}} בקופה כדי ליהנות מהפרס שלכם."
+      }
+    }
+  }
+}

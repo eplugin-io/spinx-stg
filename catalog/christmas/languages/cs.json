@@ -1,0 +1,63 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} hodin",
+    "expireDay": "{{TIME}} dní"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "❄️ Tentokrát bez štěstí!",
+        "description": "Děkujeme za roztočení! Při dalším pokusu na vás možná čeká další vánoční kouzlo."
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "🎁 Vánoční překvapení! Vyhráli jste {{REWARD}}!",
+        "description": "Použijte kód níže při placení a užijte si svou vánoční odměnu."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "🎁 Vánoční překvapení! Vyhráli jste {{REWARD}}!",
+        "description": "Použijte kód níže při placení a užijte si svátečně dopravu zdarma."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "🎁 Vánoční překvapení! Vyhráli jste {{REWARD}}!",
+        "description": "Použijte kód níže při placení a vyzvedněte si svůj vánoční dárek."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "ROZTOČIT 🎄"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "🎄 Rozbalte své vánoční překvapení!",
+          "description": "Zadejte své údaje a roztočte kolo, abyste rozbalili svou vánoční odměnu.",
+          "descriptionForExistingAccount": "{{NAME}}, je čas na vánoční překvapení — roztočte kolo a odhalte svou vánoční odměnu!",
+          "agreement": "Souhlasím se zasíláním sváteční nabídek a novinek.",
+          "spinButton": "Odhalit můj dárek",
+          "dismissButton": "Pokračovat v nákupu",
+          "footerText": "Vánoční kouzlo začíná jedním roztočením ✨"
+        },
+        "redemptionForm": {
+          "title": "Vánoční radost odemčena!"
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "🎅 Vánoční kouzlo se blíží... Kolo se odemyká v {{TIME}}!",
+      "readyToSpin": "🎁 Vaše vánoční překvapení čeká! Klepněte na {{OPENER}} a roztočte vánoční kolo!",
+      "countDownToLaunch": "⏳ Už to skoro bude! Vánoční kolo se odemyká za {{TIME}} — připravte se!",
+      "countDownToClose": "🎄 Poslední šance! Zbývá jen {{TIME}} na roztočení a získání vánoční odměny!"
+    }
+  }
+}

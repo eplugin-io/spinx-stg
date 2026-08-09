@@ -1,0 +1,66 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} timer",
+    "expireDay": "{{TIME}} dager"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "🎃 Ikke noe hell denne gangen!",
+        "description": "Åndene var stille denne gangen - men neste spinn kan avsløre en skummel overraskelse."
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "🎃 Bø! Du vant {{REWARD}}!",
+        "description": "Bruk koden nedenfor i kassen for å låse opp dine skumle besparelser."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "🎃 Bø! Du vant {{REWARD}}!",
+        "description": "Bruk koden nedenfor i kassen for å nyte gratis frakt fra den andre siden."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "🎁 En skummel overraskelse! Du vant {{REWARD}}!",
+        "description": "Bruk koden nedenfor i kassen for å innløse din skummelt gode gave."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "MANE FREM PREMIE"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "🎃 Tør du spinne det hjemsøkte hjulet?",
+          "description": "Fyll inn dine opplysninger og spinn hjulet for å låse opp en skummel Halloween-premie.",
+          "descriptionForExistingAccount": "{{NAME}}, spinn nå for å låse opp din skumle Halloween-premie!",
+          "agreement": "Jeg samtykker til å motta skumle tilbud og oppdateringer.",
+          "spinButton": "SPINN HVIS DU TØR",
+          "dismissButton": "Fortsett å handle",
+          "footerText": "Bare modige sjeler låser opp de beste overraskelsene.",
+          "messages": {
+            "maxSpinReached": "Åndene sier at du har brukt opp alle spinnene dine for nå."
+          }
+        },
+        "redemptionForm": {
+          "title": "Din skumle premie er klar!"
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "🎃 Åndene samler seg... hjulet åpner kl. {{TIME}}!",
+      "readyToSpin": "👻 Knask eller knep? Klikk på {{OPENER}} for å spinne for din Halloween-premie!",
+      "countDownToLaunch": "⏳ Det hjemsøkte hjulet åpner om {{TIME}} - gjør deg klar!",
+      "countDownToClose": "🎃 Siste sjanse! Bare {{TIME}} igjen for å spinne det hjemsøkte hjulet!"
+    }
+  }
+}

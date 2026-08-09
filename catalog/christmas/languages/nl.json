@@ -1,0 +1,63 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} uur",
+    "expireDay": "{{TIME}} dagen"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "❄️ Geen geluk deze keer!",
+        "description": "Bedankt voor het draaien! Er wacht misschien meer kerstmagie bij je volgende poging."
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "🎁 Kerstverrassing! Je hebt {{REWARD}} gewonnen!",
+        "description": "Gebruik onderstaande code bij het afrekenen om te genieten van je feestelijke beloning."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "🎁 Kerstverrassing! Je hebt {{REWARD}} gewonnen!",
+        "description": "Gebruik onderstaande code bij het afrekenen voor gratis feestelijke verzending."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "🎁 Kerstverrassing! Je hebt {{REWARD}} gewonnen!",
+        "description": "Gebruik onderstaande code bij het afrekenen om je feestelijke cadeau te claimen."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "DRAAI NU 🎄"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "🎄 Pak je kerstverrassing uit!",
+          "description": "Vul je gegevens in en draai het rad om je feestelijke kerstbeloning uit te pakken.",
+          "descriptionForExistingAccount": "{{NAME}}, het is tijd voor een kerstverrassing - draai om je feestelijke beloning te onthullen!",
+          "agreement": "Ik ga akkoord met het ontvangen van feestdagaanbiedingen en updates.",
+          "spinButton": "Onthul mijn cadeau",
+          "dismissButton": "Verder winkelen",
+          "footerText": "De feestelijke magie begint met een draai ✨"
+        },
+        "redemptionForm": {
+          "title": "Feestdagvreugde ontgrendeld!"
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "🎅 Kerstmagie komt eraan... Het rad opent om {{TIME}}!",
+      "readyToSpin": "🎁 Je feestelijke verrassing wacht! Tik op {{OPENER}} om het kerstrad te draaien!",
+      "countDownToLaunch": "⏳ Bijna zover! Het kerstrad opent over {{TIME}} - maak je klaar!",
+      "countDownToClose": "🎄 Laatste kans! Nog maar {{TIME}} om te draaien en je feestdagbeloning te claimen!"
+    }
+  }
+}

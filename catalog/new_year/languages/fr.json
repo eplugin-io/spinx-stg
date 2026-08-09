@@ -1,0 +1,66 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} heures",
+    "expireDay": "{{TIME}} jours"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "✨ Pas de chance cette fois !",
+        "description": "La nouvelle année réserve encore des surprises — retentez un tour bientôt !"
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "✨ Victoire du Nouvel An ! Vous avez obtenu {{REWARD}} !",
+        "description": "Utilisez le code ci-dessous lors du paiement pour réclamer votre récompense du Nouvel An."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "✨ Victoire du Nouvel An ! Vous avez obtenu {{REWARD}} !",
+        "description": "Utilisez le code ci-dessous lors du paiement pour profiter de la livraison gratuite sur votre commande."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "🎁 Surprise du Nouvel An ! Vous avez obtenu {{REWARD}} !",
+        "description": "Utilisez le code ci-dessous lors du paiement pour réclamer votre cadeau du Nouvel An."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "JOUER MAINTENANT 💥"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "✨ Accueillez la nouvelle année avec une surprise !",
+          "description": "Entrez votre nom et votre e-mail pour débloquer votre récompense du Nouvel An.",
+          "descriptionForExistingAccount": "{{NAME}}, commencez la nouvelle année avec un tour de roue et débloquez votre récompense spéciale.",
+          "agreement": "J'accepte de recevoir des offres et des actualités du Nouvel An.",
+          "spinButton": "Tourner et démarrer l'année",
+          "dismissButton": "Continuer mes achats",
+          "footerText": "Une année brillante commence par un tour de roue ✨",
+          "messages": {
+            "maxSpinReached": "On dirait que vous avez utilisé tous vos tours !"
+          }
+        },
+        "redemptionForm": {
+          "title": "Votre récompense du Nouvel An est prête !"
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "✨ La roue du Nouvel An se débloque à {{TIME}} — préparez-vous à jouer !",
+      "readyToSpin": "✨ C'est l'heure ! Appuyez sur {{OPENER}} pour entrer dans la nouvelle année !",
+      "countDownToLaunch": "⏳ Le compte à rebours est lancé — les récompenses du Nouvel An se débloquent dans {{TIME}} !",
+      "countDownToClose": "✨ Derniers instants ! Plus que {{TIME}} pour tourner la roue et réclamer votre récompense du Nouvel An !"
+    }
+  }
+}

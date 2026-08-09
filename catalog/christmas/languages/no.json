@@ -1,0 +1,63 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} timer",
+    "expireDay": "{{TIME}} dager"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "❄️ Ikke noe hell denne gangen!",
+        "description": "Takk for at du spant! Mer julemagi kan vente på deg neste gang."
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "🎁 Juleoverraskelse! Du vant {{REWARD}}!",
+        "description": "Bruk koden nedenfor i kassen for å nyte din festlige premie."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "🎁 Juleoverraskelse! Du vant {{REWARD}}!",
+        "description": "Bruk koden nedenfor i kassen for å nyte gratis julefrakt."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "🎁 Juleoverraskelse! Du vant {{REWARD}}!",
+        "description": "Bruk koden nedenfor i kassen for å innløse din festlige gave."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "SPINN NÅ 🎄"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "🎄 Pakk opp din juleoverraskelse!",
+          "description": "Fyll inn dine opplysninger og spinn hjulet for å pakke opp din festlige julepremie.",
+          "descriptionForExistingAccount": "{{NAME}}, det er på tide med en juleoverraskelse - spinn for å avsløre din festlige premie!",
+          "agreement": "Jeg samtykker til å motta høytidstilbud og oppdateringer.",
+          "spinButton": "Avslør gaven min",
+          "dismissButton": "Fortsett å handle",
+          "footerText": "Julemagien begynner med et spinn ✨"
+        },
+        "redemptionForm": {
+          "title": "Julestemningen er låst opp!"
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "🎅 Julemagien kommer... Hjulet åpner kl. {{TIME}}!",
+      "readyToSpin": "🎁 Din festlige overraskelse venter! Trykk på {{OPENER}} for å spinne julehjulet!",
+      "countDownToLaunch": "⏳ Snart tid! Julehjulet åpner om {{TIME}} - gjør deg klar!",
+      "countDownToClose": "🎄 Siste sjanse! Bare {{TIME}} igjen for å spinne og hente din høytidspremie!"
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} ore",
+    "expireDay": "{{TIME}} zile"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "❄️ Fără Noroc De Data Asta!",
+        "description": "Mulțumim că ai rotit! Mai multă magie de Crăciun te poate aștepta la următoarea încercare."
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "🎁 Surpriză de Crăciun! Ai Câștigat {{REWARD}}!",
+        "description": "Folosește codul de mai jos la finalizarea comenzii pentru a beneficia de premiul tău festiv."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "🎁 Surpriză de Crăciun! Ai Câștigat {{REWARD}}!",
+        "description": "Folosește codul de mai jos la finalizarea comenzii pentru a beneficia de transport gratuit de sărbători."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "🎁 Surpriză de Crăciun! Ai Câștigat {{REWARD}}!",
+        "description": "Folosește codul de mai jos la finalizarea comenzii pentru a-ți revendica cadoul festiv."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "ROTEȘTE ACUM 🎄"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "🎄 Despachetează-ți Surpriza de Crăciun!",
+          "description": "Introdu-ți datele și rotește roata pentru a-ți despacheta premiul festiv de Crăciun.",
+          "descriptionForExistingAccount": "{{NAME}}, e timpul pentru o surpriză de Crăciun — rotește pentru a-ți dezvălui premiul festiv!",
+          "agreement": "Sunt de acord să primesc oferte și noutăți de sărbători.",
+          "spinButton": "Dezvăluie-mi Cadoul",
+          "dismissButton": "Continuă cumpărăturile",
+          "footerText": "Magia sărbătorilor începe cu o rotire ✨"
+        },
+        "redemptionForm": {
+          "title": "Bucuria Sărbătorilor Este Deblocată!"
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "🎅 Magia Crăciunului vine... Roata se deblochează la {{TIME}}!",
+      "readyToSpin": "🎁 Surpriza ta festivă te așteaptă! Apasă {{OPENER}} pentru a roti roata de Crăciun!",
+      "countDownToLaunch": "⏳ Aproape a venit timpul! Roata de Crăciun se deblochează în {{TIME}} — pregătește-te!",
+      "countDownToClose": "🎄 Ultima șansă! Mai sunt doar {{TIME}} pentru a roti și a-ți revendica premiul de sărbători!"
+    }
+  }
+}

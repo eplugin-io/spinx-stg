@@ -1,0 +1,66 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} sati",
+    "expireDay": "{{TIME}} dana"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "🎃 Nema sreće ovaj put!",
+        "description": "Duhovi su ovaj put bili tihi — ali vaše sljedeće okretanje moglo bi otkriti jezivo iznenađenje."
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "🎃 Bu! Osvojili ste {{REWARD}}!",
+        "description": "Upotrijebite kod ispod prilikom plaćanja kako biste otključali svoju jezivu uštedu."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "🎃 Bu! Osvojili ste {{REWARD}}!",
+        "description": "Upotrijebite kod ispod prilikom plaćanja kako biste dobili besplatnu dostavu s onog svijeta."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "🎁 Jezivo iznenađenje! Osvojili ste {{REWARD}}!",
+        "description": "Upotrijebite kod ispod prilikom plaćanja kako biste preuzeli svoj jezivo dobar poklon."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "PRIZOVI NAGRADU"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "🎃 Usudite li se zavrtjeti ukleto kolo?",
+          "description": "Unesite svoje podatke i zavrtite kolo kako biste otključali jezivu Noć vještica nagradu.",
+          "descriptionForExistingAccount": "{{NAME}}, zavrtite sada kako biste otključali svoju jezivu Noć vještica nagradu!",
+          "agreement": "Slažem se s primanjem jezivih ponuda i novosti.",
+          "spinButton": "ZAVRTI AKO SE USUĐUJEŠ",
+          "dismissButton": "Nastavi kupnju",
+          "footerText": "Samo hrabre duše otključavaju najbolja iznenađenja.",
+          "messages": {
+            "maxSpinReached": "Duhovi kažu da ste za sada iskoristili sva svoja okretanja."
+          }
+        },
+        "redemptionForm": {
+          "title": "Vaša jeziva nagrada je spremna!"
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "🎃 Duhovi se okupljaju... kolo se otključava u {{TIME}}!",
+      "readyToSpin": "👻 Šala ili poslastica? Kliknite {{OPENER}} za okretanje i osvajanje Noć vještica nagrade!",
+      "countDownToLaunch": "⏳ Ukleto kolo otključava se za {{TIME}} — pripremite se!",
+      "countDownToClose": "🎃 Zadnja prilika! Preostalo je samo {{TIME}} za okretanje ukletog kola!"
+    }
+  }
+}

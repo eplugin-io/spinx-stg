@@ -1,0 +1,66 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} hodin",
+    "expireDay": "{{TIME}} dní"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "Skoro tam! Vaše odměna Black Friday čeká",
+        "description": "Nevzdávejte to — vaše další roztočení může odemknout exkluzivní odměnu Black Friday!"
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "💥 Výhra Black Friday! Získali jste {{REWARD}}!",
+        "description": "Použijte kód níže při placení a vyzvedněte si svou slevu Black Friday."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "🚚 Výhra Black Friday! Získali jste {{REWARD}}!",
+        "description": "Použijte kód níže při placení a užijte si dopravu zdarma u své objednávky Black Friday."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "🎁 Výhra Black Friday! Získali jste {{REWARD}}!",
+        "description": "Použijte kód níže při placení a vyzvedněte si svůj dárek Black Friday."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "ROZTOČIT PRO NABÍDKY"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "Nabídky Black Friday na vás čekají!",
+          "description": "Zadejte své údaje a roztočte kolo, abyste odemkli exkluzivní odměnu Black Friday.",
+          "descriptionForExistingAccount": "{{NAME}}, Black Friday je tu — roztočte kolo nyní a odhalte svou odměnu.",
+          "agreement": "Souhlasím se zasíláním nabídek a novinek Black Friday.",
+          "spinButton": "ODEMKNOUT NABÍDKY",
+          "dismissButton": "Pokračovat v nákupu",
+          "footerText": "Každé roztočení může odemknout vaši další skvělou nabídku.",
+          "messages": {
+            "maxSpinReached": "Už jste využili všechna svá roztočení Black Friday!"
+          }
+        },
+        "redemptionForm": {
+          "title": "Vaše odměna Black Friday je připravena!"
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "✨ Black Friday začíná v {{TIME}} — připravte se roztočit pro exkluzivní odměny!",
+      "readyToSpin": "💥 Black Friday právě běží — klikněte na {{OPENER}} a roztočte kolo pro svou odměnu!",
+      "countDownToLaunch": "⏳ Kolo se odemyká za {{TIME}} — nenechte si ujít svou šanci na Black Friday!",
+      "countDownToClose": "⚡ Pospěšte si! Zbývá jen {{TIME}} na roztočení a získání odměny Black Friday!"
+    }
+  }
+}

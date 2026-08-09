@@ -1,0 +1,66 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} hodín",
+    "expireDay": "{{TIME}} dní"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "Už takmer tam! Tvoja odmena z Black Friday čaká",
+        "description": "Nevzdávaj sa - tvoje ďalšie zatočenie môže odomknúť exkluzívnu odmenu Black Friday!"
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "💥 Výhra Black Friday! Získal si {{REWARD}}!",
+        "description": "Použi kód nižšie pri platbe a vyzdvihni si svoju zľavu Black Friday."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "🚚 Výhra Black Friday! Získal si {{REWARD}}!",
+        "description": "Použi kód nižšie pri platbe a uži si dopravu zadarmo na svoju objednávku Black Friday."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "🎁 Výhra Black Friday! Získal si {{REWARD}}!",
+        "description": "Použi kód nižšie pri platbe a vyzdvihni si svoj darček Black Friday."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "ZATOČ ZA PONUKY"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "Ponuky Black Friday čakajú!",
+          "description": "Zadaj svoje údaje a zatoč kolesom, aby si odomkol exkluzívnu odmenu Black Friday.",
+          "descriptionForExistingAccount": "{{NAME}}, Black Friday je tu - zatoč teraz a odhaľ svoju odmenu.",
+          "agreement": "Súhlasím s prijímaním ponúk a noviniek z Black Friday.",
+          "spinButton": "ODOMKNÚŤ PONUKY",
+          "dismissButton": "Pokračovať v nákupe",
+          "footerText": "Každé zatočenie môže odomknúť tvoju ďalšiu skvelú ponuku.",
+          "messages": {
+            "maxSpinReached": "Už si využil všetky svoje zatočenia Black Friday!"
+          }
+        },
+        "redemptionForm": {
+          "title": "Tvoja odmena z Black Friday je pripravená!"
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "✨ Black Friday začína o {{TIME}} - priprav sa zatočiť za exkluzívne odmeny!",
+      "readyToSpin": "💥 Black Friday práve prebieha - klikni na {{OPENER}} a zatoč, aby si odomkol svoju odmenu!",
+      "countDownToLaunch": "⏳ Koleso sa otvorí o {{TIME}} - nenechaj si ujsť svoju šancu na Black Friday!",
+      "countDownToClose": "⚡ Ponáhľaj sa! Zostáva len {{TIME}} na zatočenie a získanie odmeny Black Friday!"
+    }
+  }
+}

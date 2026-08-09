@@ -1,0 +1,66 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} val.",
+    "expireDay": "{{TIME}} d."
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "🎃 Šįkart nepasisekė!",
+        "description": "Dvasios šįkart tylėjo - bet kitas sukimas gali atskleisti bauginančią staigmeną."
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "🎃 Bu! Laimėjai {{REWARD}}!",
+        "description": "Naudok žemiau esantį kodą atsiskaitydamas, kad atrakintum savo baisiai gerą nuolaidą."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "🎃 Bu! Laimėjai {{REWARD}}!",
+        "description": "Naudok žemiau esantį kodą atsiskaitydamas ir mėgaukis nemokamu pristatymu iš anapus."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "🎁 Bauginanti staigmena! Laimėjai {{REWARD}}!",
+        "description": "Naudok žemiau esantį kodą atsiskaitydamas, kad atsiimtum baisiai gerą dovaną."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "PRIŠAUK PRIZĄ"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "🎃 Drįsti pasukti vaiduoklių ratą?",
+          "description": "Įvesk savo duomenis ir pasuk ratą, kad atrakintum bauginantį Helovino prizą.",
+          "descriptionForExistingAccount": "{{NAME}}, suk dabar ir atrakink savo bauginantį Helovino prizą!",
+          "agreement": "Sutinku gauti bauginančius pasiūlymus ir naujienas.",
+          "spinButton": "SUK, JEI DRĮSTI",
+          "dismissButton": "Tęsti apsipirkimą",
+          "footerText": "Tik drąsios sielos atrakina geriausias staigmenas.",
+          "messages": {
+            "maxSpinReached": "Dvasios sako, kad jau išnaudojai visus savo sukimus."
+          }
+        },
+        "redemptionForm": {
+          "title": "Tavo bauginantis prizas paruoštas!"
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "🎃 Dvasios renkasi... ratas atsivers {{TIME}}!",
+      "readyToSpin": "👻 Vaišės ar pokštas? Spausk {{OPENER}} ir suk savo Helovino prizui!",
+      "countDownToLaunch": "⏳ Vaiduoklių ratas atsivers po {{TIME}} - ruoškis!",
+      "countDownToClose": "🎃 Paskutinė galimybė! Liko tik {{TIME}} pasukti vaiduoklių ratą!"
+    }
+  }
+}

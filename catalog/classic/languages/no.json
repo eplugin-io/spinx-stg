@@ -1,0 +1,102 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} timer",
+    "expireDay": "{{TIME}} dager"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "Oisann! Kanskje neste gang",
+        "description": "Ikke gi opp - hver spinn kan avsløre en spennende premie!"
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "Gratulerer! Du vant {{REWARD}}!",
+        "description": "Bruk koden nedenfor i kassen for å nyte rabatten din."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "Gratulerer! Du vant {{REWARD}}!",
+        "description": "Bruk koden nedenfor i kassen for å få gratis frakt."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "Overraskelse! Du vant {{REWARD}}!",
+        "description": "Bruk koden nedenfor i kassen for å innløse din gratis gave."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "SPINN NÅ"
+    },
+    "readyLabel": {
+      "text": "PREMIE KLAR"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "Spinn og vinn spennende premier!",
+          "description": "Fyll inn dine opplysninger og få sjansen til å spinne.",
+          "descriptionForExistingAccount": "Velkommen, {{NAME}}! Gjør deg klar til å spinne hjulet og låse opp spennende premier som venter akkurat på deg.",
+          "fields": {
+            "name": {
+              "placeholder": "Navn"
+            },
+            "email": {
+              "placeholder": "E-post"
+            }
+          },
+          "agreement": "Jeg samtykker til å motta markedsførings-e-poster og tilbud.",
+          "spinButton": "SPINN",
+          "dismissButton": "Fortsett å handle",
+          "footerText": "Moroa begynner med et spinn!",
+          "messages": {
+            "maxSpinReached": "Det ser ut som du har brukt opp alle spinnene dine!"
+          }
+        },
+        "resultForm": {
+          "redeemButton": "Bruk premien nå",
+          "dismissButton": "Fortsett å handle",
+          "messages": {
+            "rewardExpiry": "Bruk premien din innen {{EXPIRE}}"
+          }
+        },
+        "redemptionForm": {
+          "title": "Premien din er tatt i bruk!",
+          "description": "Premien din er aktiv - du kan gå til kassen nå eller fortsette å handle og bruke den når som helst.",
+          "checkoutButton": "Gå til kassen nå",
+          "dismissButton": "Fortsett å handle",
+          "messages": {
+            "noCartItems": "Legg varer i handlekurven og løs inn premien din i kassen."
+          }
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "Gjør deg klar! Premiehjulet starter kl. {{TIME}} med spennende premier!",
+      "readyToSpin": "Klar til å spinne? Klikk på {{OPENER}} og vinn noe spennende!",
+      "countDownToLaunch": "Nedtellingen har startet! Bare {{TIME}} igjen til start!",
+      "countDownToClose": "Skynd deg! Bare {{TIME}} igjen - klikk på {{OPENER}} for å spinne og hente premien din!"
+    },
+    "encourage": {
+      "messages": {
+        "discount": "Du har låst opp {{VALUE}} avslag - bruk det i kassen!",
+        "discountWithMinOrder": "Få {{VALUE}} avslag på bestillinger over {{MIN_ORDER}}.",
+        "freeShip": "Gratis frakt låst opp - bruk det i kassen!",
+        "freeShipWithMinOrder": "Gratis frakt på bestillinger over {{MIN_ORDER}}.",
+        "freeShipWithMaxAmount": "Nyt gratis frakt opptil {{MAX_AMOUNT}}.",
+        "freeShipWithMaxAmountAndMinOrder": "Gratis frakt opptil {{MAX_AMOUNT}} på bestillinger over {{MIN_ORDER}}.",
+        "freeGift": "Gratis gave låst opp - hent den i kassen!",
+        "redeemCode": "Bruk koden {{CODE}} i kassen for å nyte premien din."
+      }
+    }
+  }
+}

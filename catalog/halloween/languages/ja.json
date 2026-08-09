@@ -1,0 +1,66 @@
+{
+  "label": {
+    "expireTime": "{{TIME}}時間",
+    "expireDay": "{{TIME}}日"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "🎃 今回はツキがありませんでした!",
+        "description": "今回は精霊たちも静かでした - でも次のスピンでは不気味なサプライズが現れるかも。"
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "🎃 ブー!{{REWARD}}が当たりました!",
+        "description": "レジで下記のコードを使って、不気味なほどお得な特典をゲットしましょう。"
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "🎃 ブー!{{REWARD}}が当たりました!",
+        "description": "レジで下記のコードを使って、あの世からの送料無料をお楽しみください。"
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "🎁 不気味なサプライズ!{{REWARD}}が当たりました!",
+        "description": "レジで下記のコードを使って、ぞくぞくするほど素敵なプレゼントを受け取ってください。"
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "景品を呼び出す"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "🎃 呪われたホイールに挑戦する勇気はある?",
+          "description": "情報を入力してホイールを回し、不気味なハロウィンの景品をゲットしましょう。",
+          "descriptionForExistingAccount": "{{NAME}}さん、今すぐスピンして不気味なハロウィンの景品をゲットしましょう!",
+          "agreement": "不気味な特典と最新情報の受信に同意します。",
+          "spinButton": "勇気があるならスピン",
+          "dismissButton": "買い物を続ける",
+          "footerText": "勇敢な魂だけが最高のサプライズを手に入れられます。",
+          "messages": {
+            "maxSpinReached": "精霊たちによると、あなたはもうスピン回数を使い切ったようです。"
+          }
+        },
+        "redemptionForm": {
+          "title": "不気味な景品の準備が整いました!"
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "🎃 精霊たちが集まりつつある… ホイールは{{TIME}}に解放されます!",
+      "readyToSpin": "👻 トリック・オア・トリート?{{OPENER}}をクリックしてハロウィンの景品を狙おう!",
+      "countDownToLaunch": "⏳ 呪われたホイールはあと{{TIME}}で解放されます - 準備をしましょう!",
+      "countDownToClose": "🎃 ラストチャンス!呪われたホイールを回せるのは残り{{TIME}}!"
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} godz.",
+    "expireDay": "{{TIME}} dni"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "🎃 Tym razem brak szczęścia!",
+        "description": "Duchy tym razem milczały - ale kolejne zakręcenie może przynieść upiorną niespodziankę."
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "🎃 Uu! Wygrałeś {{REWARD}}!",
+        "description": "Użyj poniższego kodu przy kasie, aby odblokować swoje upiorne oszczędności."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "🎃 Uu! Wygrałeś {{REWARD}}!",
+        "description": "Użyj poniższego kodu przy kasie, aby cieszyć się darmową dostawą z zaświatów."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "🎁 Upiorna niespodzianka! Wygrałeś {{REWARD}}!",
+        "description": "Użyj poniższego kodu przy kasie, aby odebrać swój upiornie dobry prezent."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "PRZYWOŁAJ NAGRODĘ"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "🎃 Odważysz się zakręcić nawiedzonym kołem?",
+          "description": "Podaj swoje dane i zakręć kołem, aby odblokować upiorną nagrodę na Halloween.",
+          "descriptionForExistingAccount": "{{NAME}}, zakręć teraz, aby odblokować swoją upiorną nagrodę na Halloween!",
+          "agreement": "Wyrażam zgodę na otrzymywanie upiornych ofert i aktualizacji.",
+          "spinButton": "ZAKRĘĆ, JEŚLI SIĘ ODWAŻYSZ",
+          "dismissButton": "Kontynuuj zakupy",
+          "footerText": "Tylko odważni odblokowują najlepsze niespodzianki.",
+          "messages": {
+            "maxSpinReached": "Duchy twierdzą, że wykorzystałeś już wszystkie swoje zakręcenia."
+          }
+        },
+        "redemptionForm": {
+          "title": "Twoja upiorna nagroda jest gotowa!"
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "🎃 Duchy się gromadzą... koło otworzy się o {{TIME}}!",
+      "readyToSpin": "👻 Cukierek czy psikus? Kliknij {{OPENER}}, aby zakręcić po swoją nagrodę na Halloween!",
+      "countDownToLaunch": "⏳ Nawiedzone koło otworzy się za {{TIME}} - przygotuj się!",
+      "countDownToClose": "🎃 Ostatnia szansa! Zostało tylko {{TIME}} na zakręcenie nawiedzonym kołem!"
+    }
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} hodin",
+    "expireDay": "{{TIME}} dní"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "Jejda! Možná příště",
+        "description": "Nevzdávejte to - každé roztočení může odhalit vaši skvělou odměnu!"
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "Gratulujeme! Vyhráli jste {{REWARD}}!",
+        "description": "Použijte kód níže při placení a užijte si svou slevu."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "Gratulujeme! Vyhráli jste {{REWARD}}!",
+        "description": "Použijte kód níže při placení a získejte dopravu zdarma."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "Překvapení! Vyhráli jste {{REWARD}}!",
+        "description": "Použijte kód níže při placení a vyzvedněte si svůj dárek zdarma."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "ROZTOČIT"
+    },
+    "readyLabel": {
+      "text": "ODMĚNA PŘIPRAVENA"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "Roztočte kolo a vyhrajte skvělé odměny!",
+          "description": "Vyplňte své údaje a získejte šanci na roztočení kola.",
+          "descriptionForExistingAccount": "Vítejte, {{NAME}}! Připravte se roztočit kolo a odemknout skvělé odměny, které na vás čekají.",
+          "fields": {
+            "name": {
+              "placeholder": "Jméno"
+            },
+            "email": {
+              "placeholder": "E-mail"
+            }
+          },
+          "agreement": "Souhlasím se zasíláním marketingových e-mailů a nabídek.",
+          "spinButton": "ROZTOČIT",
+          "dismissButton": "Pokračovat v nákupu",
+          "footerText": "Zábava začíná jedním roztočením!",
+          "messages": {
+            "maxSpinReached": "Vypadá to, že jste využili všechna svá roztočení!"
+          }
+        },
+        "resultForm": {
+          "redeemButton": "Uplatnit odměnu nyní",
+          "dismissButton": "Pokračovat v nákupu",
+          "messages": {
+            "rewardExpiry": "Uplatněte svou odměnu do {{EXPIRE}}"
+          }
+        },
+        "redemptionForm": {
+          "title": "Vaše odměna byla uplatněna!",
+          "description": "Vaše odměna je aktivní - můžete jít k pokladně nyní nebo pokračovat v nákupu a využít ji kdykoli.",
+          "checkoutButton": "K pokladně",
+          "dismissButton": "Pokračovat v nákupu",
+          "messages": {
+            "noCartItems": "Přidejte položky do košíku a uplatněte svou odměnu při placení."
+          }
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "Připravte se! Kolo odměn spouští v {{TIME}} skvělé ceny!",
+      "readyToSpin": "Jste připraveni na roztočení? Klikněte na {{OPENER}} a vyhrajte něco skvělého!",
+      "countDownToLaunch": "Odpočet běží! Do spuštění zbývá jen {{TIME}}!",
+      "countDownToClose": "Pospěšte si! Zbývá jen {{TIME}} - klikněte na {{OPENER}} a roztočte kolo pro svou odměnu!"
+    },
+    "encourage": {
+      "messages": {
+        "discount": "Odemkli jste slevu {{VALUE}} - použijte ji při placení!",
+        "discountWithMinOrder": "Získejte slevu {{VALUE}} na objednávky nad {{MIN_ORDER}}.",
+        "freeShip": "Doprava zdarma odemčena - použijte ji při placení!",
+        "freeShipWithMinOrder": "Doprava zdarma na objednávky nad {{MIN_ORDER}}.",
+        "freeShipWithMaxAmount": "Užijte si dopravu zdarma až do {{MAX_AMOUNT}}.",
+        "freeShipWithMaxAmountAndMinOrder": "Doprava zdarma až do {{MAX_AMOUNT}} na objednávky nad {{MIN_ORDER}}.",
+        "freeGift": "Dárek zdarma odemčen - vyzvedněte si ho při placení!",
+        "redeemCode": "Použijte kód {{CODE}} při placení a užijte si svou odměnu."
+      }
+    }
+  }
+}

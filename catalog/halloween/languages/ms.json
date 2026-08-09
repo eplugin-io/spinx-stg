@@ -1,0 +1,66 @@
+{
+  "label": {
+    "expireTime": "{{TIME}} jam",
+    "expireDay": "{{TIME}} hari"
+  },
+  "rewardTypes": {
+    "none": {
+      "message": {
+        "title": "🎃 Tiada Nasib Kali Ini!",
+        "description": "Roh-roh senyap buat masa ini - tapi pusingan seterusnya mungkin bawa kejutan seram."
+      }
+    },
+    "discountCode": {
+      "message": {
+        "title": "🎃 Boo! Anda Menang {{REWARD}}!",
+        "description": "Gunakan kod di bawah semasa checkout untuk buka kunci penjimatan seram anda."
+      }
+    },
+    "freeShipping": {
+      "message": {
+        "title": "🎃 Boo! Anda Menang {{REWARD}}!",
+        "description": "Gunakan kod di bawah semasa checkout untuk nikmati penghantaran percuma dari alam ghaib."
+      }
+    },
+    "freeGift": {
+      "message": {
+        "title": "🎁 Kejutan Seram! Anda Menang {{REWARD}}!",
+        "description": "Gunakan kod di bawah semasa checkout untuk dapatkan hadiah seram menarik anda."
+      }
+    }
+  },
+  "opener": {
+    "label": {
+      "text": "PANGGIL HADIAH"
+    }
+  },
+  "popups": {
+    "spinPopup": {
+      "forms": {
+        "spinForm": {
+          "title": "🎃 Berani Pusing Roda Berhantu?",
+          "description": "Masukkan maklumat anda dan pusing roda untuk buka kunci hadiah Halloween yang seram.",
+          "descriptionForExistingAccount": "{{NAME}}, pusing sekarang untuk buka kunci hadiah Halloween seram anda!",
+          "agreement": "Saya bersetuju untuk menerima tawaran dan kemas kini seram.",
+          "spinButton": "PUSING JIKA BERANI",
+          "dismissButton": "Teruskan membeli-belah",
+          "footerText": "Hanya roh yang berani dapat buka kejutan terbaik.",
+          "messages": {
+            "maxSpinReached": "Roh-roh kata anda sudah guna semua pusingan anda buat masa ini."
+          }
+        },
+        "redemptionForm": {
+          "title": "Hadiah Seram Anda Sudah Sedia!"
+        }
+      }
+    }
+  },
+  "announcement": {
+    "messages": {
+      "upcomingEvent": "🎃 Roh-roh sedang berkumpul... roda akan dibuka pada {{TIME}}!",
+      "readyToSpin": "👻 Trick or treat? Klik {{OPENER}} untuk pusing dan dapatkan hadiah Halloween anda!",
+      "countDownToLaunch": "⏳ Roda berhantu akan dibuka dalam {{TIME}} lagi - bersedia!",
+      "countDownToClose": "🎃 Peluang terakhir! Hanya {{TIME}} lagi untuk pusing roda berhantu!"
+    }
+  }
+}
