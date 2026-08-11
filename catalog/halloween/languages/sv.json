@@ -32,6 +32,9 @@
   "opener": {
     "label": {
       "text": "MANA FRAM BELÖNING"
+    },
+    "readyLabel": {
+      "text": "BELÖNING KLAR"
     }
   },
   "popups": {

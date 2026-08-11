@@ -43,7 +43,7 @@
         "spinForm": {
           "title": "Pusing untuk menangi hadiah menarik!",
           "description": "Isikan maklumat anda untuk dapatkan peluang memusing.",
-          "descriptionForExistingAccount": "Selamat kembali, {{NAME}}! Bersedia untuk memusing roda dan buka kunci hadiah menarik yang menanti anda.",
+          "descriptionForExistingAccount": "{{NAME}}, pusing sekarang untuk dapatkan hadiah anda!",
           "fields": {
             "name": {
               "placeholder": "Nama"

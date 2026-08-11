@@ -32,6 +32,9 @@
   "opener": {
     "label": {
       "text": "JOUER MAINTENANT 💥"
+    },
+    "readyLabel": {
+      "text": "RÉCOMPENSE PRÊTE"
     }
   },
   "popups": {

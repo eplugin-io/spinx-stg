@@ -43,7 +43,7 @@
         "spinForm": {
           "title": "شاندار انعامات جیتنے کے لیے اسپن کریں!",
           "description": "اپنی تفصیلات درج کریں اور اسپن کرنے کا موقع پائیں۔",
-          "descriptionForExistingAccount": "خوش آمدید، {{NAME}}! پہیہ گھمانے اور اپنے منتظر شاندار انعامات کھولنے کے لیے تیار ہو جائیں۔",
+          "descriptionForExistingAccount": "{{NAME}}، ابھی اسپن کریں اور اپنا انعام حاصل کریں!",
           "fields": {
             "name": {
               "placeholder": "نام"

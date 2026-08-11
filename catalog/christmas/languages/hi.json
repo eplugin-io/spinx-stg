@@ -32,6 +32,9 @@
   "opener": {
     "label": {
       "text": "अभी स्पिन करें 🎄"
+    },
+    "readyLabel": {
+      "text": "इनाम तैयार है"
     }
   },
   "popups": {

@@ -32,6 +32,9 @@
   "opener": {
     "label": {
       "text": "ЗАВЪРТИ ЗА ОФЕРТИ"
+    },
+    "readyLabel": {
+      "text": "НАГРАДАТА Е ГОТОВА"
     }
   },
   "popups": {

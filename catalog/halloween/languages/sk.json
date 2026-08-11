@@ -32,6 +32,9 @@
   "opener": {
     "label": {
       "text": "PRIVOLAJ ODMENU"
+    },
+    "readyLabel": {
+      "text": "ODMENA PRIPRAVENÁ"
     }
   },
   "popups": {

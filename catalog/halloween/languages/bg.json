@@ -32,6 +32,9 @@
   "opener": {
     "label": {
       "text": "ПРИЗОВИ НАГРАДА"
+    },
+    "readyLabel": {
+      "text": "НАГРАДАТА Е ГОТОВА"
     }
   },
   "popups": {

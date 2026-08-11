@@ -43,7 +43,7 @@
         "spinForm": {
           "title": "スピンして豪華な景品をゲット!",
           "description": "情報を入力してスピンのチャンスを手に入れましょう。",
-          "descriptionForExistingAccount": "ようこそ、{{NAME}}さん!ホイールを回して、あなたを待っている素敵な景品を手に入れる準備をしましょう。",
+          "descriptionForExistingAccount": "{{NAME}}さん、今すぐスピンして景品を手に入れよう!",
           "fields": {
             "name": {
               "placeholder": "お名前"

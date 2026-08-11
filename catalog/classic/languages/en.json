@@ -43,7 +43,7 @@
         "spinForm": {
           "title": "Spin to win exciting rewards!",
           "description": "Fill in your details and get your chance to spin.",
-          "descriptionForExistingAccount": "Welcome, {{NAME}}! Get ready to spin the wheel and unlock exciting rewards waiting just for you.",
+          "descriptionForExistingAccount": "{{NAME}}, spin now to unlock your reward!",
           "fields": {
             "name": {
               "placeholder": "Name"

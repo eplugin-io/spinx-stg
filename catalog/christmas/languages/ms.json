@@ -32,6 +32,9 @@
   "opener": {
     "label": {
       "text": "PUSING SEKARANG 🎄"
+    },
+    "readyLabel": {
+      "text": "HADIAH SEDIA"
     }
   },
   "popups": {

@@ -32,6 +32,9 @@
   "opener": {
     "label": {
       "text": "CHEAMĂ PREMIUL"
+    },
+    "readyLabel": {
+      "text": "PREMIU PREGĂTIT"
     }
   },
   "popups": {

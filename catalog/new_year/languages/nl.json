@@ -32,6 +32,9 @@
   "opener": {
     "label": {
       "text": "DRAAI NU 💥"
+    },
+    "readyLabel": {
+      "text": "BELONING KLAAR"
     }
   },
   "popups": {

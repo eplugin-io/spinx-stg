@@ -43,7 +43,7 @@
         "spinForm": {
           "title": "转动幸运转盘，赢取超值好礼！",
           "description": "填写您的信息，即可获得抽奖机会。",
-          "descriptionForExistingAccount": "欢迎回来，{{NAME}}！快来转动转盘，解锁专属于您的惊喜好礼吧。",
+          "descriptionForExistingAccount": "{{NAME}}，马上转动转盘，领取你的奖品！",
           "fields": {
             "name": {
               "placeholder": "姓名"

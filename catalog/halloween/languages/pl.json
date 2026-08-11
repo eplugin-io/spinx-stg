@@ -32,6 +32,9 @@
   "opener": {
     "label": {
       "text": "PRZYWOŁAJ NAGRODĘ"
+    },
+    "readyLabel": {
+      "text": "NAGRODA GOTOWA"
     }
   },
   "popups": {

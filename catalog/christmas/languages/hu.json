@@ -32,6 +32,9 @@
   "opener": {
     "label": {
       "text": "PÖRGESS MOST 🎄"
+    },
+    "readyLabel": {
+      "text": "JUTALOM KÉSZ"
     }
   },
   "popups": {

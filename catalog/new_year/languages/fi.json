@@ -32,6 +32,9 @@
   "opener": {
     "label": {
       "text": "PYÖRÄYTÄ NYT 💥"
+    },
+    "readyLabel": {
+      "text": "PALKINTO VALMIS"
     }
   },
   "popups": {

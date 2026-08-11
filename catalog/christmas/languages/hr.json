@@ -32,6 +32,9 @@
   "opener": {
     "label": {
       "text": "ZAVRTI SADA 🎄"
+    },
+    "readyLabel": {
+      "text": "NAGRADA SPREMNA"
     }
   },
   "popups": {

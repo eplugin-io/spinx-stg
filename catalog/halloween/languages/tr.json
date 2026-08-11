@@ -32,6 +32,9 @@
   "opener": {
     "label": {
       "text": "ÖDÜLÜ ÇAĞIR"
+    },
+    "readyLabel": {
+      "text": "ÖDÜL HAZIR"
     }
   },
   "popups": {

@@ -43,7 +43,7 @@
         "spinForm": {
           "title": "Putar dan menangkan hadiah menarik!",
           "description": "Isi datamu dan dapatkan kesempatan untuk memutar.",
-          "descriptionForExistingAccount": "Selamat datang, {{NAME}}! Bersiaplah memutar roda dan buka hadiah menarik yang menunggumu.",
+          "descriptionForExistingAccount": "{{NAME}}, putar sekarang dan dapatkan hadiahmu!",
           "fields": {
             "name": {
               "placeholder": "Nama"

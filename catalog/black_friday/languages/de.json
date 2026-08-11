@@ -32,6 +32,9 @@
   "opener": {
     "label": {
       "text": "FÜR ANGEBOTE DREHEN"
+    },
+    "readyLabel": {
+      "text": "BELOHNUNG BEREIT"
     }
   },
   "popups": {

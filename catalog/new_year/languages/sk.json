@@ -32,6 +32,9 @@
   "opener": {
     "label": {
       "text": "ZATOČ TERAZ 💥"
+    },
+    "readyLabel": {
+      "text": "ODMENA PRIPRAVENÁ"
     }
   },
   "popups": {

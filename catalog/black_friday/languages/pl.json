@@ -32,6 +32,9 @@
   "opener": {
     "label": {
       "text": "ZAKRĘĆ PO OKAZJE"
+    },
+    "readyLabel": {
+      "text": "NAGRODA GOTOWA"
     }
   },
   "popups": {

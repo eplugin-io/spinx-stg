@@ -43,7 +43,7 @@
         "spinForm": {
           "title": "Roda e ganha prémios fantásticos!",
           "description": "Preenche os teus dados e tens a hipótese de rodar.",
-          "descriptionForExistingAccount": "Bem-vindo(a), {{NAME}}! Prepara-te para rodar a roda e desbloquear prémios fantásticos à tua espera.",
+          "descriptionForExistingAccount": "{{NAME}}, roda agora e desbloqueia o teu prémio!",
           "fields": {
             "name": {
               "placeholder": "Nome"

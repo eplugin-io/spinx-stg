@@ -32,6 +32,9 @@
   "opener": {
     "label": {
       "text": "HEMEN ÇEVİR 💥"
+    },
+    "readyLabel": {
+      "text": "ÖDÜL HAZIR"
     }
   },
   "popups": {

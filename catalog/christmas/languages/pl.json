@@ -32,6 +32,9 @@
   "opener": {
     "label": {
       "text": "ZAKRĘĆ TERAZ 🎄"
+    },
+    "readyLabel": {
+      "text": "NAGRODA GOTOWA"
     }
   },
   "popups": {

@@ -32,6 +32,9 @@
   "opener": {
     "label": {
       "text": "轉動搶優惠"
+    },
+    "readyLabel": {
+      "text": "獎勵已就緒"
     }
   },
   "popups": {

@@ -43,7 +43,7 @@
         "spinForm": {
           "title": "หมุนวงล้อรับรางวัลสุดพิเศษ!",
           "description": "กรอกข้อมูลของคุณเพื่อรับสิทธิ์หมุนวงล้อ",
-          "descriptionForExistingAccount": "ยินดีต้อนรับ {{NAME}}! เตรียมตัวหมุนวงล้อและปลดล็อกรางวัลสุดพิเศษที่รอคุณอยู่",
+          "descriptionForExistingAccount": "{{NAME}} หมุนตอนนี้เพื่อรับรางวัลของคุณ!",
           "fields": {
             "name": {
               "placeholder": "ชื่อ-นามสกุล"

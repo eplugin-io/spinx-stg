@@ -32,6 +32,9 @@
   "opener": {
     "label": {
       "text": "SPIN FOR DEALS"
+    },
+    "readyLabel": {
+      "text": "DEAL READY"
     }
   },
   "popups": {

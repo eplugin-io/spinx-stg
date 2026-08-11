@@ -32,6 +32,9 @@
   "opener": {
     "label": {
       "text": "PYÖRÄYTÄ TARJOUKSIA"
+    },
+    "readyLabel": {
+      "text": "PALKINTO VALMIS"
     }
   },
   "popups": {

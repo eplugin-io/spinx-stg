@@ -32,6 +32,9 @@
   "opener": {
     "label": {
       "text": "เรียกรางวัล"
+    },
+    "readyLabel": {
+      "text": "รางวัลพร้อมแล้ว"
     }
   },
   "popups": {

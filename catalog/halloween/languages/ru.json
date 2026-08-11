@@ -32,6 +32,9 @@
   "opener": {
     "label": {
       "text": "ПРИЗВАТЬ ПРИЗ"
+    },
+    "readyLabel": {
+      "text": "ПРИЗ ГОТОВ"
     }
   },
   "popups": {

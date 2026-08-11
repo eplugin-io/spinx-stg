@@ -12,7 +12,7 @@
     "config": {
       "url": "https://spinx-dev.myshopify.com",
       "logo": {
-        "url": "/assets/images/logo/spinx-wheel-logo.png"
+        "url": "/assets/images/logo/spinx-wheel-full-horizontal.png"
       },
       "customDomain": "spinx-dev.myshopify.com",
       "ianaTimezone": "Asia/Ho_Chi_Minh",
@@ -42,11 +42,6 @@
         "moneyFormat": "${{amount}} USD"
       },
       "localization": {
-        "locales": [
-          "vi",
-          "fr"
-        ],
-        "countryCode": null,
         "defaultLocale": "en"
       }
     }
@@ -114,7 +109,7 @@
     "excludeUrls": [],
     "localization": {
       "language": "en",
-      "autoDetect": false
+      "multiLang": false
     },
     "translations": {},
     "emailContent": {

@@ -43,7 +43,7 @@
         "spinForm": {
           "title": "돌려서 멋진 보상을 받아보세요!",
           "description": "정보를 입력하고 돌릴 수 있는 기회를 얻으세요.",
-          "descriptionForExistingAccount": "환영합니다, {{NAME}}님! 휠을 돌려 여러분을 위해 준비된 멋진 보상을 확인해보세요.",
+          "descriptionForExistingAccount": "{{NAME}}님, 지금 돌려서 보상을 받아보세요!",
           "fields": {
             "name": {
               "placeholder": "이름"

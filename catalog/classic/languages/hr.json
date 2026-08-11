@@ -43,7 +43,7 @@
         "spinForm": {
           "title": "Zavrtite kolo i osvojite uzbudljive nagrade!",
           "description": "Unesite svoje podatke i dobijte priliku za okretanje kola.",
-          "descriptionForExistingAccount": "Dobrodošli, {{NAME}}! Pripremite se za okretanje kola i otključajte uzbudljive nagrade koje vas čekaju.",
+          "descriptionForExistingAccount": "{{NAME}}, zavrtite sada i osvojite svoju nagradu!",
           "fields": {
             "name": {
               "placeholder": "Ime"

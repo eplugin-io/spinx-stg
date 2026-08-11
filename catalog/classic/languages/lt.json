@@ -43,7 +43,7 @@
         "spinForm": {
           "title": "Sukis ir laimėk puikius prizus!",
           "description": "Įvesk savo duomenis ir gauk galimybę pasukti.",
-          "descriptionForExistingAccount": "Sveiki, {{NAME}}! Ruoškis sukti ratą ir atrakinti puikius prizus, laukiančius būtent tavęs.",
+          "descriptionForExistingAccount": "{{NAME}}, sukis dabar ir atsiimk savo prizą!",
           "fields": {
             "name": {
               "placeholder": "Vardas"

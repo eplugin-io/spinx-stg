@@ -43,7 +43,7 @@
         "spinForm": {
           "title": "Çevir ve heyecan verici ödüller kazan!",
           "description": "Bilgilerini gir ve çevirme şansını yakala.",
-          "descriptionForExistingAccount": "Hoş geldin, {{NAME}}! Çarkı çevirmeye ve seni bekleyen heyecan verici ödülleri açmaya hazır ol.",
+          "descriptionForExistingAccount": "{{NAME}}, şimdi çevir ve ödülünü kazan!",
           "fields": {
             "name": {
               "placeholder": "Ad"

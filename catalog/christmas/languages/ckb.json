@@ -32,6 +32,9 @@
   "opener": {
     "label": {
       "text": "ئێستا بخولێنەوە 🎄"
+    },
+    "readyLabel": {
+      "text": "خەڵات ئامادەیە"
     }
   },
   "popups": {

@@ -43,7 +43,7 @@
         "spinForm": {
           "title": "Zakręć i wygraj ekscytujące nagrody!",
           "description": "Wypełnij swoje dane i zdobądź szansę na zakręcenie kołem.",
-          "descriptionForExistingAccount": "Witaj, {{NAME}}! Przygotuj się na zakręcenie kołem i odblokowanie ekscytujących nagród, które czekają właśnie na Ciebie.",
+          "descriptionForExistingAccount": "{{NAME}}, zakręć teraz i odbierz swoją nagrodę!",
           "fields": {
             "name": {
               "placeholder": "Imię"

@@ -32,6 +32,9 @@
   "opener": {
     "label": {
       "text": "احضار جایزه"
+    },
+    "readyLabel": {
+      "text": "جایزه آماده است"
     }
   },
   "popups": {

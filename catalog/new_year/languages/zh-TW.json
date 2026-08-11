@@ -32,6 +32,9 @@
   "opener": {
     "label": {
       "text": "立即轉動 💥"
+    },
+    "readyLabel": {
+      "text": "獎勵已就緒"
     }
   },
   "popups": {

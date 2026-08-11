@@ -43,7 +43,7 @@
         "spinForm": {
           "title": "Draai en win geweldige prijzen!",
           "description": "Vul je gegevens in en maak kans om te draaien.",
-          "descriptionForExistingAccount": "Welkom, {{NAME}}! Maak je klaar om het rad te draaien en geweldige beloningen te ontgrendelen die speciaal op jou wachten.",
+          "descriptionForExistingAccount": "{{NAME}}, draai nu en ontgrendel je beloning!",
           "fields": {
             "name": {
               "placeholder": "Naam"

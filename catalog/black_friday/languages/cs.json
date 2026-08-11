@@ -32,6 +32,9 @@
   "opener": {
     "label": {
       "text": "ROZTOČIT PRO NABÍDKY"
+    },
+    "readyLabel": {
+      "text": "ODMĚNA PŘIPRAVENA"
     }
   },
   "popups": {

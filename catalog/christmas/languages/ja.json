@@ -32,6 +32,9 @@
   "opener": {
     "label": {
       "text": "今すぐスピン 🎄"
+    },
+    "readyLabel": {
+      "text": "景品の準備完了"
     }
   },
   "popups": {

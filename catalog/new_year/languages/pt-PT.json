@@ -32,6 +32,9 @@
   "opener": {
     "label": {
       "text": "RODA JÁ 💥"
+    },
+    "readyLabel": {
+      "text": "PRÉMIO PRONTO"
     }
   },
   "popups": {

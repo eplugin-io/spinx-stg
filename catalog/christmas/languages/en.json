@@ -32,6 +32,9 @@
   "opener": {
     "label": {
       "text": "SPIN NOW 🎄"
+    },
+    "readyLabel": {
+      "text": "GIFT READY 🎄"
     }
   },
   "popups": {

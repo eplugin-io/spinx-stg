@@ -43,7 +43,7 @@
         "spinForm": {
           "title": "स्पिन करें और शानदार इनाम जीतें!",
           "description": "अपनी जानकारी भरें और स्पिन करने का मौका पाएं।",
-          "descriptionForExistingAccount": "स्वागत है, {{NAME}}! व्हील स्पिन करने और आपके लिए तैयार शानदार इनाम पाने के लिए तैयार हो जाइए।",
+          "descriptionForExistingAccount": "{{NAME}}, अभी स्पिन करें और अपना इनाम पाएं!",
           "fields": {
             "name": {
               "placeholder": "नाम"

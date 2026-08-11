@@ -32,6 +32,9 @@
   "opener": {
     "label": {
       "text": "お得情報をスピン"
+    },
+    "readyLabel": {
+      "text": "景品の準備完了"
     }
   },
   "popups": {

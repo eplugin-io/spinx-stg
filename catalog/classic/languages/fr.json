@@ -43,7 +43,7 @@
         "spinForm": {
           "title": "Tournez la roue pour gagner des récompenses exceptionnelles !",
           "description": "Renseignez vos coordonnées pour tenter votre chance.",
-          "descriptionForExistingAccount": "Bienvenue, {{NAME}} ! Préparez-vous à tourner la roue et à débloquer des récompenses exceptionnelles qui n'attendent que vous.",
+          "descriptionForExistingAccount": "{{NAME}}, tournez la roue maintenant pour débloquer votre récompense !",
           "fields": {
             "name": {
               "placeholder": "Nom"

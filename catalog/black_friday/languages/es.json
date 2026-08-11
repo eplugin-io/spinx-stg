@@ -32,6 +32,9 @@
   "opener": {
     "label": {
       "text": "GIRA POR OFERTAS"
+    },
+    "readyLabel": {
+      "text": "PREMIO LISTO"
     }
   },
   "popups": {

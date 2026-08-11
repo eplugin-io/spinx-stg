@@ -32,6 +32,9 @@
   "opener": {
     "label": {
       "text": "INVOQUER LA RÉCOMPENSE"
+    },
+    "readyLabel": {
+      "text": "RÉCOMPENSE PRÊTE"
     }
   },
   "popups": {

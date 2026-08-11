@@ -32,6 +32,9 @@
   "opener": {
     "label": {
       "text": "ZATOČ ZA PONUKY"
+    },
+    "readyLabel": {
+      "text": "ODMENA PRIPRAVENÁ"
     }
   },
   "popups": {

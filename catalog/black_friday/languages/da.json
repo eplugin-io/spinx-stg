@@ -32,6 +32,9 @@
   "opener": {
     "label": {
       "text": "SPIN EFTER TILBUD"
+    },
+    "readyLabel": {
+      "text": "GEVINST KLAR"
     }
   },
   "popups": {

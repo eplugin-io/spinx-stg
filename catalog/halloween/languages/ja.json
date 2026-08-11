@@ -32,6 +32,9 @@
   "opener": {
     "label": {
       "text": "景品を呼び出す"
+    },
+    "readyLabel": {
+      "text": "景品の準備完了"
     }
   },
   "popups": {

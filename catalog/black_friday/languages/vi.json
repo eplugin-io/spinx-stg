@@ -32,6 +32,9 @@
   "opener": {
     "label": {
       "text": "QUAY NHẬN ƯU ĐÃI"
+    },
+    "readyLabel": {
+      "text": "ĐÃ SẴN SÀNG"
     }
   },
   "popups": {

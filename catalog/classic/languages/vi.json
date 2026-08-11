@@ -34,7 +34,7 @@
       "text": "QUAY NGAY"
     },
     "readyLabel": {
-      "text": "PHẦN THƯỞNG SẴN SÀNG"
+      "text": "ĐÃ SẴN SÀNG"
     }
   },
   "popups": {
@@ -43,7 +43,7 @@
         "spinForm": {
           "title": "Quay để trúng phần thưởng hấp dẫn!",
           "description": "Điền thông tin để nhận cơ hội quay thưởng.",
-          "descriptionForExistingAccount": "Chào mừng, {{NAME}}! Hãy sẵn sàng quay vòng quay và mở khóa những phần thưởng hấp dẫn đang chờ bạn.",
+          "descriptionForExistingAccount": "{{NAME}}, quay ngay để nhận phần thưởng của bạn!",
           "fields": {
             "name": {
               "placeholder": "Họ và tên"

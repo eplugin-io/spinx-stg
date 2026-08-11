@@ -32,6 +32,9 @@
   "opener": {
     "label": {
       "text": "PRIZOVI NAGRADU"
+    },
+    "readyLabel": {
+      "text": "NAGRADA SPREMNA"
     }
   },
   "popups": {

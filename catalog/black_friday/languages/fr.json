@@ -32,6 +32,9 @@
   "opener": {
     "label": {
       "text": "JOUER POUR DES OFFRES"
+    },
+    "readyLabel": {
+      "text": "RÉCOMPENSE PRÊTE"
     }
   },
   "popups": {

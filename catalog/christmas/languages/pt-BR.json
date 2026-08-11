@@ -32,6 +32,9 @@
   "opener": {
     "label": {
       "text": "GIRE AGORA 🎄"
+    },
+    "readyLabel": {
+      "text": "RECOMPENSA PRONTA"
     }
   },
   "popups": {

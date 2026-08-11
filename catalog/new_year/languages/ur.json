@@ -32,6 +32,9 @@
   "opener": {
     "label": {
       "text": "ابھی اسپن کریں 💥"
+    },
+    "readyLabel": {
+      "text": "انعام تیار ہے"
     }
   },
   "popups": {

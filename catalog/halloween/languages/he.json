@@ -32,6 +32,9 @@
   "opener": {
     "label": {
       "text": "הזמינו את הפרס"
+    },
+    "readyLabel": {
+      "text": "הפרס מוכן"
     }
   },
   "popups": {

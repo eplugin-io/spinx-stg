@@ -43,7 +43,7 @@
         "spinForm": {
           "title": "لف العجلة واربح مكافآت رائعة!",
           "description": "أدخل بياناتك لتحصل على فرصة اللف.",
-          "descriptionForExistingAccount": "مرحباً {{NAME}}! استعد للف العجلة وفتح مكافآت رائعة بانتظارك.",
+          "descriptionForExistingAccount": "{{NAME}}، لف العجلة الآن واربح جائزتك!",
           "fields": {
             "name": {
               "placeholder": "الاسم"

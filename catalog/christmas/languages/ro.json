@@ -32,6 +32,9 @@
   "opener": {
     "label": {
       "text": "ROTEȘTE ACUM 🎄"
+    },
+    "readyLabel": {
+      "text": "PREMIU PREGĂTIT"
     }
   },
   "popups": {

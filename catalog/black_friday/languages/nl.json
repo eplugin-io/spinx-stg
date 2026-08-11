@@ -32,6 +32,9 @@
   "opener": {
     "label": {
       "text": "DRAAI VOOR DEALS"
+    },
+    "readyLabel": {
+      "text": "BELONING KLAAR"
     }
   },
   "popups": {

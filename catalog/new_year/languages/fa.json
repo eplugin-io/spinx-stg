@@ -32,6 +32,9 @@
   "opener": {
     "label": {
       "text": "همین حالا بچرخان 💥"
+    },
+    "readyLabel": {
+      "text": "جایزه آماده است"
     }
   },
   "popups": {

@@ -32,6 +32,9 @@
   "opener": {
     "label": {
       "text": "SUMMON REWARD"
+    },
+    "readyLabel": {
+      "text": "TREAT READY"
     }
   },
   "popups": {

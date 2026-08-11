@@ -43,7 +43,7 @@
         "spinForm": {
           "title": "Spinn og vinn spennende premier!",
           "description": "Fyll inn dine opplysninger og få sjansen til å spinne.",
-          "descriptionForExistingAccount": "Velkommen, {{NAME}}! Gjør deg klar til å spinne hjulet og låse opp spennende premier som venter akkurat på deg.",
+          "descriptionForExistingAccount": "{{NAME}}, spinn nå og lås opp premien din!",
           "fields": {
             "name": {
               "placeholder": "Navn"

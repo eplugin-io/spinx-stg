@@ -32,6 +32,9 @@
   "opener": {
     "label": {
       "text": "انعام طلب کریں"
+    },
+    "readyLabel": {
+      "text": "انعام تیار ہے"
     }
   },
   "popups": {

@@ -43,7 +43,7 @@
         "spinForm": {
           "title": "סובבו וזכו בפרסים מרגשים!",
           "description": "מלאו את הפרטים שלכם וקבלו הזדמנות לסובב.",
-          "descriptionForExistingAccount": "ברוכים הבאים, {{NAME}}! התכוננו לסובב את הגלגל ולפתוח פרסים מרגשים שמחכים בדיוק לכם.",
+          "descriptionForExistingAccount": "{{NAME}}, סובבו עכשיו וקבלו את הפרס שלכם!",
           "fields": {
             "name": {
               "placeholder": "שם"

@@ -32,6 +32,9 @@
   "opener": {
     "label": {
       "text": "КРУТИТЬ СЕЙЧАС 🎄"
+    },
+    "readyLabel": {
+      "text": "ПРИЗ ГОТОВ"
     }
   },
   "popups": {

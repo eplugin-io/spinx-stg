@@ -43,7 +43,7 @@
         "spinForm": {
           "title": "Snurra och vinn spännande belöningar!",
           "description": "Fyll i dina uppgifter och få chansen att snurra.",
-          "descriptionForExistingAccount": "Välkommen, {{NAME}}! Gör dig redo att snurra hjulet och låsa upp spännande belöningar som väntar just dig.",
+          "descriptionForExistingAccount": "{{NAME}}, snurra nu och lås upp din belöning!",
           "fields": {
             "name": {
               "placeholder": "Namn"

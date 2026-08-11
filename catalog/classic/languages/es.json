@@ -43,7 +43,7 @@
         "spinForm": {
           "title": "¡Gira y gana premios increíbles!",
           "description": "Completa tus datos y consigue tu oportunidad de girar.",
-          "descriptionForExistingAccount": "¡Bienvenido/a, {{NAME}}! Prepárate para girar la ruleta y desbloquear premios increíbles que te esperan.",
+          "descriptionForExistingAccount": "¡{{NAME}}, gira ahora y desbloquea tu premio!",
           "fields": {
             "name": {
               "placeholder": "Nombre"

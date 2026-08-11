@@ -32,6 +32,9 @@
   "opener": {
     "label": {
       "text": "PÖRGESS AJÁNLATOKÉRT"
+    },
+    "readyLabel": {
+      "text": "JUTALOM KÉSZ"
     }
   },
   "popups": {

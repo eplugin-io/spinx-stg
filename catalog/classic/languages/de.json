@@ -43,7 +43,7 @@
         "spinForm": {
           "title": "Dreh das Glücksrad und gewinne tolle Belohnungen!",
           "description": "Gib deine Daten ein und erhalte deine Chance zu drehen.",
-          "descriptionForExistingAccount": "Willkommen, {{NAME}}! Mach dich bereit, das Rad zu drehen und tolle Belohnungen freizuschalten, die nur auf dich warten.",
+          "descriptionForExistingAccount": "{{NAME}}, dreh jetzt und sichere dir deine Belohnung!",
           "fields": {
             "name": {
               "placeholder": "Name"

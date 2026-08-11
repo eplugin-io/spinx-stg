@@ -32,6 +32,9 @@
   "opener": {
     "label": {
       "text": "혜택 돌리기"
+    },
+    "readyLabel": {
+      "text": "보상 준비 완료"
     }
   },
   "popups": {

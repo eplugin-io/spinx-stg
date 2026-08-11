@@ -32,6 +32,9 @@
   "opener": {
     "label": {
       "text": "ZAVRTI ZA PONUDBE"
+    },
+    "readyLabel": {
+      "text": "NAGRADA PRIPRAVLJENA"
     }
   },
   "popups": {

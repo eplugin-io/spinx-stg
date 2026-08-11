@@ -32,6 +32,9 @@
   "opener": {
     "label": {
       "text": "لف الآن 💥"
+    },
+    "readyLabel": {
+      "text": "مكافأتك جاهزة"
     }
   },
   "popups": {

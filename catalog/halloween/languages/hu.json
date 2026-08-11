@@ -32,6 +32,9 @@
   "opener": {
     "label": {
       "text": "IDÉZD MEG A JUTALMAT"
+    },
+    "readyLabel": {
+      "text": "JUTALOM KÉSZ"
     }
   },
   "popups": {

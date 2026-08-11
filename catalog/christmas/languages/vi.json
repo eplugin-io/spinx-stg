@@ -32,6 +32,9 @@
   "opener": {
     "label": {
       "text": "QUAY NGAY 🎄"
+    },
+    "readyLabel": {
+      "text": "ĐÃ SẴN SÀNG"
     }
   },
   "popups": {

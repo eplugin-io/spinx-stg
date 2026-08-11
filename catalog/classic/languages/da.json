@@ -43,7 +43,7 @@
         "spinForm": {
           "title": "Spin hjulet og vind spændende gevinster!",
           "description": "Udfyld dine oplysninger, og få chancen for at spinne.",
-          "descriptionForExistingAccount": "Velkommen, {{NAME}}! Gør dig klar til at spinne hjulet og låse op for spændende gevinster, der venter lige på dig.",
+          "descriptionForExistingAccount": "{{NAME}}, spin nu og lås din gevinst op!",
           "fields": {
             "name": {
               "placeholder": "Navn"

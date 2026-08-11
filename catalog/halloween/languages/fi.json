@@ -32,6 +32,9 @@
   "opener": {
     "label": {
       "text": "MANAA PALKINTO"
+    },
+    "readyLabel": {
+      "text": "PALKINTO VALMIS"
     }
   },
   "popups": {

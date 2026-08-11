@@ -43,7 +43,7 @@
         "spinForm": {
           "title": "Pyöräytä ja voita jännittäviä palkintoja!",
           "description": "Täytä tietosi ja saat mahdollisuuden pyöräyttää.",
-          "descriptionForExistingAccount": "Tervetuloa, {{NAME}}! Valmistaudu pyörittämään onnenpyörää ja avaamaan jännittäviä palkintoja, jotka odottavat juuri sinua.",
+          "descriptionForExistingAccount": "{{NAME}}, pyöräytä nyt ja lunasta palkintosi!",
           "fields": {
             "name": {
               "placeholder": "Nimi"

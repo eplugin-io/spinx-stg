@@ -32,6 +32,9 @@
   "opener": {
     "label": {
       "text": "หมุนรับดีล"
+    },
+    "readyLabel": {
+      "text": "รางวัลพร้อมแล้ว"
     }
   },
   "popups": {

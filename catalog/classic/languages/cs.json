@@ -43,7 +43,7 @@
         "spinForm": {
           "title": "Roztočte kolo a vyhrajte skvělé odměny!",
           "description": "Vyplňte své údaje a získejte šanci na roztočení kola.",
-          "descriptionForExistingAccount": "Vítejte, {{NAME}}! Připravte se roztočit kolo a odemknout skvělé odměny, které na vás čekají.",
+          "descriptionForExistingAccount": "{{NAME}}, otočte kolem a získejte svou odměnu!",
           "fields": {
             "name": {
               "placeholder": "Jméno"

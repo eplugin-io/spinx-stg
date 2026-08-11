@@ -43,7 +43,7 @@
         "spinForm": {
           "title": "Pörgess és nyerj izgalmas jutalmakat!",
           "description": "Add meg adataidat, és esélyt kapsz a pörgetésre.",
-          "descriptionForExistingAccount": "Üdvözlünk, {{NAME}}! Készülj fel, hogy megpörgesd a kereket, és izgalmas jutalmakat szabadíts fel, amelyek rád várnak.",
+          "descriptionForExistingAccount": "{{NAME}}, pörgesd meg most, és szerezd meg a nyereményed!",
           "fields": {
             "name": {
               "placeholder": "Név"

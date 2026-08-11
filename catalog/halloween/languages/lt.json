@@ -32,6 +32,9 @@
   "opener": {
     "label": {
       "text": "PRIŠAUK PRIZĄ"
+    },
+    "readyLabel": {
+      "text": "PRIZAS PARUOŠTAS"
     }
   },
   "popups": {

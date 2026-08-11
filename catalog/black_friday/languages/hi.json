@@ -32,6 +32,9 @@
   "opener": {
     "label": {
       "text": "डील के लिए स्पिन करें"
+    },
+    "readyLabel": {
+      "text": "इनाम तैयार है"
     }
   },
   "popups": {

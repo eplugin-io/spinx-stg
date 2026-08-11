@@ -32,6 +32,9 @@
   "opener": {
     "label": {
       "text": "استحضر مكافأتك"
+    },
+    "readyLabel": {
+      "text": "مكافأتك جاهزة"
     }
   },
   "popups": {

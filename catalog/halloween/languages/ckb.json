@@ -32,6 +32,9 @@
   "opener": {
     "label": {
       "text": "خەڵات بانگهێشتبکە"
+    },
+    "readyLabel": {
+      "text": "خەڵات ئامادەیە"
     }
   },
   "popups": {

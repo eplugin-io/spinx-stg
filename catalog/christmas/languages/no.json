@@ -32,6 +32,9 @@
   "opener": {
     "label": {
       "text": "SPINN NÅ 🎄"
+    },
+    "readyLabel": {
+      "text": "PREMIE KLAR"
     }
   },
   "popups": {

@@ -32,6 +32,9 @@
   "opener": {
     "label": {
       "text": "ΚΑΛΕΣΕ ΤΟ ΔΩΡΟ"
+    },
+    "readyLabel": {
+      "text": "ΔΩΡΟ ΕΤΟΙΜΟ"
     }
   },
   "popups": {

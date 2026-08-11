@@ -43,7 +43,7 @@
         "spinForm": {
           "title": "Zatoč a vyhraj skvelé odmeny!",
           "description": "Vyplň svoje údaje a získaj šancu zatočiť.",
-          "descriptionForExistingAccount": "Vitaj, {{NAME}}! Priprav sa zatočiť kolesom a odomknúť skvelé odmeny, ktoré čakajú práve na teba.",
+          "descriptionForExistingAccount": "{{NAME}}, zatoč teraz a získaj svoju odmenu!",
           "fields": {
             "name": {
               "placeholder": "Meno"
