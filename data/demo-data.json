@@ -12,7 +12,7 @@
     "config": {
       "url": "https://spinx-dev.myshopify.com",
       "logo": {
-        "url": "/assets/images/logo/spinx-wheel-full-horizontal.png"
+        "url": "/assets/images/logo/spinx-wheel.png"
       },
       "customDomain": "spinx-dev.myshopify.com",
       "ianaTimezone": "Asia/Ho_Chi_Minh",
