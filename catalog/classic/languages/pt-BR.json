@@ -52,7 +52,7 @@
               "placeholder": "E-mail"
             }
           },
-          "agreement": "Concordo em receber e-mails de marketing e ofertas.",
+          "agreement": "Concordo em receber e-mails promocionais",
           "spinButton": "GIRAR",
           "dismissButton": "Continuar comprando",
           "footerText": "A diversão começa com um giro!",
@@ -61,15 +61,15 @@
           }
         },
         "resultForm": {
-          "redeemButton": "Aplicar recompensa agora",
+          "redeemButton": "Usar código agora",
           "dismissButton": "Continuar comprando",
           "messages": {
-            "rewardExpiry": "Use sua recompensa dentro de {{EXPIRE}}"
+            "rewardExpiry": "Expira em {{EXPIRE}}"
           }
         },
         "redemptionForm": {
           "title": "Sua recompensa foi aplicada!",
-          "description": "Sua recompensa está ativa - você pode finalizar a compra agora ou continuar comprando e usá-la quando quiser.",
+          "description": "Sua recompensa está ativa - você pode finalizar a compra agora ou usá-la quando quiser.",
           "checkoutButton": "Finalizar compra agora",
           "dismissButton": "Continuar comprando",
           "messages": {

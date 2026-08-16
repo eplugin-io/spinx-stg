@@ -52,7 +52,7 @@
               "placeholder": "E-mail"
             }
           },
-          "agreement": "Jeg accepterer at modtage markedsføringsmails og tilbud.",
+          "agreement": "Jeg accepterer at modtage kampagnemails",
           "spinButton": "SPIN",
           "dismissButton": "Fortsæt med at handle",
           "footerText": "Sjovet starter med et spin!",
@@ -61,15 +61,15 @@
           }
         },
         "resultForm": {
-          "redeemButton": "Anvend gevinst nu",
+          "redeemButton": "Brug kode nu",
           "dismissButton": "Fortsæt med at handle",
           "messages": {
-            "rewardExpiry": "Brug din gevinst inden for {{EXPIRE}}"
+            "rewardExpiry": "Udløber inden for {{EXPIRE}}"
           }
         },
         "redemptionForm": {
           "title": "Din gevinst er blevet anvendt!",
-          "description": "Din gevinst er aktiv - du kan gå til kassen nu eller fortsætte med at handle og bruge den når som helst.",
+          "description": "Din gevinst er aktiv - du kan gå til kassen nu eller bruge den når som helst.",
           "checkoutButton": "Gå til kassen",
           "dismissButton": "Fortsæt med at handle",
           "messages": {

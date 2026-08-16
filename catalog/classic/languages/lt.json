@@ -52,7 +52,7 @@
               "placeholder": "El. paštas"
             }
           },
-          "agreement": "Sutinku gauti rinkodaros el. laiškus ir pasiūlymus.",
+          "agreement": "Sutinku gauti reklaminius el. laiškus",
           "spinButton": "SUKTI",
           "dismissButton": "Tęsti apsipirkimą",
           "footerText": "Smagumas prasideda vienu sukimu!",
@@ -61,15 +61,15 @@
           }
         },
         "resultForm": {
-          "redeemButton": "Pritaikyti prizą dabar",
+          "redeemButton": "Naudoti kodą dabar",
           "dismissButton": "Tęsti apsipirkimą",
           "messages": {
-            "rewardExpiry": "Panaudok prizą per {{EXPIRE}}"
+            "rewardExpiry": "Baigsis per {{EXPIRE}}"
           }
         },
         "redemptionForm": {
           "title": "Tavo prizas pritaikytas!",
-          "description": "Tavo prizas aktyvus - gali atsiskaityti dabar arba tęsti apsipirkimą ir panaudoti jį bet kada.",
+          "description": "Tavo prizas aktyvus - gali atsiskaityti dabar arba panaudoti jį bet kada.",
           "checkoutButton": "Atsiskaityti dabar",
           "dismissButton": "Tęsti apsipirkimą",
           "messages": {

@@ -44,7 +44,7 @@
           "title": "✨ 用惊喜迎接新年！",
           "description": "填写您的姓名和邮箱，解锁您的新年好礼。",
           "descriptionForExistingAccount": "{{NAME}}，转动转盘开启新年，解锁您的专属好礼。",
-          "agreement": "我同意接收新年专属优惠和最新消息。",
+          "agreement": "我同意接收促销邮件",
           "spinButton": "转动，开启新年",
           "dismissButton": "继续购物",
           "footerText": "美好一年从一次转动开始 ✨",

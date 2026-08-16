@@ -52,7 +52,7 @@
               "placeholder": "E-Mail"
             }
           },
-          "agreement": "Ich stimme zu, Marketing-E-Mails und Angebote zu erhalten.",
+          "agreement": "Ich stimme zu, Werbe-E-Mails zu erhalten",
           "spinButton": "DREHEN",
           "dismissButton": "Weiter einkaufen",
           "footerText": "Der Spaß beginnt mit einer Drehung!",
@@ -61,15 +61,15 @@
           }
         },
         "resultForm": {
-          "redeemButton": "Belohnung jetzt einlösen",
+          "redeemButton": "Code jetzt nutzen",
           "dismissButton": "Weiter einkaufen",
           "messages": {
-            "rewardExpiry": "Nutze deine Belohnung innerhalb von {{EXPIRE}}"
+            "rewardExpiry": "Läuft innerhalb von {{EXPIRE}} ab"
           }
         },
         "redemptionForm": {
           "title": "Deine Belohnung wurde eingelöst!",
-          "description": "Deine Belohnung ist aktiv - du kannst jetzt zur Kasse gehen oder weiter einkaufen und sie jederzeit nutzen.",
+          "description": "Deine Belohnung ist aktiv - du kannst jetzt zur Kasse gehen oder sie jederzeit nutzen.",
           "checkoutButton": "Jetzt zur Kasse",
           "dismissButton": "Weiter einkaufen",
           "messages": {

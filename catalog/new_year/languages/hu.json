@@ -44,7 +44,7 @@
           "title": "✨ Köszöntsd az új évet egy meglepetéssel!",
           "description": "Add meg neved és e-mail címed, hogy feloldd újévi jutalmadat.",
           "descriptionForExistingAccount": "{{NAME}}, kezdd az új évet egy pörgetéssel, és oldd fel különleges jutalmadat.",
-          "agreement": "Hozzájárulok, hogy újévi ajánlatokat és frissítéseket kapjak.",
+          "agreement": "Hozzájárulok promóciós e-mailek fogadásához",
           "spinButton": "Pörgess & indítsd az évet",
           "dismissButton": "Vásárlás folytatása",
           "footerText": "Egy fényes év egyetlen pörgetéssel kezdődik ✨",

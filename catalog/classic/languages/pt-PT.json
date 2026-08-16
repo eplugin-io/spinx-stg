@@ -52,7 +52,7 @@
               "placeholder": "E-mail"
             }
           },
-          "agreement": "Concordo em receber e-mails de marketing e ofertas.",
+          "agreement": "Concordo em receber e-mails promocionais",
           "spinButton": "RODAR",
           "dismissButton": "Continuar a comprar",
           "footerText": "A diversão começa com uma rodada!",
@@ -61,15 +61,15 @@
           }
         },
         "resultForm": {
-          "redeemButton": "Aplicar prémio agora",
+          "redeemButton": "Usar código agora",
           "dismissButton": "Continuar a comprar",
           "messages": {
-            "rewardExpiry": "Usa o teu prémio dentro de {{EXPIRE}}"
+            "rewardExpiry": "Expira dentro de {{EXPIRE}}"
           }
         },
         "redemptionForm": {
           "title": "O teu prémio foi aplicado!",
-          "description": "O teu prémio está ativo - podes finalizar a compra agora ou continuar a comprar e usá-lo quando quiseres.",
+          "description": "O teu prémio está ativo - podes finalizar a compra agora ou usá-lo quando quiseres.",
           "checkoutButton": "Finalizar compra agora",
           "dismissButton": "Continuar a comprar",
           "messages": {

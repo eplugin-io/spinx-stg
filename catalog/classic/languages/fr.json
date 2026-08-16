@@ -52,7 +52,7 @@
               "placeholder": "E-mail"
             }
           },
-          "agreement": "J'accepte de recevoir des e-mails marketing et des offres.",
+          "agreement": "J’accepte de recevoir des e-mails promotionnels",
           "spinButton": "TOURNER",
           "dismissButton": "Continuer mes achats",
           "footerText": "Le plaisir commence par un tour de roue !",
@@ -61,15 +61,15 @@
           }
         },
         "resultForm": {
-          "redeemButton": "Appliquer la récompense",
+          "redeemButton": "Utiliser le code",
           "dismissButton": "Continuer mes achats",
           "messages": {
-            "rewardExpiry": "Utilisez votre récompense dans les {{EXPIRE}}"
+            "rewardExpiry": "Expire dans {{EXPIRE}}"
           }
         },
         "redemptionForm": {
           "title": "Votre récompense a été appliquée !",
-          "description": "Votre récompense est active - vous pouvez commander maintenant ou continuer vos achats et l'utiliser à tout moment.",
+          "description": "Votre récompense est active - vous pouvez commander maintenant ou l'utiliser à tout moment.",
           "checkoutButton": "Commander maintenant",
           "dismissButton": "Continuer mes achats",
           "messages": {

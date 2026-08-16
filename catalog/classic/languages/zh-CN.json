@@ -52,7 +52,7 @@
               "placeholder": "邮箱"
             }
           },
-          "agreement": "我同意接收营销邮件和优惠信息。",
+          "agreement": "我同意接收促销邮件",
           "spinButton": "开始抽奖",
           "dismissButton": "继续购物",
           "footerText": "精彩从一次转动开始！",
@@ -61,15 +61,15 @@
           }
         },
         "resultForm": {
-          "redeemButton": "立即使用奖励",
+          "redeemButton": "立即使用代码",
           "dismissButton": "继续购物",
           "messages": {
-            "rewardExpiry": "请在 {{EXPIRE}} 内使用您的奖励"
+            "rewardExpiry": "{{EXPIRE}} 内过期"
           }
         },
         "redemptionForm": {
           "title": "您的奖励已应用成功！",
-          "description": "奖励现已生效——您可以立即结账，也可以继续购物，随时使用。",
+          "description": "奖励已生效——您可以立即结账，也可以随时使用。",
           "checkoutButton": "立即结账",
           "dismissButton": "继续购物",
           "messages": {

@@ -52,7 +52,7 @@
               "placeholder": "電子郵件"
             }
           },
-          "agreement": "我同意接收行銷郵件與優惠資訊。",
+          "agreement": "我同意接收促銷郵件",
           "spinButton": "開始轉動",
           "dismissButton": "繼續購物",
           "footerText": "精彩就從這一轉開始！",
@@ -61,15 +61,15 @@
           }
         },
         "resultForm": {
-          "redeemButton": "立即使用獎勵",
+          "redeemButton": "立即使用代碼",
           "dismissButton": "繼續購物",
           "messages": {
-            "rewardExpiry": "請在 {{EXPIRE}} 內使用你的獎勵"
+            "rewardExpiry": "{{EXPIRE}} 內到期"
           }
         },
         "redemptionForm": {
           "title": "你的獎勵已套用成功！",
-          "description": "獎勵已生效——你可以立即結帳，或繼續購物，隨時使用。",
+          "description": "獎勵已生效——你可以立即結帳，或隨時使用。",
           "checkoutButton": "立即結帳",
           "dismissButton": "繼續購物",
           "messages": {

@@ -44,7 +44,7 @@
           "title": "🎄 ¡Desenvuelve tu sorpresa navideña!",
           "description": "Indica tus datos y gira la ruleta para desenvolver tu premio festivo de Navidad.",
           "descriptionForExistingAccount": "{{NAME}}, es hora de una sorpresa navideña - ¡gira para revelar tu premio festivo!",
-          "agreement": "Acepto recibir ofertas y novedades navideñas.",
+          "agreement": "Acepto recibir correos promocionales",
           "spinButton": "Revelar mi regalo",
           "dismissButton": "Seguir comprando",
           "footerText": "La magia navideña empieza con un giro ✨"

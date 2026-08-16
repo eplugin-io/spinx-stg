@@ -44,7 +44,7 @@
           "title": "Les offres du Black Friday vous attendent !",
           "description": "Entrez vos coordonnées et tournez la roue pour débloquer une récompense exclusive du Black Friday.",
           "descriptionForExistingAccount": "{{NAME}}, le Black Friday est arrivé — tournez la roue maintenant pour révéler votre récompense.",
-          "agreement": "J'accepte de recevoir des offres et des actualités du Black Friday.",
+          "agreement": "J’accepte de recevoir des e-mails promotionnels",
           "spinButton": "DÉBLOQUER LES OFFRES",
           "dismissButton": "Continuer mes achats",
           "footerText": "Chaque tour peut débloquer votre prochaine bonne affaire.",

@@ -52,7 +52,7 @@
               "placeholder": "Sähköposti"
             }
           },
-          "agreement": "Suostun vastaanottamaan markkinointisähköposteja ja tarjouksia.",
+          "agreement": "Suostun vastaanottamaan kampanjasähköposteja",
           "spinButton": "PYÖRÄYTÄ",
           "dismissButton": "Jatka ostoksia",
           "footerText": "Hauskanpito alkaa yhdellä pyöräytyksellä!",
@@ -61,15 +61,15 @@
           }
         },
         "resultForm": {
-          "redeemButton": "Käytä palkinto nyt",
+          "redeemButton": "Käytä koodi nyt",
           "dismissButton": "Jatka ostoksia",
           "messages": {
-            "rewardExpiry": "Käytä palkintosi {{EXPIRE}} kuluessa"
+            "rewardExpiry": "Vanhenee {{EXPIRE}} kuluessa"
           }
         },
         "redemptionForm": {
           "title": "Palkintosi on otettu käyttöön!",
-          "description": "Palkintosi on aktiivinen - voit siirtyä kassalle nyt tai jatkaa ostoksia ja käyttää sitä milloin tahansa.",
+          "description": "Palkintosi on aktiivinen - voit siirtyä kassalle nyt tai käyttää sitä milloin tahansa.",
           "checkoutButton": "Siirry kassalle",
           "dismissButton": "Jatka ostoksia",
           "messages": {

@@ -52,7 +52,7 @@
               "placeholder": "E-mail"
             }
           },
-          "agreement": "Hozzájárulok, hogy marketing e-maileket és ajánlatokat kapjak.",
+          "agreement": "Hozzájárulok promóciós e-mailek fogadásához",
           "spinButton": "PÖRGESS",
           "dismissButton": "Vásárlás folytatása",
           "footerText": "A móka egy pörgetéssel kezdődik!",
@@ -61,15 +61,15 @@
           }
         },
         "resultForm": {
-          "redeemButton": "Jutalom beváltása most",
+          "redeemButton": "Kód használata most",
           "dismissButton": "Vásárlás folytatása",
           "messages": {
-            "rewardExpiry": "Használd fel jutalmadat {{EXPIRE}} időn belül"
+            "rewardExpiry": "{{EXPIRE}} belül lejár"
           }
         },
         "redemptionForm": {
           "title": "Jutalmad aktiválva lett!",
-          "description": "Jutalmad aktív - fizethetsz most, vagy folytathatod a vásárlást, és bármikor felhasználhatod.",
+          "description": "Jutalmad aktív - fizethetsz most, vagy bármikor felhasználhatod.",
           "checkoutButton": "Fizetés most",
           "dismissButton": "Vásárlás folytatása",
           "messages": {

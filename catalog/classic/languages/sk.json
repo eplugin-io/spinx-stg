@@ -52,7 +52,7 @@
               "placeholder": "E-mail"
             }
           },
-          "agreement": "Súhlasím s prijímaním marketingových e-mailov a ponúk.",
+          "agreement": "Súhlasím s prijímaním propagačných e-mailov",
           "spinButton": "ZATOČ",
           "dismissButton": "Pokračovať v nákupe",
           "footerText": "Zábava sa začína jedným zatočením!",
@@ -61,15 +61,15 @@
           }
         },
         "resultForm": {
-          "redeemButton": "Uplatniť odmenu teraz",
+          "redeemButton": "Použiť kód teraz",
           "dismissButton": "Pokračovať v nákupe",
           "messages": {
-            "rewardExpiry": "Využi svoju odmenu do {{EXPIRE}}"
+            "rewardExpiry": "Vyprší do {{EXPIRE}}"
           }
         },
         "redemptionForm": {
           "title": "Tvoja odmena bola uplatnená!",
-          "description": "Tvoja odmena je aktívna - môžeš teraz dokončiť nákup alebo pokračovať v nakupovaní a využiť ju kedykoľvek.",
+          "description": "Tvoja odmena je aktívna - môžeš teraz dokončiť nákup alebo ju využiť kedykoľvek.",
           "checkoutButton": "Dokončiť nákup",
           "dismissButton": "Pokračovať v nákupe",
           "messages": {

@@ -52,7 +52,7 @@
               "placeholder": "E-mail"
             }
           },
-          "agreement": "Ik ga akkoord met het ontvangen van marketing-e-mails en aanbiedingen.",
+          "agreement": "Ik ga akkoord met het ontvangen van promotionele e-mails",
           "spinButton": "DRAAI",
           "dismissButton": "Verder winkelen",
           "footerText": "Het plezier begint met een draai!",
@@ -61,15 +61,15 @@
           }
         },
         "resultForm": {
-          "redeemButton": "Beloning nu toepassen",
+          "redeemButton": "Code nu gebruiken",
           "dismissButton": "Verder winkelen",
           "messages": {
-            "rewardExpiry": "Gebruik je beloning binnen {{EXPIRE}}"
+            "rewardExpiry": "Verloopt binnen {{EXPIRE}}"
           }
         },
         "redemptionForm": {
           "title": "Je beloning is toegepast!",
-          "description": "Je beloning is actief - je kunt nu afrekenen of verder winkelen en hem op elk moment gebruiken.",
+          "description": "Je beloning is actief - je kunt nu afrekenen of hem op elk moment gebruiken.",
           "checkoutButton": "Nu afrekenen",
           "dismissButton": "Verder winkelen",
           "messages": {

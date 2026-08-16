@@ -44,7 +44,7 @@
           "title": "🎄 Découvrez votre surprise de Noël !",
           "description": "Entrez vos coordonnées et tournez la roue pour découvrir votre récompense festive de Noël.",
           "descriptionForExistingAccount": "{{NAME}}, c'est l'heure d'une surprise de Noël — tournez la roue pour révéler votre récompense festive !",
-          "agreement": "J'accepte de recevoir des offres et des actualités de fêtes.",
+          "agreement": "J’accepte de recevoir des e-mails promotionnels",
           "spinButton": "Découvrir mon cadeau",
           "dismissButton": "Continuer mes achats",
           "footerText": "La magie des fêtes commence par un tour de roue ✨"

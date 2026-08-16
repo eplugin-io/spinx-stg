@@ -52,7 +52,7 @@
               "placeholder": "Emel"
             }
           },
-          "agreement": "Saya bersetuju untuk menerima emel pemasaran dan tawaran.",
+          "agreement": "Saya bersetuju menerima e-mel promosi",
           "spinButton": "PUSING",
           "dismissButton": "Teruskan membeli-belah",
           "footerText": "Keseronokan bermula dengan satu pusingan!",
@@ -61,15 +61,15 @@
           }
         },
         "resultForm": {
-          "redeemButton": "Guna hadiah sekarang",
+          "redeemButton": "Guna kod sekarang",
           "dismissButton": "Teruskan membeli-belah",
           "messages": {
-            "rewardExpiry": "Gunakan hadiah anda dalam masa {{EXPIRE}}"
+            "rewardExpiry": "Tamat dalam {{EXPIRE}}"
           }
         },
         "redemptionForm": {
           "title": "Hadiah anda telah digunakan!",
-          "description": "Hadiah anda kini aktif - anda boleh checkout sekarang atau teruskan membeli-belah dan gunakannya bila-bila masa.",
+          "description": "Hadiah anda kini aktif - anda boleh checkout sekarang atau gunakannya bila-bila masa.",
           "checkoutButton": "Checkout sekarang",
           "dismissButton": "Teruskan membeli-belah",
           "messages": {

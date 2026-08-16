@@ -52,7 +52,7 @@
               "placeholder": "Email"
             }
           },
-          "agreement": "Tôi đồng ý nhận email marketing và ưu đãi.",
+          "agreement": "Tôi đồng ý nhận email ưu đãi",
           "spinButton": "QUAY",
           "dismissButton": "Tiếp tục mua sắm",
           "footerText": "Niềm vui bắt đầu từ một lượt quay!",
@@ -61,15 +61,15 @@
           }
         },
         "resultForm": {
-          "redeemButton": "Áp dụng phần thưởng ngay",
+          "redeemButton": "Dùng mã ngay",
           "dismissButton": "Tiếp tục mua sắm",
           "messages": {
-            "rewardExpiry": "Sử dụng phần thưởng trong vòng {{EXPIRE}}"
+            "rewardExpiry": "Hết hạn trong vòng {{EXPIRE}}"
           }
         },
         "redemptionForm": {
           "title": "Phần thưởng của bạn đã được áp dụng!",
-          "description": "Phần thưởng đang có hiệu lực - bạn có thể thanh toán ngay hoặc tiếp tục mua sắm và sử dụng bất cứ lúc nào.",
+          "description": "Ưu đãi đã sẵn sàng - bạn có thể thanh toán ngay hoặc dùng bất cứ lúc nào.",
           "checkoutButton": "Thanh toán ngay",
           "dismissButton": "Tiếp tục mua sắm",
           "messages": {

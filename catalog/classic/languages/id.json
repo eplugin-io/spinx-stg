@@ -52,7 +52,7 @@
               "placeholder": "Email"
             }
           },
-          "agreement": "Saya setuju menerima email pemasaran dan penawaran.",
+          "agreement": "Saya setuju menerima email promosi",
           "spinButton": "PUTAR",
           "dismissButton": "Lanjutkan belanja",
           "footerText": "Keseruan dimulai dengan satu putaran!",
@@ -61,15 +61,15 @@
           }
         },
         "resultForm": {
-          "redeemButton": "Gunakan hadiah sekarang",
+          "redeemButton": "Pakai kode sekarang",
           "dismissButton": "Lanjutkan belanja",
           "messages": {
-            "rewardExpiry": "Gunakan hadiahmu dalam waktu {{EXPIRE}}"
+            "rewardExpiry": "Berakhir dalam {{EXPIRE}}"
           }
         },
         "redemptionForm": {
           "title": "Hadiahmu telah diterapkan!",
-          "description": "Hadiahmu sudah aktif - kamu bisa checkout sekarang atau lanjut belanja dan menggunakannya kapan saja.",
+          "description": "Hadiahmu sudah aktif - kamu bisa checkout sekarang atau menggunakannya kapan saja.",
           "checkoutButton": "Checkout sekarang",
           "dismissButton": "Lanjutkan belanja",
           "messages": {

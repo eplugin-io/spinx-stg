@@ -52,7 +52,7 @@
               "placeholder": "Email"
             }
           },
-          "agreement": "Accetto di ricevere email di marketing e offerte.",
+          "agreement": "Accetto di ricevere email promozionali",
           "spinButton": "GIRA",
           "dismissButton": "Continua lo shopping",
           "footerText": "Il divertimento inizia con un giro!",
@@ -61,15 +61,15 @@
           }
         },
         "resultForm": {
-          "redeemButton": "Applica il premio ora",
+          "redeemButton": "Usa codice ora",
           "dismissButton": "Continua lo shopping",
           "messages": {
-            "rewardExpiry": "Usa il tuo premio entro {{EXPIRE}}"
+            "rewardExpiry": "Scade entro {{EXPIRE}}"
           }
         },
         "redemptionForm": {
           "title": "Il tuo premio è stato applicato!",
-          "description": "Il tuo premio è attivo - puoi procedere al checkout ora oppure continuare lo shopping e usarlo quando vuoi.",
+          "description": "Il tuo premio è attivo - puoi procedere al checkout ora o usarlo quando vuoi.",
           "checkoutButton": "Vai al checkout ora",
           "dismissButton": "Continua lo shopping",
           "messages": {

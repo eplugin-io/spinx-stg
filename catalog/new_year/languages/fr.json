@@ -44,7 +44,7 @@
           "title": "✨ Accueillez la nouvelle année avec une surprise !",
           "description": "Entrez votre nom et votre e-mail pour débloquer votre récompense du Nouvel An.",
           "descriptionForExistingAccount": "{{NAME}}, commencez la nouvelle année avec un tour de roue et débloquez votre récompense spéciale.",
-          "agreement": "J'accepte de recevoir des offres et des actualités du Nouvel An.",
+          "agreement": "J’accepte de recevoir des e-mails promotionnels",
           "spinButton": "Tourner et démarrer l'année",
           "dismissButton": "Continuer mes achats",
           "footerText": "Une année brillante commence par un tour de roue ✨",

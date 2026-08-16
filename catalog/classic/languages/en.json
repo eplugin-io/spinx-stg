@@ -52,7 +52,7 @@
               "placeholder": "Email"
             }
           },
-          "agreement": "I agree to receive marketing emails and offers.",
+          "agreement": "I agree to receive promotional emails",
           "spinButton": "SPIN",
           "dismissButton": "Continue shopping",
           "footerText": "The fun starts with a spin!",
@@ -64,12 +64,12 @@
           "redeemButton": "Apply reward now",
           "dismissButton": "Continue shopping",
           "messages": {
-            "rewardExpiry": "Use your reward within {{EXPIRE}}"
+            "rewardExpiry": "Expires within {{EXPIRE}}"
           }
         },
         "redemptionForm": {
           "title": "Your reward has been applied!",
-          "description": "Your reward is active - you can checkout now or continue shopping and use it anytime.",
+          "description": "Your reward is active - you can checkout now or use it anytime.",
           "checkoutButton": "Checkout now",
           "dismissButton": "Continue shopping",
           "messages": {

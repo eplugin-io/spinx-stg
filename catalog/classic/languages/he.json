@@ -52,7 +52,7 @@
               "placeholder": "אימייל"
             }
           },
-          "agreement": "אני מסכים/ה לקבל הודעות דוא\"ל שיווקיות והצעות.",
+          "agreement": "אני מסכים/ה לקבל הודעות דוא״ל שיווקיות",
           "spinButton": "סובבו",
           "dismissButton": "המשיכו בקנייה",
           "footerText": "הכיף מתחיל בסיבוב אחד!",
@@ -61,15 +61,15 @@
           }
         },
         "resultForm": {
-          "redeemButton": "הפעילו את הפרס עכשיו",
+          "redeemButton": "השתמשו בקוד עכשיו",
           "dismissButton": "המשיכו בקנייה",
           "messages": {
-            "rewardExpiry": "השתמשו בפרס שלכם תוך {{EXPIRE}}"
+            "rewardExpiry": "יפוג תוך {{EXPIRE}}"
           }
         },
         "redemptionForm": {
           "title": "הפרס שלכם הופעל!",
-          "description": "הפרס שלכם פעיל - תוכלו לבצע תשלום עכשיו או להמשיך בקנייה ולהשתמש בו בכל עת.",
+          "description": "הפרס שלכם פעיל - תוכלו לבצע תשלום עכשיו או להשתמש בו בכל עת.",
           "checkoutButton": "לתשלום עכשיו",
           "dismissButton": "המשיכו בקנייה",
           "messages": {

@@ -52,7 +52,7 @@
               "placeholder": "E-mail"
             }
           },
-          "agreement": "Souhlasím se zasíláním marketingových e-mailů a nabídek.",
+          "agreement": "Souhlasím se zasíláním propagačních e-mailů",
           "spinButton": "ROZTOČIT",
           "dismissButton": "Pokračovat v nákupu",
           "footerText": "Zábava začíná jedním roztočením!",
@@ -61,15 +61,15 @@
           }
         },
         "resultForm": {
-          "redeemButton": "Uplatnit odměnu nyní",
+          "redeemButton": "Použít kód nyní",
           "dismissButton": "Pokračovat v nákupu",
           "messages": {
-            "rewardExpiry": "Uplatněte svou odměnu do {{EXPIRE}}"
+            "rewardExpiry": "Vyprší do {{EXPIRE}}"
           }
         },
         "redemptionForm": {
           "title": "Vaše odměna byla uplatněna!",
-          "description": "Vaše odměna je aktivní - můžete jít k pokladně nyní nebo pokračovat v nákupu a využít ji kdykoli.",
+          "description": "Vaše odměna je aktivní - můžete jít k pokladně nyní nebo ji využít kdykoli.",
           "checkoutButton": "K pokladně",
           "dismissButton": "Pokračovat v nákupu",
           "messages": {

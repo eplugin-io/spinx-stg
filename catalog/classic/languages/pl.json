@@ -52,7 +52,7 @@
               "placeholder": "E-mail"
             }
           },
-          "agreement": "Wyrażam zgodę na otrzymywanie e-maili marketingowych i ofert.",
+          "agreement": "Wyrażam zgodę na otrzymywanie e-maili promocyjnych",
           "spinButton": "ZAKRĘĆ",
           "dismissButton": "Kontynuuj zakupy",
           "footerText": "Zabawa zaczyna się od jednego zakręcenia!",
@@ -61,15 +61,15 @@
           }
         },
         "resultForm": {
-          "redeemButton": "Zastosuj nagrodę teraz",
+          "redeemButton": "Użyj kodu teraz",
           "dismissButton": "Kontynuuj zakupy",
           "messages": {
-            "rewardExpiry": "Wykorzystaj swoją nagrodę w ciągu {{EXPIRE}}"
+            "rewardExpiry": "Wygasa w ciągu {{EXPIRE}}"
           }
         },
         "redemptionForm": {
           "title": "Twoja nagroda została zastosowana!",
-          "description": "Twoja nagroda jest aktywna - możesz przejść do kasy teraz lub kontynuować zakupy i wykorzystać ją w dowolnym momencie.",
+          "description": "Twoja nagroda jest aktywna - możesz przejść do kasy teraz lub wykorzystać ją w dowolnym momencie.",
           "checkoutButton": "Przejdź do kasy",
           "dismissButton": "Kontynuuj zakupy",
           "messages": {

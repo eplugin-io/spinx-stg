@@ -52,7 +52,7 @@
               "placeholder": "E-pošta"
             }
           },
-          "agreement": "Strinjam se s prejemanjem trženjskih e-sporočil in ponudb.",
+          "agreement": "Strinjam se s prejemanjem promocijskih e-sporočil",
           "spinButton": "ZAVRTI",
           "dismissButton": "Nadaljuj z nakupovanjem",
           "footerText": "Zabava se začne z enim vrtljajem!",
@@ -61,15 +61,15 @@
           }
         },
         "resultForm": {
-          "redeemButton": "Uveljavi nagrado zdaj",
+          "redeemButton": "Uporabi kodo zdaj",
           "dismissButton": "Nadaljuj z nakupovanjem",
           "messages": {
-            "rewardExpiry": "Nagrado uporabi v {{EXPIRE}}"
+            "rewardExpiry": "Poteče v {{EXPIRE}}"
           }
         },
         "redemptionForm": {
           "title": "Tvoja nagrada je bila uveljavljena!",
-          "description": "Tvoja nagrada je aktivna - lahko zaključiš nakup zdaj ali nadaljuješ z nakupovanjem in jo uporabiš kadar koli.",
+          "description": "Tvoja nagrada je aktivna - lahko zaključiš nakup zdaj ali jo uporabiš kadar koli.",
           "checkoutButton": "Zaključi nakup zdaj",
           "dismissButton": "Nadaljuj z nakupovanjem",
           "messages": {

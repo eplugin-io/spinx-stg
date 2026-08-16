@@ -44,7 +44,7 @@
           "title": "黑五超值好礼等您来拿！",
           "description": "填写您的信息，转动转盘解锁专属黑五好礼。",
           "descriptionForExistingAccount": "{{NAME}}，黑五已经到来——立即转动转盘，揭晓您的好礼。",
-          "agreement": "我同意接收黑五专属优惠和最新消息。",
+          "agreement": "我同意接收促销邮件",
           "spinButton": "解锁优惠",
           "dismissButton": "继续购物",
           "footerText": "每一次转动都可能解锁下一个超值优惠。",

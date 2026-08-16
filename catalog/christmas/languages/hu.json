@@ -44,7 +44,7 @@
           "title": "🎄 Bontsd ki karácsonyi meglepetésedet!",
           "description": "Add meg adataidat, és pörgesd meg a kereket, hogy kibontsd ünnepi karácsonyi jutalmadat.",
           "descriptionForExistingAccount": "{{NAME}}, itt az idő egy karácsonyi meglepetésre - pörgess, hogy felfedd ünnepi jutalmadat!",
-          "agreement": "Hozzájárulok, hogy ünnepi ajánlatokat és frissítéseket kapjak.",
+          "agreement": "Hozzájárulok promóciós e-mailek fogadásához",
           "spinButton": "Mutasd az ajándékom",
           "dismissButton": "Vásárlás folytatása",
           "footerText": "Az ünnepi varázslat egy pörgetéssel kezdődik ✨"

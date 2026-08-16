@@ -52,7 +52,7 @@
               "placeholder": "メールアドレス"
             }
           },
-          "agreement": "マーケティングメールとお得な情報の受信に同意します。",
+          "agreement": "プロモーションメールの受信に同意します",
           "spinButton": "スピン",
           "dismissButton": "買い物を続ける",
           "footerText": "楽しさはスピンから始まります!",
@@ -61,15 +61,15 @@
           }
         },
         "resultForm": {
-          "redeemButton": "今すぐ景品を適用する",
+          "redeemButton": "今すぐコードを使う",
           "dismissButton": "買い物を続ける",
           "messages": {
-            "rewardExpiry": "{{EXPIRE}}以内に景品をご利用ください"
+            "rewardExpiry": "{{EXPIRE}}以内に期限切れ"
           }
         },
         "redemptionForm": {
           "title": "景品が適用されました!",
-          "description": "景品は有効になっています - 今すぐ購入手続きをするか、買い物を続けていつでもご利用いただけます。",
+          "description": "景品は有効です - 今すぐ購入手続きするか、いつでも利用できます。",
           "checkoutButton": "今すぐ購入手続きへ",
           "dismissButton": "買い物を続ける",
           "messages": {

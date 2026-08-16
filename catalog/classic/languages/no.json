@@ -52,7 +52,7 @@
               "placeholder": "E-post"
             }
           },
-          "agreement": "Jeg samtykker til å motta markedsførings-e-poster og tilbud.",
+          "agreement": "Jeg samtykker til å motta kampanje-e-poster",
           "spinButton": "SPINN",
           "dismissButton": "Fortsett å handle",
           "footerText": "Moroa begynner med et spinn!",
@@ -61,15 +61,15 @@
           }
         },
         "resultForm": {
-          "redeemButton": "Bruk premien nå",
+          "redeemButton": "Bruk kode nå",
           "dismissButton": "Fortsett å handle",
           "messages": {
-            "rewardExpiry": "Bruk premien din innen {{EXPIRE}}"
+            "rewardExpiry": "Utløper innen {{EXPIRE}}"
           }
         },
         "redemptionForm": {
           "title": "Premien din er tatt i bruk!",
-          "description": "Premien din er aktiv - du kan gå til kassen nå eller fortsette å handle og bruke den når som helst.",
+          "description": "Premien din er aktiv - du kan gå til kassen nå eller bruke den når som helst.",
           "checkoutButton": "Gå til kassen nå",
           "dismissButton": "Fortsett å handle",
           "messages": {

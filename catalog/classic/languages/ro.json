@@ -52,7 +52,7 @@
               "placeholder": "E-mail"
             }
           },
-          "agreement": "Sunt de acord să primesc e-mailuri de marketing și oferte.",
+          "agreement": "Sunt de acord să primesc e-mailuri promoționale",
           "spinButton": "ROTEȘTE",
           "dismissButton": "Continuă cumpărăturile",
           "footerText": "Distracția începe cu o rotire!",
@@ -61,15 +61,15 @@
           }
         },
         "resultForm": {
-          "redeemButton": "Aplică premiul acum",
+          "redeemButton": "Folosește codul acum",
           "dismissButton": "Continuă cumpărăturile",
           "messages": {
-            "rewardExpiry": "Folosește-ți premiul în {{EXPIRE}}"
+            "rewardExpiry": "Expiră în {{EXPIRE}}"
           }
         },
         "redemptionForm": {
           "title": "Premiul tău a fost aplicat!",
-          "description": "Premiul tău este activ - poți finaliza comanda acum sau poți continua cumpărăturile și îl poți folosi oricând.",
+          "description": "Premiul tău este activ - poți finaliza comanda acum sau îl poți folosi oricând.",
           "checkoutButton": "Finalizează comanda acum",
           "dismissButton": "Continuă cumpărăturile",
           "messages": {

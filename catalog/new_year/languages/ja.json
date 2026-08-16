@@ -44,7 +44,7 @@
           "title": "✨ サプライズで新年を迎えよう!",
           "description": "お名前とメールアドレスを入力して新年の景品をゲットしましょう。",
           "descriptionForExistingAccount": "{{NAME}}さん、スピンして新年をスタートし、特別な景品をゲットしましょう。",
-          "agreement": "新年の特典と最新情報の受信に同意します。",
+          "agreement": "プロモーションメールの受信に同意します",
           "spinButton": "スピンして新年をスタート",
           "dismissButton": "買い物を続ける",
           "footerText": "輝かしい一年は一回のスピンから始まります ✨",
