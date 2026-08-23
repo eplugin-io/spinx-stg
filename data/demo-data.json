@@ -60,16 +60,14 @@
         "enabled": true
       },
       "spinPopup": {
-        "welcome": {
+        "delayedOpen": {
           "enabled": true,
-          "delaySeconds": 4,
-          "displayType": "compact"
+          "delaySeconds": 4
         },
         "exitIntent": {
           "enabled": true,
           "desktop": true,
-          "mobile": true,
-          "displayType": "compact"
+          "mobile": true
         }
       }
     },
