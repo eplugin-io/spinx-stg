@@ -25,7 +25,7 @@
     "freeGift": {
       "message": {
         "title": "🎁 Hátborzongató meglepetés! Nyertél {{REWARD}}!",
-        "description": "Használd az alábbi kódot a fizetésnél, hogy beváltsd kísértetiesen jó ajándékodat."
+        "description": "Tedd az ajándékot a kosárba, és használd ezt a kódot fizetéskor."
       }
     }
   },

@@ -25,7 +25,7 @@
     "freeGift": {
       "message": {
         "title": "🎁 Black Friday-gevinst! Du fikk {{REWARD}}!",
-        "description": "Bruk koden nedenfor i kassen for å hente din Black Friday-gave."
+        "description": "Legg gaven i handlekurven og bruk denne koden i kassen."
       }
     }
   },

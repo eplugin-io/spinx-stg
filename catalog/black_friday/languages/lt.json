@@ -25,7 +25,7 @@
     "freeGift": {
       "message": {
         "title": "🎁 Juodojo penktadienio laimėjimas! Gavai {{REWARD}}!",
-        "description": "Naudok žemiau esantį kodą atsiskaitydamas, kad atsiimtum savo Juodojo penktadienio dovaną."
+        "description": "Įdėkite dovaną į krepšelį ir atsiskaitydami naudokite šį kodą."
       }
     }
   },

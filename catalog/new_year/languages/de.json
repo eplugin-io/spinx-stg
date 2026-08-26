@@ -25,7 +25,7 @@
     "freeGift": {
       "message": {
         "title": "🎁 Neujahrsüberraschung! Du hast {{REWARD}} erhalten!",
-        "description": "Verwende den Code unten an der Kasse, um dein Neujahrsgeschenk einzulösen."
+        "description": "Lege dein Geschenk in den Warenkorb und verwende diesen Code an der Kasse."
       }
     }
   },

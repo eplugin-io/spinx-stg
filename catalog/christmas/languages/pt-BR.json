@@ -25,7 +25,7 @@
     "freeGift": {
       "message": {
         "title": "🎁 Surpresa de Natal! Você Ganhou {{REWARD}}!",
-        "description": "Use o código abaixo no checkout para resgatar seu brinde festivo."
+        "description": "Adicione seu brinde ao carrinho e use este código no checkout."
       }
     }
   },

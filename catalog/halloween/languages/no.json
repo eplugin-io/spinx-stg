@@ -25,7 +25,7 @@
     "freeGift": {
       "message": {
         "title": "🎁 En skummel overraskelse! Du vant {{REWARD}}!",
-        "description": "Bruk koden nedenfor i kassen for å innløse din skummelt gode gave."
+        "description": "Legg gaven i handlekurven og bruk denne koden i kassen."
       }
     }
   },

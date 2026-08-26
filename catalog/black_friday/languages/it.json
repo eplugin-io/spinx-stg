@@ -25,7 +25,7 @@
     "freeGift": {
       "message": {
         "title": "🎁 Vittoria del Black Friday! Hai ottenuto {{REWARD}}!",
-        "description": "Usa il codice qui sotto al checkout per riscattare il tuo regalo del Black Friday."
+        "description": "Aggiungi il tuo regalo al carrello e usa questo codice al checkout."
       }
     }
   },

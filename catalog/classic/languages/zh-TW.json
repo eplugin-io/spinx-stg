@@ -25,7 +25,7 @@
     "freeGift": {
       "message": {
         "title": "驚喜！你抽中了 {{REWARD}}！",
-        "description": "結帳時輸入以下代碼即可領取贈品。"
+        "description": "將禮品加入購物車，並在結帳時使用此代碼。"
       }
     }
   },

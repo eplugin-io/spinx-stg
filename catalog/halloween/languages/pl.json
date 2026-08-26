@@ -25,7 +25,7 @@
     "freeGift": {
       "message": {
         "title": "🎁 Upiorna niespodzianka! Wygrałeś {{REWARD}}!",
-        "description": "Użyj poniższego kodu przy kasie, aby odebrać swój upiornie dobry prezent."
+        "description": "Dodaj prezent do koszyka i użyj tego kodu przy kasie."
       }
     }
   },

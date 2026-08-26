@@ -25,7 +25,7 @@
     "freeGift": {
       "message": {
         "title": "🎁 Novogodišnje iznenađenje! Osvojili ste {{REWARD}}!",
-        "description": "Upotrijebite kod ispod prilikom plaćanja kako biste preuzeli svoj novogodišnji poklon."
+        "description": "Dodajte poklon u košaricu i upotrijebite ovaj kod pri plaćanju."
       }
     }
   },

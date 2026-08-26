@@ -25,7 +25,7 @@
     "freeGift": {
       "message": {
         "title": "🎁 Wygrana Black Friday! Otrzymałeś {{REWARD}}!",
-        "description": "Użyj poniższego kodu przy kasie, aby odebrać swój prezent Black Friday."
+        "description": "Dodaj prezent do koszyka i użyj tego kodu przy kasie."
       }
     }
   },

@@ -25,7 +25,7 @@
     "freeGift": {
       "message": {
         "title": "🎁 Surpriză de Anul Nou! Ai Primit {{REWARD}}!",
-        "description": "Folosește codul de mai jos la finalizarea comenzii pentru a-ți revendica cadoul de Anul Nou."
+        "description": "Adaugă cadoul în coș și folosește acest cod la finalizarea comenzii."
       }
     }
   },

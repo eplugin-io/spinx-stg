@@ -25,7 +25,7 @@
     "freeGift": {
       "message": {
         "title": "Bất ngờ! Bạn đã trúng {{REWARD}}!",
-        "description": "Sử dụng mã bên dưới khi thanh toán để nhận quà tặng miễn phí."
+        "description": "Thêm quà tặng vào giỏ hàng và dùng mã này khi thanh toán."
       }
     }
   },

@@ -25,7 +25,7 @@
     "freeGift": {
       "message": {
         "title": "🎁 Kejutan Seram! Kamu Menang {{REWARD}}!",
-        "description": "Gunakan kode di bawah ini saat checkout untuk mengklaim hadiah menyeramkanmu."
+        "description": "Tambahkan hadiah Anda ke keranjang dan gunakan kode ini saat checkout."
       }
     }
   },

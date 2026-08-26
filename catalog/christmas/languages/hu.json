@@ -25,7 +25,7 @@
     "freeGift": {
       "message": {
         "title": "🎁 Karácsonyi meglepetés! Nyertél {{REWARD}}!",
-        "description": "Használd az alábbi kódot a fizetésnél, hogy beváltsd ünnepi ajándékodat."
+        "description": "Tedd az ajándékot a kosárba, és használd ezt a kódot fizetéskor."
       }
     }
   },

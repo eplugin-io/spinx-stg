@@ -25,7 +25,7 @@
     "freeGift": {
       "message": {
         "title": "🎁 Świąteczna niespodzianka! Wygrałeś {{REWARD}}!",
-        "description": "Użyj poniższego kodu przy kasie, aby odebrać swój świąteczny prezent."
+        "description": "Dodaj prezent do koszyka i użyj tego kodu przy kasie."
       }
     }
   },

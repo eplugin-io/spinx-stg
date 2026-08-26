@@ -25,7 +25,7 @@
     "freeGift": {
       "message": {
         "title": "🎁 Eine gruselige Überraschung! Du hast {{REWARD}} gewonnen!",
-        "description": "Verwende den Code unten an der Kasse, um dein schaurig gutes Geschenk einzulösen."
+        "description": "Lege dein Geschenk in den Warenkorb und verwende diesen Code an der Kasse."
       }
     }
   },

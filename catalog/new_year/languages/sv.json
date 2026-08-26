@@ -25,7 +25,7 @@
     "freeGift": {
       "message": {
         "title": "🎁 Nyårsöverraskning! Du fick {{REWARD}}!",
-        "description": "Använd koden nedan i kassan för att lösa in din nyårspresent."
+        "description": "Lägg din gåva i varukorgen och använd den här koden i kassan."
       }
     }
   },

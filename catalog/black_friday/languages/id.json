@@ -25,7 +25,7 @@
     "freeGift": {
       "message": {
         "title": "🎁 Menang Black Friday! Kamu Dapat {{REWARD}}!",
-        "description": "Gunakan kode di bawah ini saat checkout untuk mengklaim hadiah Black Friday-mu."
+        "description": "Tambahkan hadiah Anda ke keranjang dan gunakan kode ini saat checkout."
       }
     }
   },

@@ -184,7 +184,8 @@
           "intro": "Thanks for joining {{siteName}}!",
           "win": "Use the gift code below to claim your reward.",
           "rewardTitle": "Free Gift",
-          "redeemInstruction": "Use this code at checkout to receive your free gift.",
+          "giftCodeLabel": "Gift code",
+          "redeemInstruction": "Add your gift to cart and use this code at checkout.",
           "ctaInstruction": "Click the button below to claim your gift",
           "cta": "Claim My Gift"
         }

@@ -25,7 +25,7 @@
     "freeGift": {
       "message": {
         "title": "🎁 Sorpresa di Capodanno! Hai ottenuto {{REWARD}}!",
-        "description": "Usa il codice qui sotto al checkout per riscattare il tuo regalo di Capodanno."
+        "description": "Aggiungi il tuo regalo al carrello e usa questo codice al checkout."
       }
     }
   },

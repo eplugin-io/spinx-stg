@@ -25,7 +25,7 @@
     "freeGift": {
       "message": {
         "title": "🎁 Black Friday Win! You Got {{REWARD}}!",
-        "description": "Use the code below at checkout to claim your Black Friday gift."
+        "description": "Add your gift to cart and use this code at checkout."
       }
     }
   },

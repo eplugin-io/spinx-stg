@@ -25,7 +25,7 @@
     "freeGift": {
       "message": {
         "title": "🎁 Bất ngờ Giáng sinh! Bạn đã trúng {{REWARD}}!",
-        "description": "Sử dụng mã bên dưới khi thanh toán để nhận món quà lễ hội của bạn."
+        "description": "Thêm quà tặng vào giỏ hàng và dùng mã này khi thanh toán."
       }
     }
   },

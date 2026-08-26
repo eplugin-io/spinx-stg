@@ -25,7 +25,7 @@
     "freeGift": {
       "message": {
         "title": "¡Sorpresa! ¡Has ganado {{REWARD}}!",
-        "description": "Usa el código de abajo al finalizar la compra para reclamar tu regalo gratis."
+        "description": "Añade tu regalo al carrito y usa este código al pagar."
       }
     }
   },

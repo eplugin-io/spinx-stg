@@ -25,7 +25,7 @@
     "freeGift": {
       "message": {
         "title": "🎁 黑五好运！您获得了 {{REWARD}}！",
-        "description": "结账时使用下方优惠码，领取您的黑五礼品。"
+        "description": "将礼品加入购物车，并在结账时使用此代码。"
       }
     }
   },

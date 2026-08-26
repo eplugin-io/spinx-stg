@@ -25,7 +25,7 @@
     "freeGift": {
       "message": {
         "title": "Presenečenje! Osvojil si {{REWARD}}!",
-        "description": "Uporabi spodnjo kodo ob zaključku nakupa in unovči svoje brezplačno darilo."
+        "description": "Dodajte darilo v košarico in uporabite to kodo ob zaključku nakupa."
       }
     }
   },

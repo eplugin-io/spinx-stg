@@ -25,7 +25,7 @@
     "freeGift": {
       "message": {
         "title": "🎁 En uhyggelig overraskelse! Du vandt {{REWARD}}!",
-        "description": "Brug koden nedenfor ved kassen for at hente din uhyggeligt gode gave."
+        "description": "Læg din gave i kurven, og brug denne kode ved betaling."
       }
     }
   },

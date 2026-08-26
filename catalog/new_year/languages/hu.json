@@ -25,7 +25,7 @@
     "freeGift": {
       "message": {
         "title": "🎁 Újévi meglepetés! Kaptál {{REWARD}}!",
-        "description": "Használd az alábbi kódot a fizetésnél, hogy beváltsd újévi ajándékodat."
+        "description": "Tedd az ajándékot a kosárba, és használd ezt a kódot fizetéskor."
       }
     }
   },

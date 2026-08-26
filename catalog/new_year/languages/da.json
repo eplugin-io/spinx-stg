@@ -25,7 +25,7 @@
     "freeGift": {
       "message": {
         "title": "🎁 Nytårsoverraskelse! Du fik {{REWARD}}!",
-        "description": "Brug koden nedenfor ved kassen for at hente din nytårsgave."
+        "description": "Læg din gave i kurven, og brug denne kode ved betaling."
       }
     }
   },

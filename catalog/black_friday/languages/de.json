@@ -25,7 +25,7 @@
     "freeGift": {
       "message": {
         "title": "🎁 Black-Friday-Gewinn! Du hast {{REWARD}} erhalten!",
-        "description": "Verwende den Code unten an der Kasse, um dein Black-Friday-Geschenk einzulösen."
+        "description": "Lege dein Geschenk in den Warenkorb und verwende diesen Code an der Kasse."
       }
     }
   },

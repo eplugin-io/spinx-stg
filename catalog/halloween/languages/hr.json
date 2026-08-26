@@ -25,7 +25,7 @@
     "freeGift": {
       "message": {
         "title": "🎁 Jezivo iznenađenje! Osvojili ste {{REWARD}}!",
-        "description": "Upotrijebite kod ispod prilikom plaćanja kako biste preuzeli svoj jezivo dobar poklon."
+        "description": "Dodajte poklon u košaricu i upotrijebite ovaj kod pri plaćanju."
       }
     }
   },

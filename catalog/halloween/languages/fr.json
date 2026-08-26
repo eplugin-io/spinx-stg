@@ -25,7 +25,7 @@
     "freeGift": {
       "message": {
         "title": "🎁 Une surprise effrayante ! Vous avez gagné {{REWARD}} !",
-        "description": "Utilisez le code ci-dessous lors du paiement pour réclamer votre cadeau terriblement bon."
+        "description": "Ajoutez votre cadeau au panier et utilisez ce code au paiement."
       }
     }
   },

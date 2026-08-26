@@ -25,7 +25,7 @@
     "freeGift": {
       "message": {
         "title": "Overraskelse! Du vant {{REWARD}}!",
-        "description": "Bruk koden nedenfor i kassen for å innløse din gratis gave."
+        "description": "Legg gaven i handlekurven og bruk denne koden i kassen."
       }
     }
   },

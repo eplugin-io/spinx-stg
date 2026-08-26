@@ -25,7 +25,7 @@
     "freeGift": {
       "message": {
         "title": "🎁 Kammottava yllätys! Voitit {{REWARD}}!",
-        "description": "Käytä alla olevaa koodia kassalla lunastaaksesi kammottavan hyvän lahjasi."
+        "description": "Lisää lahjasi ostoskoriin ja käytä tätä koodia kassalla."
       }
     }
   },

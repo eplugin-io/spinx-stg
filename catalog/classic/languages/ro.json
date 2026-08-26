@@ -25,7 +25,7 @@
     "freeGift": {
       "message": {
         "title": "Surpriză! Ai Câștigat {{REWARD}}!",
-        "description": "Folosește codul de mai jos la finalizarea comenzii pentru a-ți revendica cadoul gratuit."
+        "description": "Adaugă cadoul în coș și folosește acest cod la finalizarea comenzii."
       }
     }
   },
