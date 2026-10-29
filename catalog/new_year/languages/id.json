@@ -12,19 +12,19 @@
     },
     "discountCode": {
       "message": {
-        "title": "✨ Menang Tahun Baru!",
+        "title": "✨ Menang Tahun Baru! Kamu Dapat:",
         "description": "Gunakan kode di bawah ini saat checkout untuk mengklaim hadiah Tahun Barumu."
       }
     },
     "freeShipping": {
       "message": {
-        "title": "✨ Menang Tahun Baru!",
+        "title": "✨ Menang Tahun Baru! Kamu Dapat:",
         "description": "Gunakan kode di bawah ini saat checkout untuk menikmati gratis ongkir pesananmu."
       }
     },
     "freeGift": {
       "message": {
-        "title": "🎁 Kejutan Tahun Baru!",
+        "title": "🎁 Kejutan Tahun Baru! Kamu Dapat:",
         "description": "Tambahkan hadiah Anda ke keranjang dan gunakan kode ini saat checkout."
       }
     }

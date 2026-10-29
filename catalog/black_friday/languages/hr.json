@@ -12,19 +12,19 @@
     },
     "discountCode": {
       "message": {
-        "title": "💥 Black Friday pobjeda!",
+        "title": "💥 Black Friday pobjeda! Osvojili ste:",
         "description": "Upotrijebite kod ispod prilikom plaćanja kako biste preuzeli svoj Black Friday popust."
       }
     },
     "freeShipping": {
       "message": {
-        "title": "🚚 Black Friday pobjeda!",
+        "title": "🚚 Black Friday pobjeda! Osvojili ste:",
         "description": "Upotrijebite kod ispod prilikom plaćanja kako biste dobili besplatnu dostavu na svoju Black Friday narudžbu."
       }
     },
     "freeGift": {
       "message": {
-        "title": "🎁 Black Friday pobjeda!",
+        "title": "🎁 Black Friday pobjeda! Osvojili ste:",
         "description": "Dodajte poklon u košaricu i upotrijebite ovaj kod pri plaćanju."
       }
     }

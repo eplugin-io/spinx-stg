@@ -12,19 +12,19 @@
     },
     "discountCode": {
       "message": {
-        "title": "✨ Novoročná výhra!",
+        "title": "✨ Novoročná výhra! Tvoja výhra:",
         "description": "Použi kód nižšie pri platbe a vyzdvihni si svoju novoročnú odmenu."
       }
     },
     "freeShipping": {
       "message": {
-        "title": "✨ Novoročná výhra!",
+        "title": "✨ Novoročná výhra! Tvoja výhra:",
         "description": "Použi kód nižšie pri platbe a uži si dopravu zadarmo na svoju objednávku."
       }
     },
     "freeGift": {
       "message": {
-        "title": "🎁 Novoročné prekvapenie!",
+        "title": "🎁 Novoročné prekvapenie! Tvoja výhra:",
         "description": "Pridajte darček do košíka a použite tento kód pri pokladni."
       }
     }

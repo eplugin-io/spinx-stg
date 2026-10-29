@@ -12,19 +12,19 @@
     },
     "discountCode": {
       "message": {
-        "title": "✨ Uudenvuoden voitto!",
+        "title": "✨ Uudenvuoden voitto! Sait:",
         "description": "Käytä alla olevaa koodia kassalla lunastaaksesi uudenvuoden palkintosi."
       }
     },
     "freeShipping": {
       "message": {
-        "title": "✨ Uudenvuoden voitto!",
+        "title": "✨ Uudenvuoden voitto! Sait:",
         "description": "Käytä alla olevaa koodia kassalla nauttiaksesi ilmaisesta toimituksesta tilauksellesi."
       }
     },
     "freeGift": {
       "message": {
-        "title": "🎁 Uudenvuoden yllätys!",
+        "title": "🎁 Uudenvuoden yllätys! Sait:",
         "description": "Lisää lahjasi ostoskoriin ja käytä tätä koodia kassalla."
       }
     }

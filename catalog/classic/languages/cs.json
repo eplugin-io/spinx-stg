@@ -12,19 +12,19 @@
     },
     "discountCode": {
       "message": {
-        "title": "Gratulujeme!",
+        "title": "Gratulujeme! Vyhráli jste:",
         "description": "Použijte kód níže při placení a užijte si svou slevu."
       }
     },
     "freeShipping": {
       "message": {
-        "title": "Gratulujeme!",
+        "title": "Gratulujeme! Vyhráli jste:",
         "description": "Použijte kód níže při placení a získejte dopravu zdarma."
       }
     },
     "freeGift": {
       "message": {
-        "title": "Překvapení!",
+        "title": "Překvapení! Vyhráli jste:",
         "description": "Přidejte dárek do košíku a použijte tento kód u pokladny."
       }
     }

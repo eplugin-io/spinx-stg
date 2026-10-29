@@ -12,19 +12,19 @@
     },
     "discountCode": {
       "message": {
-        "title": "🎁 Surpresa de Natal!",
+        "title": "🎁 Surpresa de Natal! Ganhaste:",
         "description": "Usa o código abaixo no checkout para desfrutares do teu prémio festivo."
       }
     },
     "freeShipping": {
       "message": {
-        "title": "🎁 Surpresa de Natal!",
+        "title": "🎁 Surpresa de Natal! Ganhaste:",
         "description": "Usa o código abaixo no checkout para desfrutares de portes grátis festivos."
       }
     },
     "freeGift": {
       "message": {
-        "title": "🎁 Surpresa de Natal!",
+        "title": "🎁 Surpresa de Natal! Ganhaste:",
         "description": "Adicione o seu presente ao carrinho e use este código no checkout."
       }
     }

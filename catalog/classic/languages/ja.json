@@ -12,19 +12,19 @@
     },
     "discountCode": {
       "message": {
-        "title": "おめでとうございます!",
+        "title": "おめでとうございます!当選賞品:",
         "description": "レジで下記のコードを使って割引をお楽しみください。"
       }
     },
     "freeShipping": {
       "message": {
-        "title": "おめでとうございます!",
+        "title": "おめでとうございます!当選賞品:",
         "description": "レジで下記のコードを使って送料無料をお楽しみください。"
       }
     },
     "freeGift": {
       "message": {
-        "title": "サプライズ!",
+        "title": "サプライズ!当選賞品:",
         "description": "ギフトをカートに追加し、チェックアウト時にこのコードを使用してください。"
       }
     }

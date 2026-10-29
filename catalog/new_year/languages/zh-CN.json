@@ -12,19 +12,19 @@
     },
     "discountCode": {
       "message": {
-        "title": "✨ 新年好运！",
+        "title": "✨ 新年好运！您获得了：",
         "description": "结账时使用下方优惠码，领取您的新年好礼。"
       }
     },
     "freeShipping": {
       "message": {
-        "title": "✨ 新年好运！",
+        "title": "✨ 新年好运！您获得了：",
         "description": "结账时使用下方优惠码，享受订单免运费。"
       }
     },
     "freeGift": {
       "message": {
-        "title": "🎁 新年惊喜！",
+        "title": "🎁 新年惊喜！您获得了：",
         "description": "将礼品加入购物车，并在结账时使用此代码。"
       }
     }

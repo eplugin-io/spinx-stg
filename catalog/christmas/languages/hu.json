@@ -12,19 +12,19 @@
     },
     "discountCode": {
       "message": {
-        "title": "🎁 Karácsonyi meglepetés!",
+        "title": "🎁 Karácsonyi meglepetés! Ezt nyerted:",
         "description": "Használd az alábbi kódot a fizetésnél, hogy élvezhesd ünnepi jutalmadat."
       }
     },
     "freeShipping": {
       "message": {
-        "title": "🎁 Karácsonyi meglepetés!",
+        "title": "🎁 Karácsonyi meglepetés! Ezt nyerted:",
         "description": "Használd az alábbi kódot a fizetésnél, hogy élvezhesd az ingyenes ünnepi szállítást."
       }
     },
     "freeGift": {
       "message": {
-        "title": "🎁 Karácsonyi meglepetés!",
+        "title": "🎁 Karácsonyi meglepetés! Ezt nyerted:",
         "description": "Tedd az ajándékot a kosárba, és használd ezt a kódot fizetéskor."
       }
     }

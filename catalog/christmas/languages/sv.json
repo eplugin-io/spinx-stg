@@ -12,19 +12,19 @@
     },
     "discountCode": {
       "message": {
-        "title": "🎁 Julöverraskning!",
+        "title": "🎁 Julöverraskning! Du vann:",
         "description": "Använd koden nedan i kassan för att njuta av din festliga belöning."
       }
     },
     "freeShipping": {
       "message": {
-        "title": "🎁 Julöverraskning!",
+        "title": "🎁 Julöverraskning! Du vann:",
         "description": "Använd koden nedan i kassan för att njuta av fri julfrakt."
       }
     },
     "freeGift": {
       "message": {
-        "title": "🎁 Julöverraskning!",
+        "title": "🎁 Julöverraskning! Du vann:",
         "description": "Lägg din gåva i varukorgen och använd den här koden i kassan."
       }
     }

@@ -12,19 +12,19 @@
     },
     "discountCode": {
       "message": {
-        "title": "🎃 嚇！",
+        "title": "🎃 嚇！你抽中了：",
         "description": "結帳時輸入以下代碼，解鎖你的萬聖節優惠。"
       }
     },
     "freeShipping": {
       "message": {
-        "title": "🎃 嚇！",
+        "title": "🎃 嚇！你抽中了：",
         "description": "結帳時輸入以下代碼，享受來自異世界的免運優惠。"
       }
     },
     "freeGift": {
       "message": {
-        "title": "🎁 驚悚驚喜！",
+        "title": "🎁 驚悚驚喜！你抽中了：",
         "description": "將禮品加入購物車，並在結帳時使用此代碼。"
       }
     }

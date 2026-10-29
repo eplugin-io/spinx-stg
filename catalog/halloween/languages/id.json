@@ -12,19 +12,19 @@
     },
     "discountCode": {
       "message": {
-        "title": "🎃 Hii!",
+        "title": "🎃 Hii! Kamu Menang:",
         "description": "Gunakan kode di bawah ini saat checkout untuk membuka diskon serammu."
       }
     },
     "freeShipping": {
       "message": {
-        "title": "🎃 Hii!",
+        "title": "🎃 Hii! Kamu Menang:",
         "description": "Gunakan kode di bawah ini saat checkout untuk menikmati gratis ongkir dari dunia lain."
       }
     },
     "freeGift": {
       "message": {
-        "title": "🎁 Kejutan Seram!",
+        "title": "🎁 Kejutan Seram! Kamu Menang:",
         "description": "Tambahkan hadiah Anda ke keranjang dan gunakan kode ini saat checkout."
       }
     }

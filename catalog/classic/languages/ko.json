@@ -12,19 +12,19 @@
     },
     "discountCode": {
       "message": {
-        "title": "축하해요!",
+        "title": "축하해요! 당첨 혜택:",
         "description": "아래 코드를 결제 시 입력하고 할인 혜택을 받아보세요."
       }
     },
     "freeShipping": {
       "message": {
-        "title": "축하해요!",
+        "title": "축하해요! 당첨 혜택:",
         "description": "아래 코드를 결제 시 입력하고 무료 배송을 받아보세요."
       }
     },
     "freeGift": {
       "message": {
-        "title": "깜짝 선물!",
+        "title": "깜짝 선물! 당첨 혜택:",
         "description": "선물을 장바구니에 담고 결제 시 이 코드를 사용하세요."
       }
     }

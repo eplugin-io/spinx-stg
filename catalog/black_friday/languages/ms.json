@@ -12,19 +12,19 @@
     },
     "discountCode": {
       "message": {
-        "title": "💥 Kemenangan Black Friday!",
+        "title": "💥 Kemenangan Black Friday! Anda Dapat:",
         "description": "Gunakan kod di bawah semasa checkout untuk dapatkan diskaun Black Friday anda."
       }
     },
     "freeShipping": {
       "message": {
-        "title": "🚚 Kemenangan Black Friday!",
+        "title": "🚚 Kemenangan Black Friday! Anda Dapat:",
         "description": "Gunakan kod di bawah semasa checkout untuk nikmati penghantaran percuma untuk pesanan Black Friday anda."
       }
     },
     "freeGift": {
       "message": {
-        "title": "🎁 Kemenangan Black Friday!",
+        "title": "🎁 Kemenangan Black Friday! Anda Dapat:",
         "description": "Tambah hadiah anda ke troli dan gunakan kod ini semasa checkout."
       }
     }

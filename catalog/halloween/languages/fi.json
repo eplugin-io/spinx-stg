@@ -12,19 +12,19 @@
     },
     "discountCode": {
       "message": {
-        "title": "🎃 Buu!",
+        "title": "🎃 Buu! Voitit:",
         "description": "Käytä alla olevaa koodia kassalla avataksesi kammottavat säästösi."
       }
     },
     "freeShipping": {
       "message": {
-        "title": "🎃 Buu!",
+        "title": "🎃 Buu! Voitit:",
         "description": "Käytä alla olevaa koodia kassalla nauttiaksesi ilmaisesta toimituksesta tuonpuoleisesta."
       }
     },
     "freeGift": {
       "message": {
-        "title": "🎁 Kammottava yllätys!",
+        "title": "🎁 Kammottava yllätys! Voitit:",
         "description": "Lisää lahjasi ostoskoriin ja käytä tätä koodia kassalla."
       }
     }

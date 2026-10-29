@@ -12,19 +12,19 @@
     },
     "discountCode": {
       "message": {
-        "title": "🎃 哇！",
+        "title": "🎃 哇！您赢得了：",
         "description": "结账时使用下方优惠码，解锁您的万圣节专属优惠。"
       }
     },
     "freeShipping": {
       "message": {
-        "title": "🎃 哇！",
+        "title": "🎃 哇！您赢得了：",
         "description": "结账时使用下方优惠码，享受来自异世界的免运费。"
       }
     },
     "freeGift": {
       "message": {
-        "title": "🎁 诡秘惊喜！",
+        "title": "🎁 诡秘惊喜！您赢得了：",
         "description": "将礼品加入购物车，并在结账时使用此代码。"
       }
     }

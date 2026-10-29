@@ -12,19 +12,19 @@
     },
     "discountCode": {
       "message": {
-        "title": "🎃 Bu!",
+        "title": "🎃 Bu! Ganhaste:",
         "description": "Usa o código abaixo no checkout para desbloqueares a tua poupança assustadora."
       }
     },
     "freeShipping": {
       "message": {
-        "title": "🎃 Bu!",
+        "title": "🎃 Bu! Ganhaste:",
         "description": "Usa o código abaixo no checkout para desfrutares de portes grátis do outro lado."
       }
     },
     "freeGift": {
       "message": {
-        "title": "🎁 Uma surpresa assustadora!",
+        "title": "🎁 Uma surpresa assustadora! Ganhaste:",
         "description": "Adicione o seu presente ao carrinho e use este código no checkout."
       }
     }

@@ -12,19 +12,19 @@
     },
     "discountCode": {
       "message": {
-        "title": "✨ Nytårsgevinst!",
+        "title": "✨ Nytårsgevinst! Du fik:",
         "description": "Brug koden nedenfor ved kassen for at hente din nytårsgevinst."
       }
     },
     "freeShipping": {
       "message": {
-        "title": "✨ Nytårsgevinst!",
+        "title": "✨ Nytårsgevinst! Du fik:",
         "description": "Brug koden nedenfor ved kassen for at nyde gratis fragt på din ordre."
       }
     },
     "freeGift": {
       "message": {
-        "title": "🎁 Nytårsoverraskelse!",
+        "title": "🎁 Nytårsoverraskelse! Du fik:",
         "description": "Læg din gave i kurven, og brug denne kode ved betaling."
       }
     }

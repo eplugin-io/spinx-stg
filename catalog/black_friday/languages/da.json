@@ -12,19 +12,19 @@
     },
     "discountCode": {
       "message": {
-        "title": "💥 Black Friday-gevinst!",
+        "title": "💥 Black Friday-gevinst! Du fik:",
         "description": "Brug koden nedenfor ved kassen for at hente din Black Friday-rabat."
       }
     },
     "freeShipping": {
       "message": {
-        "title": "🚚 Black Friday-gevinst!",
+        "title": "🚚 Black Friday-gevinst! Du fik:",
         "description": "Brug koden nedenfor ved kassen for at nyde gratis fragt på din Black Friday-ordre."
       }
     },
     "freeGift": {
       "message": {
-        "title": "🎁 Black Friday-gevinst!",
+        "title": "🎁 Black Friday-gevinst! Du fik:",
         "description": "Læg din gave i kurven, og brug denne kode ved betaling."
       }
     }

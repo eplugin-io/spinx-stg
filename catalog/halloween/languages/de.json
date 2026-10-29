@@ -12,19 +12,19 @@
     },
     "discountCode": {
       "message": {
-        "title": "🎃 Buh!",
+        "title": "🎃 Buh! Das hast du gewonnen:",
         "description": "Verwende den Code unten an der Kasse, um deine gruseligen Ersparnisse freizuschalten."
       }
     },
     "freeShipping": {
       "message": {
-        "title": "🎃 Buh!",
+        "title": "🎃 Buh! Das hast du gewonnen:",
         "description": "Verwende den Code unten an der Kasse, um kostenlosen Versand aus dem Jenseits zu genießen."
       }
     },
     "freeGift": {
       "message": {
-        "title": "🎁 Eine gruselige Überraschung!",
+        "title": "🎁 Eine gruselige Überraschung! Das hast du gewonnen:",
         "description": "Lege dein Geschenk in den Warenkorb und verwende diesen Code an der Kasse."
       }
     }

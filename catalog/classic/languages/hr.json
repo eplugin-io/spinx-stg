@@ -12,19 +12,19 @@
     },
     "discountCode": {
       "message": {
-        "title": "Čestitamo!",
+        "title": "Čestitamo! Osvojili ste:",
         "description": "Upotrijebite kod ispod prilikom plaćanja kako biste iskoristili svoj popust."
       }
     },
     "freeShipping": {
       "message": {
-        "title": "Čestitamo!",
+        "title": "Čestitamo! Osvojili ste:",
         "description": "Upotrijebite kod ispod prilikom plaćanja kako biste dobili besplatnu dostavu."
       }
     },
     "freeGift": {
       "message": {
-        "title": "Iznenađenje!",
+        "title": "Iznenađenje! Osvojili ste:",
         "description": "Dodajte poklon u košaricu i upotrijebite ovaj kod pri plaćanju."
       }
     }

@@ -12,19 +12,19 @@
     },
     "discountCode": {
       "message": {
-        "title": "🎁 Świąteczna niespodzianka!",
+        "title": "🎁 Świąteczna niespodzianka! Twoja nagroda:",
         "description": "Użyj poniższego kodu przy kasie, aby cieszyć się świąteczną nagrodą."
       }
     },
     "freeShipping": {
       "message": {
-        "title": "🎁 Świąteczna niespodzianka!",
+        "title": "🎁 Świąteczna niespodzianka! Twoja nagroda:",
         "description": "Użyj poniższego kodu przy kasie, aby cieszyć się darmową świąteczną dostawą."
       }
     },
     "freeGift": {
       "message": {
-        "title": "🎁 Świąteczna niespodzianka!",
+        "title": "🎁 Świąteczna niespodzianka! Twoja nagroda:",
         "description": "Dodaj prezent do koszyka i użyj tego kodu przy kasie."
       }
     }

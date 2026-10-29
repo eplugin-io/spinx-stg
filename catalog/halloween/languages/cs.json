@@ -12,19 +12,19 @@
     },
     "discountCode": {
       "message": {
-        "title": "🎃 Bú!",
+        "title": "🎃 Bú! Vyhráli jste:",
         "description": "Použijte kód níže při placení a odemkněte si svou strašidelnou úsporu."
       }
     },
     "freeShipping": {
       "message": {
-        "title": "🎃 Bú!",
+        "title": "🎃 Bú! Vyhráli jste:",
         "description": "Použijte kód níže při placení a užijte si dopravu zdarma z onoho světa."
       }
     },
     "freeGift": {
       "message": {
-        "title": "🎁 Strašidelné překvapení!",
+        "title": "🎁 Strašidelné překvapení! Vyhráli jste:",
         "description": "Přidejte dárek do košíku a použijte tento kód u pokladny."
       }
     }
