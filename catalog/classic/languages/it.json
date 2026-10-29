@@ -12,19 +12,19 @@
     },
     "discountCode": {
       "message": {
-        "title": "Complimenti! Hai vinto:",
+        "title": "Complimenti, hai vinto!",
         "description": "Usa il codice qui sotto al checkout per usufruire del tuo sconto."
       }
     },
     "freeShipping": {
       "message": {
-        "title": "Complimenti! Hai vinto:",
+        "title": "Complimenti, hai vinto!",
         "description": "Usa il codice qui sotto al checkout per ottenere la spedizione gratuita."
       }
     },
     "freeGift": {
       "message": {
-        "title": "Sorpresa! Hai vinto:",
+        "title": "Sorpresa, un regalo solo per te!",
         "description": "Aggiungi il tuo regalo al carrello e usa questo codice al checkout."
       }
     }

@@ -12,19 +12,19 @@
     },
     "discountCode": {
       "message": {
-        "title": "恭喜！你抽中了：",
+        "title": "恭喜，你中獎了！",
         "description": "結帳時輸入以下代碼即可享有優惠。"
       }
     },
     "freeShipping": {
       "message": {
-        "title": "恭喜！你抽中了：",
+        "title": "恭喜，你中獎了！",
         "description": "結帳時輸入以下代碼即可享免運費。"
       }
     },
     "freeGift": {
       "message": {
-        "title": "驚喜！你抽中了：",
+        "title": "驚喜，專屬於你的禮物！",
         "description": "將禮品加入購物車，並在結帳時使用此代碼。"
       }
     }

@@ -12,19 +12,19 @@
     },
     "discountCode": {
       "message": {
-        "title": "Gratulacje! Twoja nagroda:",
+        "title": "Gratulacje, wygrana jest Twoja!",
         "description": "Użyj poniższego kodu przy kasie, aby skorzystać ze zniżki."
       }
     },
     "freeShipping": {
       "message": {
-        "title": "Gratulacje! Twoja nagroda:",
+        "title": "Gratulacje, wygrana jest Twoja!",
         "description": "Użyj poniższego kodu przy kasie, aby otrzymać darmową dostawę."
       }
     },
     "freeGift": {
       "message": {
-        "title": "Niespodzianka! Twoja nagroda:",
+        "title": "Niespodzianka, prezent specjalnie dla Ciebie!",
         "description": "Dodaj prezent do koszyka i użyj tego kodu przy kasie."
       }
     }

@@ -12,19 +12,19 @@
     },
     "discountCode": {
       "message": {
-        "title": "Congrats! You Won:",
+        "title": "Congrats, you're a winner!",
         "description": "Use the code below at checkout to enjoy your discount."
       }
     },
     "freeShipping": {
       "message": {
-        "title": "Congrats! You Won:",
+        "title": "Congrats, you're a winner!",
         "description": "Use the code below at checkout to get free shipping."
       }
     },
     "freeGift": {
       "message": {
-        "title": "Surprise! You Won:",
+        "title": "Surprise, a gift just for you!",
         "description": "Add your gift to cart and use this code at checkout."
       }
     }

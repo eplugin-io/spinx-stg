@@ -12,19 +12,19 @@
     },
     "discountCode": {
       "message": {
-        "title": "🎁 Joulun yllätys! Voitit:",
+        "title": "🎁 Hyvää joulua, voitit!",
         "description": "Käytä alla olevaa koodia kassalla nauttiaksesi juhlapalkinnostasi."
       }
     },
     "freeShipping": {
       "message": {
-        "title": "🎁 Joulun yllätys! Voitit:",
+        "title": "🎁 Hyvää joulua, voitit!",
         "description": "Käytä alla olevaa koodia kassalla nauttiaksesi ilmaisesta joulutoimituksesta."
       }
     },
     "freeGift": {
       "message": {
-        "title": "🎁 Joulun yllätys! Voitit:",
+        "title": "🎁 Hyvää joulua, voitit!",
         "description": "Lisää lahjasi ostoskoriin ja käytä tätä koodia kassalla."
       }
     }

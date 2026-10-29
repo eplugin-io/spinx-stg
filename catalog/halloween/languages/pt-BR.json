@@ -12,19 +12,19 @@
     },
     "discountCode": {
       "message": {
-        "title": "🎃 Buu! Você Ganhou:",
+        "title": "🎃 Buu, você ganhou!",
         "description": "Use o código abaixo no checkout para desbloquear sua economia assustadora."
       }
     },
     "freeShipping": {
       "message": {
-        "title": "🎃 Buu! Você Ganhou:",
+        "title": "🎃 Buu, você ganhou!",
         "description": "Use o código abaixo no checkout para aproveitar o frete grátis do além."
       }
     },
     "freeGift": {
       "message": {
-        "title": "🎁 Uma Surpresa Assustadora! Você Ganhou:",
+        "title": "🎁 Surpresa assustadora, um presente só para você!",
         "description": "Adicione seu brinde ao carrinho e use este código no checkout."
       }
     }

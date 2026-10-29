@@ -12,19 +12,19 @@
     },
     "discountCode": {
       "message": {
-        "title": "💥 Wygrana Black Friday! Twoja nagroda:",
+        "title": "💥 Black Friday już jest, wygrana jest Twoja!",
         "description": "Użyj poniższego kodu przy kasie, aby odebrać swoją zniżkę Black Friday."
       }
     },
     "freeShipping": {
       "message": {
-        "title": "🚚 Wygrana Black Friday! Twoja nagroda:",
+        "title": "🚚 Black Friday już jest, wygrana jest Twoja!",
         "description": "Użyj poniższego kodu przy kasie, aby cieszyć się darmową dostawą swojego zamówienia Black Friday."
       }
     },
     "freeGift": {
       "message": {
-        "title": "🎁 Wygrana Black Friday! Twoja nagroda:",
+        "title": "🎁 Niespodzianka na Black Friday, prezent specjalnie dla Ciebie!",
         "description": "Dodaj prezent do koszyka i użyj tego kodu przy kasie."
       }
     }

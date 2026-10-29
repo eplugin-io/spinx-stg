@@ -12,19 +12,19 @@
     },
     "discountCode": {
       "message": {
-        "title": "💥 Výhra Black Friday! Tvoja výhra:",
+        "title": "💥 Black Friday je tu, výhra je tvoja!",
         "description": "Použi kód nižšie pri platbe a vyzdvihni si svoju zľavu Black Friday."
       }
     },
     "freeShipping": {
       "message": {
-        "title": "🚚 Výhra Black Friday! Tvoja výhra:",
+        "title": "🚚 Black Friday je tu, výhra je tvoja!",
         "description": "Použi kód nižšie pri platbe a uži si dopravu zadarmo na svoju objednávku Black Friday."
       }
     },
     "freeGift": {
       "message": {
-        "title": "🎁 Výhra Black Friday! Tvoja výhra:",
+        "title": "🎁 Prekvapenie na Black Friday, darček len pre teba!",
         "description": "Pridajte darček do košíka a použite tento kód pri pokladni."
       }
     }

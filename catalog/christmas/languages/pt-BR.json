@@ -12,19 +12,19 @@
     },
     "discountCode": {
       "message": {
-        "title": "🎁 Surpresa de Natal! Você Ganhou:",
+        "title": "🎁 Feliz Natal, você ganhou!",
         "description": "Use o código abaixo no checkout para aproveitar sua recompensa festiva."
       }
     },
     "freeShipping": {
       "message": {
-        "title": "🎁 Surpresa de Natal! Você Ganhou:",
+        "title": "🎁 Feliz Natal, você ganhou!",
         "description": "Use o código abaixo no checkout para aproveitar frete grátis nas festas."
       }
     },
     "freeGift": {
       "message": {
-        "title": "🎁 Surpresa de Natal! Você Ganhou:",
+        "title": "🎁 Feliz Natal, você ganhou!",
         "description": "Adicione seu brinde ao carrinho e use este código no checkout."
       }
     }

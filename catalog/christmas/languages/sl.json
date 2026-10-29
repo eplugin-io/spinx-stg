@@ -12,19 +12,19 @@
     },
     "discountCode": {
       "message": {
-        "title": "🎁 Božično presenečenje! Tvoja nagrada:",
+        "title": "🎁 Vesel božič, zmaga je tvoja!",
         "description": "Uporabi spodnjo kodo ob zaključku nakupa in izkoristi svojo praznično nagrado."
       }
     },
     "freeShipping": {
       "message": {
-        "title": "🎁 Božično presenečenje! Tvoja nagrada:",
+        "title": "🎁 Vesel božič, zmaga je tvoja!",
         "description": "Uporabi spodnjo kodo ob zaključku nakupa in izkoristi brezplačno praznično dostavo."
       }
     },
     "freeGift": {
       "message": {
-        "title": "🎁 Božično presenečenje! Tvoja nagrada:",
+        "title": "🎁 Vesel božič, zmaga je tvoja!",
         "description": "Dodajte darilo v košarico in uporabite to kodo ob zaključku nakupa."
       }
     }

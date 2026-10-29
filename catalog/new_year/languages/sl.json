@@ -12,19 +12,19 @@
     },
     "discountCode": {
       "message": {
-        "title": "✨ Novoletna zmaga! Tvoja nagrada:",
+        "title": "✨ Srečno novo leto, zmaga je tvoja!",
         "description": "Uporabi spodnjo kodo ob zaključku nakupa in unovči svojo novoletno nagrado."
       }
     },
     "freeShipping": {
       "message": {
-        "title": "✨ Novoletna zmaga! Tvoja nagrada:",
+        "title": "✨ Srečno novo leto, zmaga je tvoja!",
         "description": "Uporabi spodnjo kodo ob zaključku nakupa in izkoristi brezplačno dostavo za svoje naročilo."
       }
     },
     "freeGift": {
       "message": {
-        "title": "🎁 Novoletno presenečenje! Tvoja nagrada:",
+        "title": "🎁 Novoletno presenečenje, darilo samo zate!",
         "description": "Dodajte darilo v košarico in uporabite to kodo ob zaključku nakupa."
       }
     }

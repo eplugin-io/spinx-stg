@@ -12,19 +12,19 @@
     },
     "discountCode": {
       "message": {
-        "title": "Chúc mừng! Bạn đã trúng:",
+        "title": "Chúc mừng, bạn đã trúng thưởng!",
         "description": "Sử dụng mã bên dưới khi thanh toán để nhận ưu đãi."
       }
     },
     "freeShipping": {
       "message": {
-        "title": "Chúc mừng! Bạn đã trúng:",
+        "title": "Chúc mừng, bạn đã trúng thưởng!",
         "description": "Sử dụng mã bên dưới khi thanh toán để được miễn phí vận chuyển."
       }
     },
     "freeGift": {
       "message": {
-        "title": "Bất ngờ! Bạn đã trúng:",
+        "title": "Bất ngờ, có quà dành cho bạn!",
         "description": "Thêm quà tặng vào giỏ hàng và dùng mã này khi thanh toán."
       }
     }

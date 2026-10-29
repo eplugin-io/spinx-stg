@@ -12,19 +12,19 @@
     },
     "discountCode": {
       "message": {
-        "title": "💥 Black Friday Kazancı! Kazandığın Ödül:",
+        "title": "💥 Black Friday geldi, kazandın!",
         "description": "Black Friday indirimini almak için ödeme sırasında aşağıdaki kodu gir."
       }
     },
     "freeShipping": {
       "message": {
-        "title": "🚚 Black Friday Kazancı! Kazandığın Ödül:",
+        "title": "🚚 Black Friday geldi, kazandın!",
         "description": "Black Friday siparişinde ücretsiz kargonun keyfini çıkarmak için ödeme sırasında aşağıdaki kodu gir."
       }
     },
     "freeGift": {
       "message": {
-        "title": "🎁 Black Friday Kazancı! Kazandığın Ödül:",
+        "title": "🎁 Black Friday sürprizi, sadece sana özel bir hediye!",
         "description": "Hediyenizi sepete ekleyin ve ödeme sırasında bu kodu kullanın."
       }
     }

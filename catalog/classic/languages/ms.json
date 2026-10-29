@@ -12,19 +12,19 @@
     },
     "discountCode": {
       "message": {
-        "title": "Tahniah! Anda Menang:",
+        "title": "Tahniah, anda menang!",
         "description": "Gunakan kod di bawah semasa checkout untuk nikmati diskaun anda."
       }
     },
     "freeShipping": {
       "message": {
-        "title": "Tahniah! Anda Menang:",
+        "title": "Tahniah, anda menang!",
         "description": "Gunakan kod di bawah semasa checkout untuk dapatkan penghantaran percuma."
       }
     },
     "freeGift": {
       "message": {
-        "title": "Kejutan! Anda Menang:",
+        "title": "Kejutan, hadiah istimewa untuk anda!",
         "description": "Tambah hadiah anda ke troli dan gunakan kod ini semasa checkout."
       }
     }

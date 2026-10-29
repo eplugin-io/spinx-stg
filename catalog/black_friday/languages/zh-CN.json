@@ -12,19 +12,19 @@
     },
     "discountCode": {
       "message": {
-        "title": "💥 黑五好运！您获得了：",
+        "title": "💥 黑五来啦，您中奖了！",
         "description": "结账时使用下方优惠码，领取您的黑五折扣。"
       }
     },
     "freeShipping": {
       "message": {
-        "title": "🚚 黑五好运！您获得了：",
+        "title": "🚚 黑五来啦，您中奖了！",
         "description": "结账时使用下方优惠码，享受黑五订单免运费。"
       }
     },
     "freeGift": {
       "message": {
-        "title": "🎁 黑五好运！您获得了：",
+        "title": "🎁 黑五惊喜，专属于您的礼物！",
         "description": "将礼品加入购物车，并在结账时使用此代码。"
       }
     }

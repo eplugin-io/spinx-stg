@@ -12,19 +12,19 @@
     },
     "discountCode": {
       "message": {
-        "title": "✨ New Year Win! You Got:",
+        "title": "✨ Happy New Year, you're a winner!",
         "description": "Use the code below at checkout to claim your New Year reward."
       }
     },
     "freeShipping": {
       "message": {
-        "title": "✨ New Year Win! You Got:",
+        "title": "✨ Happy New Year, you're a winner!",
         "description": "Use the code below at checkout to enjoy free shipping on your order."
       }
     },
     "freeGift": {
       "message": {
-        "title": "🎁 New Year Surprise! You Got:",
+        "title": "🎁 New Year surprise, a gift just for you!",
         "description": "Add your gift to cart and use this code at checkout."
       }
     }

@@ -12,19 +12,19 @@
     },
     "discountCode": {
       "message": {
-        "title": "🎃 Bøh! Du vandt:",
+        "title": "🎃 Bøh, du har vundet!",
         "description": "Brug koden nedenfor ved kassen for at låse op for din uhyggelige besparelse."
       }
     },
     "freeShipping": {
       "message": {
-        "title": "🎃 Bøh! Du vandt:",
+        "title": "🎃 Bøh, du har vundet!",
         "description": "Brug koden nedenfor ved kassen for at nyde gratis fragt fra den anden side."
       }
     },
     "freeGift": {
       "message": {
-        "title": "🎁 En uhyggelig overraskelse! Du vandt:",
+        "title": "🎁 En uhyggelig overraskelse, en gave kun til dig!",
         "description": "Læg din gave i kurven, og brug denne kode ved betaling."
       }
     }

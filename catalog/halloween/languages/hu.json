@@ -12,19 +12,19 @@
     },
     "discountCode": {
       "message": {
-        "title": "🎃 Bú! Ezt nyerted:",
+        "title": "🎃 Bú, nyertél!",
         "description": "Használd az alábbi kódot a fizetésnél, hogy feloldd hátborzongató kedvezményedet."
       }
     },
     "freeShipping": {
       "message": {
-        "title": "🎃 Bú! Ezt nyerted:",
+        "title": "🎃 Bú, nyertél!",
         "description": "Használd az alábbi kódot a fizetésnél, hogy élvezhesd a túlvilági ingyenes szállítást."
       }
     },
     "freeGift": {
       "message": {
-        "title": "🎁 Hátborzongató meglepetés! Ezt nyerted:",
+        "title": "🎁 Hátborzongató meglepetés, ajándék csak neked!",
         "description": "Tedd az ajándékot a kosárba, és használd ezt a kódot fizetéskor."
       }
     }

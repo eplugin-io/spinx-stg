@@ -12,19 +12,19 @@
     },
     "discountCode": {
       "message": {
-        "title": "Selamat! Kamu Menang:",
+        "title": "Selamat, kamu menang!",
         "description": "Gunakan kode di bawah ini saat checkout untuk menikmati diskonmu."
       }
     },
     "freeShipping": {
       "message": {
-        "title": "Selamat! Kamu Menang:",
+        "title": "Selamat, kamu menang!",
         "description": "Gunakan kode di bawah ini saat checkout untuk mendapatkan gratis ongkir."
       }
     },
     "freeGift": {
       "message": {
-        "title": "Kejutan! Kamu Menang:",
+        "title": "Kejutan, hadiah khusus untukmu!",
         "description": "Tambahkan hadiah Anda ke keranjang dan gunakan kode ini saat checkout."
       }
     }

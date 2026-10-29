@@ -12,19 +12,19 @@
     },
     "discountCode": {
       "message": {
-        "title": "✨ Victorie de Anul Nou! Ai Primit:",
+        "title": "✨ La mulți ani, ai câștigat!",
         "description": "Folosește codul de mai jos la finalizarea comenzii pentru a-ți revendica premiul de Anul Nou."
       }
     },
     "freeShipping": {
       "message": {
-        "title": "✨ Victorie de Anul Nou! Ai Primit:",
+        "title": "✨ La mulți ani, ai câștigat!",
         "description": "Folosește codul de mai jos la finalizarea comenzii pentru a beneficia de transport gratuit la comanda ta."
       }
     },
     "freeGift": {
       "message": {
-        "title": "🎁 Surpriză de Anul Nou! Ai Primit:",
+        "title": "🎁 Surpriză de Anul Nou, un cadou doar pentru tine!",
         "description": "Adaugă cadoul în coș și folosește acest cod la finalizarea comenzii."
       }
     }

@@ -12,19 +12,19 @@
     },
     "discountCode": {
       "message": {
-        "title": "🎁 圣诞惊喜！您赢得了：",
+        "title": "🎁 圣诞快乐，您中奖了！",
         "description": "结账时使用下方优惠码，享受您的节日专属优惠。"
       }
     },
     "freeShipping": {
       "message": {
-        "title": "🎁 圣诞惊喜！您赢得了：",
+        "title": "🎁 圣诞快乐，您中奖了！",
         "description": "结账时使用下方优惠码，享受节日免运费。"
       }
     },
     "freeGift": {
       "message": {
-        "title": "🎁 圣诞惊喜！您赢得了：",
+        "title": "🎁 圣诞快乐，您中奖了！",
         "description": "将礼品加入购物车，并在结账时使用此代码。"
       }
     }

@@ -12,19 +12,19 @@
     },
     "discountCode": {
       "message": {
-        "title": "Grattis! Du vann:",
+        "title": "Grattis, du har vunnit!",
         "description": "Använd koden nedan i kassan för att njuta av din rabatt."
       }
     },
     "freeShipping": {
       "message": {
-        "title": "Grattis! Du vann:",
+        "title": "Grattis, du har vunnit!",
         "description": "Använd koden nedan i kassan för att få fri frakt."
       }
     },
     "freeGift": {
       "message": {
-        "title": "Överraskning! Du vann:",
+        "title": "Överraskning, en present bara till dig!",
         "description": "Lägg din gåva i varukorgen och använd den här koden i kassan."
       }
     }

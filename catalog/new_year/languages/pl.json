@@ -12,19 +12,19 @@
     },
     "discountCode": {
       "message": {
-        "title": "✨ Noworoczna wygrana! Twoja nagroda:",
+        "title": "✨ Szczęśliwego Nowego Roku, wygrana jest Twoja!",
         "description": "Użyj poniższego kodu przy kasie, aby odebrać swoją noworoczną nagrodę."
       }
     },
     "freeShipping": {
       "message": {
-        "title": "✨ Noworoczna wygrana! Twoja nagroda:",
+        "title": "✨ Szczęśliwego Nowego Roku, wygrana jest Twoja!",
         "description": "Użyj poniższego kodu przy kasie, aby cieszyć się darmową dostawą swojego zamówienia."
       }
     },
     "freeGift": {
       "message": {
-        "title": "🎁 Noworoczna niespodzianka! Twoja nagroda:",
+        "title": "🎁 Noworoczna niespodzianka, prezent specjalnie dla Ciebie!",
         "description": "Dodaj prezent do koszyka i użyj tego kodu przy kasie."
       }
     }

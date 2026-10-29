@@ -12,19 +12,19 @@
     },
     "discountCode": {
       "message": {
-        "title": "Sveikiname! Laimėjai:",
+        "title": "Sveikiname, laimėjai!",
         "description": "Naudok žemiau esantį kodą atsiskaitydamas ir mėgaukis nuolaida."
       }
     },
     "freeShipping": {
       "message": {
-        "title": "Sveikiname! Laimėjai:",
+        "title": "Sveikiname, laimėjai!",
         "description": "Naudok žemiau esantį kodą atsiskaitydamas, kad gautum nemokamą pristatymą."
       }
     },
     "freeGift": {
       "message": {
-        "title": "Staigmena! Laimėjai:",
+        "title": "Staigmena, dovana tik tau!",
         "description": "Įdėkite dovaną į krepšelį ir atsiskaitydami naudokite šį kodą."
       }
     }

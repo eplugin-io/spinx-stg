@@ -12,19 +12,19 @@
     },
     "discountCode": {
       "message": {
-        "title": "✨ Yeni Yıl Kazancı! Kazandığın Ödül:",
+        "title": "✨ Mutlu Yıllar, kazandın!",
         "description": "Yeni yıl ödülünü almak için ödeme sırasında aşağıdaki kodu gir."
       }
     },
     "freeShipping": {
       "message": {
-        "title": "✨ Yeni Yıl Kazancı! Kazandığın Ödül:",
+        "title": "✨ Mutlu Yıllar, kazandın!",
         "description": "Siparişinde ücretsiz kargonun keyfini çıkarmak için ödeme sırasında aşağıdaki kodu gir."
       }
     },
     "freeGift": {
       "message": {
-        "title": "🎁 Yeni Yıl Sürprizi! Kazandığın Ödül:",
+        "title": "🎁 Yeni yıl sürprizi, sadece sana özel bir hediye!",
         "description": "Hediyenizi sepete ekleyin ve ödeme sırasında bu kodu kullanın."
       }
     }

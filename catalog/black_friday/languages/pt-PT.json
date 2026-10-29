@@ -12,19 +12,19 @@
     },
     "discountCode": {
       "message": {
-        "title": "💥 Vitória de Black Friday! Recebeste:",
+        "title": "💥 Chegou a Black Friday, ganhaste!",
         "description": "Usa o código abaixo no checkout para reclamares o teu desconto de Black Friday."
       }
     },
     "freeShipping": {
       "message": {
-        "title": "🚚 Vitória de Black Friday! Recebeste:",
+        "title": "🚚 Chegou a Black Friday, ganhaste!",
         "description": "Usa o código abaixo no checkout para desfrutares de portes grátis na tua encomenda de Black Friday."
       }
     },
     "freeGift": {
       "message": {
-        "title": "🎁 Vitória de Black Friday! Recebeste:",
+        "title": "🎁 Surpresa de Black Friday, uma prenda só para ti!",
         "description": "Adicione o seu presente ao carrinho e use este código no checkout."
       }
     }

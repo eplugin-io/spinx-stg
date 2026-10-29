@@ -12,19 +12,19 @@
     },
     "discountCode": {
       "message": {
-        "title": "💥 Νίκη Black Friday! Κέρδισες:",
+        "title": "💥 Η Black Friday είναι εδώ, κέρδισες!",
         "description": "Χρησιμοποίησε τον παρακάτω κωδικό στο ταμείο για να διεκδικήσεις την έκπτωσή σου Black Friday."
       }
     },
     "freeShipping": {
       "message": {
-        "title": "🚚 Νίκη Black Friday! Κέρδισες:",
+        "title": "🚚 Η Black Friday είναι εδώ, κέρδισες!",
         "description": "Χρησιμοποίησε τον παρακάτω κωδικό στο ταμείο για δωρεάν αποστολή στην παραγγελία σου Black Friday."
       }
     },
     "freeGift": {
       "message": {
-        "title": "🎁 Νίκη Black Friday! Κέρδισες:",
+        "title": "🎁 Έκπληξη Black Friday, ένα δώρο μόνο για σένα!",
         "description": "Προσθέστε το δώρο σας στο καλάθι και χρησιμοποιήστε αυτόν τον κωδικό στο ταμείο."
       }
     }

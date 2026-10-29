@@ -12,19 +12,19 @@
     },
     "discountCode": {
       "message": {
-        "title": "💥 Zmaga na črni petek! Tvoja nagrada:",
+        "title": "💥 Črni petek je tu, zmaga je tvoja!",
         "description": "Uporabi spodnjo kodo ob zaključku nakupa in unovči svoj popust za črni petek."
       }
     },
     "freeShipping": {
       "message": {
-        "title": "🚚 Zmaga na črni petek! Tvoja nagrada:",
+        "title": "🚚 Črni petek je tu, zmaga je tvoja!",
         "description": "Uporabi spodnjo kodo ob zaključku nakupa in izkoristi brezplačno dostavo za svoje naročilo ob črnem petku."
       }
     },
     "freeGift": {
       "message": {
-        "title": "🎁 Zmaga na črni petek! Tvoja nagrada:",
+        "title": "🎁 Presenečenje za črni petek, darilo samo zate!",
         "description": "Dodajte darilo v košarico in uporabite to kodo ob zaključku nakupa."
       }
     }

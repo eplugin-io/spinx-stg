@@ -12,19 +12,19 @@
     },
     "discountCode": {
       "message": {
-        "title": "🎁 Weihnachtsüberraschung! Das hast du gewonnen:",
+        "title": "🎁 Frohe Weihnachten, du hast gewonnen!",
         "description": "Verwende den Code unten an der Kasse, um deine festliche Belohnung zu genießen."
       }
     },
     "freeShipping": {
       "message": {
-        "title": "🎁 Weihnachtsüberraschung! Das hast du gewonnen:",
+        "title": "🎁 Frohe Weihnachten, du hast gewonnen!",
         "description": "Verwende den Code unten an der Kasse, um kostenlosen Feiertagsversand zu genießen."
       }
     },
     "freeGift": {
       "message": {
-        "title": "🎁 Weihnachtsüberraschung! Das hast du gewonnen:",
+        "title": "🎁 Frohe Weihnachten, du hast gewonnen!",
         "description": "Lege dein Geschenk in den Warenkorb und verwende diesen Code an der Kasse."
       }
     }

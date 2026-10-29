@@ -12,19 +12,19 @@
     },
     "discountCode": {
       "message": {
-        "title": "💥 Chiến thắng Black Friday! Bạn đã nhận:",
+        "title": "💥 Black Friday đây rồi, bạn đã trúng thưởng!",
         "description": "Sử dụng mã bên dưới khi thanh toán để nhận ưu đãi Black Friday của bạn."
       }
     },
     "freeShipping": {
       "message": {
-        "title": "🚚 Chiến thắng Black Friday! Bạn đã nhận:",
+        "title": "🚚 Black Friday đây rồi, bạn đã trúng thưởng!",
         "description": "Sử dụng mã bên dưới khi thanh toán để được miễn phí vận chuyển cho đơn hàng Black Friday."
       }
     },
     "freeGift": {
       "message": {
-        "title": "🎁 Chiến thắng Black Friday! Bạn đã nhận:",
+        "title": "🎁 Bất ngờ Black Friday, có quà dành cho bạn!",
         "description": "Thêm quà tặng vào giỏ hàng và dùng mã này khi thanh toán."
       }
     }

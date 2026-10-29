@@ -12,19 +12,19 @@
     },
     "discountCode": {
       "message": {
-        "title": "Felicitări! Ai Câștigat:",
+        "title": "Felicitări, ai câștigat!",
         "description": "Folosește codul de mai jos la finalizarea comenzii pentru a beneficia de reducerea ta."
       }
     },
     "freeShipping": {
       "message": {
-        "title": "Felicitări! Ai Câștigat:",
+        "title": "Felicitări, ai câștigat!",
         "description": "Folosește codul de mai jos la finalizarea comenzii pentru a beneficia de transport gratuit."
       }
     },
     "freeGift": {
       "message": {
-        "title": "Surpriză! Ai Câștigat:",
+        "title": "Surpriză, un cadou doar pentru tine!",
         "description": "Adaugă cadoul în coș și folosește acest cod la finalizarea comenzii."
       }
     }

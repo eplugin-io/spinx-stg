@@ -12,19 +12,19 @@
     },
     "discountCode": {
       "message": {
-        "title": "✨ ¡Victoria de Año Nuevo! Has conseguido:",
+        "title": "✨ ¡Feliz Año Nuevo, has ganado!",
         "description": "Usa el código de abajo al finalizar la compra para reclamar tu premio de Año Nuevo."
       }
     },
     "freeShipping": {
       "message": {
-        "title": "✨ ¡Victoria de Año Nuevo! Has conseguido:",
+        "title": "✨ ¡Feliz Año Nuevo, has ganado!",
         "description": "Usa el código de abajo al finalizar la compra para disfrutar de envío gratis en tu pedido."
       }
     },
     "freeGift": {
       "message": {
-        "title": "🎁 ¡Sorpresa de Año Nuevo! Has conseguido:",
+        "title": "🎁 ¡Sorpresa de Año Nuevo, un regalo solo para ti!",
         "description": "Añade tu regalo al carrito y usa este código al pagar."
       }
     }

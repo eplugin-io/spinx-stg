@@ -12,19 +12,19 @@
     },
     "discountCode": {
       "message": {
-        "title": "🎃 Bu! Du vann:",
+        "title": "🎃 Bu, du har vunnit!",
         "description": "Använd koden nedan i kassan för att låsa upp dina läskiga besparingar."
       }
     },
     "freeShipping": {
       "message": {
-        "title": "🎃 Bu! Du vann:",
+        "title": "🎃 Bu, du har vunnit!",
         "description": "Använd koden nedan i kassan för att njuta av fri frakt från andra sidan."
       }
     },
     "freeGift": {
       "message": {
-        "title": "🎁 En läskig överraskning! Du vann:",
+        "title": "🎁 En läskig överraskning, en present bara till dig!",
         "description": "Lägg din gåva i varukorgen och använd den här koden i kassan."
       }
     }
