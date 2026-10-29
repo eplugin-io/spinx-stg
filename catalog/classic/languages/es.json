@@ -12,19 +12,19 @@
     },
     "discountCode": {
       "message": {
-        "title": "¡Enhorabuena! ¡Has ganado {{REWARD}}!",
+        "title": "¡Enhorabuena!",
         "description": "Usa el código de abajo al finalizar la compra para disfrutar de tu descuento."
       }
     },
     "freeShipping": {
       "message": {
-        "title": "¡Enhorabuena! ¡Has ganado {{REWARD}}!",
+        "title": "¡Enhorabuena!",
         "description": "Usa el código de abajo al finalizar la compra para obtener envío gratis."
       }
     },
     "freeGift": {
       "message": {
-        "title": "¡Sorpresa! ¡Has ganado {{REWARD}}!",
+        "title": "¡Sorpresa!",
         "description": "Añade tu regalo al carrito y usa este código al pagar."
       }
     }

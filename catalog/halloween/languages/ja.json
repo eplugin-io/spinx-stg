@@ -12,19 +12,19 @@
     },
     "discountCode": {
       "message": {
-        "title": "🎃 ブー!{{REWARD}}が当たりました!",
+        "title": "🎃 ブー!",
         "description": "レジで下記のコードを使って、不気味なほどお得な特典をゲットしましょう。"
       }
     },
     "freeShipping": {
       "message": {
-        "title": "🎃 ブー!{{REWARD}}が当たりました!",
+        "title": "🎃 ブー!",
         "description": "レジで下記のコードを使って、あの世からの送料無料をお楽しみください。"
       }
     },
     "freeGift": {
       "message": {
-        "title": "🎁 不気味なサプライズ!{{REWARD}}が当たりました!",
+        "title": "🎁 不気味なサプライズ!",
         "description": "ギフトをカートに追加し、チェックアウト時にこのコードを使用してください。"
       }
     }

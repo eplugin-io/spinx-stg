@@ -12,19 +12,19 @@
     },
     "discountCode": {
       "message": {
-        "title": "🎃 Bø! Du vant {{REWARD}}!",
+        "title": "🎃 Bø!",
         "description": "Bruk koden nedenfor i kassen for å låse opp dine skumle besparelser."
       }
     },
     "freeShipping": {
       "message": {
-        "title": "🎃 Bø! Du vant {{REWARD}}!",
+        "title": "🎃 Bø!",
         "description": "Bruk koden nedenfor i kassen for å nyte gratis frakt fra den andre siden."
       }
     },
     "freeGift": {
       "message": {
-        "title": "🎁 En skummel overraskelse! Du vant {{REWARD}}!",
+        "title": "🎁 En skummel overraskelse!",
         "description": "Legg gaven i handlekurven og bruk denne koden i kassen."
       }
     }

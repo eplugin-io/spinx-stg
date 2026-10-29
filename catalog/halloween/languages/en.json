@@ -12,19 +12,19 @@
     },
     "discountCode": {
       "message": {
-        "title": "🎃 Boo! You Won {{REWARD}}!",
+        "title": "🎃 Boo!",
         "description": "Use the code below at checkout to unlock your spooky savings."
       }
     },
     "freeShipping": {
       "message": {
-        "title": "🎃 Boo! You Won {{REWARD}}!",
+        "title": "🎃 Boo!",
         "description": "Use the code below at checkout to enjoy free shipping from the other side."
       }
     },
     "freeGift": {
       "message": {
-        "title": "🎁 A Spooky Surprise! You Won {{REWARD}}!",
+        "title": "🎁 A Spooky Surprise!",
         "description": "Add your gift to cart and use this code at checkout."
       }
     }

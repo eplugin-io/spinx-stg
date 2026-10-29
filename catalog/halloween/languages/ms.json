@@ -12,19 +12,19 @@
     },
     "discountCode": {
       "message": {
-        "title": "🎃 Boo! Anda Menang {{REWARD}}!",
+        "title": "🎃 Boo!",
         "description": "Gunakan kod di bawah semasa checkout untuk buka kunci penjimatan seram anda."
       }
     },
     "freeShipping": {
       "message": {
-        "title": "🎃 Boo! Anda Menang {{REWARD}}!",
+        "title": "🎃 Boo!",
         "description": "Gunakan kod di bawah semasa checkout untuk nikmati penghantaran percuma dari alam ghaib."
       }
     },
     "freeGift": {
       "message": {
-        "title": "🎁 Kejutan Seram! Anda Menang {{REWARD}}!",
+        "title": "🎁 Kejutan Seram!",
         "description": "Tambah hadiah anda ke troli dan gunakan kod ini semasa checkout."
       }
     }

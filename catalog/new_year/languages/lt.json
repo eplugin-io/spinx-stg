@@ -12,19 +12,19 @@
     },
     "discountCode": {
       "message": {
-        "title": "✨ Naujųjų metų laimėjimas! Gavai {{REWARD}}!",
+        "title": "✨ Naujųjų metų laimėjimas!",
         "description": "Naudok žemiau esantį kodą atsiskaitydamas, kad atsiimtum savo Naujųjų metų prizą."
       }
     },
     "freeShipping": {
       "message": {
-        "title": "✨ Naujųjų metų laimėjimas! Gavai {{REWARD}}!",
+        "title": "✨ Naujųjų metų laimėjimas!",
         "description": "Naudok žemiau esantį kodą atsiskaitydamas ir mėgaukis nemokamu pristatymu savo užsakymui."
       }
     },
     "freeGift": {
       "message": {
-        "title": "🎁 Naujųjų metų staigmena! Gavai {{REWARD}}!",
+        "title": "🎁 Naujųjų metų staigmena!",
         "description": "Įdėkite dovaną į krepšelį ir atsiskaitydami naudokite šį kodą."
       }
     }

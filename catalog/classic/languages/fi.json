@@ -12,19 +12,19 @@
     },
     "discountCode": {
       "message": {
-        "title": "Onnittelut! Voitit {{REWARD}}!",
+        "title": "Onnittelut!",
         "description": "Käytä alla olevaa koodia kassalla nauttiaksesi alennuksestasi."
       }
     },
     "freeShipping": {
       "message": {
-        "title": "Onnittelut! Voitit {{REWARD}}!",
+        "title": "Onnittelut!",
         "description": "Käytä alla olevaa koodia kassalla saadaksesi ilmaisen toimituksen."
       }
     },
     "freeGift": {
       "message": {
-        "title": "Yllätys! Voitit {{REWARD}}!",
+        "title": "Yllätys!",
         "description": "Lisää lahjasi ostoskoriin ja käytä tätä koodia kassalla."
       }
     }

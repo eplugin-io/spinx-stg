@@ -12,19 +12,19 @@
     },
     "discountCode": {
       "message": {
-        "title": "מזל טוב! זכיתם ב-{{REWARD}}!",
+        "title": "מזל טוב!",
         "description": "השתמשו בקוד שלמטה בקופה כדי ליהנות מההנחה שלכם."
       }
     },
     "freeShipping": {
       "message": {
-        "title": "מזל טוב! זכיתם ב-{{REWARD}}!",
+        "title": "מזל טוב!",
         "description": "השתמשו בקוד שלמטה בקופה כדי לקבל משלוח חינם."
       }
     },
     "freeGift": {
       "message": {
-        "title": "הפתעה! זכיתם ב-{{REWARD}}!",
+        "title": "הפתעה!",
         "description": "הוסיפו את המתנה לעגלה והשתמשו בקוד הזה בקופה."
       }
     }

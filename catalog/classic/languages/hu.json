@@ -12,19 +12,19 @@
     },
     "discountCode": {
       "message": {
-        "title": "Gratulálunk! Nyertél {{REWARD}}!",
+        "title": "Gratulálunk!",
         "description": "Használd az alábbi kódot a fizetésnél, hogy élvezhesd a kedvezményedet."
       }
     },
     "freeShipping": {
       "message": {
-        "title": "Gratulálunk! Nyertél {{REWARD}}!",
+        "title": "Gratulálunk!",
         "description": "Használd az alábbi kódot a fizetésnél az ingyenes szállításért."
       }
     },
     "freeGift": {
       "message": {
-        "title": "Meglepetés! Nyertél {{REWARD}}!",
+        "title": "Meglepetés!",
         "description": "Tedd az ajándékot a kosárba, és használd ezt a kódot fizetéskor."
       }
     }

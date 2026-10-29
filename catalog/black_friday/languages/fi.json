@@ -12,19 +12,19 @@
     },
     "discountCode": {
       "message": {
-        "title": "💥 Black Friday -voitto! Sait {{REWARD}}!",
+        "title": "💥 Black Friday -voitto!",
         "description": "Käytä alla olevaa koodia kassalla lunastaaksesi Black Friday -alennuksesi."
       }
     },
     "freeShipping": {
       "message": {
-        "title": "🚚 Black Friday -voitto! Sait {{REWARD}}!",
+        "title": "🚚 Black Friday -voitto!",
         "description": "Käytä alla olevaa koodia kassalla nauttiaksesi ilmaisesta toimituksesta Black Friday -tilauksellesi."
       }
     },
     "freeGift": {
       "message": {
-        "title": "🎁 Black Friday -voitto! Sait {{REWARD}}!",
+        "title": "🎁 Black Friday -voitto!",
         "description": "Lisää lahjasi ostoskoriin ja käytä tätä koodia kassalla."
       }
     }

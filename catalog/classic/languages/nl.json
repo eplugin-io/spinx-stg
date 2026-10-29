@@ -12,19 +12,19 @@
     },
     "discountCode": {
       "message": {
-        "title": "Gefeliciteerd! Je hebt {{REWARD}} gewonnen!",
+        "title": "Gefeliciteerd!",
         "description": "Gebruik onderstaande code bij het afrekenen om van je korting te genieten."
       }
     },
     "freeShipping": {
       "message": {
-        "title": "Gefeliciteerd! Je hebt {{REWARD}} gewonnen!",
+        "title": "Gefeliciteerd!",
         "description": "Gebruik onderstaande code bij het afrekenen voor gratis verzending."
       }
     },
     "freeGift": {
       "message": {
-        "title": "Verrassing! Je hebt {{REWARD}} gewonnen!",
+        "title": "Verrassing!",
         "description": "Voeg je cadeau toe aan je winkelwagen en gebruik deze code bij het afrekenen."
       }
     }

@@ -12,19 +12,19 @@
     },
     "discountCode": {
       "message": {
-        "title": "Gratulerer! Du vant {{REWARD}}!",
+        "title": "Gratulerer!",
         "description": "Bruk koden nedenfor i kassen for å nyte rabatten din."
       }
     },
     "freeShipping": {
       "message": {
-        "title": "Gratulerer! Du vant {{REWARD}}!",
+        "title": "Gratulerer!",
         "description": "Bruk koden nedenfor i kassen for å få gratis frakt."
       }
     },
     "freeGift": {
       "message": {
-        "title": "Overraskelse! Du vant {{REWARD}}!",
+        "title": "Overraskelse!",
         "description": "Legg gaven i handlekurven og bruk denne koden i kassen."
       }
     }

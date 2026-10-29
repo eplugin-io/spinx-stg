@@ -12,19 +12,19 @@
     },
     "discountCode": {
       "message": {
-        "title": "Glückwunsch! Du hast {{REWARD}} gewonnen!",
+        "title": "Glückwunsch!",
         "description": "Verwende den Code unten an der Kasse, um deinen Rabatt zu nutzen."
       }
     },
     "freeShipping": {
       "message": {
-        "title": "Glückwunsch! Du hast {{REWARD}} gewonnen!",
+        "title": "Glückwunsch!",
         "description": "Verwende den Code unten an der Kasse, um kostenlosen Versand zu erhalten."
       }
     },
     "freeGift": {
       "message": {
-        "title": "Überraschung! Du hast {{REWARD}} gewonnen!",
+        "title": "Überraschung!",
         "description": "Lege dein Geschenk in den Warenkorb und verwende diesen Code an der Kasse."
       }
     }

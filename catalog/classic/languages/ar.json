@@ -12,19 +12,19 @@
     },
     "discountCode": {
       "message": {
-        "title": "تهانينا! ربحت {{REWARD}}!",
+        "title": "تهانينا!",
         "description": "استخدم الرمز أدناه عند الدفع للاستمتاع بالخصم."
       }
     },
     "freeShipping": {
       "message": {
-        "title": "تهانينا! ربحت {{REWARD}}!",
+        "title": "تهانينا!",
         "description": "استخدم الرمز أدناه عند الدفع للحصول على شحن مجاني."
       }
     },
     "freeGift": {
       "message": {
-        "title": "مفاجأة! ربحت {{REWARD}}!",
+        "title": "مفاجأة!",
         "description": "أضف هديتك إلى السلة واستخدم هذا الرمز عند الدفع."
       }
     }

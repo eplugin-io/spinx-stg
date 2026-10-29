@@ -12,19 +12,19 @@
     },
     "discountCode": {
       "message": {
-        "title": "🎃 Uu! Wygrałeś {{REWARD}}!",
+        "title": "🎃 Uu!",
         "description": "Użyj poniższego kodu przy kasie, aby odblokować swoje upiorne oszczędności."
       }
     },
     "freeShipping": {
       "message": {
-        "title": "🎃 Uu! Wygrałeś {{REWARD}}!",
+        "title": "🎃 Uu!",
         "description": "Użyj poniższego kodu przy kasie, aby cieszyć się darmową dostawą z zaświatów."
       }
     },
     "freeGift": {
       "message": {
-        "title": "🎁 Upiorna niespodzianka! Wygrałeś {{REWARD}}!",
+        "title": "🎁 Upiorna niespodzianka!",
         "description": "Dodaj prezent do koszyka i użyj tego kodu przy kasie."
       }
     }

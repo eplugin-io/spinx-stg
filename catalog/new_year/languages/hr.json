@@ -12,19 +12,19 @@
     },
     "discountCode": {
       "message": {
-        "title": "✨ Novogodišnja pobjeda! Osvojili ste {{REWARD}}!",
+        "title": "✨ Novogodišnja pobjeda!",
         "description": "Upotrijebite kod ispod prilikom plaćanja kako biste preuzeli svoju novogodišnju nagradu."
       }
     },
     "freeShipping": {
       "message": {
-        "title": "✨ Novogodišnja pobjeda! Osvojili ste {{REWARD}}!",
+        "title": "✨ Novogodišnja pobjeda!",
         "description": "Upotrijebite kod ispod prilikom plaćanja kako biste dobili besplatnu dostavu narudžbe."
       }
     },
     "freeGift": {
       "message": {
-        "title": "🎁 Novogodišnje iznenađenje! Osvojili ste {{REWARD}}!",
+        "title": "🎁 Novogodišnje iznenađenje!",
         "description": "Dodajte poklon u košaricu i upotrijebite ovaj kod pri plaćanju."
       }
     }

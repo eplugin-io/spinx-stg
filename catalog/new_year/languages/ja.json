@@ -12,19 +12,19 @@
     },
     "discountCode": {
       "message": {
-        "title": "✨ 新年の当たり!{{REWARD}}をゲット!",
+        "title": "✨ 新年の当たり!",
         "description": "レジで下記のコードを使って新年の景品を受け取りましょう。"
       }
     },
     "freeShipping": {
       "message": {
-        "title": "✨ 新年の当たり!{{REWARD}}をゲット!",
+        "title": "✨ 新年の当たり!",
         "description": "レジで下記のコードを使ってご注文の送料無料をお楽しみください。"
       }
     },
     "freeGift": {
       "message": {
-        "title": "🎁 新年のサプライズ!{{REWARD}}をゲット!",
+        "title": "🎁 新年のサプライズ!",
         "description": "ギフトをカートに追加し、チェックアウト時にこのコードを使用してください。"
       }
     }

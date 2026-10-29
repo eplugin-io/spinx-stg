@@ -12,19 +12,19 @@
     },
     "discountCode": {
       "message": {
-        "title": "🎃 Buu! Ai Câștigat {{REWARD}}!",
+        "title": "🎃 Buu!",
         "description": "Folosește codul de mai jos la finalizarea comenzii pentru a-ți debloca reducerea înfiorătoare."
       }
     },
     "freeShipping": {
       "message": {
-        "title": "🎃 Buu! Ai Câștigat {{REWARD}}!",
+        "title": "🎃 Buu!",
         "description": "Folosește codul de mai jos la finalizarea comenzii pentru a beneficia de transport gratuit din lumea de dincolo."
       }
     },
     "freeGift": {
       "message": {
-        "title": "🎁 O Surpriză Înfiorătoare! Ai Câștigat {{REWARD}}!",
+        "title": "🎁 O Surpriză Înfiorătoare!",
         "description": "Adaugă cadoul în coș și folosește acest cod la finalizarea comenzii."
       }
     }

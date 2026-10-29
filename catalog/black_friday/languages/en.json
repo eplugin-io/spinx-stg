@@ -12,19 +12,19 @@
     },
     "discountCode": {
       "message": {
-        "title": "💥 Black Friday Win! You Got {{REWARD}}!",
+        "title": "💥 Black Friday Win!",
         "description": "Use the code below at checkout to claim your Black Friday discount."
       }
     },
     "freeShipping": {
       "message": {
-        "title": "🚚 Black Friday Win! You Got {{REWARD}}!",
+        "title": "🚚 Black Friday Win!",
         "description": "Use the code below at checkout to enjoy free shipping on your Black Friday order."
       }
     },
     "freeGift": {
       "message": {
-        "title": "🎁 Black Friday Win! You Got {{REWARD}}!",
+        "title": "🎁 Black Friday Win!",
         "description": "Add your gift to cart and use this code at checkout."
       }
     }

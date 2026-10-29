@@ -12,19 +12,19 @@
     },
     "discountCode": {
       "message": {
-        "title": "🎁 Christmas Surprise! You Won {{REWARD}}!",
+        "title": "🎁 Christmas Surprise!",
         "description": "Use the code below at checkout to enjoy your festive reward."
       }
     },
     "freeShipping": {
       "message": {
-        "title": "🎁 Christmas Surprise! You Won {{REWARD}}!",
+        "title": "🎁 Christmas Surprise!",
         "description": "Use the code below at checkout to enjoy free holiday shipping."
       }
     },
     "freeGift": {
       "message": {
-        "title": "🎁 Christmas Surprise! You Won {{REWARD}}!",
+        "title": "🎁 Christmas Surprise!",
         "description": "Add your gift to cart and use this code at checkout."
       }
     }

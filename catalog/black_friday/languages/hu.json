@@ -12,19 +12,19 @@
     },
     "discountCode": {
       "message": {
-        "title": "💥 Black Friday nyeremény! Kaptál {{REWARD}}!",
+        "title": "💥 Black Friday nyeremény!",
         "description": "Használd az alábbi kódot a fizetésnél, hogy beváltsd Black Friday kedvezményedet."
       }
     },
     "freeShipping": {
       "message": {
-        "title": "🚚 Black Friday nyeremény! Kaptál {{REWARD}}!",
+        "title": "🚚 Black Friday nyeremény!",
         "description": "Használd az alábbi kódot a fizetésnél, hogy élvezhesd az ingyenes szállítást Black Friday rendelésedhez."
       }
     },
     "freeGift": {
       "message": {
-        "title": "🎁 Black Friday nyeremény! Kaptál {{REWARD}}!",
+        "title": "🎁 Black Friday nyeremény!",
         "description": "Tedd az ajándékot a kosárba, és használd ezt a kódot fizetéskor."
       }
     }

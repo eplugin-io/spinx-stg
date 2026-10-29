@@ -12,19 +12,19 @@
     },
     "discountCode": {
       "message": {
-        "title": "🎁 Božično presenečenje! Osvojil si {{REWARD}}!",
+        "title": "🎁 Božično presenečenje!",
         "description": "Uporabi spodnjo kodo ob zaključku nakupa in izkoristi svojo praznično nagrado."
       }
     },
     "freeShipping": {
       "message": {
-        "title": "🎁 Božično presenečenje! Osvojil si {{REWARD}}!",
+        "title": "🎁 Božično presenečenje!",
         "description": "Uporabi spodnjo kodo ob zaključku nakupa in izkoristi brezplačno praznično dostavo."
       }
     },
     "freeGift": {
       "message": {
-        "title": "🎁 Božično presenečenje! Osvojil si {{REWARD}}!",
+        "title": "🎁 Božično presenečenje!",
         "description": "Dodajte darilo v košarico in uporabite to kodo ob zaključku nakupa."
       }
     }

@@ -12,19 +12,19 @@
     },
     "discountCode": {
       "message": {
-        "title": "✨ Chiến thắng năm mới! Bạn đã nhận {{REWARD}}!",
+        "title": "✨ Chiến thắng năm mới!",
         "description": "Sử dụng mã bên dưới khi thanh toán để nhận phần thưởng năm mới của bạn."
       }
     },
     "freeShipping": {
       "message": {
-        "title": "✨ Chiến thắng năm mới! Bạn đã nhận {{REWARD}}!",
+        "title": "✨ Chiến thắng năm mới!",
         "description": "Sử dụng mã bên dưới khi thanh toán để được miễn phí vận chuyển cho đơn hàng."
       }
     },
     "freeGift": {
       "message": {
-        "title": "🎁 Bất ngờ năm mới! Bạn đã nhận {{REWARD}}!",
+        "title": "🎁 Bất ngờ năm mới!",
         "description": "Thêm quà tặng vào giỏ hàng và dùng mã này khi thanh toán."
       }
     }

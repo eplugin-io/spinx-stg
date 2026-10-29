@@ -12,19 +12,19 @@
     },
     "discountCode": {
       "message": {
-        "title": "✨ Vitória de Ano Novo! Você Ganhou {{REWARD}}!",
+        "title": "✨ Vitória de Ano Novo!",
         "description": "Use o código abaixo no checkout para resgatar sua recompensa de Ano Novo."
       }
     },
     "freeShipping": {
       "message": {
-        "title": "✨ Vitória de Ano Novo! Você Ganhou {{REWARD}}!",
+        "title": "✨ Vitória de Ano Novo!",
         "description": "Use o código abaixo no checkout para aproveitar frete grátis no seu pedido."
       }
     },
     "freeGift": {
       "message": {
-        "title": "🎁 Surpresa de Ano Novo! Você Ganhou {{REWARD}}!",
+        "title": "🎁 Surpresa de Ano Novo!",
         "description": "Adicione seu brinde ao carrinho e use este código no checkout."
       }
     }

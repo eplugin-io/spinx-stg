@@ -12,19 +12,19 @@
     },
     "discountCode": {
       "message": {
-        "title": "Čestitke! Osvojil si {{REWARD}}!",
+        "title": "Čestitke!",
         "description": "Uporabi spodnjo kodo ob zaključku nakupa in izkoristi svoj popust."
       }
     },
     "freeShipping": {
       "message": {
-        "title": "Čestitke! Osvojil si {{REWARD}}!",
+        "title": "Čestitke!",
         "description": "Uporabi spodnjo kodo ob zaključku nakupa za brezplačno dostavo."
       }
     },
     "freeGift": {
       "message": {
-        "title": "Presenečenje! Osvojil si {{REWARD}}!",
+        "title": "Presenečenje!",
         "description": "Dodajte darilo v košarico in uporabite to kodo ob zaključku nakupa."
       }
     }

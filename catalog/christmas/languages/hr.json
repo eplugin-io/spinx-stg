@@ -12,19 +12,19 @@
     },
     "discountCode": {
       "message": {
-        "title": "🎁 Božićno iznenađenje! Osvojili ste {{REWARD}}!",
+        "title": "🎁 Božićno iznenađenje!",
         "description": "Upotrijebite kod ispod prilikom plaćanja kako biste iskoristili svoju blagdansku nagradu."
       }
     },
     "freeShipping": {
       "message": {
-        "title": "🎁 Božićno iznenađenje! Osvojili ste {{REWARD}}!",
+        "title": "🎁 Božićno iznenađenje!",
         "description": "Upotrijebite kod ispod prilikom plaćanja kako biste dobili besplatnu blagdansku dostavu."
       }
     },
     "freeGift": {
       "message": {
-        "title": "🎁 Božićno iznenađenje! Osvojili ste {{REWARD}}!",
+        "title": "🎁 Božićno iznenađenje!",
         "description": "Dodajte poklon u košaricu i upotrijebite ovaj kod pri plaćanju."
       }
     }

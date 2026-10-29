@@ -12,19 +12,19 @@
     },
     "discountCode": {
       "message": {
-        "title": "🎃 Bu! Osvojil si {{REWARD}}!",
+        "title": "🎃 Bu!",
         "description": "Uporabi spodnjo kodo ob zaključku nakupa in odkleni svoje grozljivo dobre prihranke."
       }
     },
     "freeShipping": {
       "message": {
-        "title": "🎃 Bu! Osvojil si {{REWARD}}!",
+        "title": "🎃 Bu!",
         "description": "Uporabi spodnjo kodo ob zaključku nakupa in izkoristi brezplačno dostavo z onega sveta."
       }
     },
     "freeGift": {
       "message": {
-        "title": "🎁 Grozljivo presenečenje! Osvojil si {{REWARD}}!",
+        "title": "🎁 Grozljivo presenečenje!",
         "description": "Dodajte darilo v košarico in uporabite to kodo ob zaključku nakupa."
       }
     }

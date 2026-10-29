@@ -12,19 +12,19 @@
     },
     "discountCode": {
       "message": {
-        "title": "🎁 Vianočné prekvapenie! Vyhral si {{REWARD}}!",
+        "title": "🎁 Vianočné prekvapenie!",
         "description": "Použi kód nižšie pri platbe a uži si svoju sviatočnú odmenu."
       }
     },
     "freeShipping": {
       "message": {
-        "title": "🎁 Vianočné prekvapenie! Vyhral si {{REWARD}}!",
+        "title": "🎁 Vianočné prekvapenie!",
         "description": "Použi kód nižšie pri platbe a uži si sviatočnú dopravu zadarmo."
       }
     },
     "freeGift": {
       "message": {
-        "title": "🎁 Vianočné prekvapenie! Vyhral si {{REWARD}}!",
+        "title": "🎁 Vianočné prekvapenie!",
         "description": "Pridajte darček do košíka a použite tento kód pri pokladni."
       }
     }

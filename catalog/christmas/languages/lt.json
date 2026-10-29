@@ -12,19 +12,19 @@
     },
     "discountCode": {
       "message": {
-        "title": "🎁 Kalėdų staigmena! Laimėjai {{REWARD}}!",
+        "title": "🎁 Kalėdų staigmena!",
         "description": "Naudok žemiau esantį kodą atsiskaitydamas ir mėgaukis savo šventiniu prizu."
       }
     },
     "freeShipping": {
       "message": {
-        "title": "🎁 Kalėdų staigmena! Laimėjai {{REWARD}}!",
+        "title": "🎁 Kalėdų staigmena!",
         "description": "Naudok žemiau esantį kodą atsiskaitydamas ir mėgaukis nemokamu švenčių pristatymu."
       }
     },
     "freeGift": {
       "message": {
-        "title": "🎁 Kalėdų staigmena! Laimėjai {{REWARD}}!",
+        "title": "🎁 Kalėdų staigmena!",
         "description": "Įdėkite dovaną į krepšelį ir atsiskaitydami naudokite šį kodą."
       }
     }

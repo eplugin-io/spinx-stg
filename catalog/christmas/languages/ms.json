@@ -12,19 +12,19 @@
     },
     "discountCode": {
       "message": {
-        "title": "🎁 Kejutan Krismas! Anda Menang {{REWARD}}!",
+        "title": "🎁 Kejutan Krismas!",
         "description": "Gunakan kod di bawah semasa checkout untuk nikmati hadiah perayaan anda."
       }
     },
     "freeShipping": {
       "message": {
-        "title": "🎁 Kejutan Krismas! Anda Menang {{REWARD}}!",
+        "title": "🎁 Kejutan Krismas!",
         "description": "Gunakan kod di bawah semasa checkout untuk nikmati penghantaran percuma perayaan."
       }
     },
     "freeGift": {
       "message": {
-        "title": "🎁 Kejutan Krismas! Anda Menang {{REWARD}}!",
+        "title": "🎁 Kejutan Krismas!",
         "description": "Tambah hadiah anda ke troli dan gunakan kod ini semasa checkout."
       }
     }

@@ -12,19 +12,19 @@
     },
     "discountCode": {
       "message": {
-        "title": "💥 Juodojo penktadienio laimėjimas! Gavai {{REWARD}}!",
+        "title": "💥 Juodojo penktadienio laimėjimas!",
         "description": "Naudok žemiau esantį kodą atsiskaitydamas, kad atsiimtum savo Juodojo penktadienio nuolaidą."
       }
     },
     "freeShipping": {
       "message": {
-        "title": "🚚 Juodojo penktadienio laimėjimas! Gavai {{REWARD}}!",
+        "title": "🚚 Juodojo penktadienio laimėjimas!",
         "description": "Naudok žemiau esantį kodą atsiskaitydamas ir mėgaukis nemokamu pristatymu savo Juodojo penktadienio užsakymui."
       }
     },
     "freeGift": {
       "message": {
-        "title": "🎁 Juodojo penktadienio laimėjimas! Gavai {{REWARD}}!",
+        "title": "🎁 Juodojo penktadienio laimėjimas!",
         "description": "Įdėkite dovaną į krepšelį ir atsiskaitydami naudokite šį kodą."
       }
     }

@@ -12,19 +12,19 @@
     },
     "discountCode": {
       "message": {
-        "title": "💥 Victorie de Black Friday! Ai Primit {{REWARD}}!",
+        "title": "💥 Victorie de Black Friday!",
         "description": "Folosește codul de mai jos la finalizarea comenzii pentru a-ți revendica reducerea de Black Friday."
       }
     },
     "freeShipping": {
       "message": {
-        "title": "🚚 Victorie de Black Friday! Ai Primit {{REWARD}}!",
+        "title": "🚚 Victorie de Black Friday!",
         "description": "Folosește codul de mai jos la finalizarea comenzii pentru a beneficia de transport gratuit la comanda ta de Black Friday."
       }
     },
     "freeGift": {
       "message": {
-        "title": "🎁 Victorie de Black Friday! Ai Primit {{REWARD}}!",
+        "title": "🎁 Victorie de Black Friday!",
         "description": "Adaugă cadoul în coș și folosește acest cod la finalizarea comenzii."
       }
     }

@@ -12,19 +12,19 @@
     },
     "discountCode": {
       "message": {
-        "title": "🎃 Boe! Je hebt {{REWARD}} gewonnen!",
+        "title": "🎃 Boe!",
         "description": "Gebruik onderstaande code bij het afrekenen om je griezelige korting te ontgrendelen."
       }
     },
     "freeShipping": {
       "message": {
-        "title": "🎃 Boe! Je hebt {{REWARD}} gewonnen!",
+        "title": "🎃 Boe!",
         "description": "Gebruik onderstaande code bij het afrekenen om te genieten van gratis verzending van de andere kant."
       }
     },
     "freeGift": {
       "message": {
-        "title": "🎁 Een griezelige verrassing! Je hebt {{REWARD}} gewonnen!",
+        "title": "🎁 Een griezelige verrassing!",
         "description": "Voeg je cadeau toe aan je winkelwagen en gebruik deze code bij het afrekenen."
       }
     }

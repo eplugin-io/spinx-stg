@@ -12,19 +12,19 @@
     },
     "discountCode": {
       "message": {
-        "title": "Tebrikler! {{REWARD}} Kazandın!",
+        "title": "Tebrikler!",
         "description": "İndirimini kullanmak için ödeme sırasında aşağıdaki kodu gir."
       }
     },
     "freeShipping": {
       "message": {
-        "title": "Tebrikler! {{REWARD}} Kazandın!",
+        "title": "Tebrikler!",
         "description": "Ücretsiz kargo için ödeme sırasında aşağıdaki kodu gir."
       }
     },
     "freeGift": {
       "message": {
-        "title": "Sürpriz! {{REWARD}} Kazandın!",
+        "title": "Sürpriz!",
         "description": "Hediyenizi sepete ekleyin ve ödeme sırasında bu kodu kullanın."
       }
     }
